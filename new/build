@@ -1,0 +1,4 @@
+#!/bin/sh
+# Compile LaTeX document into a PDF
+
+pdflatex ebook.tex

@@ -1,0 +1,42 @@
+%\documentclass[oneside,10pt]{memoir}
+%\input{../structure.tex}
+%\title{Martin Luther, His Life and Work}
+%\author{Hartmann Grisar, S.J.}
+%\begin{document}
+
+\thispagestyle{empty} % Suppress page numbering
+\ThisCenterWallPaper{1.05}{cover/luther2.jpg} % Add the background image
+
+\begin{tikzpicture}[remember picture,overlay]
+\node[rectangle,
+      fill=background,
+      opacity=0.8,
+      anchor=north,
+      minimum width=\paperwidth,
+      minimum height=\paperheight/3.23606] (box) at (current page.north) {};
+\node[anchor=center,
+      color=primary,
+      yshift=0.5cm,
+      text width=8cm,
+      font=\fontsize{36pt}{36pt}\selectfont\bfseries] at (box.center){Martin Luther};
+\node[anchor=center,
+      color=primary,
+      xshift=7.8cm,
+      yshift=0.05cm,
+      text width=8cm,
+      font=\fontsize{20pt}{28pt}\selectfont\bfseries] at (box.center){,};
+\node[anchor=center,
+      color=primary,
+      yshift=-0.4cm,
+      text width=8cm,
+      font=\fontsize{20pt}{28pt}\selectfont\bfseries] at (box.center){His Life and Work};
+\node[anchor=center,
+      color=secondary,
+      %xshift=-.5cm,
+      yshift=-1.2cm,
+      text width=8cm,
+      font=\scshape
+      ] at (box.center){\theauthor};
+\end{tikzpicture}
+
+%\end{document}
