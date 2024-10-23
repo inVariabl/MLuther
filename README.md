@@ -1,11 +1,11 @@
 # Martin Luther: His Life and Work by Hartmann Grisar S.J.
 
-![](cover.png)
+![Click to obtain ebook PDF](cover.png)(https://github.com/inVariabl/MLuther/blob/main/new/ebook.pdf)
 
 The source pdf was obtained via the [Internet Archive](https://archive.org/details/martinlutherhisl0000gris).
 
 ## Tools used:
-* ![ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) - ocr
+* [ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) - ocr
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - ocr
 * [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - split pdf
 * [pdflatex](https://www.tug.org/applications/pdftex/) - compile latex document
