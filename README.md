@@ -1,6 +1,6 @@
 # Martin Luther: His Life and Work by Hartmann Grisar S.J.
 
-![Click to obtain ebook PDF](cover.png)(https://github.com/inVariabl/MLuther/blob/main/new/ebook.pdf)
+[![Click to obtain ebook PDF](cover.png)](https://github.com/inVariabl/MLuther/blob/main/new/ebook.pdf)
 
 The source pdf was obtained via the [Internet Archive](https://archive.org/details/martinlutherhisl0000gris).
 
