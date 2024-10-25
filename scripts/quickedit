@@ -1,0 +1,28 @@
+#!/bin/sh
+# Grep some word, and it will pull up nvim to the file and exact line of error
+
+# Run grep to get all the matches
+matches=$(grep -rnH --include="*.tex" -E "$@" .)
+
+# Check if there are any matches
+if [ -z "$matches" ]; then
+  echo "No matches found."
+  exit 1
+fi
+
+# Loop through each line of the grep output
+echo "$matches" | while IFS= read -r match; do
+  # Extract the file path and line number from the match
+  file=$(echo "$match" | cut -d: -f1)
+  line=$(echo "$match" | cut -d: -f2)
+
+  # Print the file and line for clarity
+  echo "Opening $file at line $line..."
+
+  # Open the file at the specified line in Vim
+  nvim +"$line" "$file"
+
+  # Wait for Vim to close before continuing to the next match
+done
+
+echo "All matches processed!"

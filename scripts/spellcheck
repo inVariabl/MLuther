@@ -1,0 +1,3 @@
+#!/bin/sh
+
+hunspell -d en_US,de_DE,la,fr,./theological -h "$@"

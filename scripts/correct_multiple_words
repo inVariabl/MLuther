@@ -1,0 +1,9 @@
+#!/bin/sh
+# Find and Replace Multiple Words at once using sed
+
+find ../new/  -type f -name "*.tex" -exec sed -i -E \
+-e 's/Bauernaufstiinde/Bauernaufstände/g' \
+-e 's/Miihlberg/Mühlberg/g' \
+-e 's/Miillensiefen/Müllensiefen/g' \
+-e 's/Tiirken/Türken/g' \
+-e 's/Wolfenbiittel/Wolfenbüttel/g' {} +
