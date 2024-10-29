@@ -2,7 +2,7 @@
 # Grep some word, and it will pull up nvim to the file and exact line of error
 
 # Run grep to get all the matches
-matches=$(grep -rnH --include="*.tex" -E "$@" .)
+matches=$(./search "$@")
 
 # Check if there are any matches
 if [ -z "$matches" ]; then

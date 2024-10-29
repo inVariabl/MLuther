@@ -1,0 +1,10 @@
+#!/bin/sh
+# Compile LaTeX document into a PDF
+
+cd ../new/
+
+# Generate EPUB
+pandoc ebook.tex -o ebook.epub --metadata title="Martin Luther, His Life and Work" --metadata author="Hartmann Grisar, S.J."
+# Generate PDF
+latexmk -pdf ebook.tex
+# pdflatex ebook.tex

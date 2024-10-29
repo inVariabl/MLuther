@@ -1,4 +1,5 @@
 #!/bin/sh
 # Usage: ./search.sh "search term"
 
-grep -rnH --include="*.tex" -E '$@' .
+# using alias so i have term colors
+grep -irnH --color=auto --include="*.tex" -E "$1" ../new/

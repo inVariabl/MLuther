@@ -1,4 +1,0 @@
-#!/bin/sh
-# Usage: ./search.sh "search term"
-
-grep -rnH --include="*.tex" -E '$@' .
