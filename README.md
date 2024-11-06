@@ -1,4 +1,5 @@
 # Martin Luther: His Life and Work by Hartmann Grisar S.J.
+_Available in [PDF](https://github.com/inVariabl/MLuther/blob/main/new/ebook.pdf) and [EPUB](https://github.com/inVariabl/MLuther/blob/main/new/ebook.epub) formats_
 
 [![Click to obtain ebook PDF](cover.png)](https://github.com/inVariabl/MLuther/blob/main/new/ebook.pdf)
 
@@ -21,6 +22,7 @@ The source pdf was obtained via the [Internet Archive](https://archive.org/detai
 Boilerplate for the ebook is from [Luis Cobo's template](https://www.latextemplates.com/template/ebook).
 
 ## Todo:
-- [ ] spell check
-- [ ] change text size to decrease page count
+- [x] spell check
+- [x] change page / text size to decrease page count
+- [ ] fix headers text overfill
 - [ ] add index? (not really nesscessary b/c of `Ctrl-f`)

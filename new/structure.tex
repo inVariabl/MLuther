@@ -21,14 +21,12 @@
 \usepackage[utf8]{inputenc}       % Required for inputting international characters
 \usepackage[T1]{fontenc}          % Output font encoding for international characters
 \usepackage{ebgaramond-maths}     % Use Garamond font
-\usepackage{yfonts}               % Blackletter font
 \usepackage{microtype}            % Improves character and word spacing
-\usepackage{tikz}                 % Required for drawing custom shapes
-\usepackage{wallpaper}            % Required for setting background images (title page)
-\usepackage[greek,english]{babel} % For Greek text support
+\usepackage{tikz}                 % Required for drawing custom shapes (cover page)
+\usepackage{wallpaper}            % Required for setting background images (cover page)
 \usepackage{xcolor}               % Needed for custom colors
+\usepackage[greek,english]{babel} % For Greek text support
 \usepackage{fancyhdr}             % For page number in bottom left and right corners
-%\usepackage{hanging}              % For bibliography indentation
 
 % Define custom colors (for cover)
 \definecolor{background}{HTML}{e7e2d9}
@@ -50,12 +48,45 @@
 %	PAPER, MARGIN AND HEADER/FOOTER SIZES
 %----------------------------------------------------------------------------------------
 
-\setstocksize{12.5cm}{9.4cm} % Paper size
-\settrimmedsize{\stockheight}{\stockwidth}{*} % No trims
-\setlrmarginsandblock{18pt}{18pt}{*} % Left/right margins
-\setulmarginsandblock{30pt}{36pt}{*} % Top/bottom margins
-\setheadfoot{14pt}{12pt} % Header/footer height
-\setheaderspaces{*}{8pt}{*} % Extra header space
+% DEFAULT
+%\setstocksize{12.5cm}{9.4cm} % Default Paper size
+%\settrimmedsize{\stockheight}{\stockwidth}{*} % No trims
+%\setlrmarginsandblock{18pt}{18pt}{*} % Left/right margins
+%\setulmarginsandblock{30pt}{36pt}{*} % Top/bottom margins
+%\setheadfoot{14pt}{12pt} % Header/footer height
+%\setheaderspaces{*}{8pt}{*} % Extra header space
+
+% E-reader optimized settings
+\setstocksize{15.2cm}{11.4cm}    % Match 6-inch e-reader screen
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\setlrmarginsandblock{24pt}{24pt}{*}    % Wider symmetric margins
+\setulmarginsandblock{32pt}{32pt}{*}    % Symmetric top/bottom
+\setheadfoot{14pt}{12pt}
+\setheaderspaces{*}{10pt}{*}
+
+% US Trade Size
+%\setstocksize{9in}{6in}    % 9" × 6"
+%\settrimmedsize{\stockheight}{\stockwidth}{*}
+%\setlrmarginsandblock{1in}{1in}{*}     % 1 inch margins
+%\setulmarginsandblock{1in}{1in}{*}     % Equal margins all around
+%\setheadfoot{14pt}{14pt}
+%\setheaderspaces{*}{10pt}{*}
+
+
+% 12mo Book Size
+%\setstocksize{187mm}{127mm} % 12mo Paper size
+
+% A5 Book Sizing
+%\setstocksize{210mm}{148mm} % A5 Book Size
+%\settrimmedsize{\stockheight}{\stockwidth}{*} % No trims
+%\setlrmarginsandblock{20mm}{15mm}{*}  % Left/right margins (A5)
+%\setulmarginsandblock{25mm}{20mm}{*}  % Top/bottom margins (A5)
+%\setheadfoot{12pt}{14pt}     % Header/footer height (A5)
+%\setheaderspaces{*}{4mm}{*}  % Header Space (A5)
+
+% Optional but recommended:
+\checkandfixthelayout
+\fixpdflayout
 
 %----------------------------------------------------------------------------------------
 %	FOOTNOTE CUSTOMIZATION
@@ -80,7 +111,7 @@
 
 \makeoddfoot{mio}{}{}{\scriptsize{\thepage}}    % Odd page footer: page number on the right
 \makeevenfoot{mio}{\scriptsize{\thepage}}{}{}   % Even page footer: page number on the left
-\makeoddfoot{plain}{}{}{\scriptsize{\thepage}}  % Define the plain page style (used for chapter starting pages)
+\makeoddfoot{plain}{}{}{\scriptsize{\thepage}}  % Define the plain page style ()
 \makeevenfoot{plain}{\scriptsize{\thepage}}{}{} % Even page footer: page number on the left
 
 % Activate the custom page style
@@ -157,6 +188,16 @@
 
 \renewenvironment{quote}
 {\list{}{\em\leftmargin=1em}\item[]}{\endlist\relax}
+
+%----------------------------------------------------------------------------------------
+%	BIBLIOGRAPHY ENVIRONMENT FORMAT
+%----------------------------------------------------------------------------------------
+
+\newenvironment{custombibliography}{
+	\begin{hangparas}{1em}{1} % For proper bibliography indentation
+}{
+	\end{hangparas}
+}
 
 %----------------------------------------------------------------------------------------
 %	MISCELLANEOUS DOCUMENT SPECIFICATIONS
