@@ -9,7 +9,7 @@ The source pdf was obtained via the [Internet Archive](https://archive.org/detai
 * [ocrmypdf](https://github.com/ocrmypdf/OCRmyPDF) - ocr
 * [tesseract](https://github.com/tesseract-ocr/tesseract) - ocr
 * [pdftk](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) - split pdf
-* [pdflatex](https://www.tug.org/applications/pdftex/) - compile latex document
+* [latexmk](https://ctan.org/pkg/latexmk/) - compile latex document
 * [hunspell](https://hunspell.github.io/) - spell check
 * [grep](https://www.gnu.org/software/grep/), [sed](https://www.gnu.org/software/sed/manual/sed.html) - find and replace across multiple files
 * [neovim](https://neovim.io/) - text editor
