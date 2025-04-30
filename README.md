@@ -24,5 +24,6 @@ Boilerplate for the ebook is from [Luis Cobo's template](https://www.latextempla
 ## Todo:
 - [x] spell check
 - [x] change page / text size to decrease page count
-- [ ] fix headers text overfill
+- [x] fix headers text overfill
 - [ ] add index? (not really nesscessary b/c of `Ctrl-f`)
+- [ ] seperate front & back cover pdf for B&N
