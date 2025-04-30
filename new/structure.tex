@@ -27,6 +27,8 @@
 \usepackage{xcolor}               % Needed for custom colors
 \usepackage[greek,english]{babel} % For Greek text support
 \usepackage{fancyhdr}             % For page number in bottom left and right corners
+\usepackage{titlesec}
+
 
 % Define custom colors (for cover)
 \definecolor{background}{HTML}{e7e2d9}
@@ -59,8 +61,8 @@
 % Barnes & Noble (standard 8.5" x 5.25")
 \setstocksize{8.00in}{5.25in}    % Correct US Trade Size
 \settrimmedsize{\stockheight}{\stockwidth}{*}
-\setlrmarginsandblock{0.5in}{0.5in}{*}   % 3/4 inch margins
-\setulmarginsandblock{0.5in}{0.75in}{*}  % Equal margins all around
+\setlrmarginsandblock{0.5in}{0.5in}{*}   % left-right margins
+\setulmarginsandblock{0.5in}{0.65in}{*}  % top-bottom margins
 \setheadfoot{14pt}{14pt}
 \setheaderspaces{*}{10pt}{*}
 
@@ -85,6 +87,10 @@
 \makepagestyle{mio} % Define a new custom page style
 \setlength{\headwidth}{\textwidth} % Header the same width as the text
 %\makeheadrule{mio}{\textwidth}{0.1mm} % Header rule height
+
+% Get rid of "CHAPTER"
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ \textsc{#1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ \textsc{#1}}}
 
 \makeoddhead{mio}{}{}{\scriptsize{\rightmark}}  % Odd page header: section title on the left
 \makeevenhead{mio}{\scriptsize{\leftmark}}{}{}  % Even page header: chapter title on the right
