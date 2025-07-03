@@ -1,29 +1,69 @@
 #!/bin/sh
 # Find and Replace Multiple Words at once using sed
 
-find ../new/  -type f -name "*.tex" -exec sed -i -E \
-# make case insensitive + case correct
-# e.g. to-day -> today, To-day -> Today
--e 's/to-day/today/g' \
--e 's/co-operation/cooperation/g' \
--e 's/afore-mentioned/aforementioned/g' \
--e 's/blood-hound/bloodhound/g' \
--e 's/pseudo-mystical/pseudomystical/g' \
--e 's/wide-spread/widespread/g' \
--e 's/guide-book/guidebook/g' \
--e 's/rôle/role/g' \
--e 's/wrong-doing/wrongdoing/g' \
--e 's/battle-field/battlefield/g' \
--e 's/scare-crow/scarecrow/g' \
--e 's/hazel-nuts/hazelnuts/g' \
--e 's/re-birth/rebirth/g' \
--e 's/connexion/connection/g' \
--e 's/market-place/marketplace/g' \
--e 's/mid-summer/midsummer/g' \
--e 's/text-book/textbook/g' \
--e 's/sub-title/subtitle/g' \
--e 's/re-acted/reacted/g' \
--e 's/gall-stone/gallstone/g' \
--e 's/will-power/willpower/g' \
-# -e 's///g' \
-{} +
+find ../new/ -type f -name "*.tex" -exec sed -i -E \
+  -e 's/to-day/today/g' \
+  -e 's/To-day/Today/g' \
+  -e 's/to-morrow/tommorow/g' \
+  -e 's/To-morrow/Tommorow/g' \
+  -e 's/class-room/classroom/g' \
+  -e 's/short-sighted/shortsighted/g' \
+  -e 's/house-wife/housewife/g' \
+  -e 's/co-operate/cooperate/g' \
+  -e 's/prayer-book/prayerbook/g' \
+  -e 's/bull-dog/bulldog/g' \
+  -e 's/first-fruits/firstfruits/g' \
+  -e 's/life-long/lifelong/g' \
+  -e 's/shell-shock/shellshock/g' \
+  -e 's/thunder-storm/thunderstorm/g' \
+  -e 's/egg-shell/eggshell/g' \
+  -e 's/pseudo-mystic/pseudomystic/g' \
+  -e 's/life-time/lifetime/g' \
+  -e 's/wood-cuts/woodcuts/g' \
+  -e 's/folk-song/folksong/g' \
+  -e 's/co-operation/cooperation/g' \
+  -e 's/Co-operation/Cooperation/g' \
+  -e 's/afore-mentioned/aforementioned/g' \
+  -e 's/Afore-mentioned/Aforementioned/g' \
+  -e 's/blood-hound/bloodhound/g' \
+  -e 's/Blood-hound/Bloodhound/g' \
+  -e 's/pseudo-mystical/pseudomystical/g' \
+  -e 's/Pseudo-mystical/Pseudomystical/g' \
+  -e 's/wide-spread/widespread/g' \
+  -e 's/Wide-spread/Widespread/g' \
+  -e 's/guide-book/guidebook/g' \
+  -e 's/Guide-book/Guidebook/g' \
+  -e 's/rôle/role/g' \
+  -e 's/Rôle/Role/g' \
+  -e 's/wrong-doing/wrongdoing/g' \
+  -e 's/Wrong-doing/Wrongdoing/g' \
+  -e 's/battle-field/battlefield/g' \
+  -e 's/Battle-field/Battlefield/g' \
+  -e 's/scare-crow/scarecrow/g' \
+  -e 's/Scare-crow/Scarecrow/g' \
+  -e 's/hazel-nuts/hazelnuts/g' \
+  -e 's/Hazel-nuts/Hazelnuts/g' \
+  -e 's/re-birth/rebirth/g' \
+  -e 's/Re-birth/Rebirth/g' \
+  -e 's/connexion/connection/g' \
+  -e 's/Connexion/Connection/g' \
+  -e 's/market-place/marketplace/g' \
+  -e 's/Market-place/Marketplace/g' \
+  -e 's/mid-summer/midsummer/g' \
+  -e 's/Mid-summer/Midsummer/g' \
+  -e 's/text-book/textbook/g' \
+  -e 's/Text-book/Textbook/g' \
+  -e 's/sub-title/subtitle/g' \
+  -e 's/Sub-title/Subtitle/g' \
+  -e 's/re-acted/reacted/g' \
+  -e 's/Re-acted/Reacted/g' \
+  -e 's/gall-stone/gallstone/g' \
+  -e 's/Gall-stone/Gallstone/g' \
+  -e 's/will-power/willpower/g' \
+  -e 's/Will-power/Willpower/g' \
+  -e 's/border-line/borderline/g' \
+  -e 's/whole-heartedly/wholeheartedly/g' \
+  -e 's/world-wide/worldwide/g' \
+  -e 's/wood-bin/woodbin/g' \
+  -e 's/wood-cut/woodcut/g' \
+  {} +

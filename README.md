@@ -28,10 +28,10 @@ Boilerplate for the ebook is from [Luis Cobo's template](https://www.latextempla
 - [ ] add index? (not really nesscessary b/c of `Ctrl-f`)
 - [x] seperate front & back cover pdf for B&N
 - [x] un-number bibliography
-- [ ] modernize spelling (to-day, co-operation, afore-mentioned, pseudo-mystical, blood-hound, etc.)
+- [x] modernize spelling (to-day, co-operation, afore-mentioned, pseudo-mystical, blood-hound, etc.)
 - [x] fix spacing
-- [ ] fix accidental returns, new paragraphs
+- [x] fix accidental returns, new paragraphs
 - [x] increase margins to 1 inch? 0.75 inch?
 - [x] " 2 " -> " a " (manual edit)
 - [x] Grisar, _Grisar_ -> Grisar, _Luther_
-- [ ] double newline -> single newline
+- [x] double newline -> single newline
