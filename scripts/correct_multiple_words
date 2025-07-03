@@ -2,8 +2,28 @@
 # Find and Replace Multiple Words at once using sed
 
 find ../new/  -type f -name "*.tex" -exec sed -i -E \
--e 's/sententis/sententia/g' \
--e 's/mneque/nec/g' \
--e 's/spectremonks/spectre-monks/g' \
--e 's/sols/sola/g' \
+# make case insensitive + case correct
+# e.g. to-day -> today, To-day -> Today
+-e 's/to-day/today/g' \
+-e 's/co-operation/cooperation/g' \
+-e 's/afore-mentioned/aforementioned/g' \
+-e 's/blood-hound/bloodhound/g' \
+-e 's/pseudo-mystical/pseudomystical/g' \
+-e 's/wide-spread/widespread/g' \
+-e 's/guide-book/guidebook/g' \
+-e 's/rôle/role/g' \
+-e 's/wrong-doing/wrongdoing/g' \
+-e 's/battle-field/battlefield/g' \
+-e 's/scare-crow/scarecrow/g' \
+-e 's/hazel-nuts/hazelnuts/g' \
+-e 's/re-birth/rebirth/g' \
+-e 's/connexion/connection/g' \
+-e 's/market-place/marketplace/g' \
+-e 's/mid-summer/midsummer/g' \
+-e 's/text-book/textbook/g' \
+-e 's/sub-title/subtitle/g' \
+-e 's/re-acted/reacted/g' \
+-e 's/gall-stone/gallstone/g' \
+-e 's/will-power/willpower/g' \
+# -e 's///g' \
 {} +
