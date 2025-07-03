@@ -1,5 +1,6 @@
 #!/bin/sh
 # Grep some word, and it will pull up nvim to the file and exact line of error
+# Usage: ./quickedit "word"
 
 # Run grep to get all the matches
 matches=$(./search "$@")

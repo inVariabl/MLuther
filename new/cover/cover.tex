@@ -5,32 +5,30 @@
 %\begin{document}
 
 \thispagestyle{empty} % Suppress page numbering
-\ThisCenterWallPaper{1.05}{cover/luther.jpg} % Add the background image
-%\ThisCenterWallPaper{1.05}{luther.jpg} % Add the background image
+%\ThisCenterWallPaper{1.05}{cover/luther.jpg} % Add the background image
+%\ThisCenterWallPaper{1.5}{cajetan.png} % Add the background image
 
 \begin{tikzpicture}[remember picture,overlay]
 \node[rectangle,
-      fill=background,
-      opacity=0.8,
       anchor=north,
       minimum width=\paperwidth,
-      minimum height=\paperheight/3.23606] (box) at (current page.north) {};
+      minimum height=\paperheight/1.618] (box) at (current page.north) {};
 \node[anchor=center,
-      color=primary,
+      color=black,
       yshift=0.5cm,
-			font=\fontsize{30pt}{30pt}\selectfont\bfseries] at (box.center){Martin Luther};
+      font=\fontsize{36pt}{36pt}\selectfont\bfseries] at (box.center){Martin Luther};
 \node[anchor=center,
-      color=primary,
-      xshift=3.25cm,
-      yshift=0.15cm,
-      font=\fontsize{24pt}{24pt}\selectfont\bfseries] at (box.center){,};
+      color=black,
+      xshift=3.85cm,
+      yshift=0.10cm,
+      font=\fontsize{28pt}{28pt}\selectfont\bfseries] at (box.center){,};
 \node[anchor=center,
-      color=primary,
-      yshift=-0.25cm,
-      font=\fontsize{24pt}{24pt}\selectfont\bfseries] at (box.center){His Life and Work};
+      color=black,
+      yshift=-0.45cm,
+      font=\fontsize{28pt}{28pt}\selectfont\bfseries] at (box.center){His Life and Work};
 \node[anchor=center,
-      color=secondary,
-      yshift=-1.2cm,
+      color=black,
+      yshift=-9cm,
       font=\fontsize{16pt}{16pt}\scshape] at (box.center){\theauthor};
 \end{tikzpicture}
 

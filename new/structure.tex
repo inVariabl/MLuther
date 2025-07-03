@@ -27,6 +27,9 @@
 \usepackage{xcolor}               % Needed for custom colors
 \usepackage[greek,english]{babel} % For Greek text support
 \usepackage{fancyhdr}             % For page number in bottom left and right corners
+\usepackage{titlesec}
+\usepackage{amssymb}              % For a wide equal sign on literally one page
+\usepackage{mathtools}
 
 % Define custom colors (for cover)
 \definecolor{background}{HTML}{e7e2d9}
@@ -56,33 +59,15 @@
 %\setheadfoot{14pt}{12pt} % Header/footer height
 %\setheaderspaces{*}{8pt}{*} % Extra header space
 
-% E-reader optimized settings
-\setstocksize{15.2cm}{11.4cm}    % Match 6-inch e-reader screen
+% Barnes & Noble (standard 8.5" x 5.25")
+\setstocksize{8.00in}{5.25in}    % Correct US Trade Size
 \settrimmedsize{\stockheight}{\stockwidth}{*}
-\setlrmarginsandblock{24pt}{24pt}{*}    % Wider symmetric margins
-\setulmarginsandblock{32pt}{32pt}{*}    % Symmetric top/bottom
-\setheadfoot{14pt}{12pt}
+% \setlrmarginsandblock{0.75}{0.75}{*}   % left-right margins
+% \setulmarginsandblock{1.00in}{1.00in}{*}  % top-bottom margins
+\setlrmarginsandblock{0.75in}{0.5in}{*} % Inner, Outer margins
+\setulmarginsandblock{0.75in}{0.75in}{*} % Top, Bottom margins
+\setheadfoot{14pt}{14pt}
 \setheaderspaces{*}{10pt}{*}
-
-% US Trade Size
-%\setstocksize{9in}{6in}    % 9" × 6"
-%\settrimmedsize{\stockheight}{\stockwidth}{*}
-%\setlrmarginsandblock{1in}{1in}{*}     % 1 inch margins
-%\setulmarginsandblock{1in}{1in}{*}     % Equal margins all around
-%\setheadfoot{14pt}{14pt}
-%\setheaderspaces{*}{10pt}{*}
-
-
-% 12mo Book Size
-%\setstocksize{187mm}{127mm} % 12mo Paper size
-
-% A5 Book Sizing
-%\setstocksize{210mm}{148mm} % A5 Book Size
-%\settrimmedsize{\stockheight}{\stockwidth}{*} % No trims
-%\setlrmarginsandblock{20mm}{15mm}{*}  % Left/right margins (A5)
-%\setulmarginsandblock{25mm}{20mm}{*}  % Top/bottom margins (A5)
-%\setheadfoot{12pt}{14pt}     % Header/footer height (A5)
-%\setheaderspaces{*}{4mm}{*}  % Header Space (A5)
 
 % Optional but recommended:
 \checkandfixthelayout
@@ -104,7 +89,11 @@
 
 \makepagestyle{mio} % Define a new custom page style
 \setlength{\headwidth}{\textwidth} % Header the same width as the text
-\makeheadrule{mio}{\textwidth}{0.1mm} % Header rule height
+%\makeheadrule{mio}{\textwidth}{0.1mm} % Header rule height
+
+% Get rid of "CHAPTER"
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ \textsc{#1}}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ \textsc{#1}}}
 
 \makeoddhead{mio}{}{}{\scriptsize{\rightmark}}  % Odd page header: section title on the left
 \makeevenhead{mio}{\scriptsize{\leftmark}}{}{}  % Even page header: chapter title on the right

@@ -4,7 +4,7 @@
 cd ../new/
 
 # Generate EPUB
-pandoc ebook.tex -o ebook.epub --metadata title="Martin Luther, His Life and Work" --metadata author="Hartmann Grisar, S.J."
+pandoc print.tex -o print.epub --metadata title="Martin Luther, His Life and Work" --metadata author="Hartmann Grisar, S.J."
 # Generate PDF
-latexmk -pdf ebook.tex
+latexmk -pdf print.tex
 # pdflatex ebook.tex
