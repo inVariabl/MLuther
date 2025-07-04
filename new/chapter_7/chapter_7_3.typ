@@ -1,0 +1,284 @@
+== The So-Called Two Great Reformation Pamphlets of Luther
+<the-so-called-two-great-reformation-pamphlets-of-luther>
+The reports of his forthcoming condemnation by the Holy See threw Luther
+into feverish agitation. Notwithstanding his new ideas, the solemn ban
+constituted a blow which stirred the depths of his soul, and which was
+calculated to alienate from him for all time many of his adherents among
+the German people and abroad. In this frame of mind, moved by fear and
+hatred, he composed two vehement polemical pamphlets which were intended
+to meet the threatening evil and to weaken, as much as possible, the
+effects of the sentence about to be passed upon him. For he had no
+intention of bowing his proud head.
+
+The first, written in German, was entitled, “#emph[\[An Address\] to the
+Christian Nobility of the German Nation on the Improvement of the
+Christian Estate.];” The second, composed in Latin, bore the title,
+“#emph[On the Babylonish Captivity of the Church];.”
+
+In "To the Nobility,"#footnote[Werke, Weimar ed., VI, 381 sq.; Erlangen
+ed., XXI, PP. 274 sqq. Cfr. Grisar, #emph[Luther];, Vol. II, pp. 26 sq.,
+31 sq.] he addressed the estates of the Empire, especially the governing
+high nobility, and with inflammatory words summoned them to intervene
+against the sins and crimes which the Roman curia was perpetrating
+against the Germans and all Christendom. With the most circumstantial
+detail he delineates the real or alleged abuses, the perfectly infernal
+measures which, so he alleged, were being adopted at Rome for the sake
+of gaining wealth and power, at the expense of German purses and German
+honor. But he also unreservedly proclaims doctrines destructive of the
+Church as such. Thus he proclaims that the distinction between the
+clerical and the secular state is but a hypocritical invention, since
+all men are priests in virtue of Baptism; that the hierarchy must be
+removed, if necessary by force; and that the civil authorities have
+power over it. The office of the temporal authority, to punish the
+wicked and to protect the good, he exclaims, should be exercised
+throughout Christendom without let or hindrance, even though it strike
+priests, bishops, or popes. It is the boast of Luther’s Protestant
+biographers that he thus "laid the foundation for the right of civil
+authority within Christendom."#footnote[Köstlin-Kawerau, #emph[Martin
+Luther];, I, p. 322.] It would be more correct to say: he indicated the
+path that led to an intolerable amalgamation of spiritual and temporal
+power. The Church is reduced to servility. In case of necessity,
+according to Luther, the civil authority even has the right to convoke a
+council; indeed, "as a true member of the whole body, and one able to do
+so most effectively, it should provide a truly free council, which no
+one is so competent to achieve as the temporal sword, especially since
+they are now also fellow-Christians, fellow-priests, and
+fellow-spirituals."#footnote[#emph[Ibid];.]
+
+Twenty-five sections of this polemical tract Luther devotes to the evils
+of the ecclesiastical estate, and an additional section to the injuries
+inflicted upon the temporal public life. Hence, the deficiencies of the
+Church, which he assumes the right to reform, constitute the principal
+burden of this pamphlet. Essentially, however, it contains scarcely
+anything of importance which he had not previously set forth or at least
+touched upon. The facts which it stated had already been acknowledged by
+individual churchmen and even in public gravamina. The Protestant
+historian Johann Haller remarks: "This is probably the least original of
+Luther’s writings."#footnote[#emph[Die Ursachen der Reformation];,
+Tübingen, 1917, p. 5.] On the other hand untrue assertions are
+propounded with so much exaggeration, that the very language in which
+they were expressed must have prejudiced against them all who thought
+dispassionately. At every turn the scarecrow of the papal Antichrist is
+visible in the background. This Antichrist, according to the prophecy of
+Daniel (11:8-43), must acquire the treasures of the world and destroy
+everything. Indeed, "most of the popes were devoid of faith"!
+
+One of the tricks employed by Luther to gain adherents was his
+declaration to the monasteries that he judged they should "become free,
+everyone to remain as long as he pleased," whereas now every monastery
+was a life prison for its poor inmates.
+
+His audacious attack upon sacerdotal celibacy, to which "the poor
+priests," as he puts it, were bound by canon law, must have been an
+equally effective means of augmenting his strength among the clergy. He
+would "freely open his mouth, no matter whether it displease pope,
+bishop or anyone else," and demand that priests be not compelled to live
+without a legitimate wife, as they now are by virtue of an institution
+introduced by the devil through the pope. By means of this device, he
+asserted, the pope subjected the clergy to his avaricious power. "O
+Christ, my Lord, look down, let the day of judgment come and destroy the
+devil’s nest at Romel There is seated the man of whom Paul has said \[2
+Thess. 2:3 sq.\], he shall be lifted up above Thee, and sitteth in Thy
+temple, shewing himself as if he were a God."
+
+Thus he justifies his provocative summons to the high addresses of his
+book, whom he exhorts: "If we are to attack the Turks, let us begin at
+home, where they are most harmful. If it is just that we hang thieves
+and decapitate robbers, why should we allow to go unscathed Roman greed,
+the greatest thief and robber who has been or may ever be on earth?"
+
+Luther’s "Address to the Nobility" became the most widely read of his
+works and has remained so up to the present time. Even where the rest of
+his books have long ago fallen into oblivion, this work is still read as
+a masterly product of the terrific force which that tribune of the
+people wielded by his popular invective. It was a trumpet of war that
+resounded throughout Germany, as Luther’s friend, John Lang, expressed
+himself in a letter. Toward "others who were close to him, Luther had to
+defend himself against the charge that he sounded the call to
+revolt."#footnote[Theo. Kolde, #emph[Martin Luther];, Gotha, 1884, Vol.
+I, p. 256.] Conservative Protestants severely criticize this
+"demagogical book." "It is now fairly conceded," says one of them, "that
+Luther, in this book, exceeded the bounds within which it was his duty
+to keep." These critics are horrified at its "revolutionary admixture."
+The course pursued by Luther, says, #emph[e.g.];, F. J. Stahl, "was
+verily gigantic, even in its negations."#footnote[Stahl, #emph[Die
+lutherische Kirche und die Union];, 2nd ed., Berlin, 1860, pp. 17 sq.
+Stahl also coined the phrase "revolutionary admixture." H. Vorreiter is
+even more severe in his criticism (#emph[Luther’s Ringen mit den
+antichristlichen Prinzipien der Revolution];, Halle, 1860). According to
+him Luther’s "Address to the Nobility" is far more destructive than
+constructive. His refusal to sever connections with the revolutionary
+Frankish knights was a decisive deviation from the path of sound and
+successful reform (pp. 300 sqq.; 369 sqq.; 377 sqq.; 392 sq.). Leo,
+Kliefoth, and other Protestants have expressed themselves in a similar
+manner, and they are not alone, but have supporters on the Protestant
+"left."]
+
+Luther at that time hoped for an intervention of the worldly power. But
+it failed to eventuate, and as a consequence, his mind, now aroused by
+illusions, suffered a disappointment which he soon admits. For this
+reason he begins to pursue his object by other means.#footnote[Cf. P.
+Drews, #emph[Entsprach das Staatskirchentum Luthers Ideen?] The views of
+Karl Holl (#emph[Luther];, 2nd and 3rd ed., pp. 326 sqq.) on the
+"Address to the Nobility" are to be received with caution, as this
+writer interprets the writings of Luther with a view of justifying his
+conduct. Luther was neither always deliberate in his actions nor did he
+always "remain true" to himself, as Holl would have us believe.]
+Superficially considered, the reforms proposed in the "Address to the
+Nobility" appear very fruitful, but when they are closely examined, they
+prove to be largely the fruit of the prepossessions of an inexperienced
+monk. In the course of this work his attacks gradually grow more violent
+and his style more acrid. This is to be ascribed to the circumstance
+that, in the course of the work, the author became more and more
+exasperated at the reports from Rome demanding his surrender.
+
+It is probable that the encouragement of the neo-Humanists and the
+offers of the revolutionary knights, which reached him about this time,
+contributed to the presumptuous tone of the book. Above all the
+frivolous and rebellious Ulrich von Hutten endeavored to make common
+cause with him. Hutten had written to Melanchthon that Franz von
+Sickingen, a famous mercenary chieftain and notoriously the greatest
+swashbuckler of the age, who harbored revolutionary ideas similar to
+those of Hutten, was prepared to protect Luther in his castles if
+necessary. The Franconian knight Sylvester of Schaumburg also promised
+to aid Luther until his case was decided and wrote to him that he would
+place at his disposal a hundred noblemen for his
+protection.#footnote[Grisar, #emph[Luther];, Vol. II, pp. 4 sqq.] Luther
+would not have run true to form if such promises had not inspired him
+with increased boldness. On July 17, 1520, he wrote to Spalatin:
+"Schaumburg and Franz von, Sickingen have insured me against the fear of
+men; the wrath of the demons is now about to
+come."#footnote[#emph[Ibid.];, p. 5.] And in a letter to his friend
+Wenceslaus Link, the Augustinian, he thus expresses his triumphant
+confidence: "To such an extent is the fury of the Romans disregarded by
+the Germans."#footnote[Letter of July 20, #emph[ibid];.] He now
+counseled the court of the Elector of Saxony to write the Pope that
+Luther had many friends in Germany who would protect him, despite all
+bans that might be fulminated against him, in the event that he should
+be driven from Wittenberg.
+
+It was his intention to leave Wittenberg, he averred, in order not to
+embarrass the Saxon Elector. Nevertheless he was quite certain that
+Frederick would declare that the university could not dispense with him,
+and that the controversy would have to be decided by a council. The
+representations which the Elector had meanwhile made to Rome did not
+effect any interruption in the proceedings. When writing to Staupitz,
+not long after, Luther boasted that not only Hutten and many others had
+written valiantly in his defense, "but also our prince proceeds wisely,
+faithfully and, at the same time, steadfastly."#footnote[Grisar,
+#emph[Luther];, Vol. II, p. 8.]
+
+Prior to the arrival of the Bull of excommunication in Germany Luther,
+at the advice of the Elector, addressed a letter to Charles V, in which
+he sought to induce him to extend his protection to him, entirely
+innocent as he was, against the machinations of his
+enemies.#footnote[August 30, 1520; Grisar, #emph[op. cit.];, Vol. II, p.
+20.] This letter with the supplement ("Oblation or Protestation") which
+Luther appended to it, is an example of that political art of
+concealment of which the correspondence of Luther with Spalatin and the
+court of Frederick offers so many examples.#footnote[Cf. Grisar,
+#emph[Luther];, Vol. II, pp. 15 sqq.] Luther at once published it
+together with the "Oblation," in Latin for the benefit of readers in
+other countries.
+
+In the "Oblation" Luther asserts his submission to the holy Catholic
+Church, as whose devoted son, he says, he wishes with the help of God to
+live and to die.
+
+To the Emperor, however, he writes that he was forced to go before the
+public contrary to his wishes, that the hidden life of the cell was the
+supreme ideal of his life, and that his only desire was to serve the
+truth against those who in their frenzy disdained it. "In vain do I
+plead for forgiveness, in vain do I offer to observe silence, in vain do
+I propose conditions of peace, in vain do I demand to be better
+instructed." To obtain such instructions and to be convinced by proofs
+supplied by competent judges, he now appeals to the emperor, before
+whom, as the king of kings, he humbly appears as an "insignificant
+flea."
+
+Charles V tore up this letter with his own hands at the diet of Worms.
+It deserved no better fate, especially in view of the subsequent events.
+
+Towards the end of August, when Luther had signed his letter to the
+Emperor, he had already in print a part of a second polemical tract,
+which ranks worthily beside his "Appeal to the Nobility." It was his
+Latin work #emph[De Captivitate Babylonica];.#footnote[#emph[Werke];,
+Weimar ed., Vol. VI, pp. 484 sqq., Erlangen ed., #emph[Opp. Lat. Var.];,
+V, pp. 13 sqq.; Grisar, #emph[Luther];, Vol. II, p. 27.] In the
+introduction to this work he declared the papacy to be the empire of
+Babylon and repudiated the hierarchy and the entire visible Church.
+According to this book, the Church has been delivered into Babylonian
+captivity because her doctrines have been falsified and her Sacraments
+held in bondage. To her falsehoods he opposes his own teachings, derived
+from the Word of God. He is, for the present, concerned chiefly with
+dogma. Because of its Latin garb, this book, intended for scholars and
+foreigners, is not composed in the style of its predecessor, but is
+prolix and ponderous, as it is intended to be a scientific attack upon
+the doctrines of the Church.
+
+In his denial of particular dogmas the author advances beyond his
+previous position, quite in conformity with the principle laid down by
+him, that if one meets with contradictions, one should advance all the
+more boldly! The opponents are to be confused and overwhelmed by new
+assertions.
+
+Above all, the holy Sacraments are to be rescued from the captivity of
+the papacy. It is an unfortunate and injurious error to hold that there
+are seven. There are only three, namely, Baptism, Penance and the
+Eucharist, and these are efficacious through faith alone. As regards the
+Eucharist, the doctrine of Transubstantiation must be rejected; the
+bread remains unchanged, only Christ becomes simultaneously present with
+it. Christ did not prescribe the reception of the Sacrament. The denial
+of the chalice to the laity is a mutilation of the Eucharistic banquet.
+The Mass is no sacrifice; nay, not even a meritorious work. The
+commandments of the Church are contrary to freedom. The Church may not
+invite vows. Since the so-called Sacrament of Matrimony is a fraud, the
+entire marriage law must be abolished. The celibacy of the clergy is a
+damnable institution. And so forth.
+
+It is not worth while to follow up these assertions in detail. They are
+the fragments of the foundation which Luther had wrecked by his denial
+of the authority of the Church. It is more important to establish the
+fact that he is approaching a complete disintegration without being
+aware of the fact. With closed eyes he blows up ecclesiastical and
+religious subordination and the certain outward tradition of positive
+truth. "Neither the pope, nor a bishop, nor any one else," he declares
+in his zeal for destruction, "has the right to impose even a syllable
+upon any Christian without his consent." He deduces this freedom of the
+faithful solely from Baptism and its obligations toward God and laments
+"that few know this splendor of Baptism and this boon of Christian
+freedom." He holds, moreover, that faith originates only in the interior
+sense of the individual who reads the Bible under the activity of God.
+There is no need of Church authority; God’s Word suffices to make
+everyone interiorly certain. He himself claims to be conscious of such
+certainty. It is his opinion, though he does not express it too freely,
+that all inquirers will agree with him if they permit themselves to be
+properly directed from above. This was not the case, however, as may be
+seen from his subsequent bitter complaints about the hordes of
+sectarians and fanatics within his own church. It is a trait of the
+power of self-deception which was characteristic of him and which, at
+times, almost resembles naïveté. The book concludes with invectives
+against the "despotism, craftiness, and superstition" of the pope, whose
+adherents are characterized as filled with "stupid ferocity."
+
+What impression did these pages make upon foreign Catholic readers, who
+were unable to understand the spirit of this "Teuton"? Ambrose
+Catharinus, a Dominican, who at that time (1520) had already composed
+his "Apology against Luther’s infamous pest of doctrines," regarded
+Luther as the "intellectual monster" of Wittenberg. The German
+Franciscan, Thomas Murner, a satyrically inclined antagonist of Luther,
+undertook to ridicule his #emph[Babylonish Captivity] in a German
+translation. In the same year, 1520, another German translation of the
+same work was published by an adherent of the new religion, under the
+title, #emph[Von der Babylonischen gefengnusz der Kirchen];.
+
+Luther had given to his Latin work the subtitle #emph[Præludium, i.e.];,
+prelude. This prelude and the concluding words indicated that it was to
+be regarded as the forerunner of another. The author had meanwhile been
+apprized of the tenor of the Bull directed against him. With the
+approach of the storm his soul seemed to be endowed with demoniacal
+power. He concludes by stating that when the Bull arrived, he would,
+with the help of Christ, issue a sequel "such as the Roman See has
+hitherto neither seen nor heard," and that the present work might be
+regarded as a part of his future retraction, lest tyranny appear to have
+puffed itself up in vain.

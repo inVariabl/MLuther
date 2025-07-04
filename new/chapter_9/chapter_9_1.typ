@@ -1,0 +1,334 @@
+== Storms Within and Without
+<storms-within-and-without>
+At the Wartburg, Luther vested himself in the costume of a cavalier and
+allowed his beard and hair to grow. In order to conceal his identity, he
+assumed the name of Squire George (Ritter Görg). He wrote to Melanchthon
+at Wittenberg that he would not recognize him if he were to meet him. On
+the tenth day of his stay, he says in a letter to Spalatin: "I sit idle
+here the livelong day and eat more than enough." But soon he found an
+occupation; for in the same letter he says: "I read the Bible in Greek
+and Hebrew. I shall write a German sermon on the freedom of auricular
+confession; I shall continue my commentaries on the Psalms and my
+sermons as soon as the necessary materials arrive from Wittenberg. From
+there I also expect to obtain the Magnificat which I have
+begun."#footnote[#emph[Briefwechsel];, III, p. 154; May 14, 1521.] He
+did not carry out all these plans, however. But the period of quiet
+retirement became for him a time of gigantic labors, chiefly devoted to
+a direct attack upon the teachings and the power of Antichrist, whose
+determined opposition to the Gospel he believed to have experienced at
+Worms. In one of his first letters we hear: "While I quietly sojourn
+here, I contemplate the face of the Church all day, and hear the voice
+of the Psalmist raised to God: Why hast Thou made all the children of
+men in vain? (Ps. 88:48 \[Vulgate\]). O God, what a horrible monster of
+divine wrath is this execrable empire of the Roman Antichrist. I curse
+the hardness of my heart, since I do not completely dissolve in tears
+because of the murdered sons of my people."#footnote[#emph[Ibid.];, p.
+148; letter to Melanchthon, May 12.]
+
+The frame of mind expressed in these rhetorical words to Melanchthon,
+continued during the ten months of his sojourn at the Wartburg. It was
+there he was to receive, as it were, his spiritual baptism in
+preparation for his future work.
+
+His room at the Wartburg was an unpretentious cell, situated not within
+the castle itself, but in the outbuildings set apart for ordinary
+guests. He had no elevating outlook upon the green mountains, which some
+biographers picture him contemplating from his room. Nor was his cell
+equipped with the oft-admired bay-window, which was added to the corner
+room only about a century ago. The room, which is much frequented today,
+is reached by ascending a steep, narrow flight of stairs. It is stocked
+with numerous souvenirs of doubtful authenticity. There "Squire George,"
+secluded from intercourse with others, was attended by servants of the
+castle. The castle itself made a rather unfavorable impression, its
+upkeep having been neglected for a long time. The bare walls harmonized
+with the disposition of the new inmate. A priest conducted divine
+services for the castellan and a few domestics and rare guests. Luther
+avoided the society of the "mass-priest." At times he participated in
+the chase, more for the sake of appearances than for diversion.
+
+So secretly kept was his seclusion, that even for months afterwards but
+few knew of his whereabouts. Many supposed that he had been abducted by
+his enemies, others that he had been assassinated. Among those who
+anxiously desired information about him was Albrecht Dürer, the famous
+painter, who was on intimate terms with Pirkheimer, Luther’s patron at
+Nuremberg, and favorably disposed towards the reforms which Luther had
+promised, without as yet realizing the full import of his religious
+changes.#footnote[Grisar, #emph[Luther];, Vol. II, pp. 39, 41 sq.]
+
+During the first few days of his sojourn at the Wartburg, Luther was
+very much concerned over reports of violence at Erfurt. In his opinion,
+the demonstrations in his behalf were going too far. On the day
+following his departure from Erfurt, which he visited on his journey to
+Worms, he heard that the students, assisted by a mob, had risen against
+the canons of the church of St. Severin, who were loyal to their faith,
+and had stormed the dwellings of the canons, committing all kinds of
+excesses. These scenes were reenacted with the permission of the
+academic senate and the authorities on several days in June.
+Fundamentally Luther himself had furnished the cause of these
+demonstrations by the hatred which he had aroused against the Catholics
+at Erfurt. This same hatred burst forth anew when the clergy, who had
+participated in the festive reception in honor of Luther, were
+threatened with exclusion from choral service and from their benefices
+because they had also become subject to the edict of outlawry. Luther
+deplored the whole violent movement in a letter to Wittenberg: "This
+kind of procedure will bring our Gospel into disrepute and justly bring
+about its repudiation …Satan attempts to mock our
+endeavors."#footnote[#emph[Briefwechsel];, III, p. 158; letter to
+Melanchthon, about the middle of May.] His Gospel, however, was exposed
+to other and still greater annoyances from without. In the meantime he
+sought relief from his own mental storms by resorting to controversy.
+
+During the first two months of his sojourn at the Wartburg, his lengthy
+reply to Ambrosius Catharinus was printed.#footnote[#emph[Werke];,
+Weimar ed., VII, pp. 705 sqq.; Erl. ed., #emph[Opp. Lat. Var.];, V, pp.
+289 sqq.] In comparison with his previous writings, this reply was
+especially striking on account of the visionary application of the real
+or apparent Biblical passages concerning Antichrist. In the application
+of these texts to his idea of the papacy, he indulges in a kind of
+dreamy fanaticism. In his opinion the prophet Daniel (7:28) had
+definitely foretold the different characteristics of Antichrist which
+were realized in the pope. The enemy of God, according to Luther’s
+(false) translation of Daniel, has different "faces," which are all
+discoverable in minute detail in anti-Christian Rome. According to
+Daniel, he held, the spirit out of the mouth of God, not force and human
+fury, will kill Antichrist and that within a brief space; for the Lord
+and His day are nigh. This work was intended to be that production of
+which his tract on the Babylonian Captivity was the prelude. Undoubtedly
+it is representative of the mental excitement with which Luther was
+seized at the Wartburg.
+
+During his first week at the castle, he composed his treatise #emph[Von
+der Beicht] ("On Confession–Whether the Pope has Power to Impose it").
+It was dedicated on June 1 to Franz von Sickingen as his "special lord
+and patron."#footnote[#emph[Werke];, Weimar ed., VIII, pp. 138 sqq.;
+Erl. ed., XXVII, pp. 318 sqq.] Confession, as imposed by the papacy, he
+asserts therein, is an unauthorized and insidious institution, whereas
+private confession made to anyone, even to a layman, if entirely
+voluntary, is a "precious and wholesome thing," because of the
+humiliation it involves and the comfort produced by the consolatory
+words of one’s fellowman. Absolution received in this manner alone
+corresponds with the liberty of a Christian. In general, no one may be
+compelled to receive the Sacraments, just as no one may be or can be
+compelled to accept the faith.
+
+It is not likely that Sickingen went to excess either in, receiving the
+Sacrament of Penance or free lay-confession. His two castles in the
+Palatinate, Ebernburg and Landstuhl, were asylums for the friends of the
+new religious movement and the revolution. Elected captain of the
+"Fraternal Union of Knighthood," in. August, 1522, he declared war
+against the Archbishop of Treves, Richard von Greiffenklau, and, after
+an unsuccessful attack upon his episcopal city, devastated the district
+about Treves and portions of the Palatinate. In May of the succeeding
+year, Sickingen succumbed to the wounds he had sustained at the siege
+and capture of his fortress Landstuhl by the princes who had allied
+themselves against him.
+
+In his reply to Catharinus, Luther had interpreted one of the "faces" of
+the supposed Antichrist (Daniel 7:7–8, 24–25) as referring to the papal
+universities. These high schools of Satan, he alleged, are the waters of
+the bottomless pit described in the Apocalypse, whence Jocusts with the
+power of scorpions issue as in a thick smoke. In 1518, a book had been
+issued against him by the University of Louvain, which Luther declared
+to be the most thorough and the most dangerous of all the works written
+against him. Its author was the erudite theologian James Latomus
+(Masson). In the twelve days intervening between June 8 and 20, Luther
+composed a reply to Latomus, entitled, #emph[Rationis Latomianae
+Confutatio];,#footnote[Weim. ed., VIII, pp. 43 sqq.; #emph[Opp. Lat.
+Var.];, V, pp. 395 sqq.] wherein he attempts to refute the Catholic
+doctrine of sin and grace by citations from the Bible, no other aids
+being available to him at the time. A pronouncement made against his
+heresies by the theological faculty of Paris he tried to dispose of by
+publishing a translation of this document, accompanied by a preface and
+an epilogue.#footnote[Weimar ed., VIII, pp. 267 sqq.; Erl. ed,, XXVII,
+pp. 379 sqq.] He denounces the faculty, which had been the glory of the
+Middle Ages, as "the greatest spiritual harlot under the sun and the
+back-door to hell."#footnote[At the end of the publication.] Again he
+indulges his mania concerning the Antichrist and the end of the world.
+The faculty is the sinful chamber "of the pope, the true Antichrist."
+"When the belly of these gentlemen of Paris rumbles," etc., they
+exclaim: "It is an article of faith." Their actions are to him an
+additional proof that the "pope has not regarded us otherwise than as
+unworthy to be …his privy, etc …So many noble-minded persons have been
+obliged to harbor the stench, dung, and filth," etc. His crudities are
+not deserving of full quotation. It is worth while, however, to mention
+here the works which Luther composed during his brief sojourn at the
+Wartburg; particular reference will be made to some of them in the
+sequel. They are: the #emph[Verbandlungen zu Worms] ("Transactions at
+Worms") ; two treatises against monastic vows; two against the Mass; the
+interpretation of the Magnificat; a "Warning" against rebellion; a
+discourse on the "Bull Caena Domini"; an illustrated "Passional of
+Christ and Antichrist," for which he was responsible at least in part; a
+Christmas postil, and other explanations of Biblical texts, besides
+smaller polemical tracts, and, finally, his translation of the New
+Testament. Surely no small amount of labor. Aided by Spalatin,
+Melanchthon, and other friends, he entrusted the publication of his
+works to the Wittenberg press.
+
+What a contrast between the tender and charitable activity of the
+sainted princess whose memory the Wartburg preserved and Luther’s
+agitated labors, sustained mainly by strong hatred, passion, and a
+slanderous disposition. St. Elizabeth with her loving heart for the
+poor, with her loyal devotion to the Church, and her soul aglow with
+prayer, everywhere confronted the man of the violent pen within the
+castle-walls. There was the Kemenate where she had her quarters, still
+in a state of beautiful preservation; there was the richly adorned
+chapel, her favorite retreat; there, rising heavenward above the court,
+was the tower whence she so often contemplated the splendor of her
+celestial home in the mirror of nature.
+
+The letters he wrote to his friends cast a lurid light upon Luther’s
+frame of mind in the intervals between his oppressive labors. Anyone who
+reads them would be greatly disillusioned had he expected that the
+solitude which came to him as an extraordinary grace from above would
+have induced Luther to reflect seriously upon himself or to examine
+quietly his activities which were fraught with so much responsibility.
+Prayers, indeed, there are, brief and ardent prayers, for himself and
+against his adversaries; but we miss the principal prayer, the petition
+for complete submission to the divine will and the expression of
+willingness to be led anywhere, even to the abandonment of his struggle,
+if it were God’s will.#footnote[Grisar, #emph[Luther];, Vol. VI, pp. 511
+sq.; more fully in the original German edition, Vol. III, pp. 995 sqq.]
+Instead of "Thy will be done" one hears everywhere "My will be done"; so
+that the resignation of the soul to God, which Luther had so strongly
+emphasized in the days of his so-called mysticism, now seems to be
+forgotten in a cause so decisive for himself and for thousands of
+others. God should, nay He must, so Luther thinks, place the seal of His
+approval upon his revolt from the entire past of the Church.
+
+Luther had to suffer much from temptations. ‘These were always combated
+by devout Catholics by prayer accompanied by penance, but no mention is
+made of penitential practices in the case of Luther. He himself
+acknowledged his deficiency in the matter of prayer.#footnote[Grisar,
+#emph[Luther];, Vol. II, pp. 82 sq.; cfr. V, pp. 225 sqq., letter to
+Melanchthon, July 13, 1521.]
+
+"Alas, I pray too little instead of sighing over the Church of God …For
+a whole week I have neither written, prayed nor studied, plagued partly
+by temptations of the flesh, partly by the other trouble
+\[constipation\]. Pray for me, for in this solitude I am sinking into
+sin."
+
+A previous passage in this same letter says: "I burn with the flames of
+my untamed flesh; in short, I ought to be glowing in the spirit, and
+instead I glow in the flesh, in lust, laziness, idleness and drowsiness,
+and know not whether God has not turned away His face from me, because
+you have ceased to pray for me."
+
+A little later he writes: "I am healthy in body and am well cared for,
+but I am also severely tried by sin and temptations. Pray for me, and
+fare you well!"#footnote[#emph[Op, cit.];, II, p. 83; letter to Lang,
+December 18, 1521.]
+
+Here, at all events, powerful sexual temptations (#emph[ferveo carne];,
+#emph[libidine];, etc.) are openly acknowledged. As early as 1519, he
+had written to his superior Staupitz concerning such visitations
+(#emph[titillationes];).#footnote[#emph[Op. cit.];, Vol. V, pp. 319
+sqq.] These assaults at the Wartburg, however are disagreeable to him.
+His self-revelations are somewhat inflated by his habitually superlative
+style of writing; and he may have referred the "sins" which he mentions
+to sensuality, on the one hand, and, on the other, to the frailty of his
+fiduciary faith in God, which he made the center of his Gospel. The
+devil, so he believed, ever and anon sought to deprive him of this
+faith.
+
+Luther saw the Wartburg filled with devils. This, in part, was the
+result of the fear of demons which he had imbibed in his youth; while in
+part it was a consequence of the inquietude caused by his internal
+doubts and self-reproaches. The voices of self-reproach he imagined to
+be voices from the Satanic empire.
+
+"Believe me," he wrote on November 1, "that I am cast before a thousand
+devils in this idle solitude. It is much easier to struggle with men,
+even if they be incarnate devils, than with the spirits of iniquity that
+infest the air. I fall, but the right hand of God sustains
+me."#footnote[On November 1, 1521, in a letter to Nicholas Gerbel;
+#emph[Briefwechsel];, III, p. 240: “#emph[Mille credas me Satanibus
+obiectum in bac otiosa solitudine …Sacpius ego cado, sed sustentat me
+rursus dextra Excelsi];.”]
+
+According to another utterance of his, he wishes to praise God in the
+name of his Gospel,–God who has not only given us this combat with the
+spirits of iniquity, but has also revealed to us \[#emph[revelavit
+nobis];\] that in this matter it is not flesh and blood that take the
+field against us …It is Satan, who rages against us according to his way
+and within his limits.” Thus convinced of his great struggle against the
+evil spirits, he discovers, in his own imagination, that they become
+visible and audible to him, as will be shown in the following pages.
+
+Meanwhile we must mention the internal struggle which he sustained when
+he had persuaded himself of the invalidity, nay, absolute
+reprehensibility of the monastic vows and the vow of celibacy. It was a
+violent struggle. Hitherto he had adhered to his monastic vow of
+chastity as a matter of principle, but now his false idea of Christian
+liberty began to seduce him to break his vow.
+
+Bartholomew Feldkirch (Bernhardi), provost of Kronberg, was the first,
+or one of the first adherents of Luther among the clergy who married
+during the time of Luther’s sojourn at the Wartburg.#footnote[Bernhardi
+is known to us through his part in the Wittenberg disputation of 1516.]
+Karlstadt, Luther’s tumultuous theological colleague at Wittenberg, had
+published a tract against the vows. Not long afterwards, he, too, took
+unto himself a wife. When Luther first heard of the movement to permit
+the inmates of monasteries to marry, he was somewhat taken aback and
+wrote to Spalatin: "O God, shall the Wittenbergers give wives to the
+monks! But they shall not force a wife upon #emph[me];."#footnote[On
+August 6, 1521; #emph[Briefwechsel];, III, p. 215.] He found very many
+grounds for criticizing the treatise of Karlstadt, especially its method
+of demonstration. Melanchthon, too, who opposed the monastic vows, had
+not hit upon the right solution in Luther’s opinion. His own fermenting
+soul now embraced the question, with no intention of dismissing it until
+the right solution, or rather the least disquieting disposition of the
+duty of the vows had been found. On August 3, he revealed the state of
+his mind in a painful discussion with his friend Melanchthon: "You see
+with what heat I burn \[#emph[quantis urgeor æstibus];\], and yet I
+cannot confirm any satisfactory conclusion except that I greatly desire
+to support your efforts."#footnote[#emph[Briefwechsel];, III, p. 213.]
+
+As was to be foreseen, however, he soon discovered what he sought. The
+solution was destined to bring him what he desired, an influx of male
+and female members of monastic Orders who had grown tired of their vows.
+He resolved to liberate these "unfortunates" from the "impure and
+damnable state of celibacy," as he styles it, and to induct them into
+the "paradise of matrimony."#footnote[Grisar, #emph[Luther];, Vol. II,
+pp. 83 sqq.] This solution also afforded the advantage to make him
+independent of his rival Karlstadt, and furthermore , to enable him to
+watch over the "firstfruits of the spirit" also in this matter. The
+point of departure was furnished by his idea of evangelical liberty.
+"Whoever has taken a vow in a spirit opposed to evangelical
+freedom"–thus he sets forth his saving idea–"must be set free, and his
+vow be anathema. Such, however, are all those who have taken the vow in
+the search for salvation or justification."#footnote[Letter to
+Melanchthon, #emph[op. cit.] II, 84.] In this spirit all religious,
+including himself, had taken their vows. This spirit was inseparable
+from the vow as long as good works were regarded as efficacious; for the
+voluntary relinquishment of freedom, offered at the throne of the Most
+High, is always connected with the certain expectation, guaranteed by
+the Word of God, that the sacrifice will assist in the attainment of
+salvation and justification, through the merits of Jesus Christ whom the
+person who takes the vow promises to follow in humility.
+
+For the sake of advancing his new discovery, Luther first wrote "theses"
+intended "for the bishops and deacons of the church of
+Wittenberg."#footnote[Weimar ed., VIII, pp. 323 sqq.; #emph[Opp. Lat.
+Var.];, IV, pp. 344 sqq.] These were followed by his momentous work
+#emph[Ueber die Ordensgelübde, ein Urteil Martin Luthers] ("On the
+Monastic Vows: an Opinion of Martin Luther.")#footnote[Weimar ed., VIII,
+pp. 573–669; #emph[Opp. Lat. Var.];, VI, pp. 238–376; Denifle, in
+#emph[Luther und Luthertum];, has subjected the Latin text to a
+searching and extensive criticism. Cf. Grisar, #emph[Luther];, Vol. II,
+p. 85. sqq. On the question of Christian perfection and the alleged dual
+ideal of life fostered by Catholicism, see #emph[op. cit.];, II, 85,
+Note 3.] It abounds in misrepresentations of the monastic life and the
+Catholic teaching concerning perfection, good works, and penance as well
+as in frivolous indecencies and vulgar calumnies. The author prefaced
+the book with a dedicatory letter to his father, in order to invest it
+with an attractive foil of personal experience. His father, he writes,
+should not be angry at him because, by entering a monastery, he had
+violated the grave commandment of obedience to parents. He now realized
+that his vow was worthless, for God had released him from his fetters.
+
+Desertion of the monasteries amid strife and tumult such as, for
+instance, his friend Lang at Erfurt had proposed, Luther at that time
+censured. Concerning himself, he announced his intention of adhering to
+his present mode of life. He wore the habit of his Order for several
+years after his sojourn at the Wartburg.

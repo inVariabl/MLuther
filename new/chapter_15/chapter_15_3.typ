@@ -1,0 +1,182 @@
+== Further Violent Measures
+<further-violent-measures>
+In 1535, Joachim II succeeded his father, Joachim I, who had faithfully
+adhered to the ancient Church, as Elector of Brandenburg. Like his
+mother, Elizabeth, a friend of Luther, Joachim II had favored the new
+religion before his accession to the throne, but only in secret, because
+he had solemnly sworn to his father that he would remain true to the
+Catholic faith. In 1540 Joachim was persuaded by the Landgrave of Hesse
+to issue a ritual in his own competency as territorial bishop, in which
+he effected a forceful reorganization of the electorate in conformity
+with the new religion. The clergymen who resisted were exiled, the
+monasteries were suppressed, the property of the Church as well as the
+metallic treasures of art which adorned the churches were confiscated to
+the crown, whence they passed into the hands of the "silver squires" and
+found their way into the insatiable mint of the
+country.#footnote[Janssen-Pastor, III, pp. 479 sqq.] The prodigality of
+the Elector, his buildings and mistresses, caused him immeasurable
+expenses. According to the testimony of contemporaries, the country was
+ruined in consequence of his misgovernment. Relative to divine service,
+Joachim II avoided all striking changes so carefully "that the bulk of
+the nation, the poor people of the countryside, did not realize what had
+actually happened."#footnote[J. G. Droysen, quoted #emph[ibid.];, p.
+481.]
+
+The Elector deceptively declared that he had not introduced any new
+doctrine, but had merely abolished prevailing abuses. Agricola, the
+pliant court-preacher, faithfully assisted him. The Latin "Mass" was
+celebrated with churchly vestments; the host and the chalice were
+elevated; many feast-days were retained; meat was prohibited during the
+forty days of Lent; solemn processions were held as of old; and the
+clergy, vested in white gowns, carried the viaticum to the sick. Joachim
+declared that he did not wish to be bound by the ordinances of the
+Church of Wittenberg in these matters.
+
+Luther, who regarded the activities of Agricola with distrust, was in
+the habit of characterizing him as a comedian. He approved of the new
+ritual only in part, and demanded that the people should comply with it
+only on condition that the pure gospel be preached. To Buchholzer, a
+preacher who felt uneasy about the retention of the clerical vestments,
+he wrote: "In God’s name, walk about \[in the procession\] with a silver
+or golden cross and a cape or robe of velvet, silk or linen." If the
+Elector were not satisfied with the clergy’s wearing one robe, let them
+put on three; if one procession did not suffice, let them hold seven,
+like Josue at Jericho, and let His Electoral Highness leap and dance
+like David before the ark of the Lord.#footnote[December 4, 1539;
+#emph[Briefwechsel];, XII, p. 317; Janssen-Pastor, #emph[l.c.];, p. 482;
+Grisar, #emph[Luther];, Vol. V, p. 313.] As time went on, it was but
+natural that these temperamental differences produced a certain
+opposition between Wittenberg and Berlin.
+
+Joachim II was encouraged in his opposition to the faith of his forbears
+by the almost simultaneous and sudden turn in the religious situation
+which took place within the duchy of Saxony. Duke George, the noble,
+valiant and faithful defender of the ancient Church and of the Emperor,
+passed away on April 17, 1539, without a surviving son. His brother
+Henry, who succeeded him, precipitously destroyed the Catholic status of
+the duchy which George had sedulously nurtured since Luther commenced
+his public career. Luther had always hoped for the death of Duke George.
+The judgment of God, so he said in 1522, would inevitably overtake
+him.#footnote[J. G. Droysen, quoted #emph[ibid.];, p. 481.] After the
+Duke had died a Christian death, Luther predicted that his race would
+perish.#footnote[#emph[Tischreden];, Weimar ed., Vol. IV, n. 4623;
+Grisar, #emph[l.c.];]
+
+Like Joachim II, the new duke had favored Lutheranism before he
+succeeded to the throne. As the arbitrary ruler of the Church in his
+duchy, he commenced his reign by ruthless measures against the
+Catholics. Luther came temporarily from Wittenberg in order to aid him
+by his sermons and counsel. Melanchthon, Jonas, and Cruciger associated
+themselves with him for the purpose. In July, 1539, scarcely four months
+after the demise of his predecessor, Duke Henry, following the example
+of the Elector of Saxony, decreed a so-called evangelical visitation, as
+the most practical method of Protestantizing his people. The decree was
+executed by Luther’s preachers.
+
+The Catholic clergy were forcibly removed and replaced by apostate
+priests and monks, nay, sometimes even by ordinary laborers, who, though
+devoid of all education, pushed themselves to the fore by their fluency
+of speech and a hastily acquired stock of Biblical quotations.
+
+Luther was not pleased with the conditions which speedily developed at
+court and among the nobility and the people. His letters reveal a gloomy
+picture. At the court of the aged and feeble prince he sees nothing but
+"arrogance and the desire of amassing wealth," coupled with an
+"inordinate repugnance to promoting the cause of God."#footnote[Grisar,
+#emph[op. cit.];, Vol. IV, p. 194.] In his depressed mood he believes
+that the scandals of the court are "ten times worse" than the scandal
+caused by the bigamous union of the Landgrave of Hesse, styles the
+courtiers and nobles "the harpies of the land," and says that they will
+end by "eating themselves up by their own avarice." Despite their
+continuous appropriation of the property of the Church, he charges them
+with allowing the preachers to starve. He advises a pastor, who was to
+have been chosen visitator, as follows: "Even should you get nothing for
+the visitation, still you must hold it as well as you can, comfort souls
+to the best of your power, and, in any case, expel the poisonous
+papists."#footnote[#emph[Ibid.];, p. 195.] Thus, Luther’s idea of
+advancing the kingdom of God is bound up with the harshest and most
+unfair methods and he extols the introduction of the new religion into
+the duchy of Saxony as a wonderful work of God for the salvation of
+souls.
+
+The religious apostasy made progress also in the North German
+jurisdiction of Albrecht of Mayence, namely, in the archbishopric of
+Magdeburg and the bishopric of Halberstadt. In 1541, Justus Jonas
+introduced the new religion into his native city of Halle.
+
+As early as 1533, Protestantism made great gains in the duchy of
+Jülich-Cleve, in Anhalt-Köthen, and in Mecklenburg. In March, 1534,
+Anhalt was completely Protestantized, on which occasion Luther sent
+congratulations and best wishes to the ruler of that city. In July of
+the same year, the city and district of Augsburg adopted the new
+religion. In 1539, the archbishopric of Riga in Livonia was brought
+under Protestant control.
+
+In 1534, dukes Barnim and Philip of Pomerania forced their subjects to
+embrace the new evangel, despite the resistance offered by the nobility
+and the prelates. Bugenhagen, who was a Pomeranian, aided the rulers by
+his unflinching energy and talent for organization. In order to
+strengthen the new religion, Duke Philip married a sister of the Saxon
+Elector. During the marriage ceremony, which Luther solemnized according
+to his new rite, the wedding ring happened to fall to the floor. For a
+moment Luther was nonplussed, but then exclaimed: "Do you hear, devil,
+this wedding does not concern you; you will labor in
+vain."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, pp. 290
+sq.]
+
+Bugenhagen was actively engaged in the promotion of Lutheranism, not
+only in Pomerania, but also in Braunschweig, Hamburg, and Lübeck. From
+1537 to 1539 he labored in the service of King Christian III, who
+introduced the new religion with extremely violent measures in Denmark.
+
+On February 4, 1538, Bugenhagen joyfully reported to Luther from
+Copenhagen that "the Mass was now prohibited throughout the entire
+country;" that the mendicant friars had been exiled as
+"sedition-mongers" and "blasphemers" because they refused to accept the
+offers of the king; that all the canons had been ordered to attend the
+Lutheran communion on festivals, and that every effort would be put
+forth to subject the four thousand parishes to the new
+evangel.#footnote[Grisar, #emph[Luther];, Vol. III, p. 413.] The
+tyrannical ruler caused all the bishops within his territory to be
+incarcerated. According to an account of the superintendent of Zealand,
+who had come to Denmark from Wittenberg in the company of Bugenhagen,
+some of the monks were hanged.
+
+The King was solemnly crowned by Bugenhagen on August 12, 1537.
+"Everything proceeds favorably," Luther wrote to Bucer in Denmark. "God
+is working through Pomeranus. He crowned the king and queen like a true
+bishop."#footnote[#emph[Ibid.];]
+
+In few countries were the external ritualistic forms so little disturbed
+as in Denmark under the calculating influence of Bugenhagen. Even at the
+present time, the number of Catholic practices, commencing with the
+celebration of high Mass to the ringing of the angelus bells, is
+amazingly great in Denmark, Norway, and the duchies formerly united to
+the Danish crown.
+
+The Protestant ministers, when celebrating "Mass," still frequently vest
+themselves in a chasuble made of red silken velvet, which is worn over
+an alb of white linen. They also perform the elevation of bread and wine
+after the so-called consecration, which is pronounced in the middle of
+the altar.
+
+In Sweden also Catholic ritualistic solemnities were retained for a long
+time. In his career of royal hierarch Gustavus Wasa, who had
+Protestantized that country as early as 1527, continued to rule in
+disregard of all the liberties of the people. He maintained friendly
+relations with Luther, from whom he procured a tutor for his son Eric in
+the person of George Normann, a native of Pomerania, who came to Sweden
+fully empowered to supervise the bishops and the clergy. The impetuous
+spokesmen of the new religion in Denmark spread rumors to the effect
+that King Gustavus was not sufficiently in earnest about the new gospel.
+Gustavus pleaded with Luther to protect him from such reports. In 1539,
+Luther wrote a testimonial certifying that "his piety was marvelously
+extolled above that of other princes," that he was imbued by God with a
+loftier spirit not only for the cause of religion, but also for the
+cultivation of the sciences. He exhorted the King to establish schools
+throughout his kingdom, particularly in connection with the cathedral
+churches; for this was the principal obligation of a pious
+prince.#footnote[#emph[Briefwechsel];, XII, p. 132; April 18, 1539.] He
+had in mind schools that were founded upon his gospel and labored
+efficaciously to promote the same–such as he himself advocated for
+Germany.

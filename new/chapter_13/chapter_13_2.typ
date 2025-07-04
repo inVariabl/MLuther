@@ -1,0 +1,318 @@
+== Luther in the Castle of Coburg
+<luther-in-the-castle-of-coburg>
+The ancient castle of Coburg rises above the city of the same name on
+the south side of the Thuringian Forest, in the midst of attractive rows
+of hills. A road, rising gently at first, but soon growing steeper,
+leads up to the castle, which once upon a time was rightly styled
+"Frankish Crown." Even today the visitor beholds in it the best type of
+the massive, crown-like castle of the Middle Ages, simply yet
+magnificently constructed.
+
+During the diet of Augsburg, Luther resided in the topmost portion of
+the edifice, reserved for princes. His suite is still extant. As he
+walked upon the detached so-called High Bastion on the side of the
+courtyard, he had an unobstructed and charming view of the splendid
+landscape in the direction of the city where the fate of his theological
+system appeared to be at issue. As an outlaw, Luther could not enter
+Augsburg; therefore the Elector of Saxony, who owned this castle, had
+assigned it to him for a residence, whence he could easily correspond
+with his representatives at the diet.
+
+This lonely and almost unoccupied castle became a "Sinai" and a
+"hermitage" to him. In his first correspondence "from the kingdom of the
+jackdaws" he humorously describes the antics of the birds about his
+lofty room, comparing them with the garrulous and agitated assembly at
+Augsburg. Good humor, he says, was necessary to "repulse the heavy
+thoughts which rushed in upon him, so far as they permitted themselves
+to be banished."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II,
+p. 196,]
+
+The thoughts which occupied his mind during well-nigh the entire time of
+his sojourn at the castle of Coburg, and which often tortured him, not
+only concerned the diet; he was afflicted by deep anxiety regarding the
+Turkish menace to Germany, no less than by interior "temptations"
+against his teaching.
+
+Luther arrived at Coburg on April 15, 1530, and remained in the castle
+up to October 5. Aside from the inevitable visitors, his only company
+consisted of a young pupil, Master Vitus Dietrich, and a nephew, Cyriac
+Kaufmann, a student at Wittenberg.
+
+The first task which he undertook to discharge was the composition of a
+violent pamphlet by which he intended to intimidate the clerical members
+of the diet. It appeared under the title: "A Warning to the Clergy
+assembled at the Diet of Augsburg."#footnote[Weimar ed., Vol. XXX, II,
+pp. 268 sqq.; Erl. ed., Vol. XXIV, 2nd ed., p. 356.] With passionate
+exaggeration he reproaches them on account of their immoral lives, the
+abuses in the government of the Church, and eulogizes the Reformation.
+He threatens them with revolution if they obstruct his gospel. In
+terrifying words he calls out to the assembly: "Alive, I am your plague;
+dying, I am your death; for God has instigated me against you. I must be
+unto you, as Osee says (XIII, 7 sq.), a bear and a lion in the way of
+Assur. Ye shall have no peace before my name, until you amend your ways
+or perish."
+
+Then he worked on his translation of the Bible, especially Jeremias and
+Ezechiel. Whilst engaged in the study of Jeremias, his soul was overcome
+by a profoundly mystical mood. He was captivated by the prophecy
+concerning Gog and Magog, whose names pertained to the most remote and
+barbarous period of paganism, and were connected with the destruction
+within the kingdom of God. Luther interpreted the prophecy as signifying
+the devastating incursion of the Turks. He published this interpretation
+in a special work immediately after the publication of his "Warning to
+the Clergy."#footnote[Weimar ed., Vol. XXX, II, pp. 223 sqq.; Erl. ed.,
+XLI, pp. 220 sq. In this little tract, Luther, under the influence of a
+strong illusion, claims that the Turks had special designs against him
+and his little band of followers, but Christ, according to the prophecy,
+will destroy both pope and Turk, "with His splendid advent, which we
+daily expect."] From the Psalter, with which he also occupied himself,
+he next selected for publication, under the title, "The Beautiful
+Confitemini," his interpretation of Psalm 117 (Vulgate), which he held
+in great esteem.#footnote[Weimar ed., Vol. XXXI, I, pp. 65 sqq.; Erl.
+ed., Vol. XLI, pp. sqq.] It is the Psalm which the Breviary prescribes
+for recitation on Sunday, beginning with "#emph[Confitemini Domino
+quoniam bonus …Dicat nunc Israel];," etc. Luther was wont to apply this
+Psalm to his dangers and his confidence in salvation, the latter
+especially because of the passage: "I shall not die, but live: and shall
+declare the works of the Lord." In order to relieve himself in his
+physical and mental sufferings he inscribed these words with musical
+notations on the wall of his room at Coburg castle, where they were seen
+by the physician Ratzeberger twenty years afterwards.
+
+Later, his anxiety concerning the Augsburg diet once more set his pen in
+motion. He published an "Open Letter" to Archbishop Albrecht of Mayence,
+who, as yet, was not sufficiently pliable to suit Luther, but took a
+conciliatory attitude.#footnote[Weimar ed., Vol. XXX, ii, p. 397; Erl.
+ed., Vol. LIV, pp. 159 sqq. (#emph[Briefwechsel];, VIII, pp. 84 sqq.).]
+In terms far milder than those of his "Warning," he demands that, since
+it was impossible for them to unite, the rival religious parties be
+unmolested in their respective professions of faith.
+
+In consequence of physical and mental ailments, his literary labors
+became more and more difficult. His afflictions were partly a result of
+nervous over-excitement, and partly an effect of the hasty and
+impassioned labors which he performed. He had not been well even before
+he left Wittenberg. Beginning with the end of January, 1529, his
+melancholia was aggravated at times by violent spells of dizziness and a
+ringing noise in the head. On January 1, 1530, he said in a sermon at
+Wittenberg that he would not ascend the pulpit any more because of his
+disgust at the indifference of the people towards the Word of God.
+According to a remark of the editor of the sermon in the Weimar Edition,
+this declaration admits that "the only possible explanation of this step
+is a pathological one."#footnote[Grisar, #emph[Luther];, Vol. VI, p.
+168.] In May he found it impossible to work for weeks at a time on
+account of buzzing sensations which he described as "thunder in the
+head," and a tendency to swoon.#footnote[#emph[Ibid.];, pp. 99 sqq.]
+
+He assigned the cause of his afflictions to the devil, who enlivened
+Luther’s imagination with peculiar images during his sojourn at Coburg.
+The ex-monk firmly believed in the Satanic apparitions and effects which
+were reported to him at that time. Thus he declared that he had seen a
+large host of mysterious spirits, who, coming from Cologne, caused
+themselves to be carried across the river at Spires and marched towards
+Augsburg to attend the diet. "They were evil spirits, devils in
+disguise." Melanchthon regarded them as omens of a "terrible
+revolution," and his son-in-law, George Sabinus, described the
+apparitions in poetical form. Luther afterwards defied the wrath of
+these spirits by exclaiming: "Let them have their way–those
+spectre-monks of Spires!"#footnote[Cfr. Grisar, #emph[Luther];, Vol. II,
+p. 387; Vol, VI, p. 209.]
+
+Luther avidly accepted the report of Bugenhagen, who wrote from Lübeck
+at the time that the devil had testified for the new gospel through the
+medium of a maiden who was possessed by him. "The cunning demon," he
+wrote, "designs prodigies."#footnote[#emph[Ibid.];, Vol. III, pp. 410
+sq.]
+
+Concerning himself, he complains in a letter to Melanchthon (May 12,
+1530) that when he was alone (Dietrich and Kaufmann being absent) the
+devil sent "his messenger" to him and so overpowered him with gloomy
+thoughts that he was driven out of his room and forced to seek other
+companions. "I can hardly await the day," he adds in a characteristic
+phrase, "when we shall see the great power of this spirit and, as it
+were, his almost divine majesty."#footnote[Briefwechsel, VII, p. 332:
+"#emph[Habuit Satan legationem suam apud me];." He is eager to see his
+#emph[plane divina majestas];.]
+
+At Coburg he saw the devil in a phantastic visual illusion. About nine
+o’clock, on the evening of a rainy day in June, as he stood at his
+window and looked out over the little forest near by, as Vitus Dietrich
+bears witness, he saw "a fiery, flaming serpent, which, after twisting
+and writhing about, dropped from the roof of the nearest tower down into
+the wood. He at once called me and wanted to show me the ghost
+(#emph[spectrum];), as I stood by his shoulder. But suddenly he saw it
+disappear. Shortly after, we both saw the apparition again. It had,
+however, altered its shape, and now looked more like a great flaming
+star lying in the field, so that we were able to distinguish it plainly,
+even though the weather was rainy."#footnote[Grisar, #emph[Luther];,
+Vol. VI, p. 130.]
+
+In his fright, Luther regarded the apparition as the devil. It may have
+been one of the inmates of the castle passing by with a torch or a
+brightly shining lantern which cast a reflection on the roof, the woods
+and field. Whoever visits the place will at once perceive that this is a
+plausible explanation. Luther, however, was so sure he had seen the
+devil that he mentioned it in the following year to those who were
+present to aid him in the revision of his German translation of the
+Psalms. He said: "I saw my devil flying over the wood at Coburg," adding
+that Psalm 18 (Vulg. 17), verse 15, which they were just then
+discussing, speaks of a #emph[materia ignita];.#footnote[#emph[Ibid.];]
+
+His morbid fancy was followed by an unusually violent buzzing in the
+head and an increased tendency to faintness in the succeeding
+night–symptoms which indicated that his nervousness had reached a
+crisis. To young Dietrich this was but a new proof that all the ailments
+of his master were caused by the devil who had just appeared to them. It
+is not surprising that a blotch of ink on the wall of the room which
+Luther occupied in this castle was later attributed to Old Nick, just as
+the legendary one in the Wartburg.#footnote[#emph[Ibid.];, Vol. II, p.
+96.]
+
+Outside of this case, we know of no other manifestation of the evil
+spirit to Luther.
+
+Luther himself tells us many details of the spiritual "temptations" to
+which he was subject at this time. He compares his soul, assailed by
+temptations, to a land dried up by heat and wind and thirsting for
+water.#footnote[#emph[Ibid.];, Vol. II, p. 390, and Vol. V, p. 346.]
+
+He says that he is far stronger in his public controversies than in
+these personal struggles.#footnote[#emph[Ibid.];, Vol. II, p. 390.]
+
+To Melanchthon he writes that he would rather endure this torture of the
+body than "that hangman of the spirit who …will never stop until he has
+gobbled me up."#footnote[#emph[Ibid.];, Vol. V, p. 347.]
+
+After his return to Wittenberg, he recalled these spiritual struggles
+with horror. He was but forty-seven when he wrote to Amsdorf: "I now am
+really beginning to feel the weight of my years, and my powers are
+going. The angel of Satan \[2 Cor. 7:7\] has indeed dealt hardly with
+me."#footnote[#emph[Ibid.];]
+
+On another occasion he said to Dietrich at the Coburg, if he were to die
+(he had already selected a place for his grave), and his body were cut
+open, his heart would be found all shriveled up "in consequence of my
+distress and sadness of spirit."#footnote[#emph[Ibid.];, Vol. V, p.
+348.]
+
+These well-attested spiritual agonies of the ex-monk, which were
+naturally accompanied by qualms of conscience, stand in striking
+contrast to the narratives of most Protestant biographers, who laud the
+spiritual repose, the interior joy, and unflinching faith of Luther in
+the days which he spent in the castle of Coburg. It is true that when
+storms assailed him he constantly sought comfort in the idea that his
+restlessness was attributable to the devil and that he finally overcame
+his scruples with increased defiance.
+
+At that time he advised one of his pupils, Jerome Weller, how to conduct
+himself when assailed by "temptations." The latter was tormented by
+great fear as to the forgiveness of his sins and the spiritual condition
+of his soul.#footnote[In July (?), 1530; #emph[Briefwechsel];, VIII, pp.
+159 sqq. Cf. the letter to the same, dated August 15, 1530;
+#emph[ibid.];, p. 188.] Luther assures him that he also had such
+temptations, which were caused by the devil, who insidiously persecutes
+us on account of our belief and trust in Christ. Hence, when tempted "to
+despair and blaspheme," one should disregard the temptation as much as
+possible. Avoid being alone, he advises him; jest with my wife, imbibe
+somewhat more freely. Such temptations are useful. By means of them he
+himself had become "a great doctor." Moreover, Weller should not fear on
+account of minor moral infractions. When thus afflicted, "some kind of
+sin should be committed," in order to manifest one’s hatred and contempt
+for the devil. If the devil tempt me, he should "know that I acknowledge
+no sin and hold myself guiltless. The Ten Commandments, with which the
+devil afflicts and tortures us so much," ought to be removed from our
+sight and our mind. Satan is simply to be referred to our Saviour, the
+Son of God.#footnote["#emph[Nonnunquam largius bibendum, ludendum,
+nugandum, atque adeo peccatum aliquod faciendum in odium et contemptum
+diaboli. Utinam possem aliquid insigne peccati designare modo ad
+eludendum diabolum, ut intelligeret, me nullum peccatum agnoscere ac me
+nullius peccati mihi esse conscium.];"]
+
+In this strange letter Luther also recalls his monastic days. It is
+possible that, in the lonely life which he led in the castle of Coburg,
+his monastic past may have impressed itself upon him more forcibly in
+contrast with his present career; just as, during his seclusion at the
+Wartburg, he was similarly impressed with the significance of his
+monastic vows. In his letter to young Weller, he refers to the fearful
+and terrible thoughts (#emph[horrificae et terrificae cogitationes];)
+with which he was tortured while a monk.
+
+He persuaded himself more and more that the feeling of depression which
+he had experienced in the monastery was entirely a result of his
+observance of the Catholic doctrine of virtue and merit. He now held
+that a doctrine which makes piety dependent upon meritorious works,
+instead of on faith alone, was unable to give peace, but could only
+engender misery and fear in the soul. It was only after he had
+discovered his new Gospel that the way of interior peace opened to him.
+
+This is Luther’s legendary version of his monastic life, an
+interpretation of his youthful experience made in after years. It is a
+weapon which after his sojourn at the castle of Coburg he began to use
+with predilection in his fight upon the ancient Church.#footnote[For
+additional details see Grisar, #emph[Luther];, Vol. VI, pp. 187 sqq.]
+
+Formerly he had hardly made this charge; but now he claims to have been
+a pious monk, "one of the best," according to the Catholic ideal–a monk
+who languished unto death in the performance of the works of papism,
+with its fasting, vigils, freezing, etc.; and if ever anyone entered
+Heaven by such "monkish" practices, he, too, had been determined thus to
+get there.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, p.
+305.]
+
+Hence, even if he was driven to despair in consequence of it, he was
+well acquainted by personal experience with the "over-sweetened infernal
+poison cake" and the untenableness of the Catholic doctrine of good
+works, which is sure to make all men as unhappy as he had been in the
+monastery.
+
+In making these charges he fails to take into consideration that the
+unhappy state in which he found himself after his apostasy was not a
+result of the doctrine and practice of the Catholic Church, but rather a
+product of his own over-wrought and sickly condition; that a
+contributory cause was his willfulness, as opposed to the discreet
+spirit of the rule and the direction of his religious superiors; and
+that thousands have attained to the greatest interior happiness by the
+conscientious observance of the Evangelical Counsels and the performance
+of good works.
+
+The false notion referred to crops out in the writings which he issued
+from the castle of Coburg. Thus he says: "If a conscience is intent upon
+its works and builds on them, it is erected upon loose sand; it is ever
+slipping and sliding away; it must ever be seeking for works, for one
+and then for another, and ever more and more, until at last even the
+dead are clad in monks’ cowls, the better to reach Heaven." However, by
+means of his new doctrine, he had prevented this
+calamity.#footnote[Grisar, #emph[Luther];, Vol. VI, p. 230.]
+
+The legend of the emancipated holy monk Martin is utilized after his
+return to Wittenberg in the sermons which he commenced to preach in 1530
+on chapters VI to VIII of St. John’s Gospel, where he says that he had
+"mortified and tortured" himself like others, nay, even more than they,
+and accomplished thereby only this, that while "one of the best" of
+monks, he was in despair and so far removed from the faith that he
+"would have been ashamed to assert that Christ was the Redeemer." The
+papacy did not want a Redeemer, but wished to achieve redemption by
+means of its works.
+
+Improbable though it was, this legend of Luther’s monastic experience
+became increasingly prominent up to the close of his life, when it grew
+still more pronounced, and imposed itself upon countless thousands. It
+is still widely believed today. Besides the tribulations which filled
+the soul of Luther during his abode in the castle of Coburg, the death
+of his aged father depressed him greatly. Hans Luther departed this life
+on May 29, "strong in his faith in Christ," as Martin
+learned.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, p. 209.]
+The news of his father’s illness having been communicated to him, he
+addressed a consolatory letter to him from Wittenberg in the middle of
+February. Gladly, he writes, would he have visited him, had the journey
+not been fraught with such grave peril to himself; "peasants and
+princes" were opposed to him, and he did not dare "to tempt God by
+exposing himself to danger."#footnote[February 15, 1530; Erl. ed., Vol.
+LIV, p. 130 (#emph[Briefwechsel];, VII, p. 230).] Yet it was only a
+matter of a short journey within the territory of the Elector. The words
+quoted testify to the isolation in which this once popular man now found
+himself. After the Peasants’ War his popularity had waned. Many of the
+lower classes regarded him as their oppressor, while the upper classes
+were largely at war with him because they had enriched themselves by
+robbing the Church.#footnote[On Luther’s declining popularity, cf.
+Grisar, #emph[Luther];, Vol. VI, pp. 75 sqq.] But more of this anon.

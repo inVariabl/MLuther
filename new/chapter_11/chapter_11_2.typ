@@ -1,0 +1,359 @@
+== Luther’s Marriage
+<luthers-marriage>
+The tempestuous year, 1525, as we have seen, was a profoundly stormy one
+also in Luther’s interior life. We have sketched the convulsions into
+which he was thrown by the peasants’ revolt. In addition to this, he was
+overwhelmed with labor in virtue of his leadership of a new religion.
+Besides, there were the increasing worries about the durability of the
+work he had undertaken, and the increase in the so-called temptations
+which he habitually attributed to the devil.
+
+During that period, Melanchthon, too, was oppressed by worry and lack of
+sleep; nay, "brought to the brink of the grave." But none of Luther’s
+friends suffered as he did in consequence of the state of fear through
+which he passed. His correspondence of 1525, especially with Spalatin,
+reflects these painful struggles. "How does Satan rage," he groans; "how
+he rages everywhere against the Word."#footnote[Grisar, #emph[Luther];,
+Vol. II, pp. 167 sq.] Again he laments: "Satan is enraged against
+Christ, because he has discovered Him to be the stronger." "The rage of
+Satan," he says, "is not the least significant sign that the end of the
+world is approaching." "Of these there are greater signs than many
+believe."#footnote[#emph[Ibid.];, p. 168.] It is astounding that the
+condition of physical exhaustion which he had experienced shortly
+before, was not more frequently repeated. Mention was made of the fact
+that he had once been found lying stretched out on the floor
+unconscious. He had been overcome by "melancholy and sadness," coupled
+with incapacity to digest his food.
+
+In 1523 he suffered from a peculiar indisposition. Fever and insomnia
+were among the symptoms. Johann Eberlin (Apriolus), a renegade
+Franciscan, and John Magenbuch, a student of medicine at Wittenberg at
+that time, attended the patient. When his condition had improved,
+Eberlin sent a detailed account of the sickness, coupled with a request
+for advice, to his friend Wolfgang Rychard at Ulm, a physician who was
+personally acquainted with Luther. The account is no longer extant, but
+the Latin reply addressed to Magenbuch was published by the Protestant
+historian, Theodore Kolde. It first mentions the necessity of curing
+Luther’s insomnia, calling him the new Elias of whom Eberlin had
+written, "among other things," that "it is not to be marveled at that a
+man who, like master Elias, is overwhelmed with so much intellectual
+labor, should experience dryness of the brain and lose sleep as a
+consequence." A poultice composed of women’s milk and violet oil was to
+be applied to the patient’s head. Then the letter continues: "If the
+pains of the French sickness disturb his sleep, they may be alleviated
+by means of a poultice made of the marrow of a stag, mixed with
+earth-worms, and boiled with some saffron and quicksilver (#emph[vinum
+sublimatum];). This, if applied on retiring, will induce
+sleep."#footnote[#emph[Ibid.];, p. 163: "#emph[…et si cum hoc dolores
+mali Francie somno impedimento fuerint, mitigandi sunt cum emplastro,
+quod fit ex medulla cervi];" etc.] These odd remedies are in conformity
+with the state of medical science at that period. But attention has been
+attracted by the passage referring to the French sickness. The
+#emph[malum Franciae] is notoriously syphilis. That Luther was a victim
+of this disease is not confirmed by any other source, whereas it is
+known, on the other hand, that this disease spread over Europe from
+France and Spain as a kind of pestilence at that time. It was also well
+known from experience that sexual intercourse was not the only means by
+which venereal diseases could be contracted.
+
+Oppressed by interior afflictions, Luther in March, 1525, wrote a letter
+to his intimate friend Amsdorf at Madgeburg, beseeching him to come in
+haste to Wittenberg, in order to aid him "with consolation and friendly
+services," since he was "very melancholy and much tempted." The captain
+of the garrison, Hans von Metzsch, also desired his help because of the
+troubled state of his mind.#footnote[#emph[Ibid.];, p. 169.] No other
+details have come down to us. In the case of Metzsch, who was a
+bachelor, it is highly probable that there was question of interior
+conditions, such as afflicted him four years later, when Luther urged
+him to marry forthwith, and hence, it has been assumed by Protestants
+that Luther’s temptations were of the same kind.#footnote[#emph[Ibid.];,
+p. 169. Cfr. Köstlin-Kawerau, #emph[M. Luther];, Vol. I, pp. 796 and
+729, note 2.] It was, indeed, related to the serious question of his
+marriage, which had not as yet been solved at that time.
+
+Although he vigorously recommended marriage to others, even to priests
+and religious, Luther long resisted the idea of taking a wife unto
+himself. He feared that such a step would injure his personal reputation
+and that of his gospel. He foresaw that his opponents would avail
+themselves of his marriage to launch a more vigorous and successful
+attack upon him. "We are the spectacle of the world" (#emph[speculum
+mundi sumus];), was the phrase he used in 1521.#footnote[I Cor. IV, 9;
+cf. #emph[Briefwechsel];, V, p. 218.] Later he said: "The devil keeps a
+sharp eye on me, in order to render my teaching of bad repute or to
+attach some shameful stain to it."#footnote[#emph[Ibid.];, p. 134.] He
+knew, moreover–and this helped to decide the issue–that the Elector
+Frederick, solicitous about conserving the old conditions as much as
+possible, did not favor the marriage of priests and monks. It is
+possible also that he was restrained by those moral considerations and
+qualms of conscience which still survived in him, and at times asserted
+themselves with tempestuous vigor, since his monastic days, when he had
+lived in conformity with his sacred vows. Among others, Spalatin and
+Amsdorf actively promoted Luther’s marriage. On November 24, 1524, he
+still wrote that he had no inclination to matrimony, but it appears that
+only a few months afterwards he was ruled by other
+sentiments.#footnote[#emph[Ibid.];, p. 139.] It is quite characteristic
+of him that these sentiments triumphed at the very height of the
+Peasants’ War, in the days when he was subjected to the greatest mental
+stress, when he feared that he was destined to die and his work to
+perish. His titanic nature required a reaction against the devil.
+Marriage was to furnish this reaction in spite of all the powers of hell
+and the papacy. His announcement to the counselor of Mansfeld, Rühel,
+under date of May 4, 1525, referring to "his Katy" and the defiance of
+the devil, says enough. There are on record other vigorous and defiant
+declarations relative to his marriage, such as the announcement that he
+was in duty bound to proclaim by his example the value of the married
+state in the eyes of the world. These declarations were intended to
+conceal from himself and others the fact that, in the last analysis, the
+force of nature, which he did not restrain by prayer, impelled him to
+break the solemn vow he had made.
+
+According to Melanchthon’s testimony, Luther entered into too frequent
+and close relations with the fugitive nuns who had come to Wittenberg.
+It should be remembered that some of them found lodging with different
+families in the city, while others found a temporary refuge in Luther’s
+monastery.
+
+In his oral intercourse with people, Luther exercised an even greater
+freedom of speech than in his writings. He indulged in unbecoming jokes.
+On Easter, 1525, he jokingly wrote to Spalatin that he himself was a
+"famous lover" and had set him an example; for he had had three wives on
+his hands at one time, of whom he had lost two and was scarcely able to
+keep hold of the third; that it was really astonishing that he had not
+become a woman long ago, since he had written so often about marriage,
+and had so much to do with women (#emph[misceor
+feminis];).#footnote[#emph[Briefwechsel];, V, p. 157, April 16, 1525.
+Cfr. Grisar, #emph[Luther];, Vol. II, p. 140.] The three wives appear to
+be the three women whom common report had designated as likely to wed
+Luther. In the pious style of this letter he described his actual
+marriage as entirely dependent on the will and direction of God. "Take
+care lest I do not precede you in marriage, for God is wont to bring to
+pass what we least expect." In a similar vein he wrote to an inquisitive
+lady, Argula von Staufen, who inquired about his intentions concerning
+marriage as early as November, 1524. He told her that he was "in the
+hands of God, as a creature whose heart He could fashion as He would";
+his feelings were yet foreign to matrimony; "but I shall neither set
+bounds to God’s operation in my regard, nor listen to my own
+heart."#footnote[#emph[Ibid.];, p. 173.] Mystical thoughts even in this
+slippery field. His enemies speak without mysticism. He knows it: "Alas,
+poor monk, how he must feel the weight of his cowl, how pleased he would
+be to have a wife"–thus Luther, while he still sojourned at the
+Wartburg, heard in spirit his Catholic opponents speak against him and
+his whole undertaking.#footnote[#emph[Ibid.];, p. 87.]
+
+These scruples were finally overcome by his peculiar mentality, "through
+the operation of God." In a letter dated June 2, 1525, he frankly and
+freely requested Dr. Rühel to tell the Cardinal of Mayence: "Should my
+marriage fortify His Grace, I am quite willing to trot on ahead of him
+by way of example, since it is my intention anyway, before I depart this
+life, to be in the state of matrimony, which I regard as demanded by
+God, even if it be nothing more than an espousal or Joseph’s marriage."
+If the Elector desired to know more about the reason why he had deferred
+his marriage (thus he writes somewhat obscurely to Rühel), tell him
+"that I have always feared that I was not fit for it."#footnote[Erl.
+ed., Vol. LIII, p. 308 (#emph[Briefwechsel];, V, p. 186). On the last
+passage Enders remarks: "At this late date it is hardly possible to
+establish whether Albrecht ever entertained the idea of following the
+example of his relative, the grand master." As late as 1525, after
+Luther’s marriage, he sent a present of 20 gold gulden to Catherine
+Bora. Köstlin-Kawerau, I, p. 738.–The decisive victory over the peasants
+at Königshofen was gained on the same day on which Luther promised to
+"trot on ahead."] Is it necessary to connect the Joseph’s marriage with
+this unfitness? "Scandal for scandal, necessity breaks even iron and
+gives no scandal,"–thus he had exclaimed in his published invitation to
+the nuns to break their solemn vow of chastity.#footnote[Grisar,
+#emph[Luther];, Vol. II, p. 243.]
+
+"The desire to be pure"–thus runs another phrase taken from the very
+heart of his dogmatic system–‘'may not be brought about by good works,
+but the birth of Christ must be renewed within us by means of faith …Sin
+is incapable of injuring me; the force of sin has been spent. We adhere
+to Him who has vanquished sin.” "In sum, despite good works, everything
+depends upon doctrine and faith."#footnote[#emph[Ibid.];, p. 148.] The
+Catholic view of the matter is that the marriage which he contemplated
+was not only a shameful sacrilege, but, in addition, invalid because of
+the sacred vow of chastity made by Luther and its solemn acceptance on
+the part of the Church. The flames of the Peasants' Uprising were still
+ablaze in the background of his mind. The news of the bloody punishment
+inflicted by the victorious princes harrowed the souls of thousands, but
+it did not deter Luther from enacting the scene of his marriage before
+the eyes of the world. On the contrary, the horrors of the age, as we
+saw, helped to mature his resolution to wed.
+
+His choice fell upon one of the ex-nuns who had left the convent, a
+circumstance which, in the eyes of Catholics, invested the step he took
+with the character of a grave scandal. Catherine von Bora herself had
+been very active in the prosecution of her choice.#footnote[Cf. Kroker,
+#emph[Lutherstudien];, Weimar, 1917, pp. 140 sqq. According to this
+Protestant writer, Catherine’s interview with Amsdorf as mediator,
+contained in a Vienna manuscript, is quite credible.] She spurned other
+alliances which were open to her. Her mind was set upon higher aims.
+Either Luther or Amsdorf, she said, would be her husband. She understood
+how to influence Luther with female artfulness. With her chubby face she
+was not exactly a striking beauty, but she was endowed with great
+prudence, energy, and a facile tongue. Luther afterwards said that he
+had always observed signs of pride about her and pretended that he had
+not married her for love.#footnote[Grisar, #emph[Luther];, Vol. II, p.
+185,] She gave promise of becoming an industrious and devoted housewife.
+In general she satisfied this expectation without any particular display
+of intellect. The rumors which had arisen to the effect that Luther had
+had sexual relations with her prior to their marriage are unproved and
+can be satisfactorily accounted for by the habitual freedom with which
+he mingled in society and also, partly, by the haste with which he
+married.
+
+The wedding took place at his home, in the evening of June 13, as the
+result of a sudden resolve on Luther’s part and without the previous
+knowledge of most of his friends. Bugenhagen, Jonas, Lucas Cranach and
+his wife, and the jurist Doctor Apel were the only witnesses. Bugenhagen
+seems to have officiated in his capacity of minister. A public wedding
+followed on June 27, in which a number of invited guests participated,
+conformably with the custom that prevailed in those parts.
+
+In one of the first epistolary comments on his marriage, Luther again
+voices the sentiment with which he had overcome his principal scruple:
+"I have become so low and despicable by this marriage," he says
+jokingly, "that I hope the angels will laugh and all the devils weep."
+Thereby, he says, he had "condemned and challenged the judgment of those
+who in their ignorance resist things divine."#footnote[#emph[Ibid.];, p.
+175.] This remark was aimed at his lawyer friend, Jerome Schurf, who had
+said: "If this monk takes a wife, all the world and the devil himself
+will laugh, and Luther will undo the whole of his previous
+work."#footnote[#emph[Ibid.];, p. 176.] Schurf afterwards relented
+somewhat. The jurists generally, however, supported by canon law, raised
+objections to the marriage.#footnote[Erl, ed., Vol. LV, p. 157
+(#emph[Briefwechsel];, XI, p. 90).] Luther, on the contrary, repeatedly
+indulged in such assurances as: "God willed it"; "the Lord plunged me
+suddenly into matrimony, while I still clung to quite other
+views."#footnote[Grisar, #emph[Luther];, Vol. II, p. 175.] Jonas, one of
+the witnesses present on June 13, forces himself to use similar
+language, although his sentiments were divided. "I do not know," he
+says, "what strong emotion stirred my soul; now that it has taken place
+and is the will of God, I wish \[them\] every
+happiness."#footnote[#emph[Ibid.];, p. 174.] The chief reason for the
+unprecedented haste was the growth of slanderous rumors. Bugenhagen
+testifies to this fact with unconcealed discomfiture, when he states
+that evil tales constrained Luther to marry so unexpectedly. Luther
+himself announces his marriage to his friend Spalatin in these
+significant words: "I have shut the mouths of those who slandered me and
+Catherine von Bora."#footnote[#emph[Ibid.];, p. 175.]
+
+For the rest, he is not deficient in adducing reasons for his marriage,
+but on the contrary, quite resourceful. Beside the law of nature, he
+mentions the will of God as revealed to him, and the malice of his
+slanderers. In addition there is the motive that, prior to his imagined
+assassination, which he believed to foresee in this period of storm and
+stress, he was bound to "defy the devil" because the latter was causing
+the world to apostatize from him.#footnote[#emph[Ibid.];, pp. 181 sq.]
+Moreover, he was under obligation to annoy and irritate his papistical
+opponents, "to make them still madder and more foolish" before the end
+of the world. He likewise felt bound to show obedience to his father,
+who at one time wanted him to marry. Finally, and as a seventh reason,
+he was obliged to "have pity" on poor, abandoned Catherine.
+
+A peculiar impression is created by the pleasantries in which he
+indulges and to which he gives utterance in proportion as the voices of
+the critics grow louder, even in the ranks of his followers. Thus he
+writes to his friend Leonard Koppe that he is now "entwined in the
+meshes of his mistress’ tresses." Elsewhere he speaks of the thoughts
+which come to a man when he sees "two tresses of plaited hair" next to
+himself upon awakening.#footnote[Köstlin-Kawerau, I, pp. 738 sq.; cfr.
+Grisar, #emph[Luther];, Vol. II, p. 183.] Writing to his friend Link, he
+attempts an indelicate pun on the name of Bora, which sounds like bier,
+thus: "I lie on the bier \[Bore = modern German, #emph[Bahre];\],
+#emph[i.e.];, I am dead to the world. My '#emph[Catena];' \[#emph[Kette]
+or chain\] rattles her greetings to you and to your Catena
+(#emph[catena] meaning chain, hence Katie)."#footnote[#emph[Ibid.];, p.
+184.] A mannish demeanor, which he perforce observes in his wife,
+frequently causes him to indulge in a jocose interchange of "Kate" with
+"Kette" (chain). In the invitation to the public marriage celebration he
+styles her his "Herr Caterin." Afterwards he frequently calls her his
+"Herr" (Lord), "Herr Moses," or "Most Holy
+Doctoress."#footnote[#emph[Ibid.];, Vol. V, p. 309.]
+
+His indelicate jests concerning his marriage and the reasons by which he
+sought to justify it, were of no avail to him in face of the numerous,
+unpleasant criticisms to which he was subjected. At Wittenberg, those
+who thought unfavorably of the marriage did their utmost to relay to him
+every damaging report. The Frankfurt patrician Hamman von Holzhausen
+wrote as follows to his son Justinian, a student at the University of
+Wittenberg: "I have read your letter telling me that Martinus Lutherus
+has entered the conjugal state; I fear he will be evil spoken of and
+that it may cause him a great secession,"#footnote[#emph[Ibid.];, Vol.
+II, p. 184.]
+
+Yet, despite his jocularity, Luther was "sad and uneasy," as Melanchthon
+says. The latter was filled with bitter indignation. Cautious as he was,
+he did not express himself openly, but in a Greek letter to his friend
+Joachim Camerarius he unreservedly revealed his sentiments, or rather
+the chagrin which struggled within him against his devoted, almost
+servile demeanor toward the person of Luther. Without reserve he points
+to the occasion of the misfortune.#footnote[The whole Greek text of the
+letter in Grisar, #emph[Luther];, Vol. II, pp. 176 sq., note 3. Cfr. the
+quotation from Jerome Dungersheim, #emph[ibid.];, p. 145. Melanchthon
+was more agreeable to Luther and the latter’s nearest friends in
+referring to the marriage.]
+
+In this letter of June 16, 1525, Melanchthon complains, in the first
+place, that Luther "had not consulted any of his friends beforehand."
+"Perhaps you will be surprised," he continues, "that at this unhappy
+time, when upright and right-thinking men everywhere are being
+oppressed, he is not suffering, but, to all appearance, leads a more
+easy life (μᾶλλον τουφᾶν) and endangers his reputation, notwithstanding
+the fact that the German nation stands in need of all his wisdom and
+strength. It appears to me that this is how it happened: The man is
+approachable in the highest degree, and the nuns who waylaid him with
+all their snares, have attracted him to themselves. Perhaps his frequent
+association with them, although he is noble and high-minded, has
+rendered him effeminate or has inflamed him. In this way it appears that
+he has come to grief in consequence of the untimely change in his mode
+of life. It is clear, however, that there is no truth in the gossip that
+he had previously had illicit intercourse with her \[Bora\]. Now the
+thing is done, it is useless to find fault with it, for I believe that
+nature impels man to matrimony. Even though his life is low, yet it is
+holy and more pleasing to God than the unmarried state. And since I see
+that Luther is to some extent sad and troubled about this change in his
+way of life, I seek very earnestly to encourage him by representing to
+him that he has done nothing which, in my opinion, can be made a subject
+of reproach to him."
+
+Concerning Luther’s "having come to grief," the writer finds
+consolation, first, in the fact that advancement and honor are dangerous
+to all men, even to those who fear God, as Luther does, and, secondly,
+in the hope that Luther’s new state of life may teach him greater
+dignity, so that he may lay aside the buffoonery (or mania for making
+ribald jests, βωμολοχία), for which we have so often found fault with
+him. Camerarius, therefore, should not allow himself to be disconcerted,
+even though he may feel painfully aggrieved. "Through frequent mistakes
+of the saints of old God has shown us that He wishes us to prove His
+Word, and not to rely upon the reputation of any man, but only His Word.
+He would be a very godless man indeed, who, on account of the mistake of
+the doctor, should judge slightingly of his doctrine."
+
+These forced reflections rather reveal the timid, learned humanist than
+the open-minded man, let alone the theologian. Melanchthon’s
+displeasure, moreover, may have been increased by the domestic strain
+that existed between his middle-class wife and Catherine von Bora, who
+was of noble descent. When Camerarius later on edited the collected
+letters of Melanchthon, he had the original of the above letter before
+him, but did not dare to print it as it was, but suppressed some
+passages and falsified others. The genuine text was not made known until
+1876, when it was published by A. Druffel according to the original
+holograph in the Chigi Library at Rome. The falsified text, however, was
+incorporated in the #emph[Corpus Reformatorum] (1834), a work which has
+been frequently used up to the present time.
+
+The newly married couple made their home in the former Augustinian
+monastery at Wittenberg. Elector John relinquished the onetime abode of
+the monks, which Luther had fumed over to him, to be used by him and his
+relatives as a residence. Catherine converted the monastic cells into
+rooms for the students who became her boarders and thereby helped to
+increase her modest income. With little consideration the entire
+furnishings of the monastery, including the plates, yea, even pious
+memorials such as the drinking glass of St. Elizabeth, were turned to
+profane uses.#footnote[Grisar, Luther, Vol. III, pp. 313 sqq.] As master
+of the house, Luther gradually forgot the sadness and malaise concerning
+the change in his mode of life, which Melanchthon referred to.
+
+The restless activity with which he continued his literary labors also
+helped to divert his mind completely at times from his qualms of
+conscience.

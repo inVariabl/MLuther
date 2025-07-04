@@ -1,0 +1,185 @@
+== At Death’s Door
+<at-deaths-door>
+The last will and testament which Luther made during his severe illness
+in 1537 at Gotha upon his return from the Schmalkaldian conference,
+boldly declared that he had done right in "storming" the papacy "with
+the aid of God’s Word."#footnote[Text #emph[ibid.];, Vol. XI, pp. 209
+sq., of February 28, 1537. Cfr. Grisar, #emph[Luther];, Vol. III, pp.
+436 sq.] A second and final testament, dated January 6, 1542, the
+original of which is preserved in the Archives of the Augsburg
+Confession at Budapest, refers with equal solemnity to his claim that
+"the Father of all mercies has entrusted to him the Gospel of His
+beloved Son." He styles himself "God’s notary and witness in His
+Gospel."#footnote[Text in #emph[Briefwechsel];, Vol. XIV, pp. 149 sq.]
+
+This testament, as well as the first, lacks the necessary legal
+formalities. His controversy with the lawyers, who refused to regard his
+marriage as valid and his five children as his legitimate heirs, induced
+him to disregard the notarial form and accounts for the fact that he
+styles himself a notary of God, whereby he sought to justify himself,
+and also for the high-sounding words he used in that document: “Let it
+be admitted that I am the kind of person which I truly am, namely,
+public, one who is known in heaven and on earth, as well as in hell, and
+who possesses sufficient reputation and authority to be trusted and
+believed in preference to any notary.” At the same time he styles
+himself a "condemned, poor, undeserving, miserable sinner."
+
+He testifies in this document that his "dear and faithful housewife,
+Catherine," "ever treated him with love, appreciation, and affection as
+an upright and faithful consort." He demands that his children should
+"look into her hands," not she into theirs. He bequeathes to her his
+estate at Zulsdorf and a house he had purchased from Bruno Bauer; also
+his "goblets and jewels, such as rings, chains, and show coins, of gold
+and silver," valued at about 1,000 gulden. These bequests, however, were
+subject to the obligation of liquidating his debts, which amounted to
+approximately 450 gulden. Ready cash, he says, he had none, owing to the
+expense of keeping their house in repair and maintaining the household.
+The monastery in which he resided automatically reverted to the Elector,
+whom he requests "graciously to guard and administer" his legacy to
+Catherine. The authenticity of his signature is confirmed at the bottom
+of the document by Melanchthon, Cruciger, and Bugenhagen. An imperial
+decree required that a testament which was not drawn up by a notary,
+should bear signatures of seven witnesses, together with their seals.
+But the elector supplied these deficiencies and officially confirmed
+Luther’s last will and testament on April 11, 1546.
+
+At the age of sixty, Luther wrote to his elector, on March 30, 1544,
+that he was "old and cold and ungainly, weak and sickly." He feared that
+evil times were coming, but the consolation of the "dear Word of God,"
+and of prayer, would ever remain to his territorial lord. "The devil,
+the Turk, the Pope and his followers, cannot enjoy" these two
+unspeakable treasures.#footnote[Grisar, #emph[Luther];, Vol. VI, p.
+341.] This, in a certain sense, was his farewell letter to his
+protector.
+
+The sufferings of which Luther complained were constriction of the chest
+and heart, a result of Lardening of the arteries, and renewed "phobias,"
+in addition to the extraordinary nervousness which accompanied him
+throughout life; finally, dizzy spells and pains from gallstone.
+
+Notwithstanding his afflictions, he continued to take part in literary
+controversies almost until his last breath.
+
+Immediately after the publication of his treatise "Wider das Papsttum zu
+Rom vom Teufel gestiftet," he issued a description of the attitude of
+Popes Hadrian IV and Alexander III towards the Emperor Frederick
+Barbarossa.#footnote[Erl. ed., Vol. XXXII, pp. 358 sqq.] It was
+translated from the Latin history of the popes by Robert Barnes—a
+thoroughly unreliable and hostile book, which Luther furnished with a
+preface and annotations. This pamphlet was intended to incite the
+temporal rulers of his time against the papacy, which was charged with
+contempt for, and abuse of, princes. The prefaces to the various
+sections of the second volume of his collected German writings, and the
+still more important prefaces to those of the first volume of his Latin
+works in the Wittenberg edition, date from 1545. In the general preface
+to the latter volume he essays a historical presentation of the origin
+and development of his agitated life.#footnote[#emph[Opp. Lat. Var.];,
+1, pp. 15 sqq.] This narrative is a strongly colored and deliberate
+recasting of his early career. "The picture of his youth is made to
+tally more and more with the convictions of his later
+years."#footnote[Thus Hausrath; see Grisar, #emph[Luther];, Vol. VI, p.
+191. For the following cf. ch. XXXVII of the same volume: "Umdichtung
+des jungen Luther durch den alternden."] It may be well to make a résumé
+of this artificial account in its main outlines, since Protestant
+biographers accept it as the truth. According to this fiction, Luther
+was a blameless, penitent monk, who was swept into the controversy with
+the Church only by his unavoidable opposition to the abuses connected
+with the sale of indulgences. At first he was unaware of the stupendous
+theological abyss which separated him from the teaching of the Church
+and quite unconscious of his ardent desire to obtain recognition for the
+dogmatic system which he had excogitated for the sake of quieting his
+neurotic fears. Until he got into the controversy with Tetzel, Luther
+was a simple monk who had died to the world and was given to heroic
+mortifications, seeking nothing else but a merciful God. But he was
+unable to discover this merciful God in the monastery and, as a result
+of grueling experiences, became convinced that God was not in the
+papacy. While he was engaged in public controversy about indulgences, in
+1518, he was suddenly enlightened on the truth that man is justified by
+faith alone.
+
+No further word is necessary on the perverted form in which he desired
+to hand down to posterity the development of his theoretical ideas by
+means of the preface to his collected Latin works. The whole incident is
+characteristic of the controversial spirit that moved him to the last.
+The fiction thus concocted was intended to be a blow to the Catholic
+Church and a vindication of his agitated life.
+
+In 1545 he issued a pamphlet against the theologians of Louvain
+University, who had taken a stand against him at the outset of his
+carcer. In a certain sense, this pamphlet was a return to the beginning
+of his religious innovation. The Louvain theologians had published
+thirty-two articles against him in the previous year. He replied in
+seventy-six antitheses, "Against the Louvain Theologasters," of which
+his Protestant biographer Köstlin says that they are "abusive and
+derisive rather than convincing."#footnote[#emph[Opp. Lat. Var.];, IV,
+pp. 486 sqq.; ‘German in the Erl. ed. of his works, Vol. LXV, pp. 169
+sqq. Cfr. Köstlin-Kawerau, #emph[Martin Luther];, Vol. II, p. 609.] It
+had been his intention to expand this pamphlet into a treatise entitled,
+"Against the Asses in Paris and Louvain," but death snatched the pen
+from his hand before he was able to complete it.”#footnote[G. Buchwald,
+#emph[Luthers letzte Streitschrift] (Leipzig, 1893). In the fragment
+published by Buchwald, Luther declares that the theologians of Louvain
+and Paris were doomed to hell (#emph[absque dubio peribunt];) and that
+the same fate would overtake the respective rulers, unless they opposed
+them.] As a definite determination of his doctrinal position, the two
+last-mentioned productions, inspired by an unbroken opposition to the
+ancient religion, are significant, in so far as they categorically
+repeat his three principal dogmas, the articles of the "standing and
+falling Church," as he termed them; #emph[i.e.];, that of justification
+and grace, that of the law, and that of sin continuously inherent in
+man. To study theology without these articles he said, as his opponents
+in those learned seats of harlotry did, was like trying to teach an ass
+to play the lyre. Among his past publications was his reply to a
+"mendacious pamphlet"#footnote[Erl. ed., Vol. XXXII, pp. 426 sqq.]
+describing his alleged frightful death; also various hymns and prefaces.
+
+Archbishop Albrecht of Mayence, who did not embrace Lutheranism, figures
+in Luther’s letters as the "pestilence of all Germany" down to the very
+end of his correspondence. Albrecht departed this life on September 24,
+1545, at peace with the Church. During the years 1542 and 1543, as
+mentioned above, this ecclesiastical prince had associated intimately
+with Morone and Blessed Peter Faber, whom he kept near him. He issued
+commendable regulations for the protection and prosperity of the Church
+during his declining years.#footnote[Cfr. L. Cardauns, #emph[Zur
+Geschichte der Kirchl, Unions- und Reformbestrebungen];, 1910, pp.
+210–276.]
+
+As late as 1542, Luther had ridiculed the cardinal-elector because of
+the latter’s collection of relics and distributed among the masses a
+fabricated list of these. This list mentions "a piece of the left horn
+of Moses, three flames from the burning bush on Mt. Sinai, two wings and
+one egg of the Holy Ghost," etc. The pamphlet was characterized by
+lawyers as a public libel (#emph[libellus famosus];) against a prince of
+the empire, which was punishable at law. Luther wrote to Jonas that even
+if his pamphlet were a libel in the legal acceptation of the term, which
+was impossible, he nevertheless claimed the right to write thus "against
+the cardinal, the pope, the devil and all their crew." If he lived long
+enough, he hoped to tread yet another measure with the bride of Mayence,
+despite asses and jurists.#footnote[Grisar, #emph[Luther];, Vol. IV, p.
+293.] The reforms which the cardinal, in his zeal for religion,
+endeavored to introduce, had excited the wrath of Luther, who, after the
+dignitary’s death, unhesitatingly consigned him to hell.
+
+Luther’s rudeness enabled him to gain the victory in his contest with
+the lawyers of the imperial consistory in the matter of the validity of
+"clandestine marriages" contracted without parental consent. In January,
+1544, he delivered a sermon which contained brutal attacks against the
+jurists who opposed his attitude in this matter. Never before in his
+life, not even in his controversy with the pope, he says, had he been so
+much agitated as in these contentious days.#footnote[#emph[Op. cit.];,
+VI, 358 sq.]
+
+In this connection, he was also agitated by an affair of his own house.
+Caspar Beier, a student, endeavored to dissolve a clandestine marriage
+which he had contracted, in order to take another wife. Only with the
+special aid of the elector, Luther succeeded in having all such
+marriages declared invalid until the consent of the parents had been
+obtained, or until a decree had been delivered by the consistory which
+pronounced parental resistance as groundless. The "divine precept" of
+preaching the fourth commandment of the Decalogue, which, he said, had
+been entrusted to him, finally won the day and he triumphantly conducted
+Beier to his new bride. No one was able to resist the all-powerful
+dictator. Catherine Bora had assisted Beier, who was a relative of hers,
+in winning the intervention of Luther on his behalf. Cruciger on this
+occasion called her "the domestic torch" (#emph[fax
+domestica];).#footnote[#emph[Ibid.];, p. 359.]

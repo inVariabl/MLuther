@@ -1,0 +1,268 @@
+== Literary Defenders of the Catholic Cause After 1530
+<literary-defenders-of-the-catholic-cause-after-1530>
+The literary defense of the Catholic cause proceeded with unabated
+vigor, in spite of the great difficulties which the Catholic writers
+encountered.
+
+It was not encouraging for authors who wrote in defense of the Church or
+of the outraged rights of Catholics, to realize that they were exposed
+to the vulgar invectives to which Luther and his disciples resorted in
+their replies, or that the products of their industry could be published
+only amid the greatest difficulties and at the cost of severe
+sacrifices, because there was no adequate Catholic press. The bishops
+continued to withhold their support. Papal subsidies were shared only by
+a few, who succeeded in presenting their petitions to Rome through
+powerful intercessors. Many talented apologists were driven from the
+monasteries or ecclesiastical positions in the course of the religious
+upheaval and, deprived of material support, endeavored in vain to wield
+their pen in the service of the faith. Had there been a number of
+periodicals at the disposal of talented Catholic writers, as is the case
+today; had there been available an organized Catholic daily press as a
+means of reaching the masses, the position of the Church would have been
+quite different.
+
+The necessity of moral reform, among Protestants as well as Catholics,
+was greater, however, than the need of scientific or popular
+instruction; for the new freedom promoted moral decadence in a very high
+degree. Catholic writers complained that their efforts were largely
+offset by the rejection of the precepts of the Church and by the
+unheard-of compulsion exercised by the courts and magistrates of many
+cities, and against which no remedy could be found. As a result, some
+ecclesiastics, who might have been able to wield a mighty influence in
+the literary sphere, dedicated themselves to preaching and practical
+action. Others were deterred from literary work by the inconsistency and
+fatuousness of the claims made by the Protestants, who asserted one
+thing today and denied it tommorow and demanded recognition in one place
+for what they rejected in another.
+
+Among the books which exercised a powerful influence before and after
+1530 were the earlier and later literary productions of Eck, Cochlaeus,
+and Faber.
+
+Dr. John Eck, of the University of Ingolstadt, was called "the Achilles
+of the Catholic party" by Cardinal Pole.#footnote[Janssen-Pastor,
+#emph[op. cit.];, Vol. VII, p. 593.] His practically arranged "Manual
+against the Lutherans" (#emph[Enchiridion];) was in general use among
+Catholics and, up to 1600, went through some fifty editions. In addition
+to his sermons on the Sacraments, his principal achievement consisted in
+his commentaries on the Gospels for Sundays and feast-days. Intended for
+the clergy, they evidenced their author’s intimate acquaintance with the
+errors of the day. No less than seventeen editions of the Latin version
+of these sermons, which comprised several volumes, appeared up to the
+year 1579. In 1530, Eck began to reissue at Augsburg his writings
+against Luther, the first installment being entitled #emph[Prima Pars
+Operum contra Ludderum];.#footnote[Wiedmann, Johann Eck, Ratisbon, 1865,
+p. 586.]
+
+They were followed by a long series of new works, among which were
+treatises on Purgatory and the Mass, dissertations against Zwinglianism
+and against the errors of the Jews, memoranda composed for princes and
+religious conferences, and commentaries on various books of the Bible.
+Eck displayed incredible energy up to the time of his death, in 1543.
+This humble priest never coveted ecclesiastical dignities. When offered
+honorary canonries, as was frequently the case, he invariably declined
+them, saying: "I desire to remain a schoolmaster as long as I
+live."#footnote[Janssen-Pastor, #emph[op. cit.];, Vol. VII, p. 592.]
+Courageously he bore the slanders which were heaped upon him by the
+Lutheran party as well as the derision to which he was subjected.
+
+He felt more keenly the studied silence with which his enemies met his
+arguments. In his Apology of 1542, he addresses his opponent Bucer thus:
+"Listen, you apostate; does not Eck quote the words of Sacred Scripture
+and the Fathers? Why do you not reply to his writings on the primacy of
+Peter, on penance, the Mass, Purgatory, or to his many homilies and
+other writings? …Do you believe you were right," he asks, "when you said
+at the beginning of the controversy that Eck would be unable to advance
+any other authorities than his Scotus, Ockham, Thomas,
+etc.?"#footnote[From Eck’s #emph[Apologia];; cfr. Wiedemann, #emph[op.
+cit.];, p. 275.] As a matter of fact, Eck’s scholarly use of Sacred
+Scripture and the Church Fathers constituted one of the principal merits
+of his controversial method. Consistency and fortitude were
+characteristic of the activity of this man, who also made a striking
+impression by his athletic appearance. "At the religious conference in
+Ratisbon, in 1541, the superficiality of the friends of the Interim gave
+way to the lucidity of his principles and his solidity."#footnote[Thus
+Janssen-Pastor, VII, p. 587.] His vivacious temperament and blunt
+honesty, coupled with a fine sense of humor, doubtless inspired many a
+harsh passage in his writings which it would have been better to omit.
+But it was a boisterous and turbulent arena to which he was summoned by
+his vocation.#footnote[On certain blemishes in his private life cf.
+Janssen-Pastor, VII, p. 592, n. 4.]
+
+John Cochlaeus in his literary activity revealed not so much a profound
+theologian as an ever ready and eloquent controversialist. Hardly a year
+passed but that this man, who was small of stature, participated in the
+controversies of the day, which he conducted with great versatility.
+Descriptions of the age in which he lived, exhortations, admonitions,
+and at times violent personal attacks fill the books of this active
+controversialist after 1530 as well as before that time. When Eck died,
+Cochlaeus took over and vigorously prosecuted the work of the latter.
+The high-minded Duke George of Saxony, in whose service he labored,
+supported him in every possible way. When, in 1539, George was succeeded
+by his brother Henry, who favored Lutheranism, Cochlaeus saw his labors
+suddenly interrupted; his publisher, Nicholas Wolrab, of Dresden, was
+thrown into prison; books in defense of the Church by Witzel and Nausea,
+which Wolrab had in press at the time, were cast into the water. Only
+with difficulty Cochlaeus succeeded in inducing a relative of his to
+open a printshop for Catholic books in Mayence. The printer, Francis
+Behan, succeeded in establishing the foremost printing establishment for
+Catholic works in Germany, which flourished at Mayence together with
+that of Cologne, the second most important center for Catholic
+publications.
+
+"For twenty years," Cochlaeus wrote in 1540, "there was nothing more
+disadvantageous for us Catholic authors, in contrast with the heretics,
+than the great unreliability of our publishers …The publishers were
+almost all Lutherans, and we were able to obtain their services only at
+a great outlay of money."
+
+He instances the sad experiences of Eck, Nausea, Mensing, and others,
+with whom he had attended the religious conference at
+Worms.#footnote[Janssen-Pastor, #emph[l. c.];, p. 566.] His own material
+condition was improved by a canonicate at Breslau. In 1548 and 1549 he
+lived at Mayence. He died at Breslau in 1552, exhausted by his labors.
+The works which he wrote after the diet of Augsburg (1530) embrace an
+excellent treatise on the saints, various publications on the question
+of holding an ecumenical council, an effective and thorough reply to
+Bullinger, "On the Authority of the Canonical Books and the Church,"
+which is ranked among the best of his books, and his pointed
+"Philippica" against Philip Melanchthon, in which he attacks, among
+other things, the "serpentine artifice and hypocrisy" of that
+innovator.#footnote[#emph[Ibid.] The treatise in Cochlaeus’ works on the
+veneration of the saints (1534) is actually the product of Arnoldus
+Vesaliensis.] Cochlaeus deserves special credit for his Latin "History
+of the Acts and Writings of Luther" (Commentaria, etc.), which first
+appeared at Mayence in 1549, and was frequently reprinted. It embraces
+the entire controversial period and depicts the course of the great
+religious upheaval as his keen eye observed it. The story is copiously
+supported by citations from his own works and those of the unfortunate
+author of the schism. The work proved to be a mine of information for
+later Catholic writers.
+
+John Faber, formerly vicar-general of Constance, became bishop of Vienna
+in 1530, through the influence of Ferdinand, and as such continued his
+very successful activity against Lutheranism by means of the spoken and
+written word, especially by advising the princes. In 1535 he wrote in
+defense of the Mass and the priesthood against Luther. In the following
+year he wrote on faith and good works. There is extant an instructive
+memorandum intended for the religious conferences, addressed by him to
+the Catholic leaders. He was esteemed by his fellow-Catholics for his
+learning and wisdom, and for the purity of his morals—which fact did not
+prevent Justus Jonas, in a pamphlet composed at the instigation of
+Luther, to characterize Faber as a "patron of harlots," because he
+combated the marriage of priests. He could afford to ignore all such
+insults. He died at Vienna in 1541.#footnote[Janssen-Pastor, #emph[op.
+cit.];, VII, pp. 580 sqq.]
+
+Faber was succeeded in the episcopal see of Vienna by his friend
+Frederick Grau, called Nausea, another energetic and gifted apologist
+who opposed the heretical deluge. Grau was a man of excellent culture
+and thoroughly trained in the sciences of language and jurisprudence, no
+less than in theology. Originally employed as secretary by the papal
+legate Campeggio, he afterwards functioned as a preacher and writer in
+Mayence. His sermons are noted for their correct interpretation of
+Sacred Scripture. Owing in part to his lack of means, he was unable to
+publish his excellent catechism before 1543. In his work on the council,
+he favored the granting of communion under both forms, thinking that the
+Protestants could be won over by this concession. He likewise urged the
+pope to abolish the law of sacerdotal celibacy for the sake of removing
+scandal. He participated in the Council of Trent, and died in that city
+in 1552.#footnote[#emph[Ibid.];, pp. 582 sqq.]
+
+Of the large number of other defenders of the Catholic Church and her
+doctrines we will mention only a few of the more prominent. A man of
+very striking characteristics was George Witzel (Wicel), a priest who
+traveled much and was extremely active. He died at Mayence in 1573.
+Influenced by the writings of Erasmus, he embraced Lutheranism and
+married, but after having acquired a more intimate knowledge of the true
+aims of Luther and seeing the moral decline which followed the new
+religion, he returned to the Catholic Church and at once, in 1532,
+published an excellent treatise on good works, followed by a book on
+justification, another on the Church, and an apologia of himself. During
+his varied career he composed nearly a hundred works, all characterized
+by combativeness and learning. No one scourged the conditions within the
+bosom of the Lutheran Church so effectively as Wicel; few experienced
+such adversities on this account as he, so that–as he himself laments–"I
+am scarcely safe anywhere, even in my own home, and I cannot travel
+without exposing myself to the greatest danger."#footnote[#emph[Ibid.];,
+p. 570.] From 1533 to 1538 he was pastor of the few Catholics remaining
+in the town of Eisleben. During this period, he was compelled, as he
+himself says, "to live in the midst of wolves." As protégé of Duke
+George of Saxony, he lived in better circumstances for a short time at
+Dresden. At Fulda, where he stayed with Abbot John, life was made
+intolerable for him by persecutions. In Mayence he was assailed by the
+Lutherans because he defended the imperial interim of 1548, which was
+repugnant to them. This conciliatory interim, which was designed to end
+the schism and hence made undue concessions to the Protestants, was in
+harmony with Wicel’s ideal to win over the opposition by means of
+conciliatory measures. He wished to stand above the disputants of both
+parties. Without abandoning Catholic dogma, as he understood it, he
+wished to prepare the way for a reconciliation, which, however, proved
+ineffectual and was, in part, impossible. In this respect his Erasmian
+training was a hindrance to him. He even censured the theologians at
+Trent because they refused to adopt his peculiar methods for the
+re-establishment of peace.
+
+The lively discussions which this obstinate man had to carry on with his
+fellow-Catholics were evidence of the fact that the latter carefully
+weighed the idea of religious peace. If the idea itself was regarded as
+impracticable, this was not due to a blind refusal of conciliation.
+Wicel himself was forced to realize the extent of the injury from which
+the Church was likely to suffer in consequence of such ill-advised
+concessions, when, imbued with the best of intentions, he
+enthusiastically participated in the new ecclesiastical regime
+introduced by Joachim II of Brandenburg, which in the end Protestantized
+that country.
+
+Another Catholic spokesman who deserves to be mentioned is the
+Augustinian eremite, John Hoffmeister. He began to unfold a splendid
+literary activity, commencing with 1538, when he wrote his "Dialogues"
+and a refutation of the Schmalkaldic Articles. He continued his efforts
+even after he had been made vicar-general of his Order for all Germany.
+He, too, was animated by the delusive hope of conciliating the
+Protestants.
+
+The Franciscans furnished many renowned and learned defenders of the
+ancient faith, #emph[e.g.];, Augustine von Alfeld (died about 1533),
+Nicholas Herborn (died 1535), Conrad Kling (died 1556), and the
+excellent pulpit orator John Wild of Mayence (died 1554).#footnote[On
+Wild see Janssen-Pastor, #emph[op. cit.];, Vol. VII, pp. 546–550.]
+Caspar Schatzgeyer, a Minorite, was the model of them all in gentleness
+and the noble style of his popular writings. Henry Helmesius, John
+Heller, John of Deventer, Francis Polygranus were other Franciscans who
+defended the Catholic cause.
+
+The most celebrated Dominican authors were: Michael Vehe (died 1539),
+who produced one of the first German hymnals; Bartholomew Kleindienst
+(died 1560), who, among other literary compositions, addressed a "Right
+Catholic Admonition" to "his dear Germans," in imitation of the title of
+one of Luther’s books; John Dietenberger (died 1537), the author of a
+number of small popular pamphlets, a refutation of the Augsburg
+Confession, and an excellent catechism; and John Mensing, who actively
+opposed Protestantism until his death (about 1541), unhindered by the
+high offices which he held, among which was that of auxiliary bishop of
+Halberstadt.#footnote[On Mensing see Grisar, #emph[Luther];, Vol. I, p.
+79; Vol. III, p. 195; Vol. IV, pp. 121, 160, 303, 385; Vol. VI, pp. 276,
+391, 409 sq., 482 sq.] The University of Frankfort on the Oder honored
+the memory of his temporary professorship there. Conrad Wimpina, a
+theologian of that university, did not long continue his labors in
+refutation of the Augsburg Confession which he had commenced in
+Augsburg, but died in 1531, and left behind him, among other works, a
+brief but excellent history of the religious sects in the
+#emph[Anacepbalacosis Sectarum];. As in former times, so also now,
+prominent men outside of Germany opposed the prevalent heresy. A
+splendid figure was the learned Stanislaus Hosius, leader of the Polish
+episcopate. He became bishop of Ermland in 1551, and later on a
+cardinal. To the select circle of his friends belonged Frederick
+Staphylus, who had studied at Wittenberg as a Protestant, became a
+convert to Catholicism in 1552, and composed an "Epitome of the Doctrine
+of Luther" which became famous. Italy and other countries, especially
+the Netherlands and France, likewise produced eminent antagonists of
+Lutheranism before as well as after 1530. Ambrosius Catharinus, a native
+of Siena, continued his literary activity for ten years in France. On
+account of his criticism of Cardinal Cajetan, he was out of harmony with
+his Italian confréres. In Italy, not only courageous members of the
+monastic Orders, such as the Franciscan Giovanni Delfino, but also men
+who had been elevated to the cardinalate, like Jacopo Sadoleto, Marino
+Grimani, and Gasparo Contarini, contributed by their writings to the
+defense of the Catholic religion.

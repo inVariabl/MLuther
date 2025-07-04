@@ -1,0 +1,104 @@
+== The Protest of 1529
+<the-protest-of-1529>
+At the diet of Spires, which convened in April, 1529, under the
+presidency of Archduke Ferdinand, the Catholic estates of the Empire and
+their theological advisers appeared to be more united and determined
+than before. They were prepared to put an end to the abuse to which the
+recess of the diet of 1526 had been put by the innovators during the
+last three years. For the flexible phraseology of the resolution, which
+had been forced from that assembly, was unscrupulously exploited by the
+reformers to advance their cause.
+
+Hence, the Catholic majority of the estates at the new diet in Spires
+succeeded in having the following modification adopted and published by
+authority of the Emperor:
+
+Those who adhered to the edict of Worms "shall and are required to abide
+by the same until a future council"; in the case of the other estates,
+all further "innovations" should be prevented, at least until the
+assembly of the council, where it is impossible to abolish the new
+doctrine without disturbance. In those parts where the new doctrine is
+upheld, preaching against the Sacrament of the altar and placing
+obstacles to attendance at Mass were specifically prohibited. Severe
+penalties were prescribed against the Anabaptists and others who incited
+the people to rebellion. It was finally declared, in order to safeguard
+religious peace, that no estate was to "protect the subjects and
+relatives of one 'faith' against the authorities of the other"; that the
+public peace declared by the diet of Worms was to continue; and, if any
+one estate be "violently overrun" by another, it was the duty of the
+"Kammergericht" (supreme court of judicature) to intervene.
+
+There was nothing in these decrees which the reformers could reasonably
+have represented as unfair, had they sincerely wished to live in
+peaceful concord and in a temporary arrangement until the assembly of
+the council which they themselves had desired. But they harbored no such
+desire; on the contrary, they were eager to advance farther and resolved
+to make a solemn protest against the legitimate recess of the imperial
+diet.
+
+This protest was made on the nineteenth of April, 1529, and from it the
+entire party which made it derived the name of "Protestants." However,
+not all the princely estates which were favorably inclined either to
+religious reform or to Lutheranism, concurred in this hazardous protest.
+The Elector John of Saxony and the Landgrave Philip of Hesse took the
+lead. They were joined by Margrave George of Brandenburg-Ansbach, Duke
+Ernest of Brunswick-Lüneburg, and Prince Wolfgang of Anhalt. Their
+following was considerably increased when thirteen cities of Upper
+Germany, who were almost exclusively in favor of Zwinglianism, joined
+their ranks. These cities were Strasburg, Ulm, Constance, Lindau,
+Memmingen, Kempten, Nördlingen, Heilbronn, Reutlingen, Isny, St. Gall,
+Weissenburg, and Windesheim. Nuremberg also went over to their side. On
+April 22, Electoral Saxony, Hesse, and the cities of Strasburg,
+Nuremberg, and Ulm secretly formed a defensive alliance.
+
+Whilst the Eucharistic controversy completely separated the majority of
+the above-mentioned cities of Upper Germany from the Lutheran faith,
+they nevertheless, in their inglorious procedure against the authority
+and peace of the Empire, overlooked the religious differences which
+prevailed in their own ranks and united against the self-defense to
+which the Catholic Church was bound to resort.
+
+The Protestants, moreover, frustrated the proposed movement against the
+Turks. When the imperial diet convened, it was impressed in the name of
+the absent Emperor with the necessity of energetically repelling the
+danger of a Turkish invasion, which was declared to be the most
+important subject before the assembly. The report had reached Spires
+that the Turkish fleet was cruising along the coast of Sicily,
+threatening the Occident. "It is an undeniable fact," says Wilhelm
+Walther, a Protestant authority, "that the \[Protestant estates\] would
+not promise to render aid against the Turks, unless the Catholic estates
+of the Empire arrived at some other conclusion concerning the religious
+question than that under discussion, which \[they declared\] it was
+impossible for them to accept."#footnote[Grisar, #emph[Luther];, Vol.
+II, p. 383.]
+
+Luther was naturally very much in favor of the idea that the parties who
+espoused the new religion should issue a protest against the resolution
+of the imperial diet. Two things, however, worried him, and Melanchthon
+even more: namely, the formation of an armed alliance of his followers
+in opposition to the Emperor; and the approximation to Zwinglianism,
+which, though so far merely exterior, might result in an intrinsic
+religious coalescence. Melanchthon implored them not to break with
+Charles V, with Ferdinand, and the "whole empire"; for thus far the
+Protestants had maintained the semblance of not actually wishing to
+secede from the Empire, nor even from the Church, but of desiring only a
+reform of the same. For Luther, Zwinglianism, which he detested,
+constituted the chief source of anxiety. In his worry concerning the new
+alliance, he wrote to the Elector of Saxony on May 22 that the impetuous
+temperament of the Landgrave \[Philip of Hesse\] would create havoc in
+the Empire, that trust was to be placed in God, not in man, but worst of
+all was the fact that, by uniting with the Zwinglians, the
+
+Lutherans would incur the sins of those who antagonized the Sacrament
+and were deliberate enemies of God.#footnote[Köstlin-Kawerau, #emph[M.
+Luther];, Vol. II, p. 120.] The Elector bowed to his representations and
+desisted from further attempts to bring about an alliance.
+
+With increased energy Landgrave Philip, on the other hand, pursued his
+and Zwingl’s project of forming a close union of all the adherents of
+the new religion in Germany and Switzerland, against the Hapsburg power
+and against the Catholic Church. Before this could be accomplished,
+however, it was necessary to effect some kind of reconciliation between
+Luther and Philip. The latter was resolved to go to impossible lengths,
+and it was decided that a personal conference should take place between
+Luther and Zwingli.

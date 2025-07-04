@@ -1,0 +1,202 @@
+== Preponderance of Dangerous Elements
+<preponderance-of-dangerous-elements>
+Having depicted the favorable aspects of the age, it is necessary once
+more to revert to its shadows. They must have constituted a source of
+grave danger to the Church, to judge of certain writings of unbiased and
+noble-minded contemporaries, such as the indictment of the bishop of
+Chiemsee, Berthold Pirstinger, published in 1519 under the title,
+#emph[Onus Ecclesiae];, a phrase borrowed from the Apocalypse. True, in
+spite of the "burdens" imposed upon the Church he hoped for an internal
+restoration of the same, based on the unchangeable foundation of the
+faith. He mournfully addresses Christ as follows: "Grant that the Church
+may be reformed, which has been redeemed by Thy blood, and is now,
+through our fault, near destruction!" After a dismal description of
+existing conditions, he says that the "episcopate is now given up to
+worldly possessions, sordid cares, tempestuous feuds, worldly
+sovereignty." He complains that “the prescribed provincial and diocesan
+synods ‘are not held”; that the shepherds of the Church do not remain at
+their posts, although they exact heavy tributes; and that the conduct of
+the clergy and the laity had become demoralized, and so
+on.#footnote[Grisar, #emph[Luther];, Vol. I, p. 48; Vol. II, pp. 45–47.]
+
+Trithemius, Wimpfeling, Brant, Geiler von Kaysersberg, and Dr. John Eck,
+joined in the lament of the Bishop of Chiemsee.
+
+"Of the Lamentation of the Church" (#emph[De Planctu Ecclesiae];) was
+the title of a work which had enjoyed quite a wide circulation before
+Luther’s day. It was reprinted at Ulm in 1474, and again at Lyons in
+1517. It was originally composed against the faults of the papacy during
+the Avignon period, by the Franciscan Alvarez Pelayo, a man of strict
+morality and wholeheartedly devoted to the Church. The new reprints of
+this work addressed the contemporaries of Luther in the severe language
+of Pelayo on the persecution of the Church by those who were instituted
+as her protectors.#footnote[#emph[Ibid.];, p. 55.] In another censorious
+composition, #emph[De Squaloribus Curiae];, many justifiable complaints
+were registered side by side with unfounded reproaches. The work
+entitled #emph[De Ruina Ecclesiae] gained new importance at the end of
+the fifteenth century.
+
+Luther’s mental depression and distorted notions cannot be traced to
+this kind of literature. Yet it is known from reliable sources that he
+read other books of a similar tenor, such as the elegant works of the
+pious Italian poet Mantuanus, who indignantly describes the moral
+corruption of his country, extending to the highest #emph[ecclesia cal
+dignitaries] at Rome. In the writings of the new humanists he found an
+echo, alloyed with bitter contempt, of what he himself had heard at
+Rome, fortified by all the complaints of the age against the clergy and
+the monks. We know that he did not approve their attitude, in so far as
+it antagonized religion, nor was he himself a humanist; but humanism
+with its critical activity, as developed everywhere, especially in
+Germany under the influence of Erasmus, proved to be a great help to him
+in his revolt against the Church authorities.
+
+The papacy gradually came to regret the favor which it had extended to,
+and the hopes it had placed in, the nascent humanism in Rome and Italy.
+Among the German Humanists, Conrad Mutianus of Gotha (d. 1526) was the
+chief promoter of the anti-ecclesiastical movement. He was a man who had
+gone so far as to abandon Christianity for a time. From this group
+originated the "Epistolae Obscurorum Virorum ," a clever and biting
+satyre on monks, scholastics, and friends of the papal curia. Crotus
+Rubeanus, its principal author, had gathered a circle of younger
+Humanists about him at an earlier stage of his career, among them
+Eobanus Hessus, Peter and Henry Eberbach, John Lang, Spalatin for a
+time, and other talented men desirous of innovation. Erfurt became the
+headquarters of this group, which was very clamorous in prose and verse.
+
+Justus Jonas also lived at Erfurt. He was a Humanist who later
+associated himself for life with Luther. While yet a student of law in
+1506, he became affiliated with the Humanistic circles of that city. He
+called Erasmus his "father in Christ" and, in company with Caspar
+Schalbe, made a pilgrimage to him in the Netherlands. In the same year
+Jonas, who was a priest and canon of St. Severus, became rector of the
+University of Erfurt, an event which greatly fortified the position of
+the neo-Humanists. The Leipsic disputation and the letters of Luther
+aroused his enthusiasm. When Luther journeyed to the diet of Worms, in
+1521, Jonas set out to meet him at Weimar, accompanied him to Worms, and
+subsequently was called to Wittenberg as provost of the castle-church
+and professor of canon law. Here, as early as 1521, having obtained his
+doctorate, Justus Jonas taught theology in concordance with the ideas of
+Luther. By his intimate attachment to Luther he gained the praise and
+friendship of such a questionable man as Ulrich von Hutten.
+
+Ulrich von Hutten, humanist and knight, took an active part in the
+literary feud of Reuchlin against the "Obscurantists." In 1517 he
+circulated the treatise of Laurentius Valla, an Italian, against the
+so-called Donation of Constantine, with a view of making a breach in the
+system of the Roman hierarchy and in a malicious libel ridiculed the
+conduct of the celebrated theologian Cajetan at the diet of Augsburg. In
+1519 he dedicated to his patron, Archbishop Albrecht of Mayence, a work
+on a cure for syphilis which he had taken with temporary success. He had
+contracted this disease in consequence of his dissolute life. Wielding a
+pen skilled in polemics this adventurous Humanist launched his attacks
+on Rome, thereby becoming the pathfinder of religious schism. Towards
+his offers of forcible support, Luther prudently assumed a reserved
+attitude, preferring the protection of his prince to the mailed fist of
+the revolutionary. Politically, too, Hutten was a revolutionist. Like
+his friend Franz von Sickingen, he was inspired by the ideal of a
+powerful and independent knighthood. He fought with Sickingen in the
+army of the Swabian League when it undertook the expulsion of Duke
+Ulrich of Württemberg. Afterwards he lived in the Ebernburg, Sickingen’s
+castle in the Palatinate, the so-called "Inn of Justice." Here he
+devoted himself to the composition of popular and witty writings
+directed against the clergy and the princes.
+
+The highly revered prince of the Humanists was Erasmus of Rotterdam, at
+one time an Augustinian canon of Emaus at Gouda, a scholar of prodigious
+learning and an epoch-making critic, whose ambition it was, not only to
+introduce a new Humanistic form of speech into ecclesiastical science,
+but also to reconstruct theology along Humanistic lines, thereby
+exposing its dogmas to the danger of extinction. While he wished to
+remain loyal to the Church, his caustic and frequently derisive
+criticism of things ecclesiastical, Scholasticism, monasticism, and the
+hierarchy, so influenced the minds of his idolizing followers, both
+learned and illiterate, as to render the greatest assistance to the work
+of Luther. His opponents coined the phrase that his writings contained
+the egg which Luther hatched. At all events, his initial sympathy for
+Luther was one of the causes that induced almost the entire powerful and
+widespread neo-Humanistic party to join the reform movement of
+Wittenberg, until finally, about 1524, when it had been clearly
+demonstrated that the religious struggles were redounding to the
+disadvantage of the sciences, a reaction set in and Erasmus began to
+write against Luther. The great services which Erasmus rendered in
+behalf of the text of Sacred Scripture and his excellent editions of the
+writings of the Fathers, remained undisputed and were acknowledged even
+by his adversaries. In 1516 he issued his first edition of the Greek New
+Testament, accompanied by a translation into classical Latin, which was
+followed by his Biblical "Paraphrases." In 1521 he took up his abode
+near the printing-presses of Basle, whence, in 1529, the disturbances
+caused by the new religion compelled him to remove to Freiburg in
+Breisgau. Everywhere in his solitary greatness he was an oracle of the
+learned. But his character was disfigured by weakness of conviction and
+pronounced self-conceit. He lacked the power of leadership, such as that
+trying and dangerous epoch demanded, especially since his unfavorable
+characteristics were also impressed upon his Humanistic admirers.
+
+Besides Humanism, there were in those critical decades certain other
+factors which constrain us to speak of a preponderance of imminent
+dangers.
+
+The minds of men had not yet completely divested themselves of the
+consequences of the conciliar theories begotten in the unhappy period of
+the Council of Basle, and of the schisms that preceded it, with its two
+anti-popes in addition to the one true pope. Here and there the Hussite
+theories, which had taken deep root in Bohemia, made themselves felt in
+Germany. A worldly spirit and an unbridled desire for wealth, which the
+newly inaugurated international commerce and the attractive trade-routes
+to distant countries aroused in the upper classes of society, were
+evidenced by the growing evil of usury, against which Luther took a
+stand in two sermons delivered in 1519 and 1520, though he lacked "an
+adequate comprehension of the existing conditions."#footnote[Thus
+Köstlin-Kawerau, #emph[Martin Luther];, Vol. I, p. 279.] In the lower
+strata of society, especially among the peasant class, the long-nurtured
+discontent with oppressive conditions began here and there to issue in
+unrest and revolt. Lingering politico-social ideas of Hussitism
+cooperated in this respect with aspirations after a higher standard of
+living, awakened by the influx of wealth. The unrest was increased by
+opposition to the introduction into Germany, about 1520, of the
+Christian-Roman system of jurisprudence, interspersed with Germanic
+principles. A fanatical preacher of social revolution in favor of the
+lower classes was the prophet Hans Böhm, a piper of Niklashausen in the
+Tauber valley. The "Bundschuh"–#emph[i.e.];, the strapped shoe commonly
+worn by peasants–was the symbol of revolts which broke out in many
+places, first in 1486, then in 1491 and 1492, but “especially in 1513
+and 1514, and again in 1517. The social revolution of 1525, with the new
+Gospel of the "liberty of the Christian man" as its background, was thus
+gradually prepared.
+
+Only a man of superhuman powers could have banished the threatening
+dangers of the age in the name of religion and an amelioration of the
+traditional social order. Who can tell what course events might have
+taken if at that time saintly men had inspired the people with a
+reviving spiritual vigor, repeating the example of ancient leaders in
+reshaping their age? But the teacher of Wittenberg , who took it upon
+himself to direct the course of events, was no such leader, as the
+sequel showed.
+
+Many hailed the generous young emperor, Charles V, as the leader who
+would conduct men out of the religious and social crisis. This young
+ruler of a worldwide monarchy was animated by the best of intentions. In
+all sincerity he, as emperor-elect, rendered the customary oath of
+fealty to the Church on the occasion of his coronation, before he was
+anointed by the archbishop of Cologne and girded with the "sword of
+Charles the Great." The oath he took bound him "to preserve and defend
+in every way the Holy Catholic Faith, as handed down," and "at all times
+to render due submission, respect, and fealty to the Roman Pontiff, the
+Holy Father and Lord in Christ, and to the Holy Roman Church." During a
+life replete with wars and disappointments, Charles honestly endeavored
+to perform in his beloved Germany the duties which he had assumed; but
+the religious schism overwhelmed him and finally paralyzed the vigor and
+determination with which he had begun his career despite constant
+diversions.
+
+The papacy, too, after Leo X, manifested many hopeful traits of energy
+and efforts at reform, especially in the brief pontificate of Adrian VI;
+but there was missing that towering personality on the pontifical throne
+which might have averted the catastrophe. It was necessary that the idea
+of a true, distinct from a false, reform of the Church should make its
+way gradually at Rome and in Germany, until it triumphed at the great
+Council of Trent in Charles Borromeo and Pope St. Pius V, after the
+Church had sustained immense losses. But no matter what the popes of
+Luther’s day might have done in the interest of reform, in Luther’s eyes
+their endeavors would have been futile; for he was firmly convinced that
+they had become rulers of the kingdom of Antichrist.

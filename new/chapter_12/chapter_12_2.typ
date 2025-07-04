@@ -1,0 +1,223 @@
+== Luther and the State Church of Saxony
+<luther-and-the-state-church-of-saxony>
+In the Saxon Electorate, which was his home, Luther urged the
+introduction of visitations by commissioners to be nominated by the
+secular ruler. This he did with increased zeal, the longer matters were
+delayed by the prince, who proceeded in an arbitrary and autocratic
+manner. The decadence of morals and discipline forced him to take this
+stand.
+
+He deplored "the ingratitude of the people for the holy Word of God."
+"They live like swine," he says. "There is no longer any fear of God nor
+discipline, because the jurisdiction of the Pope has ceased and everyone
+now does as he pleases …If the elders do not want to, let them go to the
+devil for all I care. But where youth is neglected and raised without
+discipline, the authorities are to blame, and the land will be filled
+with dissolute savages." Thus Luther to the Elector John of Saxony, on
+November 22, 1526.#footnote[Erl. ed., Vol. LIII, pp. 386 sqq.
+(#emph[Briefwechsel];, V, p. 406).]
+
+In respect to parishes and schools he adds: "Since religious compulsion
+is at an end and all cloisters and foundations fall into the hands of
+the prince as the supreme ruler, there arises the duty and inconvenience
+of regulating such matters, to which no one else attends and in which no
+one can or should be interested." He contends that God has "summoned the
+prince to attend to these matters in such an event."
+
+He demands, therefore, that the prince should entrust the visitation,
+which had already begun in a tentative way, to four persons, two of whom
+were to manage the property and stipends, while the other two–they
+should go about the matter with "discretion"– were to be entrusted with
+the regulation of doctrine and personnel.
+
+The Elector’s instruction, which followed in 1527, prescribes the course
+of the visitation and presupposes a direct right of the State in
+spiritual matters,#footnote[Weimar ed., Vol. XXVI, pp. 195 sqq.; Erl.
+ed., Vol. XIII, pp. 1 sqq.] formally setting up the territorial
+government of the Church which was already in existence. In doing so,
+however, the Elector to some extent exceeded the wishes of Luther, who,
+accordingly, wrote a preface to the "electoral instruction" which in
+some respects amounted to a restriction. Luther tries to preserve a
+certain autonomy for the Church and to prevent the danger of a ruinous
+dependence. In the preface which he added to the published edict of the
+prince, he tries to justify the extensive measures which the territorial
+lord was about to exercise in the sphere of religion by the distressed
+condition of the Church and the fraternal duty of a Christian ruler,
+whom he characterizes as an "emergency bishop." But his suggestions were
+disregarded and proved futile. They are an ineffectual monument of his
+vacillation and embarrassment in a question of fundamentals, namely, the
+authentic concept of the Church. The voice of the court and its jurists,
+and the facts created by the government were mightier than the vague and
+impotent aspirations of Luther.
+
+The ideas of the territorial government were, however, influenced by an
+humble invitation extended to the Elector John by a friend of Luther. In
+this invitation the Elector was styled a prince "of sacred Christian
+lineage and descent" and exhorted to ameliorate the conditions of the
+Church by becoming an example to other rulers and following in "the
+heroic footsteps" of the pious Jewish king, Josaphat. The religious
+functions of the kings of ancient Israel were held up to him as worthy
+of emulation–an exhortation "afterwards frequently repeated by the
+evangelicals."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, p.
+25.] There is no mention of the prince’s functions being restricted by
+the distressed condition of the Church, nor of fraternal duty; but the
+ruler, in virtue of his plenary powers as prince, is competent to
+exercise authority over the churches. In the name of the territorial
+ruler, Melanchthon supplemented these general instructions by a set of
+additional "articles" for the guidance of the visitators. They concerned
+the method of teaching and set up a church discipline effective
+throughout the country. These supplementary articles met with Luther’s
+approval and, after having been examined and supplemented several times,
+by order of the Elector, were formally promulgated.
+
+Many individuals, both Lutherans and Catholics, were astonished at the
+reactionary nature of these articles, which cautioned against a
+declaration of the forgiveness of sins by faith alone, without previous
+penance. The law which penalized sin was emphasized much more forcefully
+than Luther had been wont to do. As a result, Luther had to hear the
+objection: "We are crawling backwards again." Nevertheless, he stuck to
+his approbation of the articles of visitation and remarked that they
+determined everything in the simplest possible manner for the benefit of
+the mob; the objections of the dissenters, he predicted, would soon
+cease.#footnote[#emph[Ibid.];, p. 31.]
+
+In 1528, he himself composed a set of "Instructions for the Visitators,"
+which was introduced into the territory of Duke Henry of Saxony in 1538,
+and into the bishopric of Naumburg in 1545. Having become quite
+disillusioned in consequence of his experiences, Luther began to yield
+considerably in the matter of law and penance. When his pupil, John
+Agricola, raised strong objections to the proposed modifications, Luther
+opposed him.
+
+On account of doctrinal differences, Agricola, at Eisleben, vehemently
+opposed Melanchthon, with whom he was at personal enmity. In general, he
+combated penance and, in part, the rules of a devout life. A satire on
+the Wittenberg theologians classified him as an Epicurean, "a
+discriminating voluptuary who knows how to choose among pleasures." His
+opposition to Luther at a subsequent period caused the latter serious
+trouble in the so-called antinomian controversy. At the same time,
+however, it gave him an occasion to recede to an even greater extent
+from his original attitude toward law and penance. "The first official
+act of the evangelical State Church (the announcement of the visitation)
+thus became an occasion of strife, yea, of charges of heresy within the
+most intimate circles of the reformatory theologians of
+Wittenberg."#footnote[#emph[Ibid.];]
+
+The protocols of the visitators show the existing conditions among the
+people, their preachers and new pastors, in the years 1527 to 1529, and
+later. It is not worth while to enter upon the melancholy details.
+Luther’s summary complaint in a letter to Spalatin will suffice:
+"Everywhere the congregations present a deplorable picture, since the
+peasants neither learn, nor pray, nor do anything else but abuse their
+freedom; they neither confess, nor go to communion, as if they had
+completely cast off religion."#footnote[Middle of January(?), 1529;
+#emph[Briefwechsel];, VII, p. 45.] He adds: "Just as they spurned the
+papal system, so now they condemn ours." It is only fair to remark that
+no such conditions existed under the papacy. The new gospel of liberty
+and the Peasants’ War which sprung from it had brought a return to
+barbarism. The vain excuse has recently been put forth that the
+protocols of the Lutheran visitators exhibit a state of decadence which
+"originated in the religious life of the Catholic
+past."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, p. 40.]
+
+Though, as we have seen, the Catholic ages had their shortcomings, it
+was nevertheless to be expected that a thoroughgoing religious movement,
+such as the Reformation claimed to be, should have produced a reform
+precisely at its inception. Indeed it should have manifested decided
+signs of the spiritual spring which Luther had persistently announced,
+especially when, in his extravagant manner, he spoke of the breath of
+God which would renew all things without violence.
+
+An endeavor was made to increase the effectiveness of the visitations by
+creating the permanent office of superintendent. It was another seal
+affixed to the State Church. The office was established by the Elector
+in his instructions governing visitations for 1527, and entrusted to the
+pastors of the principal cities. It was their duty to supervise the
+belief, teachings, and official functions of the clergy within their
+respective jurisdictions and to report those who obstinately persisted
+in error to the officials appointed by the prince, and through these to
+the territorial lord. Where else was there authority that could inflict
+punishment?
+
+In order to fortify the new religious system still more, the German Mass
+was introduced for Sundays, to be uniform throughout Electoral Saxony.
+It was an arrangement suggested by the territorial lord. Luther had
+elaborated a set of hymns with the assistance of John Walther, of the
+castle of Torgau, which was submitted to the Elector towards the end of
+1525. This Mass was prescribed for all the pastors in the articles of
+visitation and was to be introduced with the least possible disturbance.
+The article pertinent to this point cautiously says: "It is not
+necessary to preach extensively to the laity about it." The deceptive
+resemblance to the Latin Mass was retained.
+
+In all these ordinances there was not one word relative to that assembly
+of “genuine and freely confessing Christians’ which Luther had regarded
+as desirable. The ideal was interred in consequence of the sad results
+of the visitation. In lieu thereof, the new church was overrun by
+unspiritual members, whom Luther calls "pagans," and developed more and
+more into a compulsory organization. The Anabaptists and other fanatics
+who rebelled against its doctrines, were severely penalized. Luther even
+went so far as to demand the penalty of decapitation for such heretics
+as were found guilty, not of insurrection against the State, but of a
+fundamental deviation from his doctrine.#footnote[Grisar, #emph[Luther];,
+Vol. VI, index s. v. "Intolerance" and "Heretics."]
+
+Walter Kohler, a leading Protestant historian of the Reformation, writes
+of the tendency resulting from the regulations governing the visitations
+due to Luther’s intervention: "Capital punishment for heresy was
+legitimized by the Lutheran authorities …Freedom of conscience and of
+religion was out of the question with Luther." According to this writer,
+there is no doubt that the trial of heretics by the Protestant churches
+was introduced by Luther. When the preaching of the Word proved
+ineffectual, he appealed to the secular authorities, with whom he was
+closely allied.#footnote[For the resp. passages see Grisar,
+#emph[Luther];, Vol. VI, p. 266.]
+
+The Protestant scholar, P. Wappler, who has made a special study of the
+Protestant proceedings against heretics, and also of the Anabaptist
+movement, shows by a number of concrete cases how, shortly after the
+inception of the visitations, Luther decided in favor of the execution
+of heretics, especially on account of the teachings of the Anabaptists.
+"The many executions," says Wappler, "of Anabaptists who are known not
+to have been revolutionaries and who were put to death on the strength
+of the declarations of the Wittenberg theologians, refute only too
+plainly all attempts to deny the clear fact that Luther himself approved
+of the death penalty against such as were merely
+heretics."#footnote[#emph[Ibid.];, p. 267.]
+
+The formula which Luther applied to representatives of the new heresies
+was that they were to be remanded to "Master Hans," #emph[i.e.] handed
+over to the executioner. At Rheinhardsbrunn, for example, six heretics
+were simultaneously remanded to Master Hans towards the close of 1529
+and the beginning of 1530, and were decapitated on January 18, 1530. Of
+the inquisition of laymen which was provided for in the electoral
+regulations of 1527, Wappler justly observes: "The principles of
+evangelical freedom of belief and liberty of conscience, which Luther
+had championed two years earlier, were most shamefully repudiated by
+this lay inquisition;" and yet Luther said never a word in protest.
+
+An impartial and critical Catholic historian, Dr. Nicholas Paulus, has
+filled a whole volume with convincing evidence of the intolerance of the
+leaders of the religious schism, particularly Luther and Melanchthon,
+which went even so far as to recommend capital
+punishment.#footnote[#emph[Protestantismus und Toleranz im 16.
+Jahrbundert];, 1911.]
+
+Whilst obstinate denial of the faith was to be avenged thus severely, –a
+measure which, of course, it was impossible to carry out universally –an
+attempt was made to penalize also gross violations of the moral law
+within the religious communities. The lack of the Catholic ban was
+perceptible. The object of the regulations governing visitations was to
+discipline notorious sinners by a refusal of the Lord’s supper. Luther’s
+first aim was to have obstinate sinners declared pagans in the eyes of
+the congregation, after a futile warning in the presence of witnesses.
+Later he decided in favor of greater severity by adopting a kind of
+excommunication. Various efforts on the part of others to install elders
+for the supervision of morals were condemned to fail of
+ure.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, p. 47.] The
+only measure that was finally retained was the office of beadle, who,
+according to a phrase of Luther’s uttered in 1529, had to hale those to
+church who despised the catechism, so that they might learn the Ten
+Commandments, etc. Whoever scorned to learn the catechism, he said,
+should be exiled by the civil authorities.#footnote[Grisar,
+#emph[Luther];, Vol. V, pp. 484 sq.]

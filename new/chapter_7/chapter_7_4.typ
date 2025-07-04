@@ -1,0 +1,356 @@
+== After the Promulgation of the Bull
+<after-the-promulgation-of-the-bull>
+At the end of September, the papal condemnation of Luther was
+promulgated in the places designated in the Bull. Dr. Eck, who had been
+charged by the Pope with this commission, was accused by Luther’s
+adherents of being moved by personal hostility and vindictiveness. There
+is no proof of such motives extant, though the selection of another
+person on the part of Rome would probably have been more advantageous.
+Yet, how many persons were there in Germany whom the Holy See could have
+engaged for so delicate an undertaking? As the special confidant of
+Rome, and as one familiar with German conditions, Eck was authorized and
+commissioned to designate publicly some of the most important partisans
+of Luther as having incurred the same papal condemnation. Among the six
+thus selected were Luther’s colleague, Andrew Karlstadt, the celebrated
+Humanist, Willibald Pirkheimer of Nuremberg, and Lazarus Spengler, the
+town clerk of that city. On October 3, Eck sent the papal Bull to the
+University of Wittenberg together with a polemic treatise, composed by
+himself, on the Council of Constance and on certain doctrines which
+Luther had advocated in his #emph[Address to the Nobility];.
+
+On September 28, Luther, having obtained definite knowledge of the
+arrival of the Bull in Germany, wrote a letter to Canon Gunther von
+Bünau of Merseburg, in which he declared his intention to ridicule the
+#emph[bulle] or #emph[ampulla] as an empty
+bubble.#footnote[#emph[Briefwechsel];, II, p. 482.] About the middle of
+October, he published a small tract, #emph[On the New Eckian Bulls and
+Lies];, in which, contrary to his better knowledge, he asserted that
+there was no Bull, intimating that it must be another lie or forgery on
+the part of Eck.#footnote[#emph[Werke];, Weimar ed., Vol. VI, pp. 579
+sqq.; Erlangen ed., XXIV², pp. 17 sqq.] This was a political move,
+designed to evade the blow for the time being, and to create sentiment
+in his behalf.
+
+Soon afterwards he completed another highly significant German treatise,
+of which Miltitz sent a printed copy to Pirkheimer, on November 16,
+while Luther was working on a somewhat enlarged Latin version. It was
+his famous treatise #emph[On the Liberty of a Christian];. This treatise
+also appeared in German.#footnote[German version, Weimar ed., Vol. VII,
+pp. 20 sqq.; Erlangen ed., Vol. XXVII, pp. 175 sqq. Latin version,
+Weimar ed., VI, pp. 39 sqq., #emph[Opp. Lat. Var.];, IV, pp. 206 sqq.]
+Protestant writers esteem it as the third so-called "great document of
+the Reformation," coordinate with the #emph[Address to the Nobility] and
+the treatise #emph[On the Babylonish Captivity];. The little work, we
+are told, embodies Luther’s fundamental ideas and, in its "matured and
+exquisite presentation," ranks equal to "the noblest productions of
+German mysticism."#footnote[Köstlin-Kawerau, #emph[Martin Luther];, I,
+p. 363.] Luther sent a Latin version to the Pope, accompanied by a
+letter which he also prefixed to the original edition. This step was
+taken at the advise of the fantastic Miltitz, who also caused Luther to
+date this letter as of September 6, whereas it had actually been
+composed on October 13. It was intended to create the impression that
+the document was composed prior to the promulgation of the papal Bull,
+and hence was not influenced by his condemnation. In this way Luther was
+able to assume a more peaceable air, with the result that he gained
+sympathizers and disposed the masses against the ban.
+
+It was peace, he told the Pope, that he had aimed at from the beginning;
+he had earned the "favor and gratitude" of Rome for his resistance to
+Eck and other knaves. He had always spoken most respectfully of the
+person of Pope Leo, whose reputation no one could assail; in his
+generosity the Pope should restrain his enemies, among whom Eck was the
+worst on account of his insane ambition. "But, that I should recant my
+doctrines, that cannot be"; "the Word of God, which teaches all liberty,
+shall not be made captive."
+
+The author again indulges in his usual descriptions of the corruption of
+the papal court; the papacy, he says, is no longer in existence; poor
+Leo sits like a sheep amidst wolves, and like Daniel among the lions;
+the Roman Church is a "den of assassins worse than all others, and a
+house of knaves more roguish than all the rest."
+
+This letter, ostensibly intended for the Pope, but in reality for the
+masses, on whom Luther definitely counted, constitutes the introduction
+to his work #emph[On the Liberty of a Christian];, by means of which he
+purposed to set forth "the sum-total of the Christian life," consisting
+in faith, #emph[i.e.];, trust in God. Such faith produces a splendid
+good, the true freedom of a Christian. He says he had acquired this
+faith himself amid great and manifold interior storms and by means of
+this book now intends to acquaint all "simple folk" with the value of
+freedom, that treasure contained in faith. He proposes to address only
+plain people. In the first and principal part of the work he seeks to
+demonstrate that a Christian, in virtue of his faith, is "a free lord
+over all things and subject to no one." In the second part, he asserts
+that "a Christian is the servant of all things and subject to
+everybody." The two divisions are intended to be complementary to each
+other.
+
+There is a dual nature in every Christian, he maintains, one interior or
+spiritual, the other exterior or corporeal. Freedom is the property of
+the former, servitude that of the latter. In describing the spiritual
+freedom which flows from faith, he opposes the alleged servile Catholic
+doctrine of good works, and in doing so makes use of expressions which
+reveal his entire new system of justification by faith alone.
+
+"Thus, by this faith all your sins are forgiven you, all the corruption
+within you is overcome, and you yourself are made righteous, true,
+devout and at peace; all the commandments are fulfilled and you are set
+free from all things."
+
+"This is Christian liberty …that we stand in need of no works for the
+attainment of piety and salvation."
+
+"The Christian becomes by faith so exalted above all things that he is
+made spiritual lord of all; for there is nothing that can hinder his
+being saved. He may snap his fingers at the devil, and need no longer
+tremble before the wrath of God."#footnote[Grisar, #emph[Luther];, Vol.
+II, p. 28.]
+
+The second part treats of the Christian as a willing servant who is
+subject to everybody. In as far as the Christian lives in the society of
+his fellowmen, he says, he must exercise himself in discipline and
+assist others as a matter of charity. Such good acts are a direct result
+of faith. Luther first discourses on the manner in which a Christian
+must discipline himself against the lusts of the flesh. This is followed
+by a discussion on the works done for the neighbor. All works are done
+out of the highest and purest love of God. They cause a "pure, joyful
+life" to dominate the soul of the Christian. Good works are not,
+however, performed (as the Roman Church teaches) in order that "man may
+become pious in the sight of God"; they are not meritorious and do not
+lead to salvation; we must not look to good works and think that we do
+well in performing many of them.” "Good works never make a devout man,
+but a devout man performs good and pious works." He performs them even
+though he lovingly trusts that Christ has fulfilled all the commandments
+for him, and that for this reason a righteous man is in need of no law
+and no good works.#footnote[Luther had expressed similar ideas in his
+commentary on the Epistle to the Romans, and hence this present tract
+contains nothing new. Moreover, the same distinction between the
+interior and exterior life is found almost literally in Tauler, whose
+works were known to Luther,–only that Tauler leaves good works intact,
+nay, expressly emphasizes their meritoriousness. Cf. Grisar
+#emph[Luther];, Vol. I, pp. 229 sq.]
+
+Luther believed that he had adequately replied to the objection of those
+who said: "If faith alone is sufficient to produce piety, why are good
+works commanded? Would it not be better to be of good hope and do
+nothing?" Nevertheless, this objection naturally persisted wherever the
+new religion became dominant, and to the end of his life Luther combated
+the lax practice which prevailed among his followers as the result of
+his depreciation of good works, which assumed the pseudomystical
+semblance of an exaltation. The abolition of the laws of the Church as a
+despicable means of coercion of necessity avenged itself on the masses,
+who promptly abused the newly proclaimed freedom of the Christian.
+Luther in his system forgot the earnest and emphatic exhortations of St.
+Paul, whose teachings he pretended to revive. Paul taught the necessity
+of zealously performing good works from a motive of both fear and love
+and in the hope of heavenly reward and forgiveness of sins. He crowned
+his exhortations with the words: "Be ye steadfast, immovable, always
+abounding in the work of the Lord, as knowing that your labor in the
+Lord is not in vain" (1 Cor. 15:58). Thus the faithful will be free,
+according to his teaching; not indeed, here below, but in the life to
+come, they will enjoy perfect liberty of spirit, there where the victory
+over death hath been given to us through our Lord Jesus Christ
+(#emph[ibid.];, 56 sq.).
+
+A well-known Protestant writer, speaking of the liberty which Luther
+wishes to discover in the hearts of believers, says: "The sublime and
+beatific image of the liberty of the Christian has descended upon the
+earth in a different manner than Luther once visioned it in golden
+clouds." "His ideal," the same author adds, "is not organizatory or
+regulative," but "incomprehensible and almost unlimited"; we shall
+always be suspicious of such an ideal when there is question of
+performing the daily duties of life.#footnote[V. Naumann, #emph[Die
+Freibeit Luthers];, 1919, PP 44, 15.] Other modern Protestant scholars,
+such as Köhler, Tröltsch, Wernle, and Bess, have frankly criticized this
+#emph[opusculum] from the same standpoint.#footnote[B. Bess,
+#emph[e.g.];, declares (#emph[Zeitschrift fir Kirchengesch.];, XXXVII
+\[1917–1918\], p. 526): "We must not omit to say that the fundamentation
+of morality in the second part signifies a limitation of Luther." R.
+Otto (#emph[Das Heilige];, 7th ed., 1922, pp. 236 sq.) directs attention
+to the fact that the good thoughts, how to remain attached to God in
+trustful confidence, were extensively developed long before Luther in
+the Catholic mystical writings of the Middle Ages, #emph[e.g.];, by
+Albertus Magnus (#emph[rectius] by the Benedictine John von Kastel),
+#emph[De Adbaerendo Deo];.” This author even says: "If we did not know
+that 'The Liberty of a Christian' is the work of Luther, we should
+probably classify it with Catholic mystic literature." Luther’s errors,
+however, prevent this classification. The celebrated saying, "#emph[Ama
+et fac quod vis];," is quoted by the Catholic mystics of the Middle Ages
+in a very different sense than that which Luther ascribes to it. On the
+teaching of St, Thomas Aquinas concerning indifference to exterior
+works, see Jos. Mausbach, #emph[Die christliche Moral];, p. 225 (tr. by
+A. M. Buchanan, #emph[Catholic Moral Teaching and its Antagonists];, New
+York, 1914, pp. 256 sq.)] Some of them disagree as to the meaning of
+Luther’s work. His Catholic contemporaries (#emph[e.g.];, Hoogstraten
+and Murner) attacked this imaginary freedom as a dangerous and
+corruptive phantom. Hoogstraten says that Luther’s work on #emph[The
+Liberty of a Christian] is worse than the other products of his pen,
+because of its seductive and insinuating style and because it is
+fundamentally destructive of the doctrine of good works.
+
+The fervent mystical note which Luther frequently strikes in this work
+recalls his former monastic readings, especially from Tauler, and indeed
+is captivating. It exercised an almost hypnotic effect on the better
+class of his adherents. The doctrine of pious Christian liberty, though
+no one really understood it, became a shibboleth of marvelous power. It
+was a genial trait in Luther’s literary career that he knew how to
+interlard his impetuous speeches with winning sentiments and appeals.
+
+The above-mentioned tendency towards radicalism is also ascribed by
+Protestant authors to Luther’s #emph[Liberty of a Christian];. At the
+time of the Luther jubilee of 1917, the #emph[Christliche Welt] of
+Marburg said: "From this freedom to Goethe’s ideal of humanity is indeed
+only a short remove."#footnote[1917, p. 690.] Of the liberty achieved by
+Luther generally the Heidelberg theologian v. Schubert says: "Whilst by
+their struggles men gained liberty in the supreme questions of
+conscience, they blazed a path for all intellectual liberty." It was by
+following this road that mankind arrived at
+enlightenment.#footnote[#emph[Grundzüge der Kirchengesch];., 3rd ed.,
+1906, p. 234.] It will be profitable to discuss this matter a little
+more fully.
+
+A remarkable picture presents itself when the three so-called great
+documents of the Reformation are considered as a whole under this
+aspect. On the one hand, there is the religious sentiment which is
+apparently spread over the third and wafts its fragrance back upon the
+two that have preceded it. On the other hand, there is an individualism
+which is opposed to revealed religion and every form of ecclesiastical
+solidarity.
+
+In the Address to the Nobility, the autonomy of the individual in
+judging of religious doctrines, is advocated. "If we all are priests,"
+Luther says, "how then shall we not have the right to discriminate and
+judge what is right or wrong in faith? …We should become courageous and
+free" in the presence of traditional doctrines. We should "judge freely,
+according to our understanding, of the Scriptures," and "force" the
+popes "to follow what is better, and not their own
+reason."#footnote[Grisar, #emph[Luther];, Vol. II, p. 31.]
+
+Reference should be made to the expression previously quoted from the
+#emph[Babylonian Captivity];, concerning the divine spirit which
+enlightens every man and imbues him with absolute certitude. Here we
+have the enthronement of subjectivism.
+
+The doctrine of private judgment inspired by the "whisperings" of God,
+as Luther subsequently put it, destroys revealed religion and renders
+impossible the existence of a religious communion with a common creed.
+Nor does it pause before the body of Sacred Scripture. Luther himself,
+in the last-mentioned work, undermines the canon of the Bible by his
+distinction between those writings which manifest the truly Apostolic
+spirit, and, #emph[e.g.];, the Epistle of St. James, which contradicts
+his teaching on good works.
+
+We do not mean to assert that Luther had a clear perception of the road
+he trod to religious nihilism. He wished to be and to remain a believing
+Christian, and must be vigorously defended against certain of his
+Neo-Protestant admirers who, in the interests of infidelity, represent
+the author of the Freedom of a Christian as a conscious champion of an
+undogmatic Christianity, especially in the period of his youthful vigor
+and the supposed Lutheran fervor. But we may well ask whether many of
+the expressions which he used in the first flush of revolt are not
+diametrically opposed to the binding duty imposed by every form of
+revelation, as well as to his dogmatic attitude in later years. It may
+also be questioned whether the demand for freedom for the individual and
+the right of private judgment may not have assisted in laying the
+foundation of a mere religious humanitarianism.
+
+It is true, as Harnack says, that Kant, Fichte, and Goethe "are all
+hidden behind this Luther."#footnote[Cf. the passage from Ad. v. Harnack
+quoted in our #emph[Luther];, Vol., II, p. 32. Chapter XXXIV of the
+fifth volume of my large work on Luther, first section, treats of Luther
+on his way "towards a Christianity devoid of dogma," based mainly on
+Protestant opinions.]
+
+A few words more in explanation of Luther’s attitude. Luther desired and
+was compelled to justify his colossal revolt from the creed of a Church
+that had existed upwards of a thousand years. How could he, a lone
+individual, expect to succeed in his opposition to millions of the
+wisest and most excellent men of the past? He simply asserted that no
+communion has an established right to claim exclusive possession of the
+faith, but that every individual who correctly interprets Sacred
+Scripture, has precedence. Thoughtful critics perceived in this
+proposition the dissolution of all religion, but Luther says: Follow me,
+for I am certain, and accept the fragments of faith which I leave to
+you. That he believed and willed to be perfectly certain, must be
+conceded; for the protracted struggle he waged with himself, in order to
+attain certainty, could not, in view of his psychological disposition,
+be devoid of results. But when he perceived that many, influenced by his
+rare qualities, his firm stand, and the force of his language,
+admiringly accepted his opinions, the notion that he was sure of his
+ground became deeply embedded in him, even though he was not always able
+to cope with the doubts that assailed him, as his own confessions, made
+both subsequently to and contemporaneously with that so-called
+spring-time of the Reformation, show. Nevertheless, in the introduction
+of his "Address to the Nobility," he finds himself "compelled to exclaim
+and to shout." He believes he is promoting only the glory of Christ.
+
+Hence his concluding words, "God has forced me by them \[my
+adversaries\] to open my mouth still further." He meets with opposition,
+but is only confirmed thereby. "Though my cause is good, yet it must
+needs be condemned on earth and be justified only by Christ in
+heaven."#footnote[Grisar, #emph[Luther];, Vol. II, p. 37.]
+
+"I feel that I am not master of myself (#emph[compos mei non sum];)," he
+writes to a friend a few weeks later. "I am carried away and know not by
+what spirit."#footnote[To Konrad Pellikan, end of February, 1521.
+Grisar, #emph[op. cit.];, Vol. II, p. 52.]
+
+About this time he unburdens his mind to Staupitz, thus: "Our dearest
+Saviour, who has immolated Himself for us, is made an object of
+ridicule. I conjure you, should we not fight for Him, despite all
+dangers, which are greater than many believe? …With confidence I have
+sounded the bugles against the Roman idol and true Antichrist. The word
+of Christ is not the word of peace, but of the sword …If you do not wish
+to follow me, then at least suffer me to go on and be carried away
+\[#emph[sine me ire et rapi];\]."#footnote[#emph[Briefwechsel];, III, p.
+85; Grisar, #emph[op. cit.];, Vol. II, p. 54.]
+
+Staupitz, however, deluded and undecided, had himself uttered the words:
+"Martinus has undertaken a difficult task and acts magnanimously,
+illumined by God."#footnote[Köstlin-Kawerau, #emph[M. Luther];, I, p.
+371.]
+
+Touching on the cares of his impetuous activity, which allowed him no
+time for reflection at the most decisive moment of his life, Luther
+writes in a letter: "Labors of the most varied kind carry my thoughts in
+all directions. Twice a day I have to speak in public. The revision of
+my commentary on the Psalms engages my attention. At the same time I am
+preparing sermons for the press. I am also writing against my enemies,
+opposing the Bull in Latin and in German, and working at my defense.
+Besides this I write letters to my friends. I am also obliged to receive
+visitors at home."#footnote[Grisar, #emph[Luther];, Vol. II, pp. 52 sq.]
+
+In this last-quoted letter he states that he was opposing the papal Bull
+of condemnation in Latin and in German. Encouraged by the attitude of
+the University and the Elector’s court, which declined to promulgate the
+Bull, Luther at once followed up his work #emph[On the New Eckian Bulls
+and Lies] with his #emph[Adversus Execrabilem Antichristi Bullam];, also
+published in German, though somewhat altered, under the title
+#emph[Wider die Bulle des Endchrists.];#footnote[Latin text in the
+Weimar ed. of Luther’s works, VI. pp. 597 sqq.; Erlangen ed., #emph[Opp.
+Lat. Var.];, V, pp. 134 sqq.; ‘German text in Weimar ed., VI, pp. 614
+sqq.; Erl. ed., XXIV², pp. 38 sqq.] In the Latin text he reiterates his
+doubts on the authenticity of the Bull, and pronounces anathema upon the
+authors of this "infamous blasphemy." He volunteers to die, in the event
+that this damnable tyranny should actually be consummated in him. In the
+German version he exclaims with demoniacal fury: "What wonder if
+princes, nobles and laity should smite the heads of the pope, bishops,
+priests, and monks, and drive them from the land?"
+
+On November 17, he renewed his appeal to a general council of the
+Church.#footnote[Weimar ed., VII, pp. 75 sqq.; Erl. ed., Opp. Lat. Var.,
+V, pp. 121 sqq.]
+
+In compliance with an order of his Elector, he forthwith undertook to
+compose a more learned defense of his condemned forty-one articles. It
+appeared in Latin and in German, about the middle of January, 1521,
+under the title, #emph[Grund und Ursach aller Artikel (Assertio Omnium
+Articulorum)];.#footnote[Latin text in Weimar ed., VII, pp. 94 sqq.;
+Erl. ed., Opp. Lat. Var., V, pp. 156 sqq.; German in Weimar ed., VII,
+pp. 308 sqq.; Erl. ed., XXIV², pp. 55 sqq.] "Who knows," he says in the
+German edition, "whether God has not raised me up and that it behoves
+mankind to fear Him, lest they contemn God in me? Do we not read that
+God usually raised but one prophet at a time?" In an attack on free-will
+contained in this book he expressly teaches that "everything happens
+necessarily," because ordered and effected by God. The Bible is
+expressly represented as the sole source of faith.

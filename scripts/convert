@@ -1,0 +1,7 @@
+#!/bin/sh
+# Convert LaTeX to Typst
+
+# Convert individual chapter files
+for file in ../new/chapter_*/*.tex; do
+  pandoc "$file" -f latex -t typst -o "${file%%.tex}.typ"
+done

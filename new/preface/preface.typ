@@ -1,0 +1,106 @@
+#heading(level: 1, numbering: none, outlined: false)[Preface]
+
+The diverse and even profoundly contradictory criticisms to which Luther has
+been subjected are apt to cause dismay to anyone who undertakes to occupy
+himself more closely with his biography. This divergence of opinions is a
+result not only of the divided confessional standpoint, but also of deviating
+historical evaluations of the facts. Even the Catholic opponents of Luther have
+never agreed on many points.
+
+In my work on Luther, which appeared in three volumes in the course of 1911 to
+1912, I endeavored to the best of my ability to establish a presentment of
+Luther and his work upon an unimpeachable basis, derived from all genuine
+sources.#footnote[_Luther_, 3rd ed., Freiburg i. Br., 1924–1925, Herder.
+English translation by E. M. Lamond, 6 vols., London 1913–1917.]
+
+For this purpose it was necessary to treat many aspects of the subject quite
+comprehensively. Others which presented fewer difficulties could be passed over
+or summed up briefly. The labor involved in the removal of untenable
+conceptions prevented me from offering a uniform and well-balanced biography in
+those comprehensive volumes.
+
+For this reason I have always cherished a desire of submitting a more compact
+description and a proper delineation of the life of Luther in a less voluminous
+work based on the conclusions that have been established, particularly as
+supplemented by the researches into Luther’s history which have since been
+instituted with extraordinary activity, especially as a result of the Luther
+jubilee of 1917. Meanwhile, a large number of special studies, great and small,
+have been published. Then, too, the Weimar Edition of Luther’s works has
+presented, in its continuation volumes, the writings of Luther in a new form,
+resulting in considerable improvement over the previously edited texts. The
+Weimar undertaking has redounded in an eminent degree to the advantage of the
+_Table Talks_, which constitute an important source for the biography of
+Luther. The progress made thus far was utilized by me, as far as practicable,
+in the special supplements to the third edition of my above-mentioned
+three-volume work.
+
+In presenting to the public this compendious biography of Martin Luther, which
+represents the fruit of several years’ labor, I may be permitted to call
+attention to the fact that, in compiling it I have been encouraged by the
+appreciative reception which has been accorded to my larger work. In their
+discussion of this work, many Protestants who are not confirmed
+controversialists have marked with approval my serious endeavor to observe
+objectivity and to give a calm, authentic presentation of a delicate
+subject.#footnote[In a volume entitled _Urteile von protestantischer Seite_,
+the firm of Herder collected and published a large number of these criticisms in 1912.
+The Swedish-Lutheran Archbishop Söderblom, who delivered a series of lectures
+on Luther in May, 1923, said of the modern Catholic investigation of Luther in
+general “that it has extended the horizon of the Reformation and called forth a
+radical revolution in the conception of Luther.” (_Bayerischer Kurier_, Munich,
+May 9, 1923). His new conception of Luther, however, is certainly not at all
+acceptable.]
+
+Their statements show that an approximation between Catholic and Protestant
+views of Luther is possible on the basis of unprejudiced historical research.
+The contentious and irrelevant attacks made upon my work are of no
+consequence.#footnote[Criticisms deserving of consideration were answered by
+me in part at the end of the third volume of my _Luther_, and also in a more
+extensive exposition in my article _Bemerkungen zur protestantischen Kritik
+meines Lutherwerkes_ (_Theologische Revue_, 1919, pp. 1 sqq.)]
+
+Similar attacks will not disquiet me even after the appearance of the present
+biography. On the other hand, I shall gratefully avail myself of any
+clarification of points offered in a possible new edition of this volume.
+
+It may not be superfluous to mention that the present volume is chiefly
+concerned with a lucid presentation of the development of Luther, of his mental
+constitution and the interior impulses which moved him throughout his life. His
+many frank communications concerning himself as well as his unbridled language
+about and against others, almost spontaneously lead to a true characterization
+of him. Luther is so communicative that the aforementioned diversity of
+opinions about him becomes quite inexplicable to the attentive investigator,
+the more he occupies himself with his writings, letters, and addresses. Owing
+to Luther’s communicativeness, I did not wish to be sparing of the evidences
+which in part are inserted in the footnotes of this volume. It was frequently
+possible to indicate them very briefly by citations of apposite pages in my
+larger work, “Luther.”
+
+Throughout the present work, in the annotations as well as in the text, I have
+limited my observations to the great struggle of the sixteenth century without
+digressing to controversial questions of the present age which suggest
+themselves almost irresistibly. The question, propounded in this book—and
+verily it is a sufficiently comprehensive question—rather is: What happened in
+that period of upheaval and, above all, how is the responsible author of the
+struggle to be judged in his interior and exterior life? I could impose this
+restriction upon myself all the more easily, since Luther is regarded by
+present-day Protestants more and more as a purely historical phenomenon.
+According to the acknowledgment of Protestant leaders, the present age has in
+general passed beyond his influence, and the little group which still professes
+his peculiar doctrines is diminishing. It may be left to others, be they
+Protestant or Catholic, to draw appropriate inferences from the texts and facts
+here presented, which are not the product of theological prepossession, but of
+an independent study of the facts. In another work, entitled _Der deutsche
+Luther im Weltkrieg und in der Gegenwart_, I have frankly discussed certain of
+these inferences.#footnote[Augsburg, 1924, published by Haas and Grabherr.]
+
+In the _Lutherstudien_, a selection of more exhaustive contributions on the
+subject of Luther appearing in single numbers, I have attempted to present in
+detail the new movements within the Protestant pale, especially as exemplified
+by the recent jubilee celebrations of the
+Reformation.#footnote[_Lutherstudien_, 6 Hefte, Freiburg, 1921 sqq.]
+
+May the present volume be perused by unprejudiced readers.
+
+#align(right)[ #smallcaps[The Author] ]
+
+#align(left)[ Innsbruck, December 3, 1925 ]

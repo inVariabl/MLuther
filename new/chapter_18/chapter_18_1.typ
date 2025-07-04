@@ -1,0 +1,156 @@
+== Luther’s Ethical Teaching in General
+<luthers-ethical-teaching-in-general>
+The ethical system of Luther was vitally influenced by his conception of
+the gospel, which in his opinion was essentially only forgiveness of
+sin, a cloak covering guilt, the quieting of an "affrighted conscience."
+To gain a sense of confidence was the starting-point of the new
+doctrine. Luther’s supreme gain was to acquire certainty of salvation
+through an active faith in the appropriation of the merits of Christ.
+This thought is the guiding star also of his ethics.
+
+Protestants say that Luther erected ethics upon its genuine foundation,
+which had been ignored up to his time. This claim, however, is disproved
+by certain leading declarations of his, which raise the question how a
+true ethical system could originate under such conditions. Luther taught
+that man is not a free agent, but a mute "pillar of salt," either
+controlled by the grace of God which is operative within him, or subject
+to the domination of the devil, without any activity on his part. His
+reason in religious matters resembles a lunatic.” In consequence of an
+ineradicable original guilt, sin persists in man’s inordinate
+concupiscence; even the just man, #emph[i.e.];, he who is regarded as
+just by God, remains a sinner. Sin is merely covered up by fiduciary
+faith in the blood of Christ. The "golden cloak of grace" due to the
+merits of the Redeemer does everything. Good works are devoid of
+supernatural merit and have no significance for Heaven. Every man is
+predestined for Heaven or hell by a hidden decree of God.#footnote[Cfr.
+Grisar, #emph[Luther];, Vol. V, pp. 3 sqq.]
+
+It is fair to ask: What moral inducement is there in Luther’s hypothesis
+to combat the perversity of human nature? Is there any moral
+responsibility? Can there be any such thing as Christian morality? At a
+time when the renown of Luther was not so great as it is since the last
+decades of the nineteenth century, the Protestant theologian K. F.
+Stiudlin openly declared that "no genuine Christian ethic could exist"
+on the basis of Luther’s principles.#footnote[#emph[Geschichte der
+Moral];, Göttingen, 1806, p. 209.] Many other Protestant authors share
+this view. As a matter of fact, Luther’s work "On the Enslaved Will"
+marks the death of ethics.
+
+He inculcates humility because sin is in man and man is completely
+dependent upon God, without any capacity or volition on his part. But
+this sort of humility is no basis for a system of ethics.
+
+Luther errs in his fundamental presupposition that the assurance of
+possessing salvation, contained in fiduciary faith, will move man to
+observe true morality, and particularly to perform acts inspired by
+love, which alone are pleasing to God. Lack of morality demonstrates
+that one has not the right kind of faith, which, in his system, takes
+the place of Christian perfection and virtue.
+
+Practical Christianity is relegated to the background in Luther’s
+system, for the only obligatory works of divine worship are faith,
+praise, and thanksgiving. The others are to be "directed towards our
+neighbor"; yet there are no good works except such as have been
+commanded by God. Indeed, without faith the good works which man
+performs amount to sin, just as the virtues of the pagans were
+#emph[splendida vitia];.#footnote[Cfr. Grisar, #emph[Luther];, Vol. V,
+pp. 47 sqq.] "Faith" causes the Church and the world to be two entirely
+different empires, so completely separated that the exterior office of a
+Christian, #emph[e.g.];, of a ruler, has nothing to do with his
+Christian belief. To strive for perfection as Catholics do, is folly.
+There are no evangelical counsels, and even the most pious believers are
+sinners. Saints must be "good, hearty sinners"–an expression which
+recalls to mind his declaration: "Sin boldly, but believe more boldly."
+
+But in spite of these intellectual aberrations, the sermons and writings
+of Luther contain a rich treasure of ethical doctrines. He so urgently
+and eloquently exhorts men to the practice of virtue that his voice is
+scarcely distinguishable from that of the ancient Church. Many
+illustrations of this have been furnished in the foregoing chapter.
+Thus, in point of morality Luther actually pursued a far better course
+than his theological opinions would lead one to expect. His lack of
+consistency proved a decided advantage. In his ethical teaching, as in
+other respects, he did not carry his avowed principles to their logical
+conclusions. He desired to be helpful to others in his own way as a
+spiritual director and to demonstrate that the new Gospel was morally
+sound and profitable.
+
+Luther never attempted to formulate a system of ethics, and his
+theoretical principles would have rendered the attempt futile. But
+Protestantism has reason to congratulate itself that its founder, even
+without a system, scattered so many seeds of Christian morality in his
+emphatic and popular way, though it should not be overlooked that he
+derived his supply from the heritage of the ancient Church, upon which
+he drew freely. Protestant writers have lamented the fact that Luther
+bequeathed to his followers no systematic introduction to the devout
+life so that even to the present day Protestantism lacks any definite
+rule of piety. Julius Kaftan laments that Luther slighted the doctrine
+of piety and that of "redemption from the world," in the narrower sense.
+The salvation "bestowed by Christ is not merely justification and
+forgiveness of sins," but rather the "everlasting possession" to be
+reached by a Christlike life. Justification is but the road to this
+possession. The Church has other "vital interests."#footnote[#emph[Op.
+cit.];, Vol. V, pp. 89 sqq.]
+
+In his writings no less than in his life Luther neglected the true
+methods of self-reform. Catholic authors, on the other hand, such as St.
+Bernard and Gerson, from whom Luther derived enlightenment at a former
+period of his life, showed that true piety is based on self-denial. In
+Luther’s opinion self-denial is of far less importance than the ready
+surrender of the "fretful" so-called traditional prejudices of
+renunciation and restraint in worldly affairs. The ill-considered
+expression: "What matters it if we commit a fresh sin?", since there is
+forgiveness in faith, supplies us with a profound insight into his
+mentality.
+
+Retirement, examination of conscience, and solitude, were to be shunned,
+according to his view. Quietude, he says, "calls forth the worst of
+thoughts."#footnote[#emph[Ibid.];, p. 93.] In his directions for
+praying, one misses the salt of sorrow and contrition; they lack the
+fragrance of true humility and are far removed from that charity which
+resigns itself to God and submits with equanimity to the divine will,
+especially with reference to one’s vocation in life. To render his
+prayers fervent, he must spice them with curses against the "papists."
+There is anger and passion in his practical attitude; megalomania,
+jealousy and irritation in his appeal to violence; there are, finally,
+examples of untruthfulness and dishonesty in his polemics, so that
+Erasmus is constrained to exclaim: "You pretend to be a teacher of the
+Gospel!"#footnote[#emph[Ibid.];, pp. 112 sqq.]
+
+His teaching on "self-improvement and the reformation of the Church,"
+considered in the light of Luther’s conduct, furnishes numerous other
+and no less damaging objections to his ethical
+doctrine.#footnote[#emph[Ibid.];, pp. 84 sqq.] Suffice it to say that
+reform, to be effective, should have commenced with a sincere
+improvement of morals, enforced by the example of his own life. Instead,
+he commenced with arbitrary changes of doctrine. It was necessary at
+that time to counteract the subjectivism and skepticism produced by the
+Renaissance. Luther, on the contrary, encouraged this evil. He favored
+the divergent tendencies of the nations and took no account of the new
+tasks imposed on the Church by the discovery of new countries. Allowing
+the masses to read the Bible was no compensation for the want of truly
+great objects of reform.
+
+The Bible in consequence of the use that was made of it rather became
+the means of theological and social confusion. It seemed, as Luther
+himself declared, as if everyone was desirous "of boring a hole wherever
+his snout happened to be."#footnote[#emph[Ibid.];, p. 129.] In his
+pessimism, with which he infected the world, he descries how even in the
+first centuries "the devil had broken into Holy Scripture and caused
+such a disturbance as to give rise to many
+heresies."#footnote[#emph[Ibid.];, p. 130.]
+
+As a reformer, he did not direct the unfavorable currents of his age
+into better channels, but to a certain extent permitted himself to be
+carried off by them. Thus, in the beginning of his career, he adopted
+the pseudomysticism which pervaded his age. From contemporary humanism,
+he not only adopted disrespect for authority and the spirit of
+rebellion, which he augmented, but also promoted the excessive use of
+authority on the part of ambitious princes at the expense of their
+subjects. Finally, in his writings and addresses on marriage and sexual
+questions, he cultivated the crude naturalism of the Renaissance with an
+abandon that was astounding, particularly in his fight upon sacerdotal
+celibacy and monasticism. At times, says the Protestant philosopher
+Frederick Paulsen, this naturalism causes Luther to speak "as if
+abstention from the works of the flesh spelled rebellion against the
+will and command of God."

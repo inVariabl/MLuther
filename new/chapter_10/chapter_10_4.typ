@@ -1,0 +1,108 @@
+== The Congregational Church
+<the-congregational-church>
+At the beginning of his revolt Luther entertained certain pseudomystical
+ideas of a freely operating system of congregations.#footnote[For the
+following, see #emph[ibid.];, Vol. II, pp. 102 sqq.] He soon found it to
+be impossible to form an organization of those members of former
+parishes who had been aroused by the new Evangel–an organization which
+would be purely spiritual and reject coercive measures, whether secular
+or ecclesiastical. Thus he was necessarily compelled to change his ideal
+from that of a congregational church to that of a popular church ruled
+by a spiritual authority under the protection of the State. Thence, by
+the intrinsic necessity of his new system, he arrived at the compulsory
+national Church and his original idea of an invisible Church became
+gradually obliterated.
+
+Yet he always wished to have a separate church for those who truly
+believed in his Gospel, as distinct from a church which was open to all,
+even to those who thought in terms of paganism. Repeatedly he voices his
+longing for such a genuinely Christian church (#emph[ecclesiola];) with
+a superintendent, ecclesiastical discipline, and the ban, subject, not
+to the State, but to himself. He admits, however, that he has not a
+sufficient number of people to join him in this project.#footnote[See
+#emph[ibid.];, Vol. V, pp. 133 sqq.] Undoubtedly the execution of this
+plan would have resulted in two ambitious and mutually antagonistic
+groups of churches. In general, it is evident how instability and
+disintegration were the sole fruits of Luther’s abandonment of the true
+concept of the Church. Some modern Protestant writers hold that Luther
+did not establish any church whatever. The separation of the State from
+the German Protestant ecclesiastical structure, which has taken place in
+our time, and the disappearance of the supreme episcopate of the
+Protestant State ruler, has placed this statement in a new light. There
+is need of reconstructing the church from the foundation up.
+
+It is interesting to review the intended institution and ultimate fate
+of the congregational church originally planned by Luther.
+
+It was to be a free covenant of brethren without binding laws. Those who
+had embraced the Gospel of Luther were to remain, without compulsion,
+under supreme representatives of a corporate body of their own
+selection, and to call themselves Christians (not Lutherans). They were
+to have their own Last Supper and their own dogmas. The free covenant
+was to be an organization for service only, with "unity of spirit," as
+Luther himself repeatedly says, and not unity "of place, persons, things
+or bodies."#footnote[#emph[Ibid.];, Vol. II, pp. 107 sq.] He does not
+desire a sectarian body. "To create sects," he says, "is neither useful
+nor helpful." In his opinion, it was, moreover, unnecessary in order to
+unite into a Christian covenant prior to the proximate end of the world,
+the still faithful members of the papal empire of Antichrist–the pious
+who were "terrified in conscience."
+
+How is the representative of the brotherhood to be selected? Luther
+writes: "Those whose hearts have been moved by God" should band together
+and choose a "bishop," #emph[i.e.];, "a minister or pastor." Even though
+the congregation number only six or ten persons, they will attract
+others, "who have not yet received the Word." "They must not act of
+their own accord, but must allow themselves to be moved by God." "It is
+quite certain that Christ acts through them."#footnote[#emph[Ibid.];, p.
+111.]
+
+The first coherent statement of these ideas is to be found in a Latin
+treatise of 1523, which Luther addressed to the Utraquists or Calixtines
+of Prague. He entertained vain hopes of winning over this party, which
+still obeyed the Catholic hierarchy. His instructions to them were also
+intended for Germany, and above all for Saxony. This explains why he had
+the Latin treatise published also in German.#footnote[#emph[Ibid.];, p.
+112.]
+
+About this time he purposed to establish a model congregation of free
+Christians constituted from among the masses, in Leisnig, a small town
+situated in the Saxon electorate.#footnote[#emph[Ibid.];, Vol. V, pp.
+136 sqq.] He addressed a treatise to the adherents of the new Evangel in
+that town, the title of which is characteristic of the impracticability
+of his ideal. The tract was entitled: "Reasons and Scriptural Motives
+Demonstrating that a Christian Assembly or Congregation has the Right
+and the Power to pass on all Dogmas and to Summon, Install, and Depose
+Teachers."#footnote[Weimar ed., Vol. XI, pp. 408 sqq.; Erl. ed., Vol.
+XXII, 105, pp. 140 sqq.] The document states that, according to the
+Scriptures, the universal priesthood of all Christian believers empowers
+every member of the congregation to exercise independent judgment in
+matters of faith. Every member may come forward and correct the erring
+preacher. St. Paul says: "If anything be revealed to another sitting,
+let the first hold his peace" (1 Cor. 14:30, where he speaks of the
+charismata of the first is Christians). A Christian congregation is one
+in which the pure Gospel is preached. It is presupposed, however, that
+this is the new Evangel which Luther has brought to light and with which
+all are in accord who speak the truth, since this doctrine "has been
+received from heaven." The papists, so Luther writes to the inhabitants
+of Leisnig, "ought to yield to us and to hear our Word."
+
+Events at Leisnig, as everywhere else, failed to justify his sanguine
+expectations. There was doctrinal confusion and administrative
+dissension. When, in 1323, in his solicitude for this town, Luther
+issued an introduction to their new "fiscal regulations," this
+beneficent measure came to naught.#footnote[Weimar ed. Vol. XII, p. 11;
+Erl. ed., Vol. XXII, p. 105.] The town-council confiscated the
+properties and endowments of the church, but refused to cooperate in the
+establishment of a common poor-box. Luther’s appeal to the Elector for
+aid was futile. Nothing more is reported concerning the development of
+the religious life of the congregation in the town of Leisnig.
+
+The fate of this ideal congregation was a great disappointment to
+Luther. But, as a Protestant investigator writes, "The primitive
+Lutheran ideal of a congregation forming itself in entire independence
+was nowhere realized …Thus at an early date Lutheranism took its place
+among the political factors, and its development was to a certain extent
+dependent upon the tendencies and inclinations of the authorities,
+particularly of the ruling sovereigns of that time."#footnote[Walter
+Friedensburg, Cf. Grisar, #emph[Luther];, Vol. II, p. 333.]

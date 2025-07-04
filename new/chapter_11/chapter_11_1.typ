@@ -1,0 +1,471 @@
+For various reasons the year 1525 must be called a tempestuous year.
+First of all the Peasants’ War stamped its character upon it. Germany
+experienced tumults such as it had never seen before, which shook
+Luther’s work and influenced his mind. Seldom was he so vehemently
+perturbed as during these momentous months, in the course of which,
+strange to say, occurred his marriage.
+
+The year 1525 witnessed the formation, on the one hand, of a more
+compact union of the Catholic princes opposed to the new movement, and,
+on the other, the preparation of the fatal Protestant alliance of Torgau
+and the emergence of the war-like figure of Philip of Hessen. It marked
+the energetic assembly of Mayence, which fanned the fury of Luther, but
+also the defection of extensive territories, among them Prussia, and the
+violent introduction of the religious change in the electorate of
+Saxony, brought about by the new Elector. Luther was compelled to
+wrestle with the Anabaptists and other fanatics, with powerful enemies
+in the Catholic camp, and with the triumphal march of Erasmus’ polemical
+pamphlet on free-will, to which, in 1525, he opposed his treatise "On
+the Enslaved Will," a work begotten literally in storm and stress.
+
+Beyond the German frontier Emperor Charles was engaged in a sanguinary
+contest with the king of France. Francis was captured at Pavia, but the
+victory of the imperial arms led to serious conflicts with the Italian
+States and with Pope Clement VII. At the same time, the power of the
+Turks assumed menacing proportions along the eastern border of the
+Empire and in the Mediterranean Sea, with no signs of an energetic
+defense, which was made impossible by the unsettled state of the
+Catholic forces and Luther’s hostility towards the Christian
+undertakings against the Turks.
+
+= Luther and the Peasants
+<luther-and-the-peasants>
+In 1524, the cities of Allstedt and Orlamünde in Thuringia had been
+violently excited by Thomas Münzer and Karlstadt, respectively. Urged by
+the electoral court of Saxony, Luther visited these unsettled districts
+in August. In vain he negotiated with Karlstadt in an inn called the
+Black Bear at Jena. (At the end of the conference, Luther presented
+Karlstadt with a golden coin as a token that the latter might write
+against him.) Thence he proceeded to Orlamünde, where, as he writes, he
+was lucky that he was not "expelled with stones and
+mud."#footnote[Köstlin-Kawerau, #emph[M. Luther];, 1903, Vol. I, p.
+681.] Karlstadt, as we have seen, was thereupon officially banished from
+the electorate. Soon afterwards, however, he continued his agitation in
+the city of Rothenburg on the Tauber. Münzer meanwhile went to
+Mühlhausen, a highly developed industrial center, where evangelical
+preachers had already succeeded in creating a great ferment. A riot
+ensued, but Münzer was compelled to flee from Saxony and thereupon
+propagated his revolutionary ideas in southern Germany and allied
+himself with the Anabaptists of Zurich.
+
+It was generally believed among citizens and peasants that a serious
+revolt against the princes and the clergy was imminent in 1524. The
+revolt actually commenced in southwestern Germany in support of the
+movement which had been started by Münzer and his associate, Pfeifer, at
+Mühlhausen. It spread over a large part of Thuringia and the Harz
+mountain district. According to an exaggerated expression of Luther,
+Münzer, after his return to Mühlhausen, was #emph[rex et imperator] of
+that city.#footnote[De Wette, II, p. 644.] The sanguinary insurrection
+was supported by the discontented peasants, who had been misguided in
+spiritual matters, and was preached by this fanatic, "the servant of God
+against the godless, armed with the sword of Gideon."
+
+Peasant revolts against the rulers had not been infrequent towards the
+close of the Middle Ages, caused partly by the oppressive conditions
+under which the peasantry lived, and partly by the spread of
+insurrectionary and revolutionary social ideas. Now, however, these
+insurrections derived their impetus from the Lutheran ideas and slogans
+which had permeated the masses. It would be unhistorical to throw the
+entire responsibility for the gigantic movement upon Luther.
+Nevertheless, it cannot be gainsaid that the ideas and preachers of the
+new movement were intimately connected with it. The doctrine of
+evangelical liberty played the principal role.
+
+In most districts the rebellious peasants not only demanded absolute
+liberty to change their religion, or at least the confiscation of church
+property and the cessation of clerical privileges, but they also
+increased their justifiable temporal demands in the name of the
+so-called evangelical liberty by claiming the most unwarrantable
+liberties, privileges, and tributes. This is illustrated by the Twelve
+Articles, which became current at the beginning of the Peasants’ War.
+They were composed by Balthasar Hubmaier, a native of Waldshut, an
+apostate priest who had formerly been stationed at the cathedral of
+Ratisbon, but latterly had become a preacher of the new religion. The
+very first article demands for every congregation the right to elect and
+depose its pastor; the elected pastor is obliged to preach the gospel
+without any admixture and in plain terms. According to the last article,
+emancipation from most of the tithes, from the status of serfdom, from
+the manifold feudal burdens and obligations which is insisted on in the
+remaining articles, should be demonstrated from Sacred Scripture.
+
+Fundamentally, however, brute force governed the movement. For the first
+time the masses, incited by the preachers of the new Evangel, became
+conscious of the power that inheres in union.
+
+How often had not Luther himself summoned his followers to destroy the
+churches, monasteries, and dioceses of Antichrist,#footnote[For examples
+see the above and later sections.] True he desired this to be done by
+the authorities, but the peasants felt that they were the authorities.
+Then, too, without mentioning the authorities, he repeatedly pointed
+out, in his violent and inconsiderate language, that an insurrection of
+the masses was inevitable. It appeared to the peasants that their hour
+for acting had now arrived.
+
+The conflagration began in August, 1524, in the southern region of the
+Black Forest, near Waldshut, It burst into flames at the beginning of
+1525, in the territory of the prince-abbot of Kempten. In consequence of
+the advantages which the peasants of that place had gained for
+themselves, almost the entire peasantry of southwestern Germany, to the
+Lake of Constance and the Upper Rhine, rose in open rebellion. The
+resistance of the Swabian League in Württemberg was paralyzed by the
+invasion of the exiled Duke Ulrich. The peasants stormed and burned
+castles and monasteries and plundered churches. Priests and noblemen
+were subjected to horrible maltreatment. From Swabia the horror soon
+spread to the Odenwald and to Franconia. In the latter region alone 200
+monasteries and castles were sacked and wholly or partly destroyed. The
+atrocities committed at Weinsberg constituted a horrible climax.
+
+In South Germany, however, the irregular peasant bands at the beginning
+of May succumbed to the strategy of the leader of the Swabian League,
+Count George Truchsess von Waldburg. They were subjected to severe
+punishment. Duke Antony of Lorraine put down the peasants in Alsace,
+Landgrave Philip of Hesse crushed the insurrection in his territory with
+bloody arms.
+
+Meanwhile, however, Thomas Münzer, operating from Mühlhausen, had
+incited the peasants of that district and also plunged some cities
+(Erfurt, Nordhausen, and Eisenach) into the maelstrom of the revolution.
+His movement was outspokenly communistic and religiously fanatical. It
+was more conspicuous for cruelty than the other revolutionary movements
+in Germany. Münzer soon met with his fate. Philip of Hesse, the Elector
+John, and Dukes George and Henry of Saxony, engaged his forces in a
+decisive battle near Frankenhausen on May 15, 1525, and defeated them.
+Three hundred captives, including Münzer, were executed. According to
+Cochlaeus and Landgrave Philip he died repentant and received the
+Viaticum in conformity with the Catholic rite.
+
+The great rebellion had been put down and Germany freed from the danger
+of destruction. The condition of the peasantry became more oppressive
+than before, while the power of the princes grew.
+
+What attitude did Luther maintain towards the various phases of the
+Peasants’ War?
+
+Prior to the commencement of hostilities, he published his "Exhortation
+to Peace." He had been requested by certain representatives of the South
+German peasantry to express himself on the Twelve Articles in the light
+of Holy Writ,#footnote[Weimar ed., Vol. XVIII, pp. 291 sqq.; Erlangen
+ed., Vol. XXIV, pp. 269 sqq.] This he does by acknowledging the justice
+of some of the demands and insisting on reconciliation and peace.
+However, he employs such violent terms against the "oppression and
+extortion" of the authorites and princes, "on whose neck the sword
+lies," and whos "presumption will break their necks," that the desire
+for revolution could be only strengthened among the masses.
+
+In his "Exhortations" he is chiefly concened with the "admonition" that
+the Gospel be sustained. But he charges the peasents with meddling in
+his project; you desire to assist the Gospel, he says, yet suppress it
+by your violent measures. For the rest, if the lords and princes
+"prohibit the preaching of the Gospel and oppress the people so
+intolerably, they undoubtedly deserve that God depose them from their
+thrones." In imagination he already sees the hands outstretched which
+are to execute the divine judgment. "Since, therefore, it is certain,"
+he tells the princes, “that you govern tyrannically and madly, forbid
+the Gospel and harass and oppress the poor, you have no consolation nor
+hope except to be destroyed.
+
+The tide of rebellion had already begun to rise in the district of
+Mansfeld and in Thuringia when, at the end of April and the beginning of
+May, Luther left Eisleben and traveled about in the affected districts,
+unsuccessfully endeavoring to stem the course of the rebellion by his
+sermons. His journey impressed him with the seriousness of the situation
+and the danger to his Gospel, nay, even to his life. "At the risk of
+body and life," he writes, "I passed through them. In the case of the
+Thuringian peasants, I personally ascertained that the more one warns
+and teaches them, the more stubborn, proud, and furious they
+wax."#footnote[Köstlin-Kawerau, #emph[op. cit.];, Vol. I, p. 709.]
+
+He described his journey to Dr. John Rühel, a counselor of Count Albert
+of Mansfeld, in terms of great excitement, which dominated him for weeks
+after the journey. He wrote that "the peasants, no matter how numerous,
+are after all but robbers and murderers"; "that the devil had
+particularly aimed at him and by all means wanted him to be dead." He
+said that after his return home he intended "to prepare himself for
+death," but would not approve of the deeds of these murderers. He is
+determined to defy them and all his enemies to the utmost.
+
+Towards the close of his letter, he mentions a particular act, which he
+is prepared to perform in defiance of the devil: "If I can arrange it, I
+will, to defy him, marry my Kate before I die, in case I hear that they
+continue. I hope they shall not deprive me of my courage and
+joy."#footnote[Erlangen ed., Vol. LIII, p. 294 (#emph[Briefwechsel];, V,
+p. 164).] This is the first reference to a more intimate relationship
+existing between him and Catherine of Bora, and to their contemplated
+marriage.
+
+Luther returned to Wittenberg on May 6. Shortly after his arrival he
+published a small pamphlet "Against the Murderous and Rapacious Hordes
+of the Peasants," which is a severe declaration of war against the
+rebels. It is a demand permeated with the most ardent passion, that the
+princes crush with inexorable might the rebels in their own blood. They
+\[the rebellious peasants\] "rob and rave and act like infuriated dogs
+…Therefore, whosoever is able, should dash them to pieces, strangle
+them, and stab them, secretly or openly, just as one is compelled to
+kill a mad dog." Just now, he says, a prince can merit Heaven more
+effectively by shedding blood than by prayer. He will not forbid the
+princes to strike at the rebels even "without a previous offer of
+justice and fairness," although an evangelical government should make
+use of this means. He advocates mercy only for those who have been
+carried along by the revolutionary movement involuntarily and under
+compulsion. Forthwith, however, he drowns the plea of mercy by shouting:
+"Strangle them, whoso is able," etc.
+
+The existence of a strange tension in his mind is revealed in his
+trembling reference to the proximate end of the world. "Perhaps," he
+says, "God intends to throw the world into a mass of confusion as a
+preliminary to the day of Judgment."
+
+Shortly after his anxiety for the "mass of confusion" was relieved by
+the victory of the princes, Luther composed a new pamphlet on the death
+of Münzer. It was written after the middle of May, and entitled, "A
+Horrible Story and Judgment of God on Thomas Münzer." It is a refutation
+of the latter’s prophetical claims and, in addition, an apologia of
+Luther’s own Gospel, directed to his enemies in the Anabaptist movement.
+In view of reports of shocking cruelties perpetrated by the victors, he
+openly admonishes the princes "to be merciful towards the prisoners and
+those who surrendered." This exhortation, however, was not sufficiently
+strong. Rühel, counselor to the Count of Mansfeld, and many others, took
+offense at the excessive punishment which Luther wished to inflict upon
+the guilty parties. "Many of those who are friendly to you," thus Rithel
+warns him on May 26, "deem it strange that you permit the tyrants to
+strangle their opponents without mercy …It is necessary that you
+apologize for this." Others reproachfully accused Luther of making
+himself a vassal of princes, because he approved and furthered their
+bloody measures. Some apostatized from him, forgetting what, as Luther
+complained, God had done for the world through him. The author of the
+dreadful pamphlet “Against the Murderous Peasants” consisted with
+characteristic obstinacy upon his rights. The devil, he contended, had
+possessed Münzer and his hordes. "When the peasants are seized by such a
+spirit, it is high time that they be strangulated like mad dogs," he
+writes to Rühel in defense of his attitude.
+
+Meantime, however, he was not so indifferent as he pretended to be
+towards the hostility that had arisen against him. A little while later
+he published his "Circular Letter on the Severe Booklet against the
+Peasants," wherein he proposes to render an account of himself to all
+"wiseacres who would teach him how he should write."
+
+"What I teach and write remains true, even though the whole world should
+fall to pieces over it." "I will not listen to any talk of mercy, but
+will give heed to what the Word of God demands."
+
+With his wonted propensity to claim the victory, he repeats his former
+exhortation: "Let him who is able, in whatsoever manner he can, cut and
+thrust, strangle and strike at random, as if he were in the midst of mad
+dogs." "The ass wants to be beaten, and the mob wants to be ruled by
+force." With the aid of the mob, "the devil intended thoroughly to
+devastate Germany, since he was unable to prevent in any other way the
+spread of the evangel." His Gospel was the guiding star of his conduct.
+
+For the rest, Luther says he wrote only for the benefit of the
+authorities who wished to conduct themselves either as Christians or as
+honest folks. He hopes to be able to tell the truth "to the ferocious,
+raging, senseless tyrants" later on.#footnote[Grisar, #emph[Luther];,
+Vol. II, pp. 208 sqq.]
+
+Apparently he was able to salve his conscience because of his
+participation in the atrocities connected with the repulse of the
+Peasants’ revolt. In later years he once said: "I, Martin Luther, have
+slain all the peasants at the time of their rebellion; for, I commanded
+them to be killed; their blood is upon me. But I cast it upon our Lord
+God; He commanded me to speak as I did."
+
+Even in these horrible circumstances he relies upon his usual claim that
+he is an instrument of God.
+
+In addition to censuring his ferocity, the Catholics frankly reproved
+him for complicity in the disastrous war, which they attributed to his
+religious revolution and to his preachers, who had incited the people to
+rebellion. Cochlaeus and Emser pointed this out in published writings.
+Erasmus, that acute observer of his age, also told him that he was to
+blame. Ulric Zasius, a jurist, who at one time had favored him, harbored
+the same conviction.#footnote[#emph[Ibid.];, pp. 211 sq.] The author of
+a polemical work printed at Mayence accused Luther thus: “In your public
+writings, you declared that they were to assail the pope and the
+cardinals with every weapon available, and wash their hands in their
+blood …You called those ‘dear children of God and true Christians,” who
+make every effort for the destruction of the bishoprics and the
+extermination of episcopal rule …You called the monasteries dens of
+murderers, and incited the people to pull them
+down.”#footnote[#emph[Ibid.];, p. 190; cfr. Janssen-Pastor, Vol. II,
+18th ed., p. 491.] Other fair-minded contemporaries held up before his
+eyes the difference between the rather favorable opinion of the demands
+of the peasants which he had entertained at the beginning of their
+uprising, and the violent language in which he assailed them when he
+believed that his gospel and position were jeopardized by the raging
+hurricane. They maintained that the characterization of him as the newly
+risen vassal of the princes was not without foundation.
+
+At the present time even Protestant writers who are unacquainted with
+the results of historical research, generally lament the unfortunate,
+nay, disastrous attitude which Luther maintained towards the origin and
+course of the great social revolution. One of the most esteemed
+historians of this phase of the Reformation, Fr. von Bezold, recalls
+Luther’s dangerous proclamation of Christian liberty and his criticism
+of the Catholic clergy. "How else but in a material sense was the plain
+man to interpret Luther’s proclamation of Christian freedom and his
+extravagant strictures on the parsons and nobles?" He reminds his
+readers of Luther’s mutinous assault upon the decree of the diet of
+Nuremberg (1524) and of the impassioned invectives he wrote against the
+"drunken and mad princes." "Luther could not have spoken thus," he
+writes, "unless he was resolved to set himself up as the leader of a
+revolution." He wonders "how he could expect the German nation at that
+time to hearken to such inflammatory language from the mouth of its
+'evangelist' and 'Elias' and, nevertheless, to refuse to permit
+themselves to be swept beyond the bounds of legality and order."
+However, like other historians who are favorable to Luther, Von Bezold
+sees an excuse in the latter’s "ignorance of the ways of the world and
+the grandiose onesidedness ," which supposedly "attaches to an
+individual who is filled and actuated exclusively by religious
+interests."#footnote[#emph[Ibid.];, pp. 189 sq. from Bezold, Geschichte
+der deutschen Reformation, Berlin, 1890, p. 447.]
+
+Genuine religious interests combined with political necessity resulted,
+at the close of the German revolution, July 19, 1525, in the formation
+of the League of Dessau, which was patterned after the League of
+Ratisbon. Joachim of Brandenburg, Henry and Eric of Brunswick, George of
+Saxony, and Albrecht of Mayence and Magdeburg joined the new League. A
+report of the Duke of Saxony, who was the moving spirit of the League,
+designated as its object the "extirpation of the root of the rebellion,
+namely, the damned Lutheran sect," on the ground that the revolt
+inspired by the Lutheran evangel "could hardly be quelled except by
+rooting out the Lutherans."#footnote[#emph[Ibid.];, p. 214.] At a
+convention held at Leipsic on Christmas day, 1525, the above-mentioned
+princes resolved to induce the Emperor to furnish assistance in
+conformity with the decrees of Worms.
+
+The spiritual estates who assembled at Mayence on November 14 of the
+same year also adopted a measure with a view to call the Emperor to
+Germany and to induce him to intervene. Twelve bishoprics of the
+province of Mayence were represented at this meeting by priests, while
+the bishops held aloof. When the resolutions taken at Mayence became
+known to Luther, he attacked them in a pamphlet of terrific vehemence,
+composed at the behest of the new Elector of Saxony, but it was
+suppressed because of the intervention of Duke
+George.#footnote[#emph[Ibid.];, p. 215. The document is printed in the
+Weimar ed. of Luther’s writings, pp. 260 sqq.]
+
+Now that the Catholics had taken a decisive position against the new
+movement, certain princes who were sympathetic towards Luther also
+formed an alliance. They had not accepted the invitation extended to
+them after the suppression of the peasants’ uprising to ally themselves
+with the other victorious princes for the sake of insuring tranquillity
+for the future. Philip I, the young and proficient landgrave of Hesse,
+acted as one of the leaders of the new government. He formed an alliance
+at Gotha with the Elector John of Saxony for the defense and advancement
+of the new movement and later concluded the treaty of Torgau (May 2,
+1526). The threats of the Emperor were of no avail, but merely induced
+the dukes of Brunswick-Lüneburg and Philip of Brunswick-Grubenhagen,
+Henry of Mecklenburg, Wolfgang of Anhalt, and Albrecht of Mansfeld to
+join the Protestant alliance. So little had the Peasants’ War taught men
+that salvation was not to be found in the disruption of the fatherland.
+Instead of uniting their forces, they were bent upon division.
+
+Above all others Luther himself gave an unhappy example of internal
+dissension in his attitude towards the peasants. In his writings he
+treats them as a class with contempt and hatred. The peasantry repaid
+him for his attitude during the Peasants’ War by open animosity or
+indifference towards himself and his "gospel." Luther’s popularity with
+the lower classes declined perceptibly. When ill humor was upon him, he
+could scarcely refrain from heaping insults upon the
+peasants.#footnote[Grisar, Luther, Vol. II, pp. 216 sqq.; IV, pp. 210
+sqq.; VI, pp. 70 sqq.]
+
+In his estimation they are "swine"; they are "all going to the devil";
+they are "not worthy of the many benefits and fruits which the earth
+yields."
+
+They have not given adequate support to the princes. "You powerless,
+coarse peasants and asses, would that you were blasted by lightning! You
+have the best of it, you have the marrow and yet are so ungrateful as to
+refuse to give anything to the princes?"#footnote[#emph[Ibid];., VI, 73]
+
+He went so far as to declare that it were best if serfdom and slavery
+were revived.#footnote[#emph[Ibid];., Vol. II, p. 217.]
+
+According to a transcript of a sermon which he delivered in 1526, he
+declared that the authorities are called by God "to drive, strike,
+suffocate, hang, decapitate, break on the wheel the mob, so that they
+\[#emph[i.e.];, the rulers\] may be feared." As "swine and untamed
+beasts are driven and forced," so the rulers must insist upon obedience
+to their laws.#footnote[#emph[Ibid];., p. 216.]
+
+Luther zealously endeavored to gain the support of the high and mighty
+beyond the circle of the princes and lords who were already attached to
+his cause. In his desperate boldness he appealed by letter to King Henry
+VIII of England, who at that time was still loyal to the Catholic
+Church, requesting that he join him in the interests of his gospel,
+after he had aspersed him with the basest calumnies. The king sent a
+very humiliating reply, which was published together with Luther’s
+letter.#footnote[#emph[Briefwechsel];, V, pp. 231 sqq. On the reply
+(1526), #emph[ibid.];, p. 412.]
+
+In a paroxysm of overwrought expectancy he even applied to Duke George
+of Saxony, the most active of his opponents, "exhorting" him "to accept
+the Word of God." On December 22, 1525, he requested the Duke in the
+humblest terms not to believe the flatterers and hypocrites who
+surrounded him and to desist from his ungracious resolve of persecuting
+Luther’s teaching, which was certainly "the work of God." It was not
+"the same thing to fight against Münzer and against Luther." If it came
+to a test, this could be demonstrated by the effects of his prayer
+against the Duke. "I regard my prayer and that of my followers as more
+powerful than the devil himself, and if that were not true, things would
+long ago have gone differently with Luther; even though people do not
+yet observe and notice the great miracle which God has wrought in
+me."#footnote[Erl. ed., Vol. LIII, pp. 338 (#emph[Briefwechsel];, V, p.
+281).]
+
+A few days later Luther received a reply from Duke George, which showed
+him that his plea had failed to make an
+impression.#footnote[#emph[Briefwechsel];, V, pp. 285 sqq. (December
+28).]
+
+In the very beginning of his reply, the Duke returns Luther’s compliment
+concerning the flatterers and hypocrites by inviting him to look for
+them "in those places where you are called a prophet, a Daniel, an
+apostle of the Germans, an evangelist." The prophets of old had "all
+been honest, truthful and pious men," whereas Luther was an apostate,
+surrounded by apostates. He (the Duke) would ever remain loyal to the
+Church, the rock of truth. There is no new Gospel. Luther pretends to
+have "pulled it forth from under the bench," but "it were better if it
+had remained there; for if you bring forth another such gospel we shall
+not retain a peasant \[in Christendom\]." "Your fruits cause us to
+entertain a great horror and aversion for your doctrine and gospels."
+"When have more sacrileges been committed by consecrated persons than as
+a result of your gospel? When was there greater spoliation of religious
+houses?" The severest censures are accumulated in the Duke’s reply. Thus
+he reproaches Luther for having "slanderously and scandalously"
+inveighed against the Roman emperor, "to whom we have sworn allegiance";
+for having revived all the errors of Hus and Wiclif and despised the
+councils of the Church; and for having "produced by his doctrines
+blasphemy of the Holy Eucharist, the most precious gift of God."
+Regarding the comparison between Luther and Münzer, he says, he is well
+aware that Luther is not Münzer, but "that God punished Münzer and his
+wickedness through us, should be a warning" to Luther. "We shall gladly
+allow ourselves to be used for this purpose as an unworthy instrument of
+God’s will."
+
+This unmistakable threat is supported by references to Luther’s
+activities in Wittenberg. The Duke points out that Luther had
+established there an asylum, a citadel for apostates, including such as
+belonged to his territory. All monks and nuns "who despoil our churches
+and cloisters," he says, "find a refuge with you." The wretchedness and
+misery of the fugitive nuns is evident. "Were there ever more fugitive
+monks and nuns than are now at Wittenberg? When were wives taken away
+from their husbands and given to others, as is now the case under your
+gospel? When has adultery been more frequent than since you have
+written: when a wife cannot become a mother by her husband, she shall go
+to another and bear offspring, which the husband is obliged to
+support?"#footnote[Cf. Erl. ed., Vol. XVI, 2nd ed., pp. 513 sq.] Lastly,
+Duke George mentions Luther’s marriage, which had but recently taken
+place. The devil, he declares, has seduced him through the sting of the
+flesh. He should have recourse to prayer, in order to free himself from
+the spell of Eve, who deceived him. If you were able to get along
+without a wife for a time in order to please man, why are you unable to
+do so for God’s sake? …Prostrate yourself at the feet of Christ, "then,
+by the grace of God, the monk shall be relieved of the nun." The writer
+recalls the judgment of God, "to whom you both have made a vow" to
+refrain from unchastity. On his part, he promises to pardon all the
+injuries inflicted upon him and volunteers to intercede for Luther "with
+our most gracious Lord, the Emperor," if he will return to his duty and
+to the Church.

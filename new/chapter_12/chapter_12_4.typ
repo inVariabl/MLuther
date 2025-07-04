@@ -1,0 +1,207 @@
+== Zwingli and the Controversy Regarding the Last Supper
+<zwingli-and-the-controversy-regarding-the-last-supper>
+In the celebrated controversy on the Eucharist which arose between
+Luther and the quick-witted Swiss reformer Zwingli, two characteristic
+traits of Luther are made manifest. In the first place, a more credulous
+tendency is discoverable in him, even to the extent of accepting the
+miraculous and incomprehensible features of the doctrine of the
+Eucharist, as contrasted with the subtlety to which Zwingli and his
+partisans, Oecolampadius and Bucer, inclined. Secondly, there is
+discernible that uncouth controversial method which seeks to put down an
+opponent by every available means of rhetoric, even if it be never so
+insulting, combined with most questionable arguments. In the thought of
+mankind, the Last Supper is usually enveloped by a divine peace. The
+Sacrament unites unto itself the souls of men by the strongest bond of
+union ever bestowed upon mankind. But now the holy table became the
+arena of a horrible quarrel which was to last for a number of years and
+led to a desecration of the pearl of Christian worship by the contending
+factions of the reformed religion.
+
+The controversy was not confined to the two protagonists, Luther and
+Zwingli, and their more intimate friends, but extended throughout
+southern Germany, Switzerland, and the neighboring countries.
+
+Zwingli, in virtue of his rationalistic conception of history, as set
+forth in a letter written in 1524 to Alberus, in his "Commentary on True
+and False Religion," in which he discussed the words by which Christ
+instituted the Holy Eucharist, had professed the following proposition:
+"The Lord understands by bread and eating nothing but the gospel and the
+faith …He absolutely does not speak of any sacramental food." The
+consecrated species, according to his idea, are only a symbol of Christ,
+of His testament and His grace; there is no Real Presence, which reason
+could not comprehend and which appears contradictory, since the Body of
+Christ can be only in one place, namely, in Heaven, at the right hand of
+His Father, and not wherever the Lord’s Supper is celebrated.
+
+The literary controversy with Zwingli was taken up on the Lutheran side
+by Bugenhagen, whereupon Oecolampadius espoused the cause of Zwingli by
+‘his denial of the Real Presence. Luther had on a former occasion
+defended his teaching on the Eucharist against Karlstadt and the
+"fanatics" and now repeatedly expressed himself against Zwingli, whose
+bold attacks on the Eucharist filled him with indignation. He
+persistently classified Zwingli among the "fanatics," though Zwingli had
+openly declared himself opposed to the views of Karlstadt. Hence, when
+Zwingli, in his "#emph[Amica Exegesis];" (1527), renewed and intensified
+his opposition to the doctrine of the Eucharist as formulated by the
+Wittenberg divines, Luther drew his sword against his rival of Zurich by
+means of a violent polemical tract entitled, “That the Words: "This is
+my Body’ are Still Firmly Established."#footnote[Weimar ed., Vol. XXIII,
+pp. 64 sqq.; Erl. ed., Vol. XXX, pp. 14 sqq.–On the history of the
+controversy cf. W. Köhler, #emph[Zwingli und Luther; ibr Streit über das
+Abendmabl nach seinen politischen und religiösen Bezichungen];, Vol. I,
+Leipsic, 1924.] Zwingli replied in a tract which bore the scarcely less
+vigorous title, "That These Words …Shall Retain Their Same Ancient
+Significance Forever."
+
+Luther at last determined to put an end to the controversy by means of a
+final tract, which he entitled, "Profession of the Lord’s Supper"
+(1528).#footnote[Weimar ed., Vol, XXVI, pp. 261 sqq.; Erl. ed., Vol,
+XXX, pp. 151 sqq.]
+
+This tract is not merely a summary and expansion of the reasons which he
+had hitherto advanced against the "abominable heresy" of the "three
+leaders of the Sacramentarians," Karlstadt, Zwingli, and Oecolampadius,
+as well as the Silesian Schwenckfeld; but it is at the same time a
+solemn profession of faith, to which he is resolved to adhere with
+increased firmness, now that its articles have been imperiled by the
+Sacramentarians. He analyzes these articles, commencing with that "on
+the divine Majesty, on the Father, the Son and the Holy Ghost." The
+earnestness with which he discusses this article is touching. In this
+part of his work he is also desirous of marking his attitude towards the
+Catholic Church. He condemns her doctrine of free-will and sin,
+represents the Mass as an abomination exceeding all other abominations,
+rejects the invocation of the saints, and, relative to the Zwinglian
+iconoclasts, asserts that, according to Holy Writ, sacred images are
+"very useful;" finally, he contends that the Church consists in the
+communion or assembly of all Christians without a hierarchy.
+
+This so-called "Great Profession" made no impression upon the opponents
+of Luther. Zwingli and Oecolampadius jointly published a sharp reply.
+Luther, however, reverted only incidentally to the great question of the
+Eucharist, until the memorable debate between him and Zwingli at
+Marburg.
+
+It cannot be denied that his presentation of the case against his Swiss
+rival possesses certain merits in spite of obvious defects and the
+injection of personalities. The necessity of adhering to the simple,
+literal meaning of the words of institution is demonstrated by splendid
+arguments and with convincing clarity. The obligation of believing
+religious truths that transcend human reason is emphasized in inspiring
+words. If, he says, Christ after His Resurrection passed through closed
+doors, then His glorified body in the Eucharist is not bound by the
+ordinary laws of nature, and it is simply a question of submitting one’s
+intellect to the plain words of the Almighty. He triumphantly appeals to
+the unequivocal belief of the Church in the real presence, which she has
+held since the primitive period of her existence. In these pages he is
+animated by the faith which he had received in the days of his childhood
+and nurtured during his long monastic career–a faith that resounds in
+the sonorous verses of the #emph[Lauda Sion] of St. Thomas Aquinas:
+"#emph[Quod non capis, quod non vides, animosa firmat fides praeter
+rerum ordinem.];" He pretends to have gained a most intimate conviction
+of the real presence of Christ by personal experience, nay, even to have
+been instructed in this truth by angels.
+
+A comparison between the two antagonists reveals the fact that both are
+guilty of monstrous theological errors. Luther stands on Biblical ground
+with only one foot as it were; his head is enveloped by theological and
+philosophical clouds which completely obscure the truth. As regards his
+demonstration from the Bible, he hesitates to make a logical application
+of the literal interpretation. He rejects the Catholic doctrine of
+transubstantiation and contends that the body of Christ is
+simultaneously present with the bread. His arbitrariness is manifested
+in his denial of the sacrificial character of the Eucharist as
+maintained in the Bible.
+
+In the theological and philosophical discussions of the past, this
+sacred mystery, in as far as it was accessible to human reason, was
+expressed in clear formulas. These Luther, because of his contempt for
+Scholasticism, rejected as the product of "sophists." As a result, he
+founders in his attempt to escape the objections of Zwingli, as when,
+#emph[e.g.];, he asserts that the body of Christ is at the throne of
+God, but also participates in the divine omnipresence, so that it is
+found everywhere throughout the universe (ubiquity), and, hence, also in
+the Eucharist.#footnote[Erl. ed., Vol. XXX, p. 67.] The important thing
+is, he says, that Christ, in virtue of a special promise, desired His
+presence to be tangible to us somewhere, and this precisely in the
+Eucharist. In Luther’s opinion this "special promise" of Christ as
+regards the Eucharist resides in His intention to strengthen our faith
+through the Sacrament and thus to mediate our salvation. Nevertheless,
+he maintains that infidels actually receive Christ when they receive the
+Eucharist.
+
+Zwingli objected that, according to Luther’s doctrine, the Sacrament
+does not constitute a thing #emph[sui gemeris];, since there are other
+and even more effective means of confirming faith in the divine
+promises, and therefore a superfluous miracle is postulated. Luther can
+only meet this objection by asserting that in the Eucharist the
+remission of sins, which is effected in a general way by the preaching
+of the Gospel, is personally imputed to each individual. His main object
+is to uphold his contention that the Sacraments do not sanctify #emph[ex
+opere operato];, as taught by the Catholic Church.
+
+Zwingli is equally arbitrary. It would be a most disagreeable task to
+follow up this controversy in detail. Frequently one does not even know
+to what extent both parties are sincere in their assertions, so much are
+their assertions involved in contradiction. Thus Luther does not approve
+of the expression that Christ suffered for us only in His human mature,
+for the reason that this might cast doubt upon the doctrine of the two
+natures in Christ. Julius Köstlin, the Protestant biographer of Luther,
+says that, as regards the controversy about the Eucharist, one is
+"justified in asking whether Luther really understood what he
+maintained; especially whether he had a definite and clear idea of what
+we call the distinction between real and merely dynamic
+presence."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II, pp. 100
+sq.]
+
+The style in which this, the sublimest doctrine of the Christian
+religion, is treated by the two leaders of the new theological systems
+is anything but edifying. Ridicule, animosity, and misrepresentation
+alternate with one another. Each is determined to remain master of the
+situation and to capture the reader. How differently the same theme is
+treated by the defenders of the Catholic doctrine of the Eucharist, as,
+for instance, the scholarly Bishop Fisher of Rochester in his Latin
+treatise, "On the Truth of the Real Presence" (Cologne, 1527).
+
+Luther says that either his antagonists, above all Zwingli, or he
+himself and his followers are servants of the devil; no other
+alternative exists. Satan, he asserts, has crept into the Bible, which
+he (Luther) had once more drawn from under the bench, and now produces
+rubbish and winks his eyes, insinuating that Baptism, original sin, and
+Christ are of no consequence. Zwingli’s objections are dictated by a
+"desperate black devil" and his interpretations of Luther’s words are
+"impudent lies."
+
+The leaders of the "Sacramentarians," he declares, are not persuaded of
+the truth of their cause; in fact they cannot be, but must sincerely
+regret (as he undertakes to demonstrate) that they began the quarrel.
+But the devil is determined to be victorious.
+
+"Whoever is willing to be warned, let him beware of Zwingli and avoid
+his books as he would the poison of the infernal Satan; for that fellow
+is thoroughly perverse and has lost Christ completely."
+
+In discussing Zwingli’s objection to Christ’s being seated at the right
+hand of God, he mockingly speaks of the cope which Christ must wear in
+Heaven, and asks whether all creatures are not there simultaneously with
+Him, "such as lice and fleas, that infest the monk’s cowl." His opponent
+replies with undignified acerbity that he is not in need of the
+phantasmagorical heaven of Luther, nor does he want his cowl or dog’s
+hood; Luther should take them home and deck himself out in them.
+
+Such were the depths of triviality to which these controversialists
+descended. Nevertheless Zwingli assures his readers that he did not
+intend to berate Luther with such "unrestrained language" as the latter
+employed to insult him, but that he abstained from the use of such
+invectives as "fanatic," "devil," "scoundrel," "heretic," "contumacious
+fellow," "blockhead," etc. Indeed, his tone is more moderate in the
+beginning of his argument and somehow betrays the cultured humanist.
+Eventually, however, he repays Luther in his own coin and uses an
+uncouth, Swiss-German dialect.
+
+In the interests of decency, especially of religious decency, it was
+well that Luther made no further reply after his "Great Profession," but
+left the matter where it was by saying that "it was not the proper thing
+for him to concern himself any longer with the doltish replies and
+idiotic performances of his opponents."#footnote[#emph[Ibid.];, p. 102.
+Most of the passages cited above appear in Köstlin-Kawerau, #emph[op.
+cit.];]

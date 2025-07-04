@@ -1,0 +1,184 @@
+== After Luther’s Death
+<after-luthers-death>
+The glorification of Luther by his biographers deserves a special
+treatment on account of its after-effects.
+
+Among the earliest biographies, or rather the attempts at such, which
+were destined to establish the fame of Luther, mention must be made of
+the biographical sketch which Melanchthon published at the beginning of
+the second volume of Luther’s Latin works, which appeared in 1546. The
+writer either closed his eyes to the defects of Luther’s character, or
+excused them. In his admiration of Luther’s greatness, he completely
+forgot the pique which he suffered at his hands.
+
+John Mathesius, an enthusiastic disciple of Luther, but of no pronounced
+talent, while pastor of Joachimstal in Bohemia, delivered a series of
+sermons on Luther which were crammed with historical and unhistorical
+assertions–"pious panegyrics," as they are properly styled by the
+Protestant historian William Maurenbrecher. In his eagerness to edify
+his hearers, Mathesius disregarded the facts. His sermons appeared in
+print at Nuremberg, in 1566, twenty years after Luther’s death, under
+the title, "Historien von des ehrwirden in Gott seligen thewren Manns
+Gottes Doctoris M. Lutheri Anfang, Lehr, Leben und Sterben." Due to
+their popular style, they have enjoyed a wide circulation up to the
+present time.
+
+In the same year, John Aurifaber, one of the witnesses of Luther’s
+death, published at Eisleben his "Colloquia oder Tischreden" of Luther,
+to which we have already adverted. The preface, addressed to the
+"imperial cities of Strasburg, Augsburg, Ulm, Nuremberg," etc.,
+eulogizes Luther as "the venerable and highly enlightened Moses of the
+Germans." The contents of this work, partly entertaining and partly
+instructive, display a popular and rather blunt style and wielded an
+incredibly powerful influence on the masses and thereby confirmed the
+domination of Luther over many minds. Others, notably Stangwald (1571)
+and Selnecker (1577), were inspired by Aurifaber’s success to issue
+similar publications.#footnote[On these and other biographers of Luther
+see Grisar, #emph[op. cit.];, Vol. VI, pp. 388 sqq.]
+
+Cyriacus Spangenberg, a fanatical admirer of Luther, composed a book
+entitled, "Theander Lutherus," which was divided into sermons. The
+principal title is followed by a high-sounding, lengthy subtitle, which
+enables one to infer the tendency and worth of the whole work. In this
+subtitle Luther is called "the esteemed man of God," "a prophet," "an
+apostle," and "an evangelist," "the third Elias," "the second Paul," and
+"the true John," "a most excellent theologian," "the angel of the
+Apocalypse," etc. These sermons, delivered at Mansfeld in 1562, first
+appeared separately, but were afterwards published in a collective
+edition (1589). They did not, however, attain to the popularity of
+Mathesius’ "Historien."#footnote[#emph[Ibid.];, p. 391.]
+
+Flacius Illyricus, a professor at the University of Wittenberg, and
+Nicholas Amsdorf, were two of the most enthusiastic champions of Luther,
+who achieved eminence not by writing biographies of their hero, but by
+eulogizing and battling for him. Thus Flacius, in his book on "The Marks
+of the True Religion" (Magdeburg, 1549), treated of the mark of
+sanctity, which he discovered not only in the doctrines of his deified
+master, but also in his extraordinarily pious life, abounding in
+examples of Christian virtue. Amsdorf, likewise, describes Luther as a
+saint, the equal of St. Paul. He maintains that Luther was "raised by a
+special grace and given to the German nation." He strongly stresses his
+German nationality. By laying emphasis on Luther’s patriotism, efforts
+were put forth at a very early date to persuade the "German nation" of
+its obligation to honor its great leader. German nationality, German
+customs, and German patriotism were made to serve as effective levers to
+raise the figure of Luther to a high pedestal.
+
+However, the authors just mentioned, like many later eulogists of
+Luther, cannot avoid painful references to the serious schisms and
+counter-currents of the time. Many theologians and preachers differ in
+their teaching from the so-called orthodox or Gnesio-Lutherans, without
+ceasing to extol Luther. Amsdorf complains about these "pretenders to
+wisdom," Flacius Illyricus fulminates against them as "apostates." Many
+were persecuted by the inflamed theologians of the new religion.
+Mathesius is alarmed at seeing "all sorts of impure and poisoned water"
+penetrating the "pipes of Wittenberg," through which the waters of life
+are dispensed.
+
+What Luther had frequently foretold came to pass after his death. The
+profound theological controversies that agitated the schools and
+churches soon entailed the intervention of the civil governments. The
+names used to describe the controversies (such as Osiandric, Majorite,
+Adiaphoristic, and Synergistic disputes) are reminiscent of movements
+that were as replete with theological contrasts as with passions and
+hatred.#footnote[#emph[Ibid.];, pp. 408 sqq.] How the Gnesio-Lutherans,
+and particularly Flacius and his followers, were singled out for attack,
+may be seen from a cannon in the fortress of Coburg, cast at that time,
+in which the favorite court-preacher is portrayed in the act of seizing
+an adherent of Flacius by the throat and strangling him. In electoral
+Saxony, the classic land of the Lutheran Reformation, Cryptocalvinism,
+so-called, gained the ascendancy under the Elector August, who became
+ruler in 1553. The representatives of this movement published a
+#emph[Corpus Doctrinae Philippicum];, extracted from the writings of
+Melanchthon, which deviated from the teaching of Luther. Although
+protected by the civil authorities, Melanchthon and the "Philippists,"
+as his followers were called, suffered much from the persecution of the
+Lutheran theologians.
+
+More tranquil times dawned only after "orthodox" Lutheranism had
+established its rule. The extravagant praises of Luther resounded
+everywhere during this period; but soon the Age of Enlightenment came
+and effected a considerable decline of Luther’s influence among scholars
+and the educated laity. The contradictory nature of his doctrines and
+their defects were more widely recognized and conclusions drawn from his
+premises which, while they were not illogical, would have been very
+unwelcome to Luther himself. Some even dared to criticize publicly the
+character and private life of the founder of Protestantism. Finally, the
+rise of the historico-critical method threatened to impair the esteem
+harbored for his doctrines and person. About the time of the centenary
+celebration of Luther’s birth (1883), however, a reaction favorable to
+his reputation set in among influential Protestants in Germany. This was
+due to various circumstances, not the least of which was aggravated
+opposition to a newly ascendant Catholicism. In conformity with modern
+ideas, Luther was now hailed as a champion of liberty and civilization,
+a guide to a new spiritual future, as well as the representative of the
+national ideals and customs of Germany.#footnote[Probably only a few
+individuals, however, regarded criticism as prohibited to such a degree
+as the author of a prominent jubilee book for 1917, who wrote: "After
+four hundred years, we do not feel justified in criticizing the shade of
+this great and singular man." But he admits that he "likes the Luther of
+the diet of Worms better than the Luther of the year 1545."]
+
+In the World War he was to be the hero of unadulterated and triumphant
+German tradition and inspiration; but the defeat of the Central Powers
+disappointed the audacious hopes of Lutheranism.#footnote[Cf. H. Grisar,
+#emph[Der deutsche Luther im Weltkrieg und in der Gegenwart];, Augsburg,
+1924.]
+
+In the meantime, especially since the revolution, the religion of Luther
+has, in many respects, assumed the role of a so-called "German religion"
+without dogmas. The Protestant churches, honoring his name as a symbol
+of their title, are actively engaged in securing their future under a
+new form, the former system of national churches having ceased to exist.
+Some laudably endeavor to preserve for Protestantism the positive
+Christian elements which Luther retained. In general, however, the
+religious Luther is relegated to the background. Though his admirers
+ought to consider him primarily as a religious innovator, they abandon,
+with striking unanimity, the religious phase, and, instead, celebrate
+Luther as a champion of modern culture. This became evident in 1917, at
+the time of the fourth centenary of the Reformation, and during the
+celebrations commemorative of that event in the ensuing years, such as
+that at Worms.#footnote[Grisar, #emph[Lutherstudien];, n. 1:
+"#emph[Luther zu Worms und die jüngsten drei Jahrbundertfeste der
+Reformation];," Freiburg, 1921.] A closer inspection of the voluminous
+scientific and popular literature of this period, and of the flood of
+published addresses delivered at the larger festival assemblies, elicit
+amazement at the thoroughness with which the historic Luther has been
+obliterated. His teaching is discarded as unimportant, and the highest
+aims of his life are tacitly treated as antiquated and obsolete. Public
+attention is directed to the excellence of his German style, the
+literary skill shown in his translation of the Bible, the popular appeal
+of his hymns, and, naturally, his alleged genuine
+"Germanism."#footnote[Grisar, #emph[Die Literatur des Lutherjubiläums]
+1917, #emph[ein Bild des beutigem Protestantismus];, in the
+#emph[Zeitschrift für kathol. Theologie];, Vol. XLII (1918), pp. 591–628
+and 785–814.] His undaunted courage was eulogized and his boast
+re-echoed throughout Germany: "No one, please God, shall awe me so long
+as I live."#footnote[Cf. Grisar, #emph[Luther];, Vol. VI, pp. 396 sqq.,
+where other similar passages are reproduced.] Just as though the moral
+value of the ends pursued, as well as the morality of the means
+employed, are not a necessary element in evaluating courage and
+perseverance! This very defiance which would assail heaven, the very
+quality of "superman," induced many admirers to refer to Luther as a
+great historical phenomenon. Most of them, however, base their
+admiration upon something quite different. Luther’s courage has begun to
+gain that unrestrained spiritual liberty which they desire to enjoy.
+Luther destroyed for his adherents the authority of the old Church. It
+is this destructive phase of his activity which makes him so important
+to our modern age. The freedom of the intellect which he won by his
+struggles, we are told, must be extended. Men must advance beyond the
+beginnings which he inaugurated, and strive for a more natural
+Christianity. In the attainment of this end Luther must be our guide.
+That is the slogan of the great majority of Protestant
+scholars.#footnote[According to Friedrich Loofs, #emph[Wer war Jesus?]
+(Halle, 1916, p. 216), "all learned \[Protestant\] theologians of
+Germany–even those who do not express themselves openly– are agreed that
+the ancient orthodox theology of the two natures in Christ cannot be
+maintained in its traditional form." Belief in the divinity of Christ is
+relinquished. "All systematic theologians are seeking new ways in
+Christology." (Cf. p. 180).] Luther’s responsibility for such a fate,
+which is tantamount to a disavowal of his life’s work, cannot be denied.
+And yet, with the aid of Lutheran propositions, #emph[i.e.];, a
+selection of his doctrines on the religion of Christ, reproduced in his
+own forceful language, it is possible to deliver a scathing indictment
+against the ever-increasing ranks of his admirers.

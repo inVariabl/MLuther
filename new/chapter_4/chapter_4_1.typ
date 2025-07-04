@@ -1,0 +1,69 @@
+== Interpretation of the Epistle to the Romans (1515–1516)
+<interpretation-of-the-epistle-to-the-romans-15151516>
+In none of his other Epistles does St. Paul penetrate so deeply into the
+questions of grace, justification, and election, as in his magnificent
+Epistle addressed to the Christians of Rome. Luther believed that this
+profound Epistle furnished the thread that would lead him out of his
+labyrinth. Disregarding the tradition of the Church concerning the
+meaning of the Epistle, he buried himself in its contents and brooded
+over its many mysterious expressions. For him the sacred document was to
+become the subject-matter of academic lectures with entirely new ideas.
+How often may he not have wandered up and down the venerable corridors
+of the monastery meditating on the significance of the words of the
+Apostle. His emaciated form may have become animated, his deep-set eyes
+may have flashed, as he imagined to discover in the Epistle to the
+Romans the desired solution of his problems. With ever-increasing
+confidence he imputed to the Apostle the ideas to which he was urged for
+the sake of the supposed quieting of his scruples. Simultaneously, an
+arsenal of new weapons against the self-righteous Pharisees within the
+Church seemed to open itself to him.
+
+St. Paul sets forth the idea that neither the observation of the law of
+nature nor that of the Mosaic law can justify man before God, but only
+the grace of God now revealed through the Gospel of Christ. In this
+exposition Luther erroneously discovered a denial of the natural powers
+of man and the sole causality of God in His creature—a doctrine utterly
+foreign to the Apostle’s mind. In the propositions on the grace of
+Christ, as set forth by Paul, he discovered an ascription of the merits
+of Christ equally foreign to the mind of the Apostle—a purely external
+imputation without works on the part of man. St. Paul discourses
+sublimely on the freedom of the Christian believer from the disciplinary
+law of Moses and on the freedom of the soul that is directed towards
+God. From this Luther inferred that the true Christian was free from all
+law and formulated for himself a contrast between the law and the Gospel
+which implied fatal consequences. The Apostle, again, paints a striking
+picture of the rejection of the Jewish nation from anterior secret
+decrees, which prove his notion of predestination to hell. In a similar
+way his lively imagination interpreted other doctrines of the Epistle,
+which he confidently undertook to explain, despite the fact that his
+deficient training rendered him incompetent for the task.
+
+He began to lecture on Romans in the second semester of 1515. We have
+his own manuscript of the lectures and a faithful copy of it, which is
+preserved in the Vatican Library. Fr. Henry Denifle, O. P., has the
+honor of having first edited extensive extracts from the Roman copy in
+1904. Four years later John Ficker published the original, the existence
+of which was till then unknown. It belongs to the Berlin Library.
+
+These publications were of inestimable advantage for the student of
+Luther. As contrasted with the numerous defective reproductions of these
+lectures previously circulated, we have here for the first time an
+authentic insight into the genesis and original form of Luther’s
+teaching. Since that day, investigators have been occupied with the task
+of analyzing and discussing these lectures. The principal outlines are
+clear, but there are differences of opinion with respect to various
+details. This is all the more natural, since Luther, when he delivered
+these lectures, was still undergoing a spiritual process of development.
+He sometimes contradicts his own views and retains various elements of
+Catholic thought which cannot be reconciled with his changed views. The
+opening sentences disclose the impulsive vigor with which he advances
+towards his new position. He commences by stating that St. Paul, in his
+Epistle to the Romans, was desirous of eradicating "all wisdom and
+righteousness" of the terrestrial man; that he wished to destroy, "in
+heart and marrow," all man’s works, even the best-intentioned and
+noblest, and all his virtues. Instead, he wished "to cultivate and
+glorify sin," that is, to describe the permanent hereditary sin of
+mankind, in order to set up an alien righteousness, #emph[i.e.];, the
+grace of Christ imputed to us by faith. In this manner, he says, St.
+Paul inculcates the doctrine of self-annihilation on the one hand, and,
+on the other, resignation to the sole causality and omnipotence of God.

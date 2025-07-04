@@ -14,6 +14,7 @@ The source pdf was obtained via the [Internet Archive](https://archive.org/detai
 * [grep](https://www.gnu.org/software/grep/), [sed](https://www.gnu.org/software/sed/manual/sed.html) - find and replace across multiple files
 * [neovim](https://neovim.io/) - text editor
 * [zathura](https://pwmt.org/projects/zathura/) - pdf viewer
+* [typst](https://github.com/typst/typst) - document system
 
 ## Fonts Used:
 * EB Garamond

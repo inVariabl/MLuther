@@ -1,0 +1,88 @@
+== Further Spread of the Religious Revolt
+<further-spread-of-the-religious-revolt>
+Unmindful of refutations, the new doctrine extended its conquests under
+the influence of a false evangelical liberty and through the forceful
+intervention of the secular authorities.
+
+In the city of Braunschweig (Brunswick), Bugenhagen, in the spring of
+1528, endeavored to strengthen the Lutheran religion, which had been
+introduced there by the magistrate. The magistrate of Hamburg forthwith
+summoned him to the latter city to accomplish the same object in the
+summer of 1529; after a period of intensive organization, he returned to
+Wittenberg, where Luther, notwithstanding his multifarious labors, had
+discharged the pastoral duties in place of Bugenhagen. At the
+solicitation of the town-council of Goslar, Amsdorf, while passing
+through Magdeburg, where he held a position as preacher, went to Goslar
+in the same capacity. Luther’s messengers had been originally banished
+from Lübeck, until the magistrate of that town recalled them. In
+January, 1530, Luther exhorted them to proceed with courage as well as
+caution.
+
+In Hesse and electoral Saxony, no less than in Nuremberg, Ulm, and
+Strasburg, Protestantism spread rapidly under the protection of the
+defensive League formed by the princes and rulers after the protestation
+of Spires. Ferdinand, the representative of the Emperor, was authorized
+by a law of the Empire to avenge by force of arms the manifest civil
+insubordination revealed in the progress of the new theology and the
+League. But nothing was done. Luther was content to issue a warning
+against the League, which had allied itself, in part, with Zwinglian
+elements; he also characterized the rebellion as a
+misfortune.#footnote[Cf. Erl. ed., Vol. LIV, pp. 72 and 79
+(#emph[Briefwechsel];, VII, pp. 101 and 110), on May 22 and at the end
+of May, 1529. But see #emph[infra] ch. XIV, no. 1; furthermore, Köstlin-
+Kawerau, M. Luther, Vol. II, p. 184, and Grisar, #emph[Luther];, Vol.
+III, pp. 44 sq., on Luther’s vacillating attitude relative to armed
+resistance.]
+
+In Pomerania, Lutheranism gradually gained ground under the patronage of
+Duke Barnim XI, who had studied at Wittenberg and remained in
+communication with Luther.
+
+Paul Speratus, who, having been condemned to the stake at Iglau because
+he had preached the new religion in Austria, was pardoned and became
+preacher at the court of Duke Albrecht of Prussia at Königsberg, and
+later (1530) so-called bishop of Pomesania, where he indefatigably
+preached the new gospel and combatted the Anabaptists and
+Schwenckfeldians.
+
+In the electorate of Brandenburg, Joachim I, the elector, vigorously
+excluded Lutheranism from his jurisdiction. His wife, Elizabeth, who had
+been captivated by the new theology, secretly escaped from Berlin to
+Torgau, and thence to the vicinity of Luther, who called her his "Madam
+Godmother." After the death of the vacillating Margrave Casimir, in
+1527, the Frankish-Brandenburgian territory was openly Protestantized by
+his successor, George, who, residing in Franconia, became one of the
+most active and influential Protestant princes.
+
+Several times Luther communicated directly with the adherents of the new
+theology in Livonia, which was subject to the Teutonic Order. Thus, in
+1523 and again 1524, he addressed letters to the Christians of Riga. In
+1525 he wrote an epistle "to the Livonians." In 1525, the inhabitants of
+Danzig requested him to send them a preacher. The movement was
+impetuous, but was suppressed for the time being by the King of Poland.
+
+In July, 1527, Gustavus Vasa forcibly introduced the new religion into
+the kingdom of Sweden; in doing so, he was "essentially influenced by
+political motives."#footnote[Thus Köstlin-Kawerau, #emph[M. Luther];,
+Vol. I, p. 625.]
+
+In Denmark, Christian II, who at that time also governed Sweden, had
+favored Lutheranism for political reasons, because he feared influence
+of the Catholic clergy. Having been banished Germany, he entered upon
+intimate relations with Luther. The latter, owing to his ignorance of
+human nature and because he hoped for a change in religion, supported
+him; however, Christian was not concerned with religion, but solely with
+the recovery of his crown. His successor in Denmark, King Frederick, was
+sincerely attached to the theological innovation, which, however,
+triumphed only during the reign of the despotic Christian III.
+
+On the basis of certain premature reports concerning Italy, which he had
+received from Gabriel Zwilling of Torgau, Luther wrote to him on March
+7, 1528: "I am delighted to hear that the Venetians have accepted the
+Word of God."#footnote[#emph[Briefwechsel];, VI, p. 222.] In this
+instance, as in the case of Christian II of Denmark, he deceived
+himself. For though the writings of Luther had penetrated Venice, and
+Italy in general, there was but a slight movement in favor of his cause.
+In Italy as well as in Spain, the sharp-sighted Inquisition took
+precautions to prevent the propagation of the new anti-ecclesiastical
+ideas.

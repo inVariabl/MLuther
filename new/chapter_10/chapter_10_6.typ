@@ -1,0 +1,292 @@
+== The Pen as Luther’s Weapon of Continued Attack
+<the-pen-as-luthers-weapon-of-continued-attack>
+Matrimony almost constantly engaged the attention of Martin Luther after
+he had divested it of the dignity of a Sacrament and Placed it on a
+level with ordinary civil contracts. It was imperative to devise new
+regulations in order to avoid a serious decline of morality. At the same
+time, in the eyes of the scrupulous, the unaccustomed liberty of
+Christian believers in this department of life had to be justified.
+
+In 1519, Luther published a sermon "On the Married
+State,"#footnote[Weimar ed., Vol. II, pp. 166 sqq.; IX, pp. 213 sqq.;
+Erl, ed., Vol. XVI, 2nd ed., pp. 60 sqq.] which he had to reedit in a
+revised edition, because of loud complaints against unbecoming language.
+He had permitted himself to go too far in his expressions, though to
+some extent the transcriber may have been to blame. The new and revised
+edition bore the title "Of Married Life" and was published in
+1522.#footnote[Weimar ed., Vol. X, p. 11, pp. 275sqq.; Erl. ed., Vol.
+XVI, 2nd ed., pp. 510 sqq.] In these pages, too, he treats of sexual
+intercourse with a strange freedom of language and in his accustomed
+fashion.#footnote[Cf., #emph[e.g.];, the coarse expressions quoted in
+Grisar, #emph[Luther];, Vol. III, pp. 250 sqq.] He declares that
+well-nigh all the obstacles or inhibitions to marriage devised by the
+popes were to be "repudiated and condemned." He shakes the foundation of
+the indissolubility of the marriage bond by allowing separation and
+remarriage in certain cases.
+
+This latter work contains a passage which has gained notoriety. Luther
+says that if the wife refuses to render the debitum without reason, the
+husband may use threatening language to this effect: "If you are
+unwilling, there is another who is; if the wife is unwilling, then let
+the maid come."#footnote[Grisar, #emph[Luther];, Vol. III, p. 253. On
+the occurrence of this expression prior to Luther, cf. the
+investigations of G. Buchwald in #emph[Beiträge zur Sächsischen
+Kirchengeschichte];, 1915, n. 29, Leipzig, 1916.] In case the wife
+persists in her refusal, "the marriage is dissolved," and the husband
+may "take an Esther to himself and let Vashti go, as King Assuerus did";
+he should let his wife "go to the devil" and, with the consent of the
+authorities, contract a new marriage.
+
+Because of such utterances, particularly the passage, "then let the maid
+come," Duke George of Saxony addressed indignant complaints to his
+representative in the diet, Dietrich von Werthern. The Catholic
+controversialists of the time often advert to it. Offense was taken not
+only at the elimination of the matrimonial tie, but naturally also at
+the implied permission of extra-matrimonial intercourse with the maid.
+The phrase, "if the wife is unwilling, then let the maid come," may
+possibly have been a proverbial phrase in usage among the uncouth
+peasant class, signifying intercourse outside of wedlock. Since,
+however, Luther otherwise always inveighs strongly and decisively
+against extra-conjugal intercourse, it may be that he did not intend
+this application of the brutal phrase, but merely gave free rein to his
+pen when he cited the expression.
+
+Luther’s work "Of Married Life,"taken in connection with his other
+writings and pronouncements, clearly reveals how widely he opened the
+door to the destruction of the conjugal tie. August Bebel justly
+observes: "With regard to marriage, he \[Luther\] develops astonishingly
+radical views."#footnote[Cfr. Grisar, #emph[Luther];, Vol. III, pp. 241
+sqq., and #emph[infra];, Ch. XVIII, n. 2.] To this category belongs
+Luther’s work on "The Seventh Chapter of St. Paul to the Corinthians" (1
+Cor. 7), published in the year 1523. In some passages this work is
+characterized by a license of language which approaches
+indecency.#footnote[Weimar ed., Vol. XII, pp. 92 sqq.; Erl. ed., Vol.
+LI, pp. 1 sqq.]
+
+In general, lack of restraint in speech is a prominent fault of
+Luther’s, arising from his endeavor to employ the language of the common
+people, wherein he was assisted by his descent from the peasantry. It is
+not true that he found low pleasure in sexual matters. His uncouth
+expressions are hardly ever employed for the sake of exciting the sexual
+passion, even though Modesty must often veil her countenance. He fairly
+wallows in the mire of base bodily functions, especially in his vigorous
+denunciation of his opponents. He liked to hurl the most vulgar filth
+into the faces of his enemies, after he had stirred it up with something
+akin to glee. He was excelled by no one in this respect either among his
+contemporaries or in the succeeding so-called age of frank utterance,
+yes, we may add, not even in the earlier centuries of the Middle Ages,
+which were not exactly noted for delicacy of speech. In this
+characteristic quality, he stands forth as a giant, even in his earlier
+writings, which are now under discussion. Later on, his dexterity
+increased in an astounding degree. The apologetical references of his
+defenders to the indelicate language of his age, therefore, are valid
+only in a very restricted measure. His contemporaries, his nearest
+friends are shocked at the filthy material which is at his disposal in
+his temperamental outbursts against his adversaries.#footnote[See my
+#emph[Luther];, references in the index, Vol. VI, v. "Abusive language,"
+"Unseemliness of Luther’s language."]
+
+King Henry VIII, of England, who was well versed in theology, violently
+attacked Luther as a heretic in 1521, in his "Defense of the Seven
+Sacraments," for which the Pope conferred upon him the title of
+"Defender of the Catholic Faith." Luther’s reply to Henry’s book (1523)
+was published in both Latin and German.#footnote[Weimar ed., Vol. X, II,
+pp. 180 sqq., 227 sq. #emph[Opp. Lat. Var.];, XI, pp. 385 sqq., and Erl.
+ed., Vol. XXVIII, pp. 343 sqq.] It abounds in vulgar attacks upon the
+King. In this work he says he wishes once more "to uncover the infamy of
+the Roman harlot" and declares "the harlot-countenance" of the king is
+brazen because of his defense of the "purple harlot of Rome, the drunken
+mother of impurity."
+
+This fool, he says among other things, this excrement of swine and
+asses, wishes to defile the crown of my heavenly King of glory with the
+filth of his body; but the dung must be cast upon him, who is nothing
+but a lying rascal and buffoon, a monstrosity of a fool.#footnote[Cfr.
+Grisar, #emph[Luther];, Vol. II, pp. 152 sqq.]
+
+With disgust the highly educated English chancellor, Thomas More, took
+cognizance of the filthy language in this and other Latin works of
+Luther. In a "Reply to Luther’s Calumnies," which he published in 1523
+under an assumed name, this eminent humanist wrote in a style which
+fortunately was not habitual with him: "\[Luther\] has nothing in his
+mouth but stench, filth and dung. These he scatters about him more
+abusively and obscenely than ever did churl …If he continues to
+cultivate this vituperative manner of speech and to talk of nothing else
+but cloaca, latrines and excrements, then may others do as they please;
+we shall turn our backs upon his filth and abandon him to his vile
+discharges."#footnote[The Latin text in Grisar, #emph[Luther];, Vol.
+III, p. 237, note 1. It concludes: "#emph[Capiemus consilium …sic
+bacchantem cum suis merdis et stercorib cacantem cactumque
+relinquere.];"]
+
+In this same work against King Henry VIII, Luther says: "Through me
+Christ has commenced His revelations concerning the abominations in the
+holy place." "I am certain that I have my dogmas from heaven," "but the
+devil tries to deceive me through Henry;" "God blinds the devil, that
+his mendacity is made manifest through me." The King, he says, proves
+the truth of the saying that there are no greater fools than kings and
+princes.
+
+One is compelled to ask, what demagogical effects such frenzied language
+was likely to produce in an agitated world, when the respect due to
+civil authority was trampled under foot even in such works of Luther as
+his treatise "On Secular Authority."
+
+Among the other polemical writings which Luther produced during these
+years mention should be made of his Latin work, "Against the Armed Man
+Cochlaeus," whom he ridicules as a combative knight because of his
+report of their interview at Worms and his defense of the
+Sacraments.#footnote[Weimar ed., Vol. XI, pp. 295 sq.; Opera Lat. Var,
+Vol. VII, pp. 44 sqq.] Cochlaeus, himself an effective controversialist,
+replied in a work that bore a no less poignant title, "Against the
+Cowled Minotaur of Wittenberg,"#footnote[Köstlin-Kawerau, #emph[M.
+Luther];, Vol. I, p. 644.] in which he seriously but unsuccessfully
+applies to Luther the legend of the abortive calf of Freiberg, claiming
+that it condemned him.
+
+In opposition to the canonization of Bishop Benno of Meissen, Luther, in
+1524, wrote his sermon "Against the New Idol and Olden Devil about to be
+set up at Meissen."#footnote[Weimar ed., Vol. XV, pp. 183 sqq.; Erl.
+ed,, Vol. XXIV, 2nd ed., pp. 247 sqq. Cf. Grisar, #emph[Luther];, Vol.
+V, pp. 123.] By means of this outrageous sermon he intended to
+counteract the favorable influence which the Catholic cause was likely
+to derive from the imminent canonization of the venerable Bishop Benno
+and his elevation as patron saint of Saxony, a project which was
+promoted by Duke George.
+
+Eager to increase his followers, Luther at that time also cast his eyes
+upon the Jews. He imagined that the Jews were inclined to favor him and
+could be attracted to his cause. What gain and glory if he should
+convert the people of Israel to the true Gospel! These ideas inspired
+his little treatise, "That Christ was Born a Jew."#footnote[Weimar ed.,
+Vol. XI, pp. 314 sqq.; Erl. ed., Vol. XXIX, pp. 45 sqq. Cfr. Grisar,
+#emph[Luther];, Vol. V, pp. 411 sqq.]
+
+In this work, published in 1523, he relies on the prophecies which
+foretell the conversion of the Jews at the end of the world. "God grant
+that the time is near at hand, as we hope." His desire to win over the
+Jews remained unrealized; his hatred of Judaism afterwards induced him
+to launch the most unheard-of attacks upon them.
+
+In the midst of his fretful and many-sided labors he yet found leisure
+to write works on social questions. His small tract against usury,
+published in 1519, and his "Great Sermon" of 1520 on the same subject,
+were followed, in 1524, by the publication of a pamphlet, "On Mercantile
+Trade and Usury."#footnote[Weimar ed., Vol. XV, pp. 293 sqq.; Erl. ed.,
+Vol. XXII, pp. 199 sqq. Cfr. Grisar, #emph[Luther];, Vol. V, pp. 79
+sqq.] His writings on usury, to which was added another work in 1540,
+testify to the active interest which he took in the moral aspects of the
+progress of trade and commerce occasioned by the discoveries and the
+more intimate intercourse between nations resulting from them. In his
+work "Von Kaufshandlung," he again prohibits the taking of interest.
+"Whoever lends in such wise as to receive more in return, is a public
+and condemned usurer." For the rest, this treatise contains many
+stimulating ideas and furnishes an insight into the conditions of the
+time. But the author undeniably goes too far in his demand that the
+existing commerical societies ought to be abolished. He lacked the
+necessary breadth of view and practical experience to pass judgment on
+such a question. The desire to represent the new doctrine as useful for
+a general reform was not sufficient, and Scriptural passages, especially
+from the Old Testament, could not be generalized so as to apply to all
+times and conditions.
+
+Luther’s modern admirers have highly praised one of his works, written
+to improve the condition of the schools. It is entitled "To the Aldermen
+of all the Cities of Germany, that They Should Establish and Maintain
+Christian Schools,"#footnote[Weimar ed., Vol. XV, pp. 27 sqq.; Erl. ed.,
+Vol. XXII, pp. 168 sqq. Cfr. Grisar, #emph[Luther];, Vol. VI, pp. 3
+sqq.; also my article on "Luther" in the #emph[Pädagogisches Lexikon];,
+new edition by Roloff.] the emphasis being on the word
+"#emph[Christian.];" This appeal was occasioned by the observation that
+his cause was injured by the deterioration of the schools resulting from
+the religious controversy he had started. It was his intention, as he
+himself expressly confessed, to obtain the necessary spiritual and
+secular forces for the promotion of his Gospel by re-establishing
+Christian schools, #emph[i.e.];, schools in which the new religion was
+inculcated. Besides practicable suggestions regarding education, the
+pages of this work are burdened with inconceivably crass accusations
+against the educational policy of the ancient Church, on which he wishes
+to inflict a mortal wound in the name of education by means of the
+Scriptures.
+
+It was impossible for Luther, in discussing such questions as the nature
+of trade and education, to abandon the controversial narrowness which
+marked his ecclesiastical position.
+
+In his literary activity, his predilection was Holy Writ. He provided
+the books of the New Testament which he translated into German with
+prefaces that characterize his standpoint in regard to the Bible and
+theology. The most significant thing in the latter regard is his preface
+to the Epistle to the Romans. It is little less than an epitome of his
+theological teaching, especially as it centers around the idea that St.
+Paul condemns "the entire ulcerous and reptilian complex of human laws
+and commandments which drowns the world at present" and teaches the
+doctrine of justification by faith alone. #footnote[See the conclusion
+of the preface to Romans, 1522. Cfr. Erl. ed., Vol. LXIII, pp. 7 sqq.
+for a collection of Luther’s prefaces] His general preface to the New
+Testament is equally noteworthy, as it emphasized that those portions of
+the Scriptures are the best which show "how faith in Christ gives life,
+justice, and happiness." Hence his preference for "the Gospel of St.
+John and his first Epistle, the Epistles of St. Paul, particularly those
+addressed to the Romans, the Galatians, and the Ephesians, and the first
+Epistle of St. Peter; these are the books which reveal Christ …They
+advance far beyond the three Gospels of Matthew, Mark, and Luke
+…Compared with them, St. James’ Epistle is an epistle of straw, since
+there is nothing evangelical about it."
+
+In this manner his criticism of the Bible proceeds along entirely
+subjective and arbitrary lines. The value of the sacred writings is
+measured by the rule of his own doctrine. He treats the venerable which
+are doubtful, and which are to be excluded. At the same time he
+practically abandons the concept of inspiration, for he says nothing of
+a special illuminative activity of God in connection with the writers’
+composition of the Sacred Book, notwithstanding that he holds the Bible
+to be the Word of God because its authors were sent by God. As is well
+known, during the age of orthodox Lutheranism its devotees fell into the
+other extreme by teaching so-called verbal inspiration, according to
+which every single word of the Bible has been dictated by God. Catholic
+theology has always observed a golden mean between these extremes.
+
+Luther always adhered essentially to his opinion of the Epistle of St.
+James as quoted above.#footnote[Cfr. Grisar, #emph[Luther];, Vol. V, pp.
+521 sqq.] Relative to the other Biblical writings, his most striking
+assertions will be considered in the sequel. Even at the Leipsic
+disputation he had maintained that the second book of Maccabees did not
+belong to the canon simply because of the difficulty presented by the
+passage quoted by Eck concerning Purgatory and prayers for the
+departed.#footnote[Ibid.] Later he simply excluded the so-called
+deutero-canonical books of the Old Testament from the list of sacred
+writings. In his edition they are grouped together at the end of the Old
+Testament under the title: "Apocrypha, #emph[i.e];, books not to be
+regarded as equal to Holy Writ, but which are useful and good to read."
+Under this title the Lutheran Bible retains the following arrangement
+even to the present day: Judith, Wisdom, Tobias, Ecclesiasticus, Baruch,
+Maccabees I and II, parts of Esther and of Daniel. Luther’s New
+Testament is somewhat more conservative. After the Gospels, the Acts of
+the Apostles, and the Epistles, it contains the Epistles to the Hebrews,
+those of St. James and St. Jude–three epistles which Luther carped
+at–and, lastly, the Apocalypse of St. John.
+
+It is a fact that must not be overlooked that the parts of the Bible
+which Luther retained were taken over from the tradition of the past. By
+way of exception and as a matter of necessity, he thus conceded the
+claims of tradition. Though otherwise opposed to it, he took it as his
+guide and safeguard in this respect without admitting the fact. Thus his
+attitude towards the Bible is really burdened with "flagrant
+contradictions," to use an expression of Harnack, especially since he
+"had broken through the external authority of the written word" by his
+critical method.#footnote[Cfr. Grisar, #emph[Luther];, Vol. IV, pp. 403
+sq.] And of this, Luther is guilty, the very man who elsewhere
+represents the Bible as the sole principle of faith!
+
+If, in addition to this, his arbitrary method of interpretation is taken
+into consideration, the work of destruction wrought by him appears even
+greater. The only weapon he possessed he wrested from his own hand, as
+it were, both theoretically and in practice.
+
+His procedure regarding the sacred writings is apt to make thoughtful
+minds realize how great is the necessity of an infallible Church as
+divinely appointed guardian and authentic interpreter of the Bible.
+Deprived of the guidance of the Church, with subjectivism as his
+lodestar, Luther trod the path that led to an independent religion
+severed from divine revelation and therefore without foundation.

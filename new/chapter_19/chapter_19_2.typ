@@ -1,0 +1,228 @@
+== "Consecration" of the Bishop of Naumburg and Dedication of the Church at Torgau
+<consecration-of-the-bishop-of-naumburg-and-dedication-of-the-church-at-torgau>
+The manner in which Luther at that time intended to proceed with the
+installation of bishops for his churches, was exemplified in the
+celebrated case of the "consecration" of Nicholas Amsdorf as
+"Evangelical bishop" of Naumburg.#footnote[For the following see Grisar,
+#emph[op. cit.];, Vol. V, pp. 192 sqq.]
+
+The legitimate bishop of this city, Philip, palsgrave of the Rhine and
+duke of Bavaria, had died in 1541, after exposing his people entirely
+too much to the infiltrations of Protestantism. The selection of a
+successor precipitated a crisis, owing to the arbitrary and violent
+measures taken by the elector, John Frederick of Saxony, who was
+resolved upon obtaining possession of this ancient and wealthy
+bishopric. The see of Naumburg was directly subject to the imperial
+government and enjoyed the personal protection of the emperor. The
+elector’s powers were limited to certain privileges of arbitration.
+After Bishop Philip’s death a Lutheran preacher, Nicholas Medler, in
+compliance with the elector’s instructions, began to function as
+"superintendent of Naumburg" and to deliver sermons in the cathedral.
+Soon after the admirable and scholarly provost, Julius von Pflug, was
+legitimately elected by the chapter. The elector forcibly prevented
+Pflug from entering upon his new office. He prosecuted the conquest of
+the city and the territory with such vehemence that his procedure seemed
+rash even to the Wittenberg theologians. Luther wrote to the elector:
+"What cannot be carried off openly, may be won by waiting." Pflug,
+however, was not recognized as bishop by the Wittenbergers, who at first
+intended to erect only a Lutheran consistory in the city of Naumburg,
+but changed their mind and favored the appointment of a new bishop by
+the elector. Up to this time, no steps had been taken anywhere in
+Germany towards the direct installation of a Protestant bishop.
+Melanchthon in particular hesitated to go to such lengths, as his
+"Wittenberg Reformation" evinced.
+
+The curious procedure at Naumburg remains practically an isolated case.
+
+Luther and his friends wanted to force the issue by the election of
+Prince George of Anhalt, canon of Magdeburg and Merseburg, who shared
+the Wittenberg views. The elector, however, feared that, owing to his
+position, this prince might not prove an easy tool in his sovereign’s
+hands. Not until 1545 did Prince George attain to the "episcopal
+dignity," when Luther "consecrated" him bishop of Merseburg, which see
+had been occupied in 1541 by August, the brother of Duke Maurice of
+Saxony, and had since then been governed by George as spiritual
+administrator. The "consecration" of Prince George of Anhalt, besides
+that of Amsdorf at Naumburg, was the only act of the kind which Luther
+performed.#footnote[#emph[Ibid.];, pp. 193 sq.]
+
+In lieu of George von Anhalt, the Saxon elector destined Nicholas von
+Amsdorf for the see of Naumburg. Amsdorf at the time was actively
+engaged in preaching Luther’s doctrine at Magdeburg. Luther thoroughly
+approved of the appointment and eulogized Amsdorf in a letter to the
+elector as "learned and proficient in Holy Scripture, more so than the
+whole crowd of papists; also a man of good morals and upright life."
+Melanchthon was not so favorably disposed towards this hot-blooded
+theologian, nor did he approve of his conduct, but charged him with
+having had adulterous relations with the wife of his deacon at
+Magdeburg.
+
+In order to give the proceedings connected with the "consecration" the
+Protestant councillors of at Naumburg a semblance of legitimacy, that
+city and of Zeitz, and the Protestant members of the gentry, were asked
+to vote for Amsdorf. Many of them had sworn everlasting fidelity to the
+Catholic Chapter under the former bishop. Luther solved their scruples
+by advising them that no oath taken by the sheep to the wolves could be
+of any account, and that "no duty could be binding which ran counter to
+God’s commandment to do away with idolatrous
+doctrine."#footnote[Köstlin-Kawerau, #emph[Martin Luther];, Vol. II, pp.
+554 sq.]
+
+On January 20, 1542, Luther himself "consecrated" the new Protestant
+"bishop" in the sacred precincts of the cathedral of Naumburg. This
+magnificent structure, one of the most beautiful medieval cathedrals of
+Germany, a noble type of the later Romanesque and Gothic style, was
+begun as early as 1045 under Bishop Cadalus, and through the mouths of
+its numerous and wonderful statues of saints and pious princes seemed to
+utter a loud protest against the unheard-of proceedings within its
+walls. Many guests of high rank assembled in the choir between the
+magnificent rood-loft, with its richly ornamented passages, and the
+altar. The elector had arrived two days previously, accompanied by an
+escort of 200 mounted knights, all clothed in black. At his side were
+his brother, John Ernest, and Duke Ernest of Brunswick. The councillors
+and knights of Zeitz and Naumburg acted as electors and witnesses. In
+response to an address by Nicholas Medler, they signified their choice
+in the name of the congregation, to which the people assented by saying
+"Amen." Luther deemed it very important to emphasize on this occasion
+his old idea of the importance of the congregation in contrast with the
+arbitrary action of the elector. The entire ceremony was to proceed in
+accordance with the example of the earliest centuries of the Church, in
+which the bishop, as it were, married the congregation of the faithful
+who had elevated him. The accompanying ancient rites, however, were
+omitted; above all the transfer of legitimate ecclesiastical
+jurisdiction to the new "bishop." In place of the neighboring bishops
+who, in conformity with the practice of antiquity, were wont to
+participate, three superintendents and an apostate abbot were invited to
+perform the rite of the laying on of hands. Melanchthon, in his usual
+weakness, had also complied with the summons to be present.
+
+Luther preached to the superintendents of the Church on the text of St.
+Paul, where he teaches that "the Holy Ghost hath placed you bishops to
+rule the church of God." After the sermon Amsdorf knelt before the
+altar, surrounded by the four assistants, and the "Veni Creator" was
+sung. Luther reminded the future bishop concerning his episcopal duties,
+and on the latter giving a satisfactory answer, in common with the four
+others, he laid his hands on his head; after this Luther alone offered a
+prayer for him. This was followed by the "Te Deum," sung in German. The
+"consecration" took place in a manner similar to the ordination of
+preachers, namely, by imposition of hands and prayer.
+
+Shortly after the ceremony Luther wrote to a friend that it was "a
+daring act" on the part of the "Heresiarch Luther," which "will arouse
+much hatred, animosity, and indignation against us"; and that he was
+hard at work "in hammering out a book on the subject."#footnote[Grisar,
+#emph[Luther];, Vol. V, p. 195.] This book was to justify the
+"consecration" at Naumburg and to present the procedure as a model. It
+was composed at the request of the elector and appeared in 1542, under
+the title #emph[Exempel, einen rechten christlichen Bischof zu weiben]
+(Example How to Consecrate a Genuine Christian Bishop). In many respects
+it is opposed to the cautious and mild "Wittenberg Reformation," which
+knows naught of such an "example of how one might wish to reform
+bishoprics and organize bishoprics in a Christian manner." Luther states
+in this book that the new bishop was ordained "without any chrism,
+without even any butter, lard, fat, grease, incense, charcoal, or any
+such-like holy things." He dismisses his opponents with insolent
+remarks, even resorting to language borrowed from the category of human
+evacuations, and adduces in the following form a list of Catholic
+apologists: “Doctor Sow (Eck), Witling, Blockhead, Dr. Dirtyspoon
+(Cochlaeus), Lick-dish, Urinal, Heinz, Mainz, etc. Extensive
+repetitions, moreover, are characteristic of the book. Luther had
+evidently overwritten himself. His disgust with life, due to bad health,
+the forerunner of his fatal sickness, spoiled his work.
+
+In his later correspondence with the new "bishop," Luther refers to
+Amsdorf’s bitter complaint that practically nothing was being done by
+the elector to establish order in the ecclesiastical régime of Naumburg.
+Luther bewailed with him that the government "so often take rash steps,
+and then, when we are down in the mire, snore idly and leave us in the
+lurch."#footnote[#emph[Ibid.];, p. 197.] "All Germany," he says,
+"presents a terrible scene of demoralization and decadence."
+
+It is Christ’s business to see to this,” he writes on another occasion,
+"since He Himself by His Word has called forth so much evil and such
+great hatred on the part of the devil." In a pseudomystical strain he
+consoles himself and Amsdorf by reflecting that it would be safest to
+allow oneself to be "carried along" by the guidance of God, who has
+created the bishop and disposed everything that has happened. "The
+blinder we are, the more God acts through us." We can only look forward
+hopefully to the end of the world.
+
+Amsdorf, the whilom Catholic priest, found little pleasure in his
+episcopal status. He and his preachers received but a meager sustenance.
+Soon after Luther’s death he was deposed as a result of the decisive
+victory of the imperial forces over the Schmalkaldic League.
+
+He had to retire to Magdeburg, where he did his best to develop that
+city into a strong citadel of ultra-Lutheranism. In Magdeburg he also
+wrote his notorious book: "That Good Works are Injurious to
+Salvation."#footnote[#emph[Ibid.];, p. 198.]
+
+Due to the change of events that followed the battle of Mühlberg, in
+which the Protestant forces were defeated, the venerable cathedral of
+Naumburg once more decked itself out in festive garments to welcome its
+legitimate bishop, Julius von Pflug. But the bishopric had been
+Protestantized, and Catholics were permitted to celebrate divine service
+only in the cathedral at Naumburg and the collegiate church of Zeitz. A
+painting in the cathedral, though unfortunately much damaged, preserves
+the features of the noble Bishop Pflug, who, after a life replete with
+hardships and disappointments, died in 1564 and was interred in Zeitz.
+He was particularly saddened by his experiences with the Augsburg
+Interim of 1548, in the drafting of which he had participated. Pflug’s
+expectation of obtaining papal consent to sacerdotal marriages and the
+lay-chalice, for the sake of reconciling the non-Catholics, proved
+futile. Other remedial measures were necessary. It pained him to see how
+many members of his clergy lived in concubinage in this era of mental
+and moral confusion–a fact that explains the propositions which he
+himself and others submitted for the sake of obtaining far-reaching
+concessions from the Holy See.
+
+After having been so successful in seizing the bishopric of Naumburg,
+the elector of Saxony sought to obtain control of that of Meissen also.
+Luther and Amsdorf assisted him in this undertaking. In consequence, a
+feud (known as the "Wurzer Fehde," after the town of Wurzer) arose
+between him and the youthful Duke Maurice of Saxony, an adherent of the
+new religion.#footnote[On the "Wurzer Fehde" and Luther’s attitude
+toward the same see Grisar’s #emph[op. cit.];, Vol. V, pp. 200 sqq.] In
+order to terminate the controversy, both parties agreed to divide the
+spoils. The elector appropriated that part of the bishopric which lay
+about Wurzen, which he forthwith Protestantized, whilst the remaining
+part, including Meissen, fell to Duke Maurice, who also exercised
+violence in religious matters. Both in Meissen and in Wurzen treasures
+of Catholic art were removed from the churches and dissipated with that
+brutal barbarity which was employed against so many churches abounding
+in rare and noble works of art.#footnote[For illustrations see Grisar,
+#emph[op. cit.];, Vol V, pp. 203 sqq.; II, 352 sq.; Vol. IV, p. 196;
+Vol. VI, 277 sq.] In his feud with the elector, Luther denounced Maurice
+of Saxony as "a mad bloodhound." For various reasons, this prince
+developed such a degree of antipathy to Protestantism, that he abandoned
+the Schmalkaldic League and commenced to gravitate toward the Emperor.
+As a result, the elector and Luther became all the more intimately
+allied.
+
+When, in 1544, John Frederick of Saxony had completed the castle-church
+at Torgau on the Elbe, the first newly erected Protestant church in
+Saxony, he invited Luther to officiate at its dedication. The ceremony,
+which Luther performed as if he were a bishop, paralleled the
+pseudo-consecration of the Protestant bishop of Naumburg. The ancient
+church ritual was set aside for the "service of the Word." The intimate
+participation of the congregation in the act, which was supposed to take
+place in the name of the people, was once more clearly expressed.
+Luther’s sermon, which replaced the rite of consecration, was published
+by Caspar Creutziger (Cruciger).#footnote[Erlangen ed., Vol. II, pp. 218
+sq.; Köstlin-Kawerau, #emph[M. Luther];, Vol. III, pp. 573 sq.]
+
+In it he develops, among others, his doctrine that every Christian
+believer is a priest. He so strongly emphasized the unity of his act
+with the congregation that here, too, one is constrained to think of
+opposition against the elector. In this address he incidentally ascribes
+to the Christian congregation the right of transferring the celebration
+of Sunday to some other day of the week, if circumstances demand it. He
+boldly stated, without fear of contradiction, that man is the master of
+the Sunday, not Sunday the master of man.#footnote[Erl, ed., Vol. II, p.
+223.]
+
+Another novelty was the singing of a fugue, composed by John Walther,
+which contained the words: “#emph[Vive Luthere, vive Melanchthon, vivite
+nostrae lumina terrae] (Long live Luther, long live Melanchthon, long
+live the lights of our earth), with an ostentatious amplification of
+their merits.#footnote[Text, #emph[ibid.];, p. 219,]

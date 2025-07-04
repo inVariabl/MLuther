@@ -1,0 +1,233 @@
+== The Discovery in the Tower
+<the-discovery-in-the-tower>
+An essential element was still missing in the new theology, as it
+appears in Luther’s exposition of St. Paul’s Epistle to the Romans, in
+his early disputations, and in the writings which he had thus far
+published.
+
+He was unable to discover an adequate answer to the distressing
+question: How can we be personally certain that Christ’s merits are
+imputed to us, and that we are in a state of grace? The Church told him
+that whoever sought justification by true penance, should be certain of
+it. Faithful souls in a normal state were not tortured by doubts on this
+point; but they did not conceive this certitude as really a certitude of
+faith in the strict and proper sense, as an object of revelation, which
+would have been erroneous. However, the teaching of the Church and her
+practice did not satisfy the restless soul of Luther; nor was he content
+with the results of his own study. His demand of perfect surrender
+(#emph[humilitas];) to almighty God, coupled with resignation to
+whatever He might decree, appeared insufficient even to himself to
+engender that perfect certainty of the state of grace for which he
+longed. The reason was that his God was the arbitrary God of Ockhamism.
+
+Hence, he conceded, in painful language, the endurance, yea the increase
+of his fear of a wrathful and avenging Deity. The word #emph[justitia];,
+he said, had ever persecuted him and often entered into his soul like a
+flash of lightning.#footnote[#emph[Op. cit.];, Vol. I, pp. 374 sqq.]
+Fear agitated the morbid substratum of his soul. He assures us that he
+felt most distressed at the time he was about to deliver his second
+series of lectures on the Psalms. It was synchronous with his appeal to
+a general council, in the winter semester of 1518 to 1519. Beginning
+with 1516, one is able to see how, step by step, he gradually advances
+toward the conclusions which he had laid down in his second exposition
+of the Psalms, namely, the dogmatic certitude of personal justification.
+In the works which he published in 1518 he confidently announces this
+result. The publications which embody this conclusion are the second
+commentary on the Psalms (Operationes in Psalmos), the shorter
+explanation of the Epistle to the Galatians, and the sermons on "twofold
+and threefold righteousness."#footnote[#emph[Op. cit.];, Vol. I, pp. 386
+sq.] In what manner did he arrive at this conclusion? The answer is
+supplied by the so-called discovery in the tower.
+
+On various occasions during his later life, Luther spoke freely of this
+capital discovery. Thus in the preface to his Latin works, edition of
+1545,#footnote[#emph[Opp. Lat. Var.];, Erlangen ed., I, pp. 15 sqq. Cf.
+Grisar, #emph[Luther];, Vol. I, pp. 388 sqq.] he describes how his
+discovery in the tower of the monastery was connected with a passage in
+the Epistle to the Romans (1:17): "For the justice of God is revealed
+therein \[#emph[i.e.];, in the Gospel\], leading men from faith unto
+faith \[#emph[i.e.];, unto the believing\], according as it is written:
+The just shall live by faith." (Cf. Hab. II, 4).
+
+"Until now," Luther says in the preface, “the words, ‘the justice of God
+is revealed in the Gospel,” were an obstacle to me. For I hated the
+words, ‘justice of God,” which I had been taught, in conformity with the
+usage and custom of all doctors \[!\], to comprehend philosophically,
+namely, of the so-called formal or active justice, by which God is just
+and punishes the sinners and the unjust. Although I was a monk without
+reproach, I felt myself to be a sinner in the sight of God, suffered the
+greatest spiritual unrest, and could not consolingly imagine God as
+reconciled by my atonement. Consequently, I did not love, but rather
+hated the just God who punished sinners.” The ancient law of the
+Decalogue already threatened sinners with dire punishment, and now, as
+he understood that passage, God intended to proclaim His anger and
+avenging justice through the Gospel. "Thus I raved (#emph[furebam];),
+and my mind conjured up terrors and confusion. Importunately I sounded
+the text and thirsted to know its purport." While in this frame of mind,
+the significance of the words, "the just man liveth by faith," suddenly
+became clear to him. He saw that the "justice of God" was identical with
+the justice which the just and holy God bestows by means of faith upon
+those who are to be justified and did not denote avenging justice, as
+everybody else imagined. He had discovered, not active but passive
+justice, as he phrases it. "I felt completely reborn and believed I was
+entering paradise through open portals …Henceforth I praised the word
+justice with as much love as I had formerly pursued it with hatred." He
+concludes that he was confirmed in his interpretation by reading the
+works of St. Augustine.
+
+Relative to Luther’s assertions concerning the sequence of these events,
+two things should be noted. The assertions were made long after the
+event. The most detailed, which we have just cited, was made
+twenty-seven years later, after an agitated life spent in controversies.
+It is natural, therefore, that the revelation he claimed he had received
+is no longer as prominent as in other passages of his
+writings.#footnote[#emph[Op. cit.];, Vol. VI, pp. 504 sqq.] The
+definitely expressed content was the alleged efficacy of faith alone,
+namely, the absolute certitude of personal justification to be obtained
+from "#emph[sola fides];," #emph[i.e.];, the confidence engendered by
+faith. As a result of his later experiences and owing to the progress of
+his doctrines, this idea appears somewhat obscured in Luther’s
+subsequent account. The time and place were more clearly fixed in his
+memory.
+
+It is not true that "all the doctors" up to his time understood Rom.
+1:17, of the avenging justice of God, and that Luther was the first to
+perceive the correct meaning of the phrase, namely, the concept of
+justice by which God makes men just. This assertion is reiterated in
+Luther’s commentary on Genesis and was popularized by Melanchthon in his
+short biography of the Reformer.#footnote[#emph[Commentar. in Genesim];,
+see chap. 27, #emph[Opp. Exeg.];, VII, p. 74. Melanchthon, #emph[Vita
+Lutheri (Corp. Ref.)];, VI, p. 159.] The very contrary is true. Denifle
+has reviewed all the ancient commentators in a careful
+monograph#footnote[#emph[Quellenbelege Luther und Luthertum: Die
+abendländischen Schriftausleger bis Luther über lustitia Dei (Rom. 1:17)
+und Jusiticatio,] pp. XX and 380 with quotations with 65 exegetes
+(Mayence, 1905).] and shows "that not one Christian commentator from the
+days of Ambrosiaster up to the time of Luther, interpreted the Pauline
+passage in the sense of an avenging justice or an angry God, but that
+all understood it as referring to the justifying God, His justifying
+grace, and the former exegetes had spoken of justification of
+faith."#footnote[Thus Denifle summed up the results of his investigation
+in #emph[Luther und Luthertum];, 2nd ed., pp. 387 sq.]
+
+Hence, Luther had not made a new discovery, but taught the acquisition
+of justice in a far different manner. Denifle also showed how tradition
+contradicts Luther and corroborates the ancient teaching of the Church
+that justification is obtained only through faith animated by charity
+(#emph[fides caritate formata];) and not through the Lutheran formula
+#emph[sola fide];. Luther’s assertion about the teaching of the ancient
+commentators can only have originated in the fact that he had not read,
+or else had not understood some of them we know he had read. His
+subsequent utterance is a sign of the self-delusion into which he
+gradually fell under the influence of self-interest. It was while he was
+somberly meditating on Rom. I, 17, that, at the end of 1518, his mind
+was enlightened in a tower at the southeastern corner of the monastery,
+next to the garden. In the second story of this tower there was a
+so-called hypocaust, #emph[i.e.];, a furnaceroom, and beneath it the
+toilet (#emph[cloaca];) of the monks. The hypocaust served Luther as a
+study.#footnote[E. Kroker in the #emph[Archiv für
+Reformationsgeschichte];, 1920, pp. 300 sqq;] He mentions the tower and
+the #emph[cloaca] in 1532, in a passage of his #emph[Table Talks];,
+where he speaks of the place of his illumination. The conversation was
+recorded by his pupil and friend, John Schlaginhaufen, who wrote down
+the short conversation at table for his private collection of
+#emph[Table Talks];.#footnote[#emph[Tischhreden];, Weimar ed., II, p.
+177, no. 1681, The word #emph[cloaca] is represented by the letters
+#emph[cl.];] Schlaginhaufen, since 1531, resided at Luther’s house, the
+former Augustinian monastery, as an expectant for a position as pastor.
+In the interval between July and September of the following year, Luther
+spoke in his presence of the terrors he had suffered at the thought of
+divine justice. While in the tower, he said, he had pondered the words:
+The just man lives by faith. His spirit rose and the conclusion flashed
+upon him: Therefore, it is God’s justice which justifies and saves us.
+"Those words became more gratifying to me. On this #emph[cloaca] the
+Holy Ghost inspired me with this apt interpretation."
+
+The two references of Schlaginhaufen to the Holy Ghost and the tower are
+repeated in the same connection by other contemporaneous collectors of
+#emph[Table Talks];, who were not present at the conversation, but had
+Schlaginhaufen’s manuscript before them. Thus, Conrad Cordatus reports
+Luther’s words as follows: "The Holy Ghost inspired me with this
+solution in this tower."#footnote[#emph[Ibid.];, III, p. 228, no.
+3232a.] He, too, lived in the same house with Luther, was familiar with
+the place, and adds in the introduction to Luther’s words that the
+"privy" of the monastery was there. George Rörer, also a pupil of Luther
+and a most reliable collector of his Table Talks, quotes Luther as
+saying: "The spirit of God has inspired me with this interpretation on
+the #emph[cloaca];."#footnote[#emph[Ibid.];, II, p. 177, n. I. Here the
+word #emph[cloaca] is written out in full.] Anton Lauterbach reports
+that Luther concluded his description of this event thus: "The Holy
+Spirit revealed the Scriptures to me in this
+tower."#footnote[#emph[Ibid.];, I, p. 228, no. 3232c (Bindseil,
+#emph[Colloquia];). Likewise Kaspar Khumer (#emph[ib.] no. 3232b):
+#emph[“Diese Kunst hat mir der Heilige Geist auf dieser cloaca auf dem
+Torm gegeben];.”] The repeated use of the pronoun "this" permits the
+inference that it was thought that Luther indicated the tower with his
+finger. The hypocaust is mentioned only by Lauterbach at the beginning
+of the Table Talk, thus: "Once when I was reflecting in this tower and
+hypocaust." The question may be raised why he inserted the word
+#emph[hypocaust] in Schlaginhaufen’s story.
+
+It is of little moment, whether the enlightenment came to Luther in the
+#emph[cloaca] itself, as seems to have happened, or in the hypocaust,
+which was his study.#footnote[Kroker assumes the hypocaust to be the
+place. (#emph[Jahrbuch] etc.; see note 34.)] In fact, it is of even less
+moment than might appear from the elaborate discussions of Protestant
+authors who favor the elimination of the word #emph[cloaca] from the
+narrative. The matter was quite indifferent to Luther and his
+aforementioned pupils; only the timid Schlaginhaufen seems to have taken
+offense at it, since he does not write out the word in full, but only
+insinuates it with the letters #emph[cl.] That he understood that the
+#emph[cloaca] was meant when Luther pointed out the place, is not
+subject to doubt, according to the Protestant author of the new critical
+edition of the #emph[Table Talks];, though some still place a different
+and deviating interpretation on the letters #emph[cl.];#footnote[Kroker
+in the #emph[Jahrbuch der Luthergesellschaft];, I (1919), pp. 112 sqq.,
+assumes that Schlaginhaufen had misunderstood Luther. “This possibility
+is not to to be entirely excluded. Nevertheless Schlaginhaufen was quite
+certain, since he preferred conceal what he had heard, yet expressed it
+with #emph[cl.];] Luther, as Kawerau emphasizes, was of the opinion that
+the Spirit of God has a free hand everywhere, even on the
+#emph[cloaca];.#footnote[G. Kawerau, #emph[Luther in katholischer
+Beleuchtung];, Leipsic, 1911, p. 60.]
+
+Such was Luther’s experience in the tower, of which he later says that
+for a long time he knew not what he was about, when from the verse, "The
+just man lives by faith," a light burst upon him which terminated one
+period of his life. "Thereupon," he says, "I went
+through."#footnote[#emph[Tischreden];, Weimar ed., V, no. 5518,]
+
+So much is certain: Luther’s experience in the tower may claim to be one
+of the most important and far-reaching events of his life. In its
+essential features it does not permit of contradiction. The feeling of
+joy which Luther tells us he experienced immediately after, is quite
+comprehensible and does not provoke the least historical objection.
+Psychologically it is not only possible, but characteristic of the
+spirit which moved Luther. Of course, the Catholic ascetic will view the
+sudden emotion of joy in quite a different light than Luther’s admirers.
+
+It is evident to any impartial observer that the new theological
+doctrine of the certitude of salvation or, let us rather say, the
+certainty of justification, was a deduction completely adapted to
+Luther’s state of mind, as it soothed him in his sad personal struggle.
+He erected it into an article of faith, to be believed by all. That one
+must firmly believe that one is in the state of grace became a dogma of
+the Lutheran faith.
+
+In a similar manner Luther erected the personal experiences of his own
+way of suffering into a general norm for all. Even at that time he
+taught–and always adhered to this doctrine–that God leads those whom He
+wishes to justify, through darkness and fears; that the road of
+despondency #emph[per se] leads to salvation. On one occasion he wrote
+that no man has a right to converse about divine things unless he has
+experienced those things, and among those who have not he classes the
+papists and the visionaries who deviated from his doctrine.
+
+But Luther was not able to maintain himself in the certainty to attain
+which cost him so much labor. In the sequel he often admitted,
+sorrowfully, that this was not possible for him except at the cost
+severe trials and ever new struggles.#footnote[Grisar, #emph[Luther];,
+Vol. V, Ch, XXXII, especially no. 6.] He instructed all that life is
+nothing but a laborious contest for this ineffable good and that
+assurance of grace depends on vigorous endeavors and daring defiance,
+which, however, are not everyman’s business.

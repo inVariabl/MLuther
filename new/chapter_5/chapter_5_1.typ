@@ -1,0 +1,438 @@
+== The Controversy on Indulgences
+<the-controversy-on-indulgences>
+In consequence of recent researches on the development of Luther, far
+less significance is to be attached to the celebrated controversy on
+indulgences which followed the theses of 1517, than tradition has
+ascribed to it. The ninety-five theses nailed to the door of the
+Wittenberg castle-church do not mark the commencement of the Protestant
+Reformation. As we have heard Luther himself intimate, the #emph[initium
+evangelii] is to be sought in the new theology of Wittenberg and in the
+public movement which it created. The controversy concerning indulgences
+simply caused the movement to assume universal proportions. It placed
+the monk Luther upon the stage of the world and offered him an
+opportunity of gradually unveiling his revolutionary doctrine before all
+his contemporaries.
+
+There was no room for indulgences in a system of grace and justification
+which attacked the meritoriousness of good works and the value of
+atonement.
+
+Even before these ideas had fully matured (July 27, 1516), Luther
+delivered a sermon in which he expressed himself correctly on the
+Catholic doctrine of indulgences. Succeeding ages could have been
+benefited by his instructions. He correctly emphasized that an
+indulgence is not a remission of the guilt of sin, but "a remission of
+the temporal punishment due to sin, which the penitent would have to
+suffer, be it that it was imposed by the priest, be it that he had to
+suffer for it in purgatory." "In the gaining of a \[plenary\]
+indulgence, therefore," he says in conformity with the belief of the age
+in which he lived, "one may not then and there feel sure of salvation."
+"Only those gain a plenary remission of punishment who have become
+reconciled to God by true contrition and confession." At that time
+Luther still knew and appreciated the value of indulgences for the dead.
+The application of these, he explains in the same sermon, is made by way
+of intercession; hence a complete redemption of souls in each instance
+is not to be assumed. The foundation of indulgences he correctly states
+in these words: "They are the merits of Christ and His Saints
+\[#emph[i.e.];, they derive their efficacy from this treasury of
+merits\], and we must, therefore, esteem them with all due reverence."
+Whatever abuses may have crept in, he holds that it is "most useful that
+indulgences should be offered and gained."#footnote[Grisar,
+#emph[Luther];, Vol. I, pp. 324 sq. On the origin and the early
+development of indulgences cf. the excellent work of N. Paulus,
+#emph[Geschichte des Ablasses im Mittelalter];, 3 vols., Paderborn,
+1922–1923.]
+
+The abuses indicated by Luther had reached a certain crisis in his day.
+Since good works are requisite for the gaining of an indulgence, and
+since it was customary at that time to require a small donation to be
+made to some pious or useful purpose, to procure delivery of the briefs
+of indulgence, indulgences were frequently made the means of collecting
+money. Exaggerated recommendations and avaricious practices combined to
+degrade them. The so-called #emph[quaestores];, who wandered about
+plying this trade, were the chief culprits.#footnote[N. Paulus,
+#emph[op. cit.];, Vol. II, pp. 265 sqq., Vol. III, pp. 450 sqq., 471
+sqq.] But many ecclesiastical superiors were also guilty of having
+increased the evil in the temple of the Lord by distributing indulgences
+with all too temporal trimmings and worldly bustle. The extent to which
+even the papal curia went, may be seen in the case of the indulgences
+granted by Leo X, the proceeds of which were intended for the
+construction of St. Peter’s basilica at Rome. This indulgence provided
+Luther, who had already drifted away from the Church, with an occasion
+for entering the lists against indulgences as such, and not merely the
+abuse of them.
+
+Bishop Albrecht of Brandenburg, who governed the dioceses of Magdeburg
+and Halberstadt, a thoroughly worldly-minded ecclesiastic, had succeeded
+in having himself elected archbishop of Mayence. In order to unite these
+three bishoprics in one hand, he had to contribute no less than 10,000
+ducats to the Roman curia. In addition to this, he was obliged to pay
+14,000 ducats for the confirmation of his appointment as archbishop of
+Mayence and for the pallium. It was agreed that he might preach the
+indulgence for the construction of St. Peter’s basilica throughout his
+extensive jurisdiction in Germany, retaining one-half of the proceeds to
+reimburse himself for the 10,000 ducats, which he had borrowed from the
+Augsburg firm of the Fuggers, whilst the other half was to be devoted to
+the erection of St. Peter’s at Rome. Albrecht kept a sharp eye on the
+filling of the big indulgence chest which accompanied the preachers and
+was placed under the supervision of the Fuggers. It was a rather
+disedifying transaction. Even if it did not involve simony, strictly
+speaking, it was nevertheless reprehensible, and can be explained only
+as a result of the evil financial practices of the time, which had taken
+root also in Rome, and of the activities of the agents of Albrecht and
+an avaricious party of Florentine churchmen at the
+curia.#footnote[Grisar, #emph[Luther];, Vol. 1, pp. 347 sqq.]
+
+Only gradually did Luther become aware of these agreements. The first
+motive of his intervention was supplied by his exasperation at the new
+indulgence enterprise and at the existing abuses in general. He
+personally witnessed an example of the general decline of the system of
+indulgences. In the castle-church the Elector of Saxony, Frederick "the
+Wise," kept a casket of relics, partly genuine and partly spurious, for
+which he succeeded in obtaining incredibly rich indulgences from Rome.
+Like the Elector Albrecht of Brandenburg, Frederick was a passionate
+collector of relics. Both were eager to have each relic enriched with
+great indulgences, so as to attract pious votaries and realize handsome
+profits at the annual exhibition. Up to the year 1518, Frederick
+succeeded in obtaining for his sacred casket in the castle-church of
+Wittenberg indulgences which amounted, all told, to 127,799 years.
+
+Princely interests played a nefarious role in connection with the
+indulgence traffic of the Roman curia. Occasionally the rulers
+prohibited the too frequent indulgence-preaching within their
+territories, because they wished to prevent the flow to Rome of money
+which they needed for their own countries, or its expenditure for other
+purposes not agreeable to them. Thus the Elector Frederick prohibited
+the promulgation of the Mayence indulgence in behalf of St. Peter’s
+within the confines of his principality.
+
+Elector Albrecht selected John Tetzel, a popular orator of the Dominican
+Order, to preach the indulgence at Mayence. Tetzel was not much of a
+theologian. His morals were beyond reproach, despite the slanders to
+which he was subjected in the ensuing controversy. In his sermons, which
+were attended by large numbers of people, he adhered to the explicit
+directions of the ecclesiastical authorities of Mayence, although he was
+unable to abstain from rhetorical exaggerations. The directions of the
+Mayence authorities adequately emphasized that an indulgence is a
+remission of punishment, not of sin, and expressly required a contrite
+confession as a condition. In one respect, however, the directions were
+defective. They declared that an indulgence applicable to the dead
+became efficacious upon the performance of the prescribed good work,
+regardless of whether one was in the state of sanctifying grace or not.
+Some theologians held this opinion and it was embodied in several other
+episcopal instructions. The problems arising from the Church’s teaching
+on indulgences had not yet all been clearly solved. The very nature of
+indulgences had not yet been dogmatically defined. It was a matter of
+practice, taught by the theologians; but its genuineness was warranted
+by the ordinary teaching authority of the Church (#emph[magisterium
+ecclesiae ordinarium];) .
+
+Tetzel eagerly availed himself of the above-described, now abandoned,
+opinion concerning indulgences for the departed. It cannot be proved
+that he used the famous saw which has been attributed to him: "As soon
+as money in the casket rings–The soul its flight from Purgatory wings,"
+but in substance his words approximated the proverb. Some critics looked
+with disfavor on Tetzel because he often, #emph[e.g.];, at Annaberg,
+availed himself of the occasion of fairs with their secular amusements
+to proclaim the papal indulgence.#footnote[Cf. N. Paulus, #emph[Johann
+Tetzel, der Ablassprediger];, Mayence, 1899; Grisar, #emph[Luther];,
+Vol. I, pp. 341 sq.; Vol. IV, pp. 84 sq.]
+
+There is an unwarranted report to the effect that when Staupitz had
+apprised him at Grimma of Tetzel’s conduct, Luther exclaimed: "I shall
+put an abrupt stop to this, please God." When Tetzel, in the course of
+his preaching tour, had arrived at the confines of the electorate and in
+the vicinity of Wittenberg, Luther decided that the time for
+intervention had come. On November 1, the castlechurch at Wittenberg
+celebrated its titular feast. The church was dedicated to All Saints and
+was specially indulgenced for that day. Many worshipers were sure to
+attend. On the eve of All Saints, Luther caused a Latin placard
+containing ninety-five theses on the subject of indulgences to be nailed
+to the door of the church, which was, at same time, the university
+chapel.
+
+The placard contained an invitation to a disputation. At first the Latin
+placard did not attract much attention except among scholars. But when
+Luther sent copies of it to the theologians of the neighboring
+universities of Leipsic, Frankfort on the Oder, and Erfurt, his theses
+began to attract attention. That they "spread throughout Germany in
+fourteen days" is "an erroneous representation, based on a later
+expression of Luther."#footnote[Paul Kalkoff, #emph[Luther und die
+Entscheidungsjahre der Reformation];, 1917, p. 22.] It is in keeping
+with the fables which have accumulated around the history of the theses.
+It is true that many, including well-intentioned but shortsighted
+Catholics, rejoiced that a courageous protest had been raised against
+the prevalent abuses in connection with the preaching of indulgences.
+Under the pressure of these abuses, the true meaning and import of the
+theses were easily overlooked.
+
+Luther’s placard was a challenge to a disputation designed to clarify a
+set of theses which constituted a fundamental, though guarded, attack on
+the Catholic doctrine of indulgences. The author had no intention of
+abandoning them in a learned discussion. His theological position would
+not permit of this. But he did not allow his novel dogmatic teaching,
+which stood behind the 95 theses, to appear on the surface. He
+maintained in his theses that indulgences were invalid before God, but
+were to be regarded only as a remission of the canonical penances
+imposed by the Church. He denied the doctrine of the treasury of merits
+earned by Christ and the saints, which constitutes the presupposition of
+indulgences. In addition to other erroneous views he expresses false
+notions about the condition of the departed. In defense of his attitude
+he seeks to place the absurdities of the indulgence preachers in the
+forefront as the reason and the subject of his theses. He goes so far as
+to say: "Let him who contradicts the truth of the papal indulgences be
+anathema and accursed"; and: "Bishops and priests are obligated to
+receive the commissioners of the papal indulgences with all due
+reverence." One sneering thesis asks: "Why does not the pope build the
+basilica of St. Peter with his own money, rather than with that of the
+poor, seeing that he is wealthier today than the richest Croesus?"
+Towards the close he clothes his own sharp objections is the artificial
+garb of a suggestion to the effect that the objections of the laity
+against the pope and the eleemosynary system ought to be clearly and
+thoroughly refuted, adding that "if sermons were preached after the mind
+and intention of the pope, these difficulties would be solved." In this
+manner the author of the theses thought he could, in a measure,
+safeguard his position.
+
+Not to omit Mysticism, the last theses enjoin the obligation of striving
+not for the peace which indulgences seem to bring, but for the cross.
+Not pax, pax, should be the watchword, but #emph[crux, crux];.
+"Christians must follow their Leader through suffering, death, and the
+pains of hell" (#emph[per poenas, mortes, infernosque];). This
+corresponds with the idea, likewise expressed in the theses, that it is
+better voluntarily to suffer the penalties of sin than to escape them by
+means of indulgences. He also proclaimed (which was a general truth
+valid in all ages), that a Christian’s entire life, according to the
+will of Christ, should be one continuous atonement.
+
+The celebrated 95 theses are not a candid or an honest document. Neither
+are they a scientifically constructed or properly coordinated whole.
+Least of all, are they the programme of a reformation, as they are often
+represented to be. The movement gradually assumed great dimensions. On
+the sixteenth of January, 1518, the eve of the feast of the dedication
+of the castle-church, Luther delivered in that church a sermon on
+indulgences which was in conformity with his theses.#footnote[N. Paulus
+in the #emph[Zeitschrift für kath. Theologie];, 1924, pp. 630 sqq.]
+
+In a letter to Staupitz he laments in exaggerated language that
+"godless, false, and heretical doctrines" were propounded with such
+confidence in sermons on indulgences, that objectors were forthwith
+declared worthy of the stake. He, on the contrary, had modestly advanced
+his deviating opinions, which were "founded on the conviction of all the
+doctors and the entire Church, that it is better to make atonement than
+to seek for satisfaction by means of indulgences." Thereby he had
+invited the frightful wrath of the fanatical representatives of papal
+authority.#footnote[#emph[Briefwechsel];, I, p. 198.]
+
+We must not overlook the fact that some months before the publication of
+Luther’s theses, Karlstadt had published 152 theses in conformity with
+the new doctrine. It seems Luther did not wish to be outstripped by his
+audacious friend. The controversy concerning indulgences, moreover,
+afforded him an opportunity of assuming the leadership of the Wittenberg
+movement in a popular field.
+
+Soon after the posting of his theses, Luther wrote to the Archbishop of
+Mayence and to Jerome Schultz (Scultetus), bishop of Brandenburg, to
+whose jurisdiction Wittenberg was subject, in order to give an account
+of the events as he saw them. Archbishop Albrecht was also informed by
+the Dominicans, Tetzel and the brethren of his Order, and, for the sake
+of his own indulgence, immediately brought the matter before the supreme
+tribunal of the Church at Rome, by submitting a copy of the 95 theses
+and those of the disputation of September 4, 1517. Thereupon, on
+February 3, 1518, an Augustinian, Gabriel della Volta, was commissioned
+by Leo X, as representative of the General of the Augustinians, to
+charge Luther’s superiors with the task of severely dissuading him from
+his perverted opinions, "lest a greater conflagration ensue as a result
+of negligence." It cannot be proved that the Pope originally styled the
+controversy an empty "quarrel between monks." Strict orders were issued
+by Della Volta to Staupitz, who, however, was not inclined to adopt
+thorough-going measures–an attitude which can easily be explained in
+view of his previous relations with Luther. Luther confidently wrote to
+him on March 31, 1518: "When God acts, no one can prevent Him; when He
+rests, no one is able to awaken Him."#footnote[#emph[Briefwechsel];, I,
+p. 176.] Della Volta meanwhile summoned him to appear before the
+imminent chapter of his Order at Heidelberg, to give an account of
+himself. There a district vicar was to be selected to succeed him, since
+his three years’ term of office had expired.
+
+On the other side Tetzel and the Dominicans were not satisfied with a
+defense of their preaching. At Frankfort on the Oder, Tetzel published a
+series of theses on the doctrine of indulgences, which were couched in a
+moderate form and, generally speaking, correctly reflected the position
+of the Church. They were composed by Conrad Wimpina, a professor of that
+city, who afterwards became a literary opponent of Luther. Maintaining
+his position, Luther replied in a pointed sermon on indulgences and
+grace. Tetzel defended himself, again in a moderate form, in a printed
+"representation," in which he stressed Luther’s violation of the papal
+authority. He published a second series of theses, which, in turn, were
+followed by Luther’s booklet entitled: "Freedom of a Sermon on
+Indulgences."#footnote[On the correspondence between Luther and Tetzel
+see Grisar, #emph[Luther];, Vol. IV, pp 372 sqq., where the calm and
+heavy publications of Tetzel are compared with Luther’s first impetuous
+polemical broadsides.] It was written in a more provocative tone than
+Luther had thus far used.
+
+The first outsider to enter the lists was Dr. John Eck, who was destined
+to achieve celebrity in his subsequent controversy with Luther. He was a
+professor of the university of Ingolstadt, a quickwitted humanist and
+theologian. He circulated "Obelisci," #emph[i.e.];, annotations to
+Luther’s theses in manuscript. Luther replied with "Asterisci," which
+were also originally circulated in manuscript form.
+
+As the time for the chapter at Heidelberg approached, April, 1518,
+Luther undertook to safeguard his position. In the event of his refusal
+to recant, he had to fear that he would be delivered up to the
+ecclesiastical authorities–for such was the procedure of medieval
+jurisprudence–and in the event of obstinacy would be confronted with the
+severest ecclesiastical penalties, He procured from the Elector
+Frederick of Saxony an order for his unmolested return to Wittenberg. It
+was the first demonstration in behalf of Luther on the part of that
+ruler, whose friendship was destined to increase with the coming years.
+
+The members of the chapter, or at least a majority of them, were
+favorably inclined towards Luther and the result of their deliberations
+was a verdict in favor of the defendant. It was a result entirely
+contrary to the expectations of the Roman authorities of his
+Order.#footnote[Grisar, #emph[Luther];, Vol. I, p. 334.] He was even
+granted the privilege of arranging a great disputation in the auditorium
+of the Augustinian monastery, which was conducted by Leonard Beier, a
+Wittenberg master. University professors and many guests attended. Beier
+and Luther argued against free will and the ancient theology. One of the
+Wittenberg professors who were in attendance interrupted the disputants
+when certain strong declarations were made, exclaiming: "If the peasants
+could hear this, they would stone you!" The Heidelberg chapter, so far
+as can be inferred, did not treat the problem of indulgences. Luther,
+now regarded as a courageous ornament of his Order, remained unmolested.
+Among the students of theology at the university, several were more or
+less won over by him. Some of them later on became his helpers, such as
+John Brenz and Erhard Schnepf, and particularly Martin Butzer (Bucer), a
+talented young Dominican endowed with a very lively temperament.
+
+On his homeward journey, Luther, who was delighted with the issue,
+delivered a sermon in Dresden in the presence of Duke George of Saxony
+and his court. He discoursed on the grace of Christ, eternal salvation,
+and the conquest of fear before an angry God. The duke, who was loyal to
+the Church, took great offense at these remarks. Several others also
+were indignant. When Luther heard of their objections, he disposed of
+them in these self-conscious words: These babblers desire everything and
+can do nothing; they are "a serpent’s brood," "masked faces" whom I will
+ignore.#footnote[#emph[Ibid.];, p. 335.]
+
+His arrogance increased because of his having escaped punishment,
+because of the approval he met with, and because of the expected
+protection of the Elector Frederick. At the same time his writings and
+letters of those days reveal how he ever and anon calls up before his
+mind the abuses actually existing within the Church, especially the
+lucrative practices of the bishops and the Roman curia, in order to
+encourage himself and excite his anger. Unfortunately, the abuses
+furnished him with what he wanted. Oldecop, who was his pupil at that
+time, thus describes Luther’s attacks which he continued at home, on the
+indulgence traffic and the doctrine of indulgences itself: "In his
+teaching against them, he exceeded all bounds, indulging in every kind
+of rage and blasphemy." He describes him on this occasion as "naturally
+proud and presumptuous." In a statement on indulgences and grace,
+composed at the behest of members of the Heidelberg chapter, Luther
+assured them that in his theses on indulgences he had spoken only by way
+of disputation, to ascertain the truth. In this way he constantly
+concealed his real opinion. However, in the "Resolutions" which he
+published in connection with his theses he expressed his attitude
+unequivocally. These Resolutions or "explanations" were intended to
+elucidate, defend, and confirm the entire series of theses. No dogmatic
+definition on indulgences having been issued, he pretended that there
+was no binding doctrine on the subject proposed by the #emph[magisterium
+ordinarium] of the Church. He now proclaimed to the world his new
+doctrine on grace in a more definite outline.#footnote[#emph[Ibid.];,
+pp. 335, 378 sq.] He conceived the bold idea of dedicating his
+"Resolutions" to Pope Leo, and of forwarding them to Rome through
+Staupitz. He prefaced the work with an humble dedicatory epistle
+addressed to the head of the Church. Couched in superlative phraseology,
+it was designed to be an apologia of his conduct and an attack on his
+opponents. True, he tersely says: "I cannot recant," but towards the end
+of the epistle he bursts forth with the assurance: "Most Holy Father! I
+prostrate myself before thy feet, and offer myself to thee with all that
+I am and possess. Do as thou wilt; give life or death, call or recall,
+approve or disapprove; I will acknowledge thy voice as the voice of
+Christ who reigneth and speaketh in thee. If I have merited death, I
+shall not refuse to die."#footnote[Ibid., p. 335; #emph[Briefwechsel];,
+I, pp, 200 sq.] How is this language to be explained? It constitutes one
+of the many riddles of his psychology. It need not be taken as
+hypocrisy, but is, rather, a reflection of the restless and profound
+struggles which buffeted him about between loyalty to the Church and the
+new position which he had assumed. It is possible that he wished to
+dispose the pope favorably and he may also have intended to allay the
+alarm of his many Catholic readers both at home and abroad.
+Nevertheless, a considerable lack of spiritual equilibrium is plainly
+noticeable. When his imagination is deeply roused, the ideas which
+agitate him at the moment often assume most exaggerated forms, but later
+are in turn easily displaced by contrary and equally vivid ideas.
+Concerning the pangs of conscience which afflicted him at the beginning
+of his revolt , he expressed himself thus on one occasion: "I was not
+happy or confident concerning that undertaking." – "What my heart
+suffered in the first and second year, and how I lay prostrate on the
+ground, nay, almost despaired, they \[my opponents\] did not know, who
+themselves afterwards attacked the pope with equal audacity." They were,
+he said, "ignorant of the cross and of Satan," whereas he "was compelled
+to go through terrible death-struggles and temptations."
+
+In a remarkable passage of the "Resolutions" he describes these
+phenomena in detail, though he is not aware that his qualms of
+conscience are closely related to the neurotic precordial fear which he
+frequently suffered.
+
+Apropos of indulgences for the departed, he wishes to picture the
+spiritual agonies of the souls in Purgatory, which were understood very
+well by such as at one time or another had suffered similar pains, but
+of which the indulgence-preachers had no conception. Then he proceeds in
+fantastic language: That eminent doctor \[Tauler\] with whom the
+Scholastic theologians are not familiar, speaks of such "dark nights of
+the soul"; and he himself is acquainted with one so afflicted
+(#emph[i.e.];, himself; 2 Cor. 12:2). The agonies are very brief, but so
+intense and infernal that no tongue can express, no pen can describe, no
+uninitiate can believe them. Were they to last but the tenth part of an
+hour, all of a man’s bones would be reduced to ashes. "God, and
+simultaneously with Him, all creation, appears horribly angry. There is
+no escape, no comfort, whether within or without, only a hollow accusing
+voice." The sufferer regards himself as a reprobate, and does not even
+dare to say with the Psalmist: O Lord, rebuke not me in Thy indignation.
+He believes that he is saved, but suffers eternal punishment, and feels
+himself stretched on the cross with Christ, so that all his bones are
+numbered. There is not a nook of the soul that is not filled with bitter
+anguish, with terror, dread and sadness, accompanied by the stifling
+sense that it is to last forever. In order to make a weak comparison:
+when a bullet traces a line, every point in that line sustains the whole
+bullet, but it does not compass the whole bullet. Thus the soul feels
+when that deluge of eternity flows over it and drinks naught else but
+eternal pain; but this pain does not abide; it passes away. It is an
+infernal torture, an intolerable terror which excludes all consolation!
+Those who have experienced it must be believed.#footnote[Grisar,
+#emph[Luther];, Vol. I, pp. 381 sq.; VI, 102; #emph[Werke];, Weimar ed.,
+I, p. 5575 #emph[Opp. Lat. Var.];, II, p. 180.]
+
+This is the language of a sick man. Here Luther actually depicts those
+phobias of traumatic neurosis which nervous persons experience as a
+result of a terrible shock. We must regard them as after-effects of the
+thunderbolt of Stotternheim. In his own opinion they were that darkness
+of soul so familiar to mystics. In his case physical fear was intimately
+associated with tortures of conscience, his internal doubts and that
+abiding sense of fear, in which he imagined God to be "horribly angry."
+In their most aggravated form, they were movements of precordial fear.
+Such psychopathic conditions were not adequately known to the medical
+science of his day. It was no pressure of circular "psychosis" which
+affected Luther in his monastic years, as a popular Protestant
+biographer would have us believe, who holds that monastic practices as
+such, when strictly and conscientiously performed, ordinarily induce a
+certain degree of insanity.#footnote[Adolph Hausrath; cfr. Grisar,
+#emph[Luther];, Vol. 1, p. 383.]
+
+Insanity cannot be ascribed in any sense to Luther while he was a monk.
+If one correctly understands his manifold testimonies, he simply
+experienced the effects of extreme nervousness from early youth to old
+age.
+
+The "Resolutions" were followed by a tract on the "Force of
+Excommunication." It was inspired by anxiety about the condemnatory
+verdict of the pope. In order to allay his own fears as well as the
+fears of others, he wished to show that an unjust excommunication does
+not separate one from the soul of the Church. To justify his conduct he
+describes in lurid colors the abuses which attended the all too frequent
+use of the power of excommunication by the bishops.

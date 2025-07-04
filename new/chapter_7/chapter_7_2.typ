@@ -1,0 +1,218 @@
+== Conclusion of the Roman Trial
+<conclusion-of-the-roman-trial>
+The written representations which Dr. Eck made at Rome after the Leipsic
+disputation, and the efforts of the Dominicans at last caused final
+proceedings against Luther to be initiated at the curia. They began
+before Eck’s arrival in the Eternal City. The report of the disputation
+and the opinions of the theological faculties of Louvain and Cologne did
+not fail to make a deep impression on the Pope and his entourage. Crotus
+Rubeanus testifies that even prior to this, and despite various delays,
+the Lutheran affair was by no means regarded with levity by the Roman
+curia. With the aid of these official documents, the difficulties were
+at last surmounted which ignorance of the German language had placed in
+the way of a proper appreciation of the numerous productions of Luther’s
+pen.
+
+On January 9, 1520, the first consistory met to initiate definite
+proceedings. Cardinal Cajetan, a theological expert of the first rank,
+and Cardinal Pietro Accolti, usually called Anconitanus, a distinguished
+jurist, were particularly active in the formulation of the charges
+against Luther and his Elector, against whom proceedings were at that
+time contemplated as an abettor of heresy. With the active participation
+of these two Cardinals, the matter was debated from February to the
+middle of March by a commission of theologians and representatives of
+monastic orders. A smaller commission, under the presidency of Pope Leo
+himself, then drafted the Bull, containing 41 theses of Luther which had
+been selected for condemnation. Eck, upon his arrival at the end of
+March, rendered substantial assistance by the clarifications which he
+brought. The erroneous opinion of many who were unacquainted with the
+question at issue may be gathered from the fact that, as late as May,
+1521, some at Rome held that the publication of a solemn Bull against
+Luther would be more damaging than useful, and that the scandal in
+Germany would only increase if it appeared that so much importance was
+attached to thee new errors.
+
+Knowledge of the proceedings filtered out and reached Luther at
+Wittenberg. He became alarmed. Among the peculiar opinions which
+accompanied the report was this, that special difficulties existed,
+because the necessary proofs against Luther had to be gathered from Holy
+Writ.#footnote[Grisar, #emph[Luther];, Vol. I, p. 48; Vol II, pp.
+45–47.]
+
+When, at the end of April, the commission had finished its labors, its
+conclusions were presented to the Cardinals for their final decision.
+The matter was decided after four consistorial sessions. Cardinal
+Cajetan had recommended that the forty-one theses be specified in strict
+theological form, together with the condemnation that attached to each
+thesis, such as heretical, false, scandalous, etc. The majority,
+however, were in favor of condemning the theses as a whole, without
+definitely qualifying each separately, following the example of the
+Council of Constance when it condemned the errors of Wiclif and Hus. The
+commission, moreover, unanimously resolved that the forthcoming Bull
+should be principally a condemnation of the false teachings of Luther,
+whereas a solemn excommunication from the Church with its attendant
+temporal consequences was to be pronounced against Luther personally
+only after the expiration of a certain period of time to be granted to
+him for the purpose of reconsidering his position.
+
+At the final consistory, Leo X definitely resolved to promulgate the
+Bull which commenced with the words: "#emph[Exurge Domine et iudica
+causam tuam];." It was dispatched on June 15, 1520.#footnote[Text in
+Raynaldus, #emph[Annales];, a. 1520, n. 51 and a somewhat inferior
+reprint in the #emph[Bullar. Rom.];, ed. Taurin., t. V, pp. 748 sqq.
+Another reprint, with odious and alien interpolations, in Luther’s
+#emph[Opp. Lat. Var.];, IV, pp. 264 sqq. The 41 condemned theses are
+reprinted in Denzinger’s #emph[Enchiridion];, 26th ed., 1928, pp. 257
+sqq.]
+
+Most solemn is the introduction to this memorable document, which, in
+lieu of an address, was superscribed with the customary formula:
+“#emph[Leo episcopus, servus servorum Dei, ad perpetuam rei memoriam.];”
+"Arise, O Lord" –thus it begins–“arise and distinguish Thy cause, be
+mindful of the insult which foolish men have heaped upon Thee without
+intermission …Arise, O Peter, and, mindful of the pastoral office
+entrusted to thee by God, be thou solicitous of the Holy Roman Church,
+the mother of all churches and the teacher of the faith which thou hast
+consecrated with thy blood at the command of God …Arise thou also, O
+Paul, we beseech thee, thou who by thy teaching and martyrdom hast
+become the refulgent light of the Church …Let the whole multitude of the
+Saints arise, and the universal Church, whose true understanding of
+Sacred Scriptures is contemned and trampled under foot,” etc.
+
+There follows the condemnation of the forty-one theses, which are
+specifically designated, without mentioning Luther’s name. Then the Bull
+proceeds directly against Luther and prohibits his writings, in which
+"these (forty-one) theses and many other errors are contained." These
+writings are to be forthwith sought out everywhere and burnt publicly
+and solemnly in the presence of the clergy and the people. Luther
+himself is ordered to recant officially, or to appear personally at Rome
+within sixty days for the purpose of recanting, being given the
+assurance of a safe papal escort; otherwise the solemn excommunication
+was to become automatically effective against him with all the
+consequences established by law. The term of sixty days was to be
+computed from the time when the Bull was publicly nailed to the doors of
+the Lateran, the apostolic chancery, and the cathedral churches of
+Brandenburg, Meissen, and Merseburg.
+
+Luther is reminded of the former citation, when he had been promised a
+letter of safe-conduct, a friendly reception, nay, even compensation for
+the expenses of his journey, and of his defiant attitude for more than a
+year, regardless of the ecclesiastical censures which he had incurred by
+his appeal to an ecumenical council in violation of the constitutions of
+Pius II and Julius II, who had prohibited such an appeal under penalties
+fixed for heretics. Hence, proceedings could be instituted against him
+forthwith as one "notoriously suspect of heresy, nay, a true heretic."
+Still, mindful of the mercy of almighty God, all the insults which he
+had heaped upon the Pope and the Apostolic See would be forgiven him if
+he would repent, and the Pope would receive him back lovingly, as the
+prodigal son in the parable was received by his father.
+
+At the same time, however, Luther is firmly reminded of the consequences
+attendant upon disobedience as implied in the great excommunication and
+prescribed by medieval and canon law. In this respect the Bull is
+strictly in line with ancient tradition. It mentions, furthermore, that
+it was the "illustrious German nation" which had distinguished itself by
+its loyal and energetic defense of the faith in the past; that the
+German emperors, with the approbation of the popes, had promulgated the
+severest edicts for the expulsion and extirpation of heretics throughout
+their realm, that they had forfeited the territory and sovereignty of
+all who protected heretics or refused to expel them. (This was a strong
+reminder to the Elector Frederick of Saxony.) Although there were no
+certain prospects of success, the Bull was intended as a reminder of the
+ancient and severe norms of the Christian family of nations, now
+confronted with the greatest menace to religion that history had ever
+recorded. Accordingly, all accomplices of Luther, as well as all who
+received him, were subject to "the penalties provided by law" for
+insubordination. Under pain of spiritual penalties, all who were
+invested with authority, in the spiritual as well as in the secular
+realm, including the highest Christian princes, were commanded to
+apprehend the monk of Wittenberg, if he proved obstinate, and his
+abettors, and to have them sent to Rome, or, at least, to expel them
+from their domiciles. All localities in which the excommunicates
+resided, were to be under the interdict, #emph[i.e.];, closed for divine
+service as long as they abided there, and for three days after their
+departure.
+
+Upon the termination of the above-mentioned respite of sixty days, a
+proclamation was to be issued in all churches to the effect that Luther
+and all who remained disobedient were to be shunned by all as declared
+and condemned heretics; and the Bull "#emph[Exurge];" was to be read and
+posted everywhere. All transcriptions of the Bull which were made and
+subscribed by a notary public as well as all printed copies coming from
+Rome and bearing the seal of an ecclesiastical prelate, were to be
+regarded as authentic.#footnote[The only extant copy of the three
+originals of the Bull was found in 1920 in the State Archives of
+Württemberg at Stuttgart. About nineteen original prints are known, of
+which an account is given by Schottenloher in the #emph[Zeitschrift für
+Bücherfreunde];, N. F., Vol. IX, No. 2, p. 201.]
+
+Whether Dr. Eck approved all of these penal paragraphs, borrowed from
+medieval and curialistic tradition, we have no means of knowing.
+Relative to the selection and arrangement of the forty-one condemned
+propositions he later expressed certain wishes. Of the Bull in its
+entirety he heartily approved and assumed the commission, conferred upon
+him by the Pope, of promulgating it in Germany and securing its
+observance wherever possible.
+
+Among the principal doctrines which were declared heretical or otherwise
+worthy of condemnation in the forty-one propositions, are Luther’s
+errors concerning the utter impotence of man to do good, fiduciary
+faith, justification and grace, the hierarchy and the Church, the
+efficacy of the Sacraments, Purgatory, Penance, and indulgences. The
+denial of the authority of the pope and of general councils– the centre
+of the position which Luther adopted–was sharply and decisively
+rejected. Thus, this doctrinal utterance of the Holy See was a
+magnificent manifesto for the orientation of all Christendom. Once more
+the Apostolic See, in spite of the disturbances caused in the papal
+curia by the Renaissance and political intrigues, proved itself a beacon
+light amidst the errors that beset society at this critical juncture.
+For the rest, the Pope in the Bull "#emph[Exurge];" does not descend to
+a refutation of the various condemned errors, but adheres to the ancient
+custom of the Apostolic See. Luther’s doctrines had been tested in the
+light of Sacred Scripture and tradition and the Pope solemnly appeals to
+the promise of the Divine Saviour to abide with His Church "all days,
+even to the consummation of the world," and protect her from error. He
+appeals, finally, to the power conferred upon the Holy See in Blessed
+Peter and to his authority as the head of the faithful, which bound him
+to provide for the peace and concord of the Church.
+
+If modern sensitiveness takes offense at some forceful phrases of the
+Bull, it should be borne in mind that these are almost all passages from
+Holy Writ which, in conformity with the usage of the papal court, were
+invoked against heresy as the greatest of all evils. Thus in the
+introduction of the Bull, which is so frequently criticized by
+Protestants, the Supreme Pontiff interweaves a number of Biblical texts,
+such as: Fools cast opprobrium upon God, foxes sought to devastate the
+vineyard of the Lord, "the boar out of the wood hath laid it waste, and
+a singular wild beast hath devoured it."
+
+The condemnation of Luther’s two propositions concerning the execution
+of heretics and the Turkish wars has likewise given offense to modern
+writers, but without reason.#footnote[The condemned 33rd thesis of
+Luther says: #emph[“Haereticos comburi est contra voluntatem Spiritus];.”
+On the meaning of this condemnation, which has given such grave offense
+to modern writers, see N. Paulus in the #emph[Histor.-pol. Blätter];,
+Vol. 140 (1907), pp. 357 sqq. Dr. Paulus says that, although the Bull
+"#emph[Exurge];" is a so-called #emph[ex cathedra] decision, not all the
+condemned theses are "heretical." Relative to the 33rd thesis, it is
+sufficient to assume the qualification "scandalous" (#emph[scandalosa];),
+which means not that the proposition is false, but only that it has some
+other quality deserving of disapproval. Even if the predicate "false"
+were to be applied to it, the meaning nevertheless would not be that to
+burn heretics was a work pleasing to the Holy Ghost, but only that it
+was not contrary to the will of God, etc. But the censure "scandalous"
+or "objectionable" suffices. "Such propositions as are objectionable or
+provocative of scandal at any given time and rightly censured as such,
+may well cease to be objectionable at another time and under different
+circumstances, and in that case the censure ceases without further ado
+as no longer possessing a purpose" (p. 364). This will be conceded by
+all, even those who, with the older theologians, look upon the medieval
+penalties for heretics as founded upon the public conditions then
+prevalent in State and Church. Paulus reminds his readers that Luther
+himself, in later life, and the Protestant theologians of the 16th
+century, acknowledged and demanded the death penalty for heretics.–The
+34th condemned proposition of Luther is on a par with the 33rd: "To go
+to war against the Turks is to resist God, who punishes our iniquities
+through them." "Today circumstances are quite different" from what they
+were in the age of the Turkish wars and of the Bull "#emph[Exurge];."
+(Paulus, p. 367).]

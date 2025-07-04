@@ -1,0 +1,255 @@
+== The Fire Alarm
+<the-fire-alarm>
+On December 10, 1520, Luther solemnly burnt the book of canon law, as he
+had previously announced.#footnote[For details see Grisar,
+#emph[Lutherstudien];, No. I (1921), pp. 5 sqq.]
+
+In response to a poster which Melanchthon had nailed to the door of the
+Wittenberg church, a large number of students and teachers assembled
+before the Elster Gate in the forenoon of that day. A funeral pile was
+built, upon which were placed the papal law books together with some
+Scholastic and anti-Lutheran treatises. The principal act was the
+burning of the book of canon law. The papal Bull was not even mentioned
+in the invitation. Only after the pile of books, to which a master set
+fire, had commenced to burn, while the students were chanting jeering
+songs, Luther stepped forth and cast a printed copy of the Bull of
+excommunication into the fire, saying "Because thou hast destroyed
+(#emph[conturbasti];) the truth of God, may the Lord consume thee in
+this fire. Amen." The words were almost a literary repetition of the
+report of the judgment visited upon the person of Achan, as related in
+the Book of Joshua 7:25. A less reliable tradition reports Luther as
+having said: "Because thou hast grieved the holy one of the Lord,
+eternal fire consume thee!" and the anti-Lutheran party erroneously
+identified Luther with "the holy one of the Lord," whereas the
+expression probably referred to Christ, who is called the Holy One of
+the Lord in the Bible.
+
+The burning of the book of canon law (as this act should be called in
+preference to the burning of the Bull of excommunication) was a sign of
+conflagration, symbolical of the ecclesiastical revolt which was
+commencing in Germany and thence was to spread throughout the world and
+result in civil revolution. The young men who were present, in their
+enthusiasm for Luther, did not suspect the far-reaching significance of
+the act. They sang farcical songs, and long after Luther and his friends
+had departed, continued their buffoonery about the funeral pyre, which
+they stirred up ever and anon. In the afternoon students rode about the
+streets of Wittenberg in a carriage, jeering a ridiculous imitation of
+the papal Bull. On the next day, however, Luther clearly explained the
+proceedings to his hearers, saying that really "the pope himself,
+#emph[i.e.];, the Roman See," should have been consigned to the flames,
+instead of the book of canon law. The exuberant spirit of the students
+vented itself anew against the pope in the course of the ensuing
+carnival. Besides other mischievous pranks, a student vested himself
+like the pope, paraded in great pomp with a masked Roman curia and,
+according to a previous agreement, was pursued through the streets by a
+boisterous mob and finally arrested and brought to judgment. Luther
+gives an account of this affair with characteristic
+satisfaction.#footnote[According to Köstlin-Kawerau, #emph[Luther];, I,
+p. 375; cfr. Grisar, #emph[Luther];, Vol. II, pp. 51 sq.]
+
+In consequence of the intervention of Rome, the number of students at
+the University had at first decreased slightly. But soon afterwards
+Spalatin found that Luther’s lectures were attended by nearly four
+hundred hearers, Melanchthon’s by from five to six
+hundred.#footnote[Grisar, #emph[Luther];, Vol. II, pp. 50 sqq.] Despite
+the Bull of excommunication the fame of Wittenberg increased greatly
+throughout Germany. Many never obtained a correct knowledge of the Bull,
+and still less of the reasons for the condemnation. After the
+termination of the respite which had been granted Luther for the purpose
+of recantation, the Pope promulgated a new Bull, "Decet," dated January
+3, 1521, which announced that the ban had gone into effect and contained
+exhortations to the faithful. On June 12, Luther’s writings and a wooden
+statue of him were consigned to the flames at Rome. In conformity with
+ancient custom the scene was enacted in the Campo dei Fiori, where the
+statue of Giordano Bruno now stands.#footnote[Kalkoff in the
+#emph[Archiv für Reformationsgeschichte];, XI (1914), pp. 165 sq. Cf.
+#emph[Zeitschrift für Kirchengeschichte];, XXV (1904), P 578.]
+
+The proceedings at Rome found no particular echo in Germany, for which
+indolence the episcopate was chiefly to blame. Too many of the noble
+lords who held episcopal sees had other interests at heart than meeting
+hostile attacks upon the Church, which some of them failed to
+understand, while others feared to promulgate the papal Bull and take
+corresponding measures, Yet their dioceses were founded upon that very
+canon law which Luther had consigned to the flames and which formed the
+basis of the entire ecclesiastical life of the past and of all western
+civilization. If the flames of Wittenberg could not enkindle the zeal of
+the bishops, the latter should at least have learned a lesson from the
+following work of Luther: #emph[Why the Books of the Pope and his
+Disciples have been burnt by Dr. Martin Luther.] In this work, which
+appeared in both German and Latin,#footnote[Latin text in Weimar ed.,
+VII, pp. 170 sqq.; Erl. ed., #emph[Opp. Lat. Var.];, V, pp. 257 sqq.;
+German text in Weimar ed., VII, pp. 161 sqq.; Erl. ed., XXIV 2, pp. 151
+sqq.] fundamental attacks upon the Church alternate with revolting
+misrepresentations. Never did the lack of ecclesiastical loyalty in the
+majority of the episcopate prove more fatally injurious to the German
+Church than in those decisive days. Not until December 30 was the Roman
+Decree read from the pulpit at Augsburg. At Freising, its publication
+was postponed to January 10. Eichstätt likewise neglected to act till
+January, and, as in the case of other bishoprics, minimized the document
+by means of guarded clauses. Even Meissen and Merseburg delayed its
+dissemination. Ratisbon prudently waited for developments. Passau
+offered covert resistance. The Upper Rhenish bishops, such as the bishop
+of Spires, for a long time took no notice of what had happened. The
+University of Ingolstadt scarcely manifested any interest. The
+University of Erfurt was openly hostile. The University of Vienna, in
+opposition to its theological faculty, declined to carry out the
+provisions of the Bull, and, in justification of its refusal, referred
+to the dilatory conduct of the archbishops of Salzburg and Mayence. In
+brief, Dr. Eck met with most unpleasant experiences in connection with
+his efforts to promulgate the papal Bull.
+
+The learned Erasmus confirmed Frederick of Saxony, who inclined to
+Lutheranism, in his anti-ecclesiastical attitude. Owing to actual or
+feigned indisposition, the Elector tarried at Cologne at the time of the
+coronation of Charles V at Aix-la-Chapelle, October 28, 1520. Erasmus
+made personal representations to him there, contending that Luther
+should first be tried by learned and pious judges at a place free from
+suspicion. In judging of the controversy, Erasmus made a sarcastic
+remark to Frederick: "Luther has sinned in two respects–he has assailed.
+the crown of the pope and the belly of the monks."#footnote[Kawerau,
+#emph[Reformation und Gegenreformation];, 3rd ed., 1907, p. 30.] In
+conformity with Erasmus’s suggestion, Frederick saw the two papal
+legates, Aleander and Caraccioli, who had been sent to the new king and
+to the emperor-elect.
+
+These legates of Leo X were more successful with Charles V, who, though
+only twenty years of age, was a real monarch. He caused the Bull against
+Luther to be proclaimed in the Netherlands, his hereditary patrimony. At
+Louvain and Liége the writings of Luther were publicly burned. The same
+scene was enacted at Cologne, after Elector Frederick had left that city
+in November. Aleander succeeded in having the same thing done at
+Mayence, though amid difficulties and opposition. The strict traditional
+demands of the Bull and the altered views of the age frequently
+collided. Even men devoted to the Church voiced their opposition to the
+forcible removal of heretics. Eck himself was decidedly in favor of the
+ancient imperial laws which demanded the execution of heretics. He dealt
+with this question in his widely circulated #emph[Enchiridion adversus
+Lutteranos];, which abounded in quotations from the Fathers and
+theologians.#footnote[Cap. 26: #emph[De haereticis comburendis];.]
+
+Jerome Emser, who, like Eck, advocated the enforcement of the penal
+laws, also attacked Luther in print. The replies which he received from
+the latter were coarse and ironical, as may be seen from the pamphlets
+#emph[An den Bock zu Leipzig] and #emph[Auf des Bocks zu Leipzig
+Antwort] (1521).#footnote[Weimar ed., VII, pp. 262 sqq., 271 sqq.; Erl.
+ed., XXVII, pp. 200 sqq., 205 sqq.]
+
+When the time for Easter confessions approached, in 1521, Luther, taking
+into account the critical situation of his readers relative to their
+confessors, published his #emph[Instructions for Penitents on Prohibited
+Books];. It was a model of his apparently considerate, yet inciting
+approach to the practical questions involved in the
+conflict.#footnote[Weimar ed.; VII, pp. 290 sq.; Erl. ed., XXIV², pp,
+204 sqq.; Grisar, #emph[Luther];, Vol. II, pp. 59 sq.]
+
+He clearly perceived that for many the Easter confession of that year
+was to be decisive. Therefore he instructed his readers to entreat their
+confessor if he should question them, "with humble words," not to bother
+them about the books of Luther; they should simply say that the popes
+had often changed their opinions after promulgating a prohibition. If
+they were denied absolution because of their refusal to promise to leave
+the prohibited books alone, they should not be disturbed in conscience,
+"but be joyous and certain of absolution, and also receive the Sacrament
+\[Communion\] without any fear." The more courageous penitents, who had
+"a strong conscience," were told to rebuke their confessor to his face
+for his narrow-mindedness. If communion was refused, they should first
+"humbly beg for it," and, if that were without avail, "abandon
+Sacrament, altar, priest and churches," for they all teach that "no
+commandment may be made or may exist in contravention of God’s Word and
+your conscience."
+
+Luther was inventive in the promotion of his cause. In his eagerness to
+avail himself of whatever appeared likely of serving his ends, he,
+towards the close of 1520, made use of a notorious fable attributed to
+Bishop Ulrich of Augsburg, by providing a Wittenberg reprint of it with
+a preface of his own. This publication was intended to be an effective
+weapon against the celibacy of priests and religious. In this letter the
+saintly bishop is represented as narrating how some 3000 (according to
+others, 6000) heads of infants were discovered in a pond belonging to
+St. Gregory’s nunnery at Rome. The manuscript with the letter had been
+sent to Luther from Holland. It is one of the clumsiest forgeries which
+issued from the ranks of the opponents of Gregory VII, who strictly
+enforced the ancient law of clerical celibacy. Emser called Luther to
+task for publishing this questionable letter, and he replied that he did
+not place much reliance upon it. Nevertheless, thanks to his patronage,
+the fable was allowed to continue on its harmful career and was
+zealously exploited.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 89
+sq. What Haussleiter, in the passage cited, establishes as a conjecture
+(that the Wittenberg edition of this fabulous letter and its preface
+were the work of Luther) was confirmed by Otto Clemen in the
+#emph[Theol. Studien und Kritiken];, (XCIII 1920–1921), pp. 286 sqq.
+Luther appeals to the spurious letter of Bishop Ulrich in his
+#emph[Table Talks];, Weimar ed., IV, no. 3983, p. 55; cf. also IV, No.
+4358, p. (p. 258, and 123), No. 4731, p. 456. His commentary on Genesis,
+in the passage quoted by Haussleiter (p. 123), likewise refers to this
+letter. For the text of the forgery, see #emph[Monumenta Germ. Hist.,
+Leges];, I, pp. 254 sq.]
+
+What was the attitude of the Augustinians towards Luther in these
+fateful days? The foundation on which the German Congregation of the
+Order rested, was deeply undermined by Luther’s conduct and the
+undecided attitude of Staupitz. John Lang, Luther’s confidant, who had
+succeeded Luther in the rural vicariate, advanced his cause by preparing
+the minds of the brethren for Luther’s ideas. Wenceslaus Link
+effectively aided him. In the chapter which met at Eisleben, August 28,
+1520, Staupitz resigned the vicariate when the storm broke over his
+head.#footnote[Kolde, #emph[Die deutsche Augustinerkongregation];, p.
+327.] Fourteen friars abandoned the monastic life with Lang. Link
+succeeded Staupitz in the government of the congregation, now tottering
+to a fall. The monks who remained loyal were decried by their
+pro-Lutheran comrades as sanctimonious Pharisees, and their position
+became very difficult. At a meeting of the brethren at Wittenberg, on
+Epiphany, 1522, it was announced that begging would be officially
+prohibited. Moreover–and this was more important–it was resolved that,
+in view of the liberty granted by the Gospel, any monk might leave the
+monastery, but he must "proceed without scandal, lest the holy evangel
+be subject to insult."#footnote[#emph[Ibid.];, pp. 378 sq.; Grisar,
+#emph[Luther];, Vol. II, p. 337.] Among those who remained faithful at
+Erfurt were Nathin and Usingen, Luther’s former teacher, and a valiant
+defender of the Church, who retired to the Augustinian monastery at
+Würzburg in 1525. Luther in the meantime continued to live outwardly as
+a monk in the monastery at Wittenberg. He did not yet attack the
+validity and binding power of the monastic vows.
+
+Staupitz, utterly disappointed, but still favorable to Luther and his
+doctrine, retired to the Benedictine monastery of St. Peter at Salzburg.
+He repeatedly exhorted his protégé not to go too far. In 1522, he even
+informed him in a letter that he ought to know that his (Luther’s)
+activities were being "praised by those who keep houses of
+ill-fame."#footnote[Grisar, #emph[op. cit.];, Vol. II, pp. 151 sq.]
+Luther, on his part, bombarded him with letters, in which he importuned
+him to join his party wholeheartedly and openly. Owing to the restraint
+exercised by his environment, and undoubtedly also to the influence of
+Cardinal Matthew Lang, archbishop of Salzburg, who appointed him abbot
+of the above-mentioned Benedictine monastery, Staupitz finally made a
+fairly satisfactory, though ambiguous profession of faith and openly
+rejected Luther’s abuse of Christian liberty. He died in 1524, and was
+buried in the monastery graveyard. A large artistic slab, bearing his
+coat-of-arms, covers his remains in the chapel of St. Vitus, and an
+elegant epitaph, composed in the style of the age, proclaims his eulogy.
+The monastery preserves his portrait as a Benedictine abbot in a little
+known fine oil-painting, the work of a contemporary
+artist.#footnote[Another, less reliable portrait of a later period is to
+be found in the series of abbots depicted on a wall of the monastery.]
+
+The image of this man, who for many years favored Luther, reminds the
+beholder of the words which Luther, in a spirit of uncanny satisfaction
+at the turmoil prevailing in Germany, wrote in one of his last letters
+to Staupitz: "The confusion rages splendidly (#emph[tumultus egregie
+tumultuatur];).#footnote[January 14, 1521; #emph[Briefwechsel];, I, p.
+70.] It seems to me that it can be quelled only by the break of
+doomsday; so eagerly are both parties involved in it. Marvelous things
+are ready to happen in the history of the time …I have burned the books
+of the pope and likewise the Bull. In doing so, I was at first seized
+with fear, and prayed; but now I take greater pleasure in this act than
+in any other act of my life; they are undoubtedly a greater plague than
+I imagined!"
+
+In the same letter he writes to his spiritual father thus: “At Augsburg
+\[in the days of the trial\] you said to me: ‘Remember that you have
+begun this cause in the name of our Lord Jesus Christ.” …Until now it
+has really been but a trifling! More serious developments are at hand,
+and what you have once said is being verified: If God does not do it, it
+is impossible. Manifestly everything is in the hands of God. No one can
+deny it.”

@@ -1,0 +1,398 @@
+== Luther on Trial Before The Empire
+<luther-on-trial-before-the-empire>
+After Luther had been put under the ban, Pope Leo X addressed an earnest
+letter to Charles V, in which he demanded that those vested with the
+proper authority should execute its secular effects.
+
+The diet of Worms had been convoked for January 6, 1521. Elector
+Frederick of Saxony, ever intent upon delaying the trial of Luther,
+proposed that Luther be permitted to come to Worms for a hearing before
+the diet. In a letter to Spalatin the rebellious monk expressed his
+willingness to make the journey.#footnote[#emph[Briefwechsel];, III, p.
+24. Luther here solemnly advises Spalatin (and through him the Elector)
+of the dedication of his life to the cause he had espoused.] But the
+opposition of the party loyal to the Church, especially that of
+Cardinals Aleander and Caraccioli, the papal nuncios attending the diet,
+the Elector, and subsequently also the Emperor, temporarily abandoned
+this plan. When Luther was apprised of this decision, he expressed his
+displeasure (#emph[cum dolore legi];); for he sedulously strove to
+create the impression that he had not been accorded an adequate hearing.
+His fancy was charmed by the prospect of appearing on the world stage at
+Worms. How much could he not expect in furtherance of his cause from a
+courageous testimony given there in the presence of the empire! What had
+he to fear, protected as he was by an imperial safe-conduct and the
+support of his friends among the knights? Courage and presumption he
+possessed in a plentiful measure.#footnote[On the preliminaries and
+Luther’s appearance at the diet of Worms see Kalkoff, #emph[Luther und
+die Entscheidungsjahre];, 1917, pp. 187 sqq., and the same author’s
+#emph[Der Wormser Reichstag];, 1922. Many of Kalkoff’s assertions,
+however, are questionable. Cf. in addition H. v. Schubert, #emph[Quellen
+und Forschungen über Luther euf dem Reichstag zu Worms];, 1899, A
+shorter but more reliable description in Janssen-Pastor,
+#emph[Geschichte des deutschen Volkes];, Vol. II, 20th ed., pp. 173 sqq.
+See also Grisar, #emph[Lutherstudien];, No. I: #emph[Luther zu Worms];,
+etc. pp. II sqq.]
+
+Luther’s opponents at the diet did not tarry in beginning operations
+against him, On Ash-Wednesday, February 13, Aleander delivered an
+oration, which lasted three hours and was received with applause. He
+recommended that the papal Bull of excommunication be promptly enforced.
+Among other things he pointed out that the Saxon innovator had rebelled
+also against imperial statutes, and that his agitation enkindled
+insurrection and civil war. At the conclusion of the address, Charles V
+declared his intention to proceed at once, and added that it was neither
+necessary nor expedient to grant Luther a hearing. This was the correct
+point of view; for after the definitive judgment of the Holy See, the
+diet was incompetent to reopen the case, especially before the secular
+authority. If there was merely a question whether Luther recanted or
+not, this could be decided in the diet without summoning him. Luther
+himself stated that it was not necessary for him to leave Wittenberg
+solely for this purpose.
+
+Notwithstanding the activity of Cardinal Aleander to keep the
+excommunicated monk away from Worms, some members of the diet were in
+favor of giving him a hearing. This sentiment was nourished by the
+approval which Luther’s pronouncements against the oppressive papal
+taxation and the Roman procedure in the bestowal of benefices met with
+in the assembly. The upshot of this dissatisfaction appears in the
+"grievances" (#emph[gravamina];) voiced by the diet.
+
+On February 19, the estates requested the Emperor to permit Luther to
+appear at Worms, not, indeed, for the purpose of disputing with him
+about religion, but that his recantation might be demanded by experts
+appointed for this purpose. In the event of his recantation, it was
+intended to interrogate him "about other points and matters." If ,
+however, he refused to recant, the Emperor was to issue a suitable
+mandate#footnote[#emph[Deutsche Reichstagsakten unter Karl V.];, edited
+by A. Wrede, Vol. II, Gotha, 1869, pp. 316 sqq. Cf. Janssen-Pastor, op.
+cit., p. 197.] declaring the concurrence of the empire in the papal ban
+with its penalties.
+
+In consequence of this request of the estates, the Emperor cited Luther
+to appear in Worms, March 6, 1521.#footnote[#emph[Briefwechsel];, III,
+pp. 101 sq.] The citation was handed to him at Wittenberg, on March 26,
+by Caspar Sturm, the imperial herald, who had orders to escort Luther to
+the diet. An imperial letter of safe-conduct for the journey to and from
+the diet was issued,#footnote[#emph[Ibid.];, pp. 103 sq.] for which
+reason the summons stated that he had to fear no violence or injustice.
+
+Before he started on his journey, Luther forwarded the printed
+commencement of his explanation of the Magnificat to the future Elector,
+Duke John Frederick, who was very favorably inclined towards him, and to
+whom he had dedicated this work. He also wrote an exhortation to
+Wenceslaus Link on the completion of the latter’s violent diatribe
+against the Italian Dominican, Ambrosius Catharinus, who had vigorously
+attacked him. Then, clad in the habit of his Order, and firmly resolved
+not to recant, Luther confidently set out, on April 2, on his famous
+visit to the city of Worms.
+
+His adherents saw to it that a welcome was extended to him everywhere.
+His journey almost assumed the proportions of a triumphal procession. At
+Erfurt he preached to a great concourse of people on his newly
+discovered way of salvation. "What matters it," he exclaimed, "if we
+commit a fresh sin, so long as we do not despair, but remember that
+Thou, O God, still livest. Christ, my Lord, has destroyed sin; then at
+once the sin is gone."#footnote[Grisar, #emph[Luther];, Vol. II, p. 339;
+Vol. III, p. 180. Cf. the section on Luther’s journey to Worms and his
+appearance at the imperial diet, #emph[ibid.];, I, pp. 379 sqq., and
+Köstlin-Kawerau, I, p. 407.] When, owing to the overcrowded condition of
+the church, the galleries cracked and a panic ensued, he forthwith
+adjured Satan and blamed his spite for the disturbance. A chronicler
+ascribes the restoration of quiet to Luther’s powerful command to the
+devil and says it was the "first miracle" performed by the man of God.
+During his sermon at Gotha, the devil cast stones from the gable of the
+church. According to a letter to Spalatin, written in Frankfort, Luther
+likewise attributed to the devil a severe illness from which he suffered
+and which seemed to threaten the continuation of his journey. What was
+more serious, however, was the news which reached him on the way of an
+edict which the Emperor had issued concerning his books, that they were
+to be delivered up to the authorities everywhere. This made Luther
+realize that the Emperor was resolved on intervention. He said later
+that this realization caused him to tremble with fear. From Oppenheim he
+addressed a letter-to Spalatin, who had cautioned him; he said he would
+go to Worms, even if the devils were as numerous in that town as the
+tiles on the roofs.#footnote[#emph[Briefwechsel];, III, p. 120.] At that
+time he also wrote: "We shall enter Worms in spite of all the gates of
+hell and all the powers of the air."#footnote[Cf. #emph[Briefwechsel];,
+III, p. 122, annotation, 5, where Spalatin’s (German) #emph[Annals] (ed.
+by Cyprian, 1718, p. 38) are quoted and reference is made to Luther’s
+address to Sturm recorded in the #emph[Table Talks];, No. 2609 (Weimar
+ed., III, No. 3357b, p. 285).] In a tavern at Frankfort he was in such
+high spirits that he played the lute in the presence of many guests. His
+opponent Cochlaeus afterwards ridiculed this incident and said that here
+one had an occasion to see Orpheus perform in cowl and tonsure.
+
+At Worms there was a party, centered around the Emperor’s confessor, a
+Franciscan friar by name of John Glapion, who veered to and fro between
+the papal nuncio and the declared friends of Luther relative to the
+latter’s trial. Glapion wanted Luther to appear before him at the castle
+of Ebernburg, instead of the diet in Worms. Luther’s friend Bucer was
+instructed to try to induce him at Oppenheim to acquiesce in this
+proposal. Luther, however, refused to abandon his journey to Worms,
+particularly since he had been apprised of the plot which the
+revolutionary knights had formed against Worms and the diet in the
+extreme case that violence should be offered to his person.
+
+In the forenoon of April 16, the flourish of the watchman’s trumpet on
+the spire of the cathedral announced to the inhabitants of Worms that
+Luther was entering the city. He was accompanied by an honorary escort
+of about one hundred knights. A large multitude soon gathered about him.
+He rode to the residence of the Knights of St. John, where he took up
+his abode. After he had alighted, he "gazed about with the eyes of a
+demon," as Aleander says (who, however, never saw him and declined to
+attend the sessions).#footnote[Grisar, #emph[Luther];, Vol. IV, p. 355.]
+"God will be with me," he said. Clad in a cowl, with a leather girdle,
+and a scanty tonsure about his brow, he exhibited a wretched figure,
+emaciated as he was by fatiguing labors and the stress of uninterrupted
+excitement. But his eyes beamed with a brilliant, deeply glowing, and
+defiant lustre. A faithful representation of his appearance in 1521 is
+supplied by Lucas Cranach’s etching which forms the frontispiece of the
+German edition of his works. The lower jaw, the nape of the neck, the
+mouth and the eyes conspire to give an impression of defiant
+self-reliance. It is the best portrait of Luther which we have, all the
+others being considerably "toned down."
+
+On the following day Luther was escorted by the marshal of the diet and
+the imperial herald to an assembly of certain members of the diet who
+had been summoned to meet the Emperor in the bishop’s court. The edifice
+no longer exists. The Wittenberg jurist Schurf accompanied him as his
+counsel, and, together with the counselors of the Elector of Saxony,
+assisted him in the preparation of his address. He entered the hall with
+a forced smile on his countenance, and critically scanned the audience.
+He was unable, however, to conceal a feeling of depression. He delivered
+the few brief words that he was allowed to utter, according to a Spanish
+report, "with great trepidation and little serenity in countenance or
+gestures." It was not surprising that the gravity of the moment affected
+even his habitually defiant disposition. The speaker of the assembly,
+and official of the Archbishop of Treves, the adroit John von Eck (not
+to be confused with Dr. Eck of Ingolstadt), addressed two questions to
+him: first, whether he admitted the authorship of the books that had
+been placed before him; secondly, whether he was prepared to recant. He
+acknowledged the authorship of the books, after their titles had been
+read to him. As to the question of recantation, he begged for time to
+reflect on account of the importance of the matter for his spiritual
+welfare. He intended to delay matters, but his expectations were
+disappointed when, after a brief consultation, the Emperor granted him
+but one day.
+
+After Luther had left, his appearance was being discussed, and the
+Emperor said: "This fellow will not make a heretic of me." The most
+diverse opinions were relayed to Aleander in his retirement. He wrote to
+Rome that some regarded Luther as deluded, others as possessed, and
+others again as a man filled with a holy spirit.#footnote[Brieger,
+#emph[Aleander und Luther];, pp. 143, 147; Kalkoff, #emph[Die Depeschen
+Aleanders vom Wormser Reichstag];, 2nd ed., 1897, pp. 167, 171.]
+
+In the evening Luther, assisted by his counsel, carefully prepared a
+statement which he intended to make the following day. He was "in good
+spirits" during his intercourse with others.
+
+The decisive session was held in the same court, but in a more spacious
+hall and in the presence of a larger audience. Luther appeared with an
+escort of friends who showed a bold front. He himself was noticeably
+less timid than on the previous day, and exhibited a more deliberate
+reverence toward the high assembly. The official of the archbishop of
+Treves addressed words of admonition to him and inquired whether he was
+prepared to recant. Thereupon Luther, in a firm tone, began the oration
+which has since became so famous. He contended that his writings were
+partly of a religious character, partly directed against the pope and
+his adherents, and partly replies to individual opponents which had been
+forced from him. They contained nothing that was censurable. He entered
+upon a detailed explanation of his writings against the pope, designedly
+availing himself of this occasion to complain bitterly against the Roman
+tyranny "in my Germany," as he put it, "to which I owe my services." He
+was relying on the temper of the princely audience who, as he well knew,
+were ill-disposed toward the abuses prevalent at the papal court. He
+also spoke of the judgments of God which overtook the rulers of the Old
+Testament who resisted the Word of God. He was not interrupted. After he
+had ended, Eck called his attention to the fact that his doctrines had
+long ago been condemned by the Church, that their condemnation had been
+reaffirmed by the recent proclamation of the pope, and that it was
+unthinkable that all Christendom had been groping about in darkness up
+to then. The official concluded his remarks with the demand that Luther
+should state clearly and unambiguously whether or not he was ready to
+retract. Luther replied: "If I am not convinced by proofs from Scripture
+or clear theological reasons, I remain convinced by the passages which I
+have quoted \[in my book\] from Scripture, and my conscience is held
+captive by the Word of God. I cannot and will not retract, for it is
+neither prudent nor right to go against one’s conscience. So help me
+God, Amen!" These last words did not resound through the hall with
+tragic solemnity, as Protestant biographers are wont to put it. On the
+contrary, they were scarcely “audible, according to the oldest sources,
+because of the great uproar and indignation which ensued, and also
+because of the fact that the audience began to crowd out of the stifling
+hall, which was illuminated by torch-lights. Nor did Luther’s
+declaration conclude with the celebrated exclamation: "Here I stand. I
+cannot do otherwise. God help me, Amen." Long ago even Protestant
+scholars have demonstrated that this sentence is unhistorical. The
+expression, "So help me God, Amen," was a formula with which it had been
+customary, since the Middle Ages, to conclude solemn speeches. It was
+simply a Christian paraphrase of the Latin "#emph[dixi];," I have
+spoken.#footnote[Grisar, #emph[Luther];, Vol. II, pp. 65 sq., 75 sq.;
+#emph[Lutherstudien];, Vol. I, pp. 26; 42.]
+
+After a further exchange of words with the official, Luther accompanied
+by his escort, left the episcopal court. Outside, feeling that he had
+been victorious, he imitated the Landsknecht, when they celebrated a
+successful surprise-attack, by swinging his arms about in the air and
+spreading out the fingers of his hands. "I have succeeded," he
+exclaimed; "I have succeeded!" In the tavern he repeated this
+demonstration, as he greeted those who awaited him at the bar. During
+the draughts of merriment, to which they abandoned themselves, no one
+realized the gravity and responsibility of the situation.
+
+Those who had made preparations for a violent coup d’état at Worms were
+also in the main satisfied. As a result of the ferment among Luther’s
+sympathizers, a placard had been posted at the townhall during the
+night, announcing that hostilities had been declared upon the
+"Romanists," #emph[i.e.];, the loyal adherents of the Church, by four
+hundred unnamed members of the nobility, who, it was alleged, were
+prepared to launch an attack with a force of 6000 men. The revolutionary
+watch-word "Bundschuh," thrice repeated, appeared in place of the
+signatures. The word referred to the so-called auxiliaries supplied by
+the peasant estate. It was a custom of the peasants to wear strapped
+shoes. Referring subsequently to the protectors of Luther who were
+prepared to do battle in his defense, Thomas Müntzer told Luther: "You
+would have been stabbed to death by the knights, if you had hesitated or
+recanted." He said this to expose the vain-glory with which Luther was
+accustomed to boast of his courage at Worms, in the presence of the
+great men of the empire. That there was danger of the safe-conduct being
+violated, is a fable of subsequent invention, nourished no doubt by
+Luther’s assertions.#footnote[Cf. Grisar, #emph[Lutherstudien];, I, p.
+88. Annotation 63 of the #emph[Table Talks];, Weimar ed., No. 5432b.]
+The Emperor was determined that the promise should be kept and that the
+return of the obstinate monk to Wittenberg should be unmolested.
+
+Prior to Luther’s departure, several days were consumed in an endeavor
+to bring him round. It was done at the instigation of the estates who
+feared unrest in the city and in the empire. Their decisive declaration,
+issued on the twentieth of April, was to the effect that, if Luther did
+not yield, they would sustain the Emperor in what ever measures he might
+take against the obstinate heretic.#footnote[Cf. N. Paulus, "#emph[War
+das Wormser Edikt ungesetzlich?];" in the #emph[Histor. Jahrbuch];,
+1918—19, pp. 269 sqq.] The archbishop of Treves, Richard von
+Greiffenklau, with the assistance of others vainly endeavored to
+persuade Luther to modify his stand. Equally fruitless were the efforts
+of the scholarly and highly respected John Cochlaeus, dean of the
+chapter-foundation of Our Lady at Frankfort on the Main. He narrates
+that Luther listened to him with tears in his eyes (which the latter
+afterwards denied) and appealed to a private revelation which he claimed
+to have received (#emph[est mibi revelatum];).#footnote[Grisar,
+#emph[Luther];, Vol. IV, p. 258; Vol VI, pp. 143 sq.;
+#emph[Reichstagsakten] (see note 3 above), p. 630. Luther’s denial,
+#emph[Opp. Lat Var.];, VII, p. 48. The offer of disputation,
+#emph[Reichstagsakten];, p. 629; cf. #emph[Table Talks];, Weimar ed.,
+No. 5432b.] An offer which Cochlaeus made to dispute with Luther in
+public before authorized judges, likewise proved futile. Luther’s
+friends within the diet encouraged him. The Elector Frederick alone,
+true to his usually circumspect and diplomatic habit, held back. Never
+did he converse personally with his Wittenberg professor, but only
+through intermediaries. He is reported to have said: "Doctor Martinus is
+far too bold for me."
+
+Before the termination of the imperial safe-conduct, Frederick
+excogitated a plan to safeguard his protégé against the dangers likely
+to result from the imminent declaration of the imperial ban. Luther was
+initiated in the scheme while yet at Worms. A simulated attack was to be
+made upon him by the soldiers of the Elector on the homeward journey,
+and he was to be taken into custody.
+
+Accompanied by his escort, Luther left the city unobserved in a
+carriage, on April 26. He had received an order not to preach on his
+journey, but he disregarded it, contending that the Word of God is
+untrammeled. Having arrived at Friedberg in the Wetterau, he addressed
+two solemn letters defending himself, one to Charles V, the other to the
+princes and estates at Worms.#footnote[#emph[Briefwechsel];, III, pp.
+129, 135; both letters are dated April 28.]
+
+These letters were immediately published in order to create sympathy in
+his behalf. In the first of them, the original of which is now on
+exhibition in the "Luther-Halle" at Wittenberg, he solemnly appeals to
+St. Paul and declares that he can no more deviate from the Gospel of
+Christ than the Apostle, who was ready to anathematize even an angel if
+he preached another Gospel. It was not the will of God that His Word
+should be subject to man; in matters pertaining to salvation no one may
+depend upon a mere mortal. In saying this, he was oblivious of his own
+claim that he alone was able to interpret the Gospel properly and thus
+show men the way to salvation. He pretended to forget the fact that,
+when the Church requires men to rely on her doctrine and her
+interpretation of Holy Writ, this is no demand of fallible men, but of a
+supernatural institution established by God, invested with divine
+authority and protected against error—an institution in which the living
+Christ continues His operations until the end of time.
+
+He who understands the true character of this divine institution will
+take no stock in the assertion, current among Protestants, that Luther
+represented liberty of conscience when he took his "heroic" stand at
+Worms. For freedom of conscience is not violated by the demand to submit
+to a divinely appointed teaching authority; on the contrary, conscience
+is thereby directed to the certain possession of higher truth, to
+contentment and true happiness. The statement that Luther at Worms
+struggled for complete liberty of research and autonomy of reason as the
+domain of future civilization, must he read in the light of his own
+express declaration in his concluding address that he was bound by the
+Word of Scripture, hence by the compelling power of
+revelation—understood, of course, in the sense in which he interpreted
+it. In brief, the diet of Worms does not mark the birth of intellectual
+liberty, neither for conservative Protestantism, nor for that
+Neo-Protestantism which is rapidly developing into infidelity, nor yet
+for the modern world.#footnote[For more details see Grisar,
+#emph[Lutherstudien];, I, ch. v: "#emph[Luther zu Worms, ein Kimpfer für
+Geistesfreibeit?];" (pp. 28 sqq.)]
+
+The tragic schism, caused by subjectivism in breaking away from the
+ancient and venerable universal Church, is all that remains of the
+incident at Worms. But if one were to abstract entirely from the
+religious aspect of the rupture, the consequences of the so-called
+declaration of liberty would show that no genuine benefit accrued to
+Germany, which has been growing weaker and more disunited ever since.
+
+Shortly after Luther’s appearance before the diet of Worms, this event
+was so much 'exaggerated by his friends, that a great many legends
+entwined themselves about it. As he set out for home, it was impossible
+for Luther to foresee the halo with which these days would be surrounded
+in later years. Among the legends referred to is the alleged text of a
+prayer which he was said to have recited at Worms. A staff which he had
+stuck into the ground, in testimony of the truth of his doctrine, was
+said to have grown into a marvelous tree. George von Frundsberg, the
+leader of the Landsknecht, was said to have declared in the presence of
+Luther, prior to his appearance before the princes and estates, that God
+would not abandon the little monk if he were in the right. The nuncio
+Aleander is quoted as saying: "If the Germans repudiate the rule of
+Rome, we shall take care that they perish in their own blood amid
+internecine struggles." Aleander was falsely reputed to have been a
+baptized Jew, or, as Luther said, an infidel who had lost faith in
+Christianity. The only true element in the charges made against him is
+that his past history was not blameless, because he had been infected by
+the Italian Renaissance, and that he often expressed himself imprudently
+in his letters and addresses. Of course, in the eyes of the Lutherans,
+the representatives of the "papistical" party at Worms were all venal
+scoundrels devoid of character, who condemned Luther contrary to their
+own convictions and acted only for the sake of papal favor and reward.
+The Archbishop of Treves is said to have made an attempt to poison
+Luther at a banquet, and Cochlaeus' offer of disputing with Luther was a
+ruse for endangering his personal safety. Luther himself contributed his
+share to these legends. He later on boasted of the ineffable courage
+with which, alone and forsaken at the diet, he jumped into the very jaws
+of "Behemoth." He alleged that the Emperor had outlawed him even before
+his (Luther’s) arrival, by revoking his safe-conduct in virtue of the
+edict condemning his books. He also claimed that the Emperor proceeded
+against him after his departure by means of a surreptitious and invalid
+proscription without the sanction of the diet.#footnote[On these and
+other false legends cf. #emph[ibid];. VI: "#emph[Lutherfabeln vom
+Augsburger Relchstag];" (pp. 36 sqq.)]
+
+Apprehensive of the future, Luther left Worms in a carriage, on May 4,
+accompanied by Amsdorf and a fellow-monk from Möhra; he journeyed in the
+direction of Gotha, when five mounted horsemen, according to a
+preconcerted plan, stopped the carriage near Waltershausen, dragged
+Luther out, placed him on a horse, and, by detours selected for the sake
+of secrecy, brought him to Wartburg castle, near Eisenach, where they
+arrived about eleven o’clock at night. Amsdorf, who had been initiated
+into the affair, was permitted to continue his journey, after he had
+roundly abused his assailants for the sake of pretense. The monk from
+Möhra escaped. The Wartburg was the property of the Elector of Saxony;
+not wishing to know where Luther was, in order to escape embarrassment,
+he had permitted his counselors to select the place. For a considerable
+space of time, Luther disappeared from the scene. His patron could not
+have resorted to a better expedient to save him.

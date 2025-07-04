@@ -1,0 +1,322 @@
+== The Movement Within the Empire
+<the-movement-within-the-empire>
+After his return to Wittenberg, Luther, as we have seen, labored almost
+as zealously in behalf of his new religion, as if no measures had been
+taken against him at Worms. Notwithstanding the imperial ban, his
+activities were but little restricted. There had been no effective
+prohibition of his books, no determined prevention of the sending of
+preachers and the seizure of parishes, no lack of freedom for his
+personal movements, at least not within the confines of electoral
+Saxony. What particularly aided his cause was the fact that the
+Emperor’s attention had been almost completely diverted from Germany
+immediately after the diet of Worms. The long war with Francis I of
+France occupied all of his time. Henceforth, the forces prepared to
+offer resistance to Luther–and of these the rulers of the empire had an
+adequate number at their command–lacked a rallying point and competent
+leaders. The so-called "imperial regimen" at Nuremberg was a cumbersome
+body and with its constant need of funds not adapted to evolve a uniform
+and effective policy against a prince of the reputation and political
+acumen of Frederick of Saxony, the protector of Luther, and against the
+impetuous methods of the theological tribune of Wittenberg, who had
+succeeded in arousing the masses. The mandatory formulas of the edict of
+Worms, with their medieval apparatus, may have seemed promising in the
+eyes of the young emperor, who was zealous in promoting the interests of
+the Church, and in those of the papal nuncio, Aleander. In reality,
+however, they had lost much of their former force in view of the changed
+conditions of the time.
+
+The head of the imperial regimen at Nuremberg was the Emperor’s brother,
+Ferdinand, a sincere Catholic, who acted as viceroy for the empire and
+was ably assisted in the affairs that pertained to the support of the
+ancient religion by the courageous Duke George of Saxony. Among the
+foreign ambassadors accredited to the government the Saxon councilor,
+John von Planitz, labored energetically and successfully to promote the
+pro-Lutheran and dilatory policy of his master, Frederick of Saxony. The
+severe measures which the government had originally adopted to enforce
+the edict of Worms, found no response, not even in Nuremberg itself. The
+opposing elements succeeded in protecting themselves by indicating the
+danger of a revolt on the part of the agitated masses. Above all they
+pointed out that the theological questions at issue had not as yet been
+definitively decided. The complaints of the Catholic members of the
+government against the oppressive financial measures of Rome likewise
+constituted an obstacle to decisive action.
+
+During this dangerous state of suspense, Pope Leo X passed away, on
+December 1, 1521. His successor, the pious and scholarly Adrian VI, who
+had labored in opposition to the ecclesiastical revolution as a
+professor at Louvain and as cardinal-archbishop of Tortosa, conceived
+the noble plan of mastering the hostile movement in Germany by means of
+a thorough reform within the Church, and by openly acknowledging that
+the curia and the clergy had a share in the guilt. He sent Chieregati as
+nuncio to the imperial diet which assembled at Nuremberg in the fall of
+1522, and commissioned him to deliver a celebrated address on the
+necessity of a reform of Rome and the entire hierarchy and clergy, which
+has become a unique document of his unselfish, profound, honest, and
+candid character. In the strained relations of the time, however, it
+failed to produce any results.#footnote[Pastor, #emph[Geschichte der
+Päpste];, Vol. IV, Part 2, pp. 89 sqq. In his address, Chieregati read
+his instructions, which, according to Pastor, are "a document unique in
+the history of the papacy." "We freely confess," the document states,
+"that God permits this persecution of His Church because of the sins of
+men, particularly those of the priests and prelates …All these evils
+have perhaps originated with the Roman curia," etc. (Pastor, p. 93).]
+The efforts which he made during his short pontificate of twenty months
+towards ameliorating conditions in Rome were destined to fail in a great
+measure, due to the opposition of worldly-minded priests and prelates.
+It required time to achieve the necessary reforms. This high-minded
+pope, the last of German race, saw his fondest hopes shattered and was
+carried off all too prematurely by death.
+
+Chieregati’s demand that the edict of Worms be executed, was turned down
+by the imperial diet for the reason that it might provoke civil war. In
+lieu thereof, the estates demanded a church council, which was to be
+convoked within one year on German soil, for the purpose of allaying the
+current controversies. In the meantime the Gospel was to be preached "in
+conformity with the right Christian understanding." Luther could content
+himself with this resolution. Under somewhat more favorable auspices, a
+new diet was opened at Nuremberg in January, 1524.
+
+The new pope, Clement VII (1523–1534), who, as Cardinal Julius de’
+Medici, had led an irreproachable life, made every possible effort to
+suppress the religious innovations by enforcing the decrees of Worms. As
+a result of the activities of his excellent nuncio, Cardinal Lorenzo
+Campeggio, the majority of the delegates at the diet acknowledged the
+legality of the edict of Worms and declared their willingness to enforce
+it "as far as possible." A minority, consisting mainly of
+representatives of the cities, in which the reform movement was
+stronger, declared that the execution of the edict of Worms was simply
+impossible and repeated the misguided demand for a "free ecumenical
+council," to be held in Germany. This was accompanied by the still more
+misleading demand, in the form of a resolution adopted by the assembly,
+for the convocation of a national synod at Spires in the autumn, which
+was temporarily to restore order. Campeggio at once declared the latter
+resolution to be the beginning of an "eternal schism." The Pope
+repudiated it most energetically, and the Emperor in forceful language
+prohibited the undertaking and demanded the enforcement of the edict.
+
+Luther now resumed the fight against the edict of Worms. He reprinted it
+with a furious commentary, bearing the title: "Two Discordant Imperial
+Commandments concerning Luther."#footnote[Weimar ed., Vol. XV, p. 254.
+Erl. ed., Vol. XXIV, 2nd ed., p. 220.] He confronted it with the
+resolution of the diet of Nuremberg in 1524. In it he incites the
+Germans by appealing to them to consider how, after all, they were
+"compelled to be the asses and martyrs of the pope, even if they had to
+be pulverized in a mortar." In heroic words he tells the princes of his
+willingness to die: "What, is not Luther’s life so highly esteemed
+before God, that, if he died, not one of you would be certain of your
+life or rule, and his death would be a misfortune for you all? There is
+no jesting with God." So certain was he of his spiritual mission.
+
+At the instigation of Campeggio, the Catholic princes now adopted
+practical measures by forming a defensive alliance against Luther and
+his passionate threats of a revolution, which, in his opinion, could be
+stemmed by him alone. The idea of an alliance was in the air. Towards
+the end of June, 1524, Ferdinand with the Bavarian dukes and most of the
+bishops of Southern Germany founded at Ratisbon a union for the
+protection of the Catholic religion, the extermination of heresy, and
+the solidification of the Empire. It was a necessity forced upon them:
+by the dimensions which the religious revolt had assumed and by the
+dangers which threatened the State. The destruction of German unity was
+not begun at this time, as Protestant historians maintain; rather, the
+subsequent decline of unity was caused by the division that had preceded
+this union and by the religious schism which was accomplished by
+political measures. The Emperor welcomed the alliance of Ratisbon. It
+was welcomed still more cordially by Pope Clement because of the hopes
+it engendered of restraining the religious defection. For the time
+being, however, the Pope’s efforts to extend the alliance of the princes
+into Northern Germany proved futile.
+
+Among those who inspired the least hope of energetic resistance to the
+innovation, was the archbishop and elector of Mayence, Albrecht of
+Brandenburg. This man, who adhered to a frivolous philosophy of life and
+was known for his loose morals, maintained distinguished Lutherans such
+as Wolfgang Capito at his court. Luther, who knew that he could depend
+on him, dared to write to the Archbishop on December 1, 1521, saying
+that he must not molest the priests who had married and abolish the
+practice of indulgences in the city of Halle; he added that he expected
+a reply within fourteen days, and if it were not forthcoming, he would
+publish his work "Against the Idol of Halle," which he had completed,
+but never printed.#footnote[Erl. ed., Vol. LIII, p. 95
+(#emph[Briefwechsel];, III, p. 251).] After three weeks, on December 31,
+Luther received a reply in which the Archbishop addresses him as "Dear
+Doctor" and states that he had received his letter graciously, that the
+indulgence at Halle had been discontinued, that he intended to be "a
+pious, religious and Christian ruler," and, finally, that he purposed
+"to be favorable and friendly" towards Luther "for the sake of
+Christ."#footnote[#emph[Briefwechsel];, III, p. 265.] Luther now waxed
+more hopeful. But since he was disappointed in his principal
+expectation, namely, that the Archbishop would marry and convert his
+spiritual fief into a secular state, he launched a personal attack upon
+him, in a letter dated June 2, 1525. He positively demanded that the
+Archbishop "enter the state of matrimony and transform his bishopric
+into a secular principality." He also stated that the spiritual order
+was doomed to destruction beyond recovery, and if God did not perform a
+miracle, it is "terrible if a man were to die without a wife," since God
+had created him a male. At that time he was about to marry Catherine
+Bora. Shortly afterwards this letter to Albrecht was printed for the
+benefit of other spiritual princes of the Empire.#footnote[Erl. ed.,
+Vol. LIII, p. 308 (#emph[Briefwechsel];, V, p. 186).] A kind fate
+preserved Albrecht from adopting the proposal of Luther, who directed
+new outbursts of ill-will against the Archbishop on several later
+occasions.
+
+In the letter which Luther wrote to Albrecht of Brandenburg, he referred
+to the general degradation of the clergy manifested by "various songs,
+sayings, satires," and by the fact that priests and monks were cartooned
+on walls, placards, and lastly on playing cards. This systematic
+defamation was common particularly in electoral Saxony, during the reign
+of Frederick, the protector of the "Reformation," who knowingly
+permitted the attacks upon Catholicism to increase in every department
+of life. The deception and duplicity which he practiced casts a dark
+shadow upon his character and places his customary surname, "the Wise,"
+in a peculiar light. Up to his death, on May 5, 1525, Frederick
+practiced double-dealing in religious matters. He never married, but had
+two sons and a daughter by a certain Anna Weller. He and Albrecht of
+Mayence were the two most esteemed and powerful German princes of the
+time, the one a spiritual primate, the other a prince in the temporal
+order, but neither of them distinguished by high moral qualities.
+
+A few words must be added concerning the attitude of the Saxon Elector
+towards Catholicism in Wittenberg.
+
+The support which Frederick gave to the religious innovation produced
+deterrent phenomena, particularly in the stormy fight which Luther waged
+against the remnants of the Mass at Wittenberg. Notwithstanding his
+former declaration of tolerance toward the "weak" and his statement
+regarding the avoidance of force, Luther’s intervention against the
+celebration of the Mass on the part of the last Catholic priest at the
+electoral chapel and the monastery church became a tragedy of flagrant
+intolerance.#footnote[For the following cf. Grisar, #emph[Luther];, Vol.
+II, pp. 88 sqq., and especially pp. 327 sqq.; Vol. IV, pp. 506 sqq.]
+Already in 1522, the Elector, yielding to the pressure of Luther,
+abolished the customary solemn exposition of relics. On March 1, 1523,
+Luther invited the chapter to put an end once and for all to the
+celebration of the Mass, otherwise the capitularies would have to be
+disfellowshipped from the communion of the Church. In a second letter he
+seriously threatened to discontinue his prayers for them, which might
+cause unpleasant consequences before God! A romantic self-deception
+regarding his influence in Heaven! When the Elector still hesitated to
+give his consent and warned against disturbances, Luther appealed to the
+people in a sermon in which he advised them not to lay violent hands on
+the canons, and stated that the territorial lord had "no authority
+except in secular matters." A new, sharp letter of Luther to the
+cathedral canons provoked the censure of the Elector; but Luther knew he
+could go farther; he felt assured of the final approval of Frederick,
+and nothing in that letter was more correct than the warning issued to
+his enemies, that they were not certain of the protection of the
+Elector. A new sermon in which Luther fulminated against the holy
+Sacrifice of the Mass, was delivered on November 27, 1524. The princes
+and the authorities, he exclaimed, ought finally to force "the
+blasphemous servants of the Babylonian harlot" to stop the devilish
+practice of saying Mass. It was scarcely possible to restrain the people
+and the students from committing acts of violence. The town-council and
+the university threatened with the wrath of God the priests who still
+held out. Finally, Frederick "the Wise" abandoned them ignominiously to
+their fate. A vigorous word from him, reinforced by his guard, would
+have silenced the opponents, at least in the city.
+
+The canons finally bowed to the raging elements. On Christmas, 1524,
+Mass was suspended for the first time, never to be resumed. Referring to
+the three remaining Catholic canons, Luther, in his characteristic
+fashion, said that "three swine and bellies" still remained in the
+church, "not of All Saints, but of all devils." An echo of his violent
+sermons against the Sacrifice of the Mass was the tract, "On the
+Abomination of the Silent Mass, called the Canon," which he published in
+the beginning of the year 1525.#footnote[Weimar ed., Vol. XVIII, pp. 22
+sqq.; Erl. ed., Vol. XXIX, pp. 113 sqq. ; Grisar, #emph[Luther];, Vol.
+IV, pp. 508 sqq.] In it he attributes the merit for the deeds of
+violence perpetrated at Wittenberg to the "secular lords," who, he says,
+had been obliged to intervene.
+
+In a letter written at the beginning of May, 1525, to the Elector
+Frederick, who was very ill at the time, Luther’s friend Spalatin,
+Frederick’s counselor and guide in the above-described fight on the
+Mass, unreservedly set forth the duties of secular rulers to promote a
+religious reformation.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol.
+I, p. 724.] This applied to all territorial rulers.
+
+A few days later, on May 5, Frederick died in his castle at Lochau after
+receiving the Last Supper under both forms, as an adherent of Luther; he
+was the first German prince thus to pass away. Luther had been summoned
+to attend him in his last moments, but arrived too late. In fact, he had
+never met Frederick personally. On the tenth of May, and again on the
+eleventh, the day of the funeral he delivered funeral orations in the
+castle-church, which abounded in exuberant eulogies of his friendly and
+prudent protector. In a consolatory letter addressed to John, the
+brother of the deceased, who succeeded him as ruler, he renewed his
+former, very intimate relations. John proved an even more determined
+protector than Frederick, and with his assistance Luther was able to
+exterminate Catholic worship in the electorate of Saxony.
+
+As the Reformation was imposed in electoral Saxony by pressure from
+above, so, too, in other German territories. The free imperial cities
+especially hastened to take the lead in the introduction of the new
+ecclesiastical régime by recourse to penal measures enforced by the
+civil authorities.
+
+The tremendous development of the civil power at that time was very
+advantageous to the extension of the Protestant revolt. A number of
+practically independent principalities arose from the loose structure of
+the empire. Due to the long absence of the Emperor, the territorial
+rulers found themselves thrown upon their own resources. The increase of
+power which accrued to their scepters in virtue of the new religious
+system, accelerated their steps in the direction of absolutism.
+
+As early as 1523, Luther had dedicated his treatise "On Secular
+Authority and the Extent of the Obedience due to it" to John, the
+heir-apparent to the throne of the Saxon Electorate.#footnote[Weimar
+ed., Vol. XI, pp. 245 sqq.; Erl. ed., Vol. XXII, pp. 59 sqq.] It was a
+sermon which he had delivered in John’s presence at Weimar and which was
+published at the latter’s request, after having been enlarged by the
+author. Luther later on loved to appeal to this work, in order to show
+that it was he who had indicated the proper measures to the civil
+governments for emerging from the oppression of the papacy. "I would
+fain boast," he says of himself, "that, since the age of the Apostles,
+the secular sword and authority have never been described so clearly or
+praised so splendidly, as by me, as even my antagonists must
+acknowledge."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. I, p.
+584. Cfr. Grisar, #emph[Luther];, Vol. II, pp. 294 sqq.; IV, 331.]
+However, what good there is in this work had long ago been expounded by
+Catholic writers, #emph[e.g.];, the demonstration from Holy Writ that
+the secular power exercises its authority by the will and ordinance of
+God. Luther’s exhortations to the princes in the third part are
+beautiful, but by no means new.
+
+On the other hand, the new ideas contained in the second part of the
+treatise on the restriction of the civil power to temporal affairs, and
+to the punishment of evil-doers and the protection of good citizens were
+fallacious and contradicted the theories concerning the assistance to be
+furnished by temporal rulers for ecclesiastical purposes which he
+himself subsequently enunciated and openly applied. In the second part
+of the treatise he has in mind only Catholic princes, his intention
+being to oppose a strong barrier to their measures against Lutheranism
+and for the protection of the Catholic religion. Hence the assertion
+that secular princes have no voice in matters pertaining to religion.
+Hence, also, the separation in principle of the kingdom of God from the
+kingdom of the world, which he proposes. The world, he says, is a house
+of devils which requires the sword for its government. But the true
+Christian believer lives in a divine kingdom, which needs no laws and no
+compulsion, but is governed solely by the Word of God. These are hazy
+and extravagant ideas which led him to make such declarations as the
+following: a Christian must put up with any injustice committed against
+him by his fellowmen, and leave it to the authorities to protect him;
+for Christ in the Sermon on the Mount taught men to resist evil. In
+general, the Sermon on the Mount, with its passages referring to the
+blow on the cheek, etc., affords, to the mind of Luther, not only a
+guide to perfection; it supplies no mere "evangelical counsels," as the
+papists teach, but real commandments, which are known to and observed
+only by those who dwell in the kingdom of Christ, but not by those who
+inhabit the kingdom of the world and by the civil
+authorities.#footnote[Grisar, #emph[Luther];, Vol. II, pp. 298 sq. On
+Luther’s distinction between the world and the Church see #emph[ibid.];,
+Vol. V, pp. 55 sqq.] Here he meets with a dilemma when he invests the
+prince with a dual personality which, on the one hand, fundamentally
+degrades him to the rank of a beadle and a "jailer" of the wicked,
+whilst, on the other, he must satisfy the most exaggerated religious
+demands as a Christian believer.
+
+At that time Luther never imagined that he would soon be compelled to
+regard the civil rulers as the real protectors and guardians of religion
+in their respective territories, whose chief duty was to ward off the
+"wolves," #emph[i.e.];, the "papistical" antagonists of the Reformation,
+and to eradicate the "sacrilegious" Mass.

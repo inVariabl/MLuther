@@ -1,0 +1,248 @@
+== The Storms at Erfurt
+<the-storms-at-erfurt>
+The city of Erfurt, which was subject to the archbishop of Mayence,
+affords a typical illustration of the storms which accompanied the
+progress of the religious revolution in 1525. It will repay us,
+therefore, to review the events which occurred there in the course of
+this year, and Luther’s attitude towards them.
+
+After the first "anticlerical upheaval" (#emph[Pfaffensturm];), Luther,
+who had just returned from the Wartburg, issued a printed "Epistle to
+the Church of Erhurt," warning the members against disturbances and
+setting forth his own attitude: "As yet I have not raised a finger
+against them \[the papists\]; Christ has slain them with the might of
+His tongue."#footnote[July 10, 1522; Erl. ed., Vol. LIII, p. 139
+(#emph[Briefwechsel];, III, P. 431).] At Erfurt, he delivered a sermon
+which was calculated to arouse strong animosity against "the fat and
+lazy priests and monks," as he characterized them, "who only feed their
+big bellies." "We must crush the seed of this Satanic head." He boldly
+maintained that the secular rule of the archbishop of Mayence had no
+right to exist, and "in virtue of the orthodox faith you are spiritual
+and should judge all things." "Faith does everything, and good works,
+too, result from it."#footnote[Grisar, #emph[Luther];, Vol. II, p. 347.]
+
+The religious upheaval at Erfurt, however, failed to produce these good
+fruits, but engendered bad moral conditions, so that even Eobanus
+Hessus, a friend of the Reformation, known as "King of poets," wrote in
+1524: "Immorality, corruption of youth, contempt of learning, and
+dissensions, such are the fruits of your Evangel." "Oh, unhappy
+Erfurt!"–he cries in a letter of this same year, in which he stigmatizes
+"the outrageous behavior of these godless men of God," namely, the
+apostate priests and new preachers. He sees the battlefield of the
+passions tinged with "blood."#footnote[#emph[Ibid.];, pp. 349 sq.]
+
+The scholarly Augustinian, Bartholomew Usingen, who had once been
+Luther’s professor at the University of Erfurt, also predicted a bloody
+revolution for the same year (1524), which was to break out at Erfurt
+and reach the most remote districts. In his gloomy forebodings he
+prophesied that the religious storm would bring about the decline of the
+empire and the loss of Germany’s ancient greatness. "Why," he
+remonstrates with one of the revolutionary preachers of Erfurt, "why
+have you ordered out the pickax, the mattock, and the spade in your
+sermons, if the Word of God is sufficient for the Church? Why have you
+called out to the mob that the peasant must abandon the soil in order to
+come to the aid of the gospel?"#footnote[#emph[Ibid.];, pp. 336 sqq.,
+where proof is adduced for the following statements.] Oblivious of the
+debt of gratitude which he owed him, Luther, who was familiar with the
+energy with which Usingen championed the cause of the Church, denounced
+the venerable man as a fool. In a tone of frivolity he jeered at the
+teachers of the university to which he was indebted for his education,
+and who still remained Catholic, decrying them as the "sophists of the
+biretta and the pointed hats."
+
+The Reformation received every imaginable assistance from the majority
+of the town-councilors at Erfurt. Thus encouraged, Johann Lang, a
+renegade Augustinian monk, proposed the slogan, "The gospel must be
+sustained by the aid of the sword."#footnote[#emph[Ibid.];, p. 350.] The
+Catholic canons of St. Mary’s and St. Severin’s were repeatedly
+compelled to protest against acts of violence. By confiscating their
+possessions the town-council intended to force them and the remaining
+clergy to yield. On April 27, 1525, when the revolutionary spirit
+already stalked through wide stretches of Germany, and the war-cries of
+the peasants resounded, the treasuries of the two aforementioned
+churches were subjected to a close search by the magistrate. Splendid
+works of art, which had been given by the forefathers, and faithfully
+preserved by the Church, were squandered and destroyed.
+
+When the day of the peasants’ revolt dawned in the vicinity of Erfurt,
+they impetuously demanded the new liberties. Their object was equality
+with the citizenry, who were hostile to the magistrates. They made their
+peremptory demands in the name of the new gospel. "God has enlightened
+us to march upon Erfurt with arms," one of their leaders
+exclaimed.#footnote[#emph[Ibid.];, pp. 357 sqq., there further proofs
+are adduced, particularly from the excellent work of Eitner,
+#emph[Erfurt und die Bauernaufstände im 16. Jahrhundert];, Halle, 1903.]
+The representatives of fourteen villages in the district of Erfurt,
+having met in a tavern, swore "with upraised hands" "to fortify the Word
+of God, and to form an alliance for life, with the object of abolishing
+the ancient tribute of which they had freed themselves." On April 25 or
+26, they appeared with scythes, hoes, and carbines beneath the walls of
+the city. The magistrate at once conceived the clever idea of diverting
+the malcontents upon the clerical estate and the Electorate of Mayence.
+Having completed their negotiations with Hermann von Hoff, president of
+the Erfurt town-council and an opponent of the clergy, they opened the
+gates of the City to the threatening mob, on condition that it would
+spare the property of the citizens. The palace of the archbishop and the
+custom house, however, were turned over to them. The salt-kilns and
+almost all residences of the clergy were eventually stormed and
+plundered by the mob, who with unspeakable barbarity disposed of the
+sacred vessels, images, and relics belonging to the churches, assisted
+by many of the lower citizenry. “Lutheran preachers like Eberlin von
+Günzburg, Aegidius Mecheer, and Johann Lang, mingled with the citizens
+and peasants before the palace at Mayence and harangued them.” Every
+convent occupied by nuns was confiscated, and the inmates were expelled
+without mercy in order to furnish quarters for the peasants. The
+Augustinian monastery, where Luther had sojourned as a monk, was
+desecrated by the invaders.
+
+Sentence of death was pronounced upon the ancient cult by the adoption
+of a resolution which decreed that pastors were to be installed and
+deposed only by the congregations and that "the pure Word of God" alone
+was to be preached in the pulpit, "clearly and without any addition of
+human commandments, ordinances, and doctrines." Johann Lang, "the
+apostate, fugitive, and married monk," as a contemporary Catholic writer
+calls him, was appointed preacher at the cathedral. Most of the clergy
+left the city.
+
+With the consent of the magistrate the archiepiscopal rule was declared
+terminated.
+
+The magistrate was soon deposed and replaced by two committees, one
+constituted of the lower citizenry, the other of the peasants, who
+jointly assumed the government of the city. The former members of the
+magistracy were threatened with decapitation. The preachers, however,
+succeeded in restoring their authority.
+
+As a norm for the future guidance of the community, which was deeply
+divided, twenty-eight very accommodating articles were proposed by the
+town-council and received the "new seal" of the municipality and the
+peasantry. The preaching of the pure Word of God and the free election
+of pastors again headed the list. For the rest, the citizens and
+peasants hedged the town-council about with many limitations, On account
+of certain debatable points, it was agreed to leave the regulation of
+the town to Luther, who, however, wisely refused. His intervention could
+only have made matters worse. He was not qualified for such pacific
+labors and had no talent for public organization. Moreover, at that
+time, when the defeat and punishment of the peasants had already begun,
+he was agitated by that unhappy frenzy against the mob which crops out
+in his writings. On this account, the twenty-eight articles were placed
+before him only for his written opinion.
+
+The town-council knew how little the demands which had been extorted
+from it and which were so favorable to the peasants, could be expected
+to meet with the approval of Luther. In matter of fact he pronounced the
+articles absolutely "inept" and wrote#footnote[On September 19; Erl.
+ed., Vol. LVI, p. XII (#emph[Briefwechsel];, V, p. 243).] that they
+clearly revealed that they were being proposed by "men who are too
+prosperous," whose demands were being made at the expense of the
+magistracy and to the detriment of the public welfare. He claimed that
+"they wanted to subvert the existing order of things with unheard-of
+presumption and malice"; that these articles reduced the council to the
+level of servants of the community; that they caused the "city of Erfurt
+to be lost" to the princes; and that it had even been resolved to
+withhold from the Saxon Elector, the legal protector of Erfurt, the tax
+to be paid by his subjects for protection. The "mob" should not be
+allowed to govern all things, to bind the magistrate hand and foot and
+set it up as an "idol" and let it see how "the horses drive the
+coachman." It is worthy of note that, whilst he was in this restraining
+mood, Luther found it quite inadmissible that congregations should
+appoint their own pastors and demanded that the town-council should at
+least exercise a certain "supervision" in this matter.
+
+However, he was pleased with that article which provided that persons
+who plied an indecent trade should no longer be tolerated, and that the
+"house of common women" should be closed–a measure which he advocated
+also for other cities.#footnote[Grisar, #emph[Luther];, Vol. II, p.
+359.] For the rest, we may remark that, during the archiepiscopal
+regime, a house of correction for the punishment of loose women had
+existed at Erfurt, but had been razed to the ground when the peasants
+entered the town.
+
+Luther is silent about the abolition of the sovereignty of the
+archbishop of Mayence. In a sharp letter issued May 26 through his
+vice-regent, Archbishop Albrecht had refused to relinquish his rights
+over the city and demanded the expulsion of the Lutheran sects and an
+expiatory tribute. But the Elector John of Saxony promised the
+town-council that he would support them on the religious issue and act
+as their "liege lord, territorial and protecting prince," since he, too,
+was devoted to the Word of God. Relative to the secular government of
+Mayence, John, no less than the other protector, Duke George of Saxony,
+insisted upon an amicable understanding. This demand became effective
+only after the Elector of Mayence threatened to appeal for armed
+intervention to the dreaded Swabian League. The remnant of the peasants
+withdrew from the occupied city, Albrecht’s sovereignty was
+reestablished, and the expelled clerics were reinstated. They had
+yielded only to superior force. The Catholic element at Erfurt was still
+numerous, wealthy, and influential. The city council was compelled to
+promise the Archbishop to reconstruct the demolished buildings and to
+make restitution, as far as possible, for the spoliation which he and
+the churches had sustained. In addition, the town-council was obliged to
+pay him 2,500 gulden and to indemnify the two collegiate churches,
+namely, the cathedral and the church of St. Sever, to the extent of
+1,200 silver marks. These two stately churches have remained in the
+possession of Catholics up to the present time.
+
+On the other hand, however, Lutheranism obtained complete liberty to
+propagate itself. At the time of the restoration of the two churches,
+Cardinal Albrecht, who was formally reinstated in 1530, declared with a
+striking and far-reaching indulgence, "as regards the other churches,
+and matters of faith and ritual, we hereby and on this occasion neither
+give nor take, sanction nor forbid anything to any
+party."#footnote[#emph[Ibid.];, p. 361.]
+
+The Augustinian monastery at Erfurt, that submerged seat of Catholic
+piety, did not survive the revolution of 1525. On July 31 of that year,
+Adam Horn, the last prior, received permission from John von
+Spangenberg, the vicar-general of the dispersed Congregation, to abandon
+the monastery, since he was no longer safe in it. Usingen joined the
+brethren of his Order at Würzburg. The last trace of Nathin is found in
+1523. Of an aged monk, who remained loyal to the Church and was
+compelled to live outside the cloister, Flacius Illyricus relates that
+he used to recall the religious zeal which Luther had displayed in the
+monastery and his dutiful observance of the rule.#footnote[#emph[Ibid.];,
+p. 361, note 2.]
+
+A courageous and eloquent Franciscan, Dr. Conrad Kling, rallied the
+Catholics of Erfurt about himself. When he preached in the capacious
+hospital, the audience was so numerous as to overflow into the
+churchyard outside.
+
+The Catholic members of the town-council, encouraged by Kling, to the
+annoyance of Luther championed the cause of Catholicity with such
+success that the Lutheran preachers saw their mission in the city
+rendered precarious. They complained to Luther that their revenues were
+restricted and they were reduced to "hunger, misery, and destitution."
+The people demanded to know who had sent them. Suffering from public
+contempt, they thought of abandoning the town, when, in 1533, Luther
+encouraged them to remain and sustained them by means of a letter which
+he had composed jointly with Melanchthon and Jonas.#footnote[Erl. ed.,
+Vol. LV, p. 25 (#emph[Briefwechsel];, IX, p. 341).] Their mission, he
+said, was not to be contested, since they had been "openly and
+unreservedly" called by the town-council; they should "be patient for a
+year or a short time." Referring to the end of the world, he said that
+the treatment to which they were subjected was but an "unsightly,
+horrible aspect of the end of the world, and of the last fury and wrath
+of Satan, equally terrible to behold." He promised to appeal to the
+Elector of Saxony, "who does not favor the religious services of the
+papists," against the reprobate monk Kling.
+
+The acts of the soldiery against the peasants, and Luther’s state of
+mind against the McJob, inspired him at that time to compose a work
+which he curiously entitled: "Whether Soldiers can be in the State of
+Grace."#footnote[Weimar ed., Vol. XIX, pp. 628 sqq.; Erl. ed., Vol.
+XXII, pp. 244 sqq. this: pamphlet was written towards the close of
+1526.] He says previous ages did not raise this question, and pretends
+it was the first time that it was found necessary to solve a case of
+conscience for the soldiers. He tries to show that it is "divine" to
+subdue the mob and unjust enemies with violence. The plea sounds like a
+justification of his pronouncements against the murderous peasants,
+especially when he asserts that it is God, not man, who destroys unjust,
+hostile force. "It is God who hangs, quarters, decapitates, slaughters,
+and makes war."#footnote[Erl, ed., Vol. XXII, p. 250.] Subjects–the
+mob–may in no instance constitute themselves judges of authority. It is
+foolish to yield too much to the mob, lest it become frenzied; the mob
+is rather to bear and suffer the utmost, as a Christian duty, even if
+the authorities do not observe the oaths they have taken. No one may
+rise against tyrants; but if the masses, nevertheless, expel or
+slaughter them, it is to be regarded as a divine fate; the sword of
+Damocles hangs suspended over their heads all the time.

@@ -1,0 +1,323 @@
+== Auxiliaries from the Monasteries
+<auxiliaries-from-the-monasteries>
+Lichtenberg in the Saxon Electorate affords an example of how
+Lutheranism gained ground by enticing the occupants of important
+clerical positions to violate the vow of celibacy. The appeal to
+sensuality served as a stimulant. Whereas the measures discussed before
+were coercive, we have now to consider a kind of moral compulsion whose
+power over mortal man was fully realized by those who set the evil
+passions in motion. In this respect the letter by which Luther prepared
+the way for the change of religion of Lichtenberg is an extraordinary
+document. In that city there was a famous monastery of Antonine monks,
+who followed the rule of St. Augustine. It was governed by Wolfgang
+Reissenbusch, a doctor of laws and a former student of the University of
+Wittenberg. He was bound to his Order by solemn vows, and discharged the
+office of "preceptor" of the monastery and administrator of its
+property. Luther’s friends reminded him that Reissenbusch,
+notwithstanding his scruples, could probably be prevailed upon to
+marry–a matter which he had already discussed with him. Luther sent him
+an open letter, which was published at Wittenberg under the title: "A
+Christian Letter Addressed to Wolfgang Reissenbusch," etc. In it he
+tries to impress the recipient, as well as all others who are similarly
+situated, with every conceivable reason to induce them to violate their
+vow of chastity by an immediate marriage.
+
+As a man, he says, Reissenbusch was "created for and compelled by God
+Himself to embrace the married state." The monastic vow is void because
+it demands the impossible. To keep chastity is "as little within our
+power as to work miracles." As long as one is neither an angel nor a
+spirit, we are told, "God in no wise bestows or grants this privilege."
+He who takes such a vow relies "upon works, and not upon the grace of
+God;" he "takes his stand upon works and commandments" and denies
+"Christ and the faith."
+
+Then follows a detailed, and, in some places, disgusting exposition of
+the alleged inevitable necessity of sexual intercourse. The
+non-satisfaction of the sexual instinct in matrimony had resulted in
+immorality among the entire clergy and in all the monasteries. Luther
+overwhelms his tempted friend in sinister language and with a demoniacal
+style intended to excite the passions. "It is necessary that you be
+urged thereto, that you be exhorted, driven, incited, and encouraged.
+Well now! dear sir, I prithee, why do you wish to delay and meditate,
+etc.? It must not, it ought not, and it will not be otherwise. Banish
+the thoughts from your mind and go ahead joyously!" True he would
+thereby become a "matrimonial mantle covering the disgrace" for others;
+but Christ, too, had become "the mantle that cloaks the disgrace of us
+all."#footnote[Weimar ed., Vol. XVIII, pp. 270–279; Erlangen ed., LIII,
+pp. 286 sqq. (#emph[Briefwechsel];, V, p. 145), letter of March 27,
+1525. Finally Luther says (#emph[ibid.];): "It is but a matter of a
+brief hour of disgrace, to be followed by years of honor."]
+
+The reference to Christ is repulsive. That holy name ought rather to
+have reminded him of the admonitions of Christ and His disciples, which
+were the very antithesis of his own exhortations. It should have
+recalled to him the words which served as a guiding star throughout all
+the centuries for those who voluntarily bound themselves by a vow of
+chastity. It should also have reminded him of the grace of Christ in
+which he who makes this sacrifice places his sole reliance and whereby
+that which appears impossible to the world is rendered easy and a source
+of joy. In lieu of these, we have alluring descriptions of the
+irresistible force of the sexual instinct.
+
+Reissenbusch yielded to Luther’s persuasion, bade farewell to the Order
+to which he had bound himself by a solemn vow, and married Hanna Herzog,
+the daughter of a poor tailor’s widow at Torgau. With the connivance of
+the Elector he retained his clerical office as "preceptor" and the
+endowments entrusted to his Order. For the purpose of inviting others to
+imitate his example, the incident was exploited in the press by
+Bugenhagen, the Lutheran pastor of Wittenberg, who addressed to the
+happy groom an "Epistola Gratulatoria de Coniugio Episcoporum et
+Diaconorum" which he also caused to be published in German. Such great
+importance was attached at Wittenberg to the marriage of priests and
+monks as an auxiliary factor in the extension of the new Evangel.
+
+Already at a previous stage of his career Luther had approached, among
+others, the Order of Teutonic Knights, urging its members to break their
+vows by marrying. Unfortunately, discipline had declined among these
+Knights, so that he had reason to hope that they would respond to his
+public invitation. Like the priests of this Order, the knights, too,
+were bound by a voluntary vow of chastity. Their contact with the world
+exposed them to special danger. The general reform by means of which
+Adrian VI endeavored to check the decline of their monastic discipline,
+proved to be but partially adequate in view of the dissensions that
+prevailed among the rulers of the Teutonic Order, especially since the
+Grand Master of the Order, Albrecht von Brandenburg, a cousin of the
+Elector Frederick of Saxony, was himself favorably inclined towards
+Lutheranism. After receiving a visit from the Grand Master at
+Wittenberg, on November 29, 1523, Luther wrote his "Exhortation to the
+Knights of the Teutonic Order to Avoid False Chastity and Embrace Lawful
+Matrimonial Chastity," which was at once published in
+German.#footnote[Weimar ed., Vol. XII, pp. 232 sqq.; Erl. ed., Vol.
+XXIX, pp. 16 sqq. Grisar, #emph[Luther];, I, 116 sq., 317 sq.]
+
+In this work, the author depicts matrimony in alluring colors, as the
+proper thing for their state. He tells the knights who had secret and
+illicit such relations with women, "not to despair in weakness and sin,"
+because such extra-matrimonial relations were "less sinful" than to
+"take a lawful wife" with the consent of a council of the Church,
+supposing such a permission were given.#footnote[Grisar, #emph[Luther];,
+Vol. II, p. 120.]
+
+In conclusion he says that Christ had reserved to Himself certain
+bishops who would resign from their office or transform it into a
+genuinely episcopal office for the sake of the Gospel. Many a bishop or
+abbot would marry, he says with a significant hint to weak
+ecclesiastical dignitaries, if the path were only blazed for them and
+wooing were no longer regarded as a disgrace and a danger.
+
+These alluring appeals did not fail to attain their object in the case
+of those members of monastic orders to whom they were addressed. With
+the same energy Luther set about the task of winning over the
+episcopate, ridiculing the bishops who refused to heed him. When, in
+compliance with an imperial mandate, the bishops of Meissen and
+Merseburg proceeded with their visitations and called to account the
+clerics who had married, he issued a tract in which he gave full vent to
+his irritation against the hierarchy (1522). His main intention was to
+brand the higher clergy as immoral and to strengthen his appeals to the
+lower clergy to marry and preach the pure Gospel. This tract bore the
+title: "Against the Falsely Named Clerical State of the Pope and the
+Bishops."#footnote[Weimar ed., Vol. X, pp. 105 sqq.; Erl. ed., Vol.
+XXVIII, pp. 141 sqq.] In this work he calls himself an "evangelist by
+the grace of God," declaring he had the same right to style himself thus
+as they have to call themselves bishops, since he was certain that
+Christ regarded him as such and would testify in his behalf on the day
+of judgment. Here, too, he teaches that the sexual impulse can be
+controlled in the clerical state as little as fire can be deprived of
+its power to burn; that it is either "all fornication" or "impure,
+involuntary, miserable, lost chastity." There is "scarcely one among a
+thousand who lives an upright life." These few are "God’s special
+miracles." Pope and bishops permit innocent men to be sacrificed "to
+Moloch, the fiery idol." "Monasteries and convents are gates of hell,
+where the faith (#emph[i.e.];, his faith) is not practiced with honesty
+and vigor."#footnote[Grisar, #emph[Luther];, Vol. I.] He does not tire
+of censuring them because of their corrupt life.
+
+But, he interposes, will not a revolt be the final outcome against the
+episcopate? What about it? "It would be better"–thus runs his terrible
+reply–"that all the bishops were murdered, that all the monasteries and
+convents were uprooted, than that a single soul should perish. Of what
+use are they but to live voluptuously by the sweat and toil of
+others?"#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. I, p. 517.]
+As an ecclesiast by divine right he boldly issues "Doctor Luther’s Bull
+and Reformation," which begins with the solemn declaration: "All who
+stake their lives, their property, and their honor, that the bishoprics
+are destroyed and the episcopal régime is exterminated, are dear
+children of God and true Christians, who observe God’s commandments and
+combat the devil’s régime …All who sustain the rule of the bishops and
+are subject to them by voluntary obedience, are the devil’s very own
+servants and militate against God’s order and law." To this inflammatory
+appeal to violence, however, he appends the modifying clause that he
+does not wish to destroy with "club and sword," but, as "Daniel teaches
+(Dan. 8:25), the Antichrist shall be broken without hand, so that
+everyone, with God’s Word, will talk, teach and stand firmly against the
+Antichrist, until he be confounded, abandoned, and despised, and come to
+grief of his own accord. That is a true Christian agitation for which
+one should stake his all."#footnote[For contrary utterances, see Grisar,
+Luther, Vol. III, pp. 44 sqq. Likewise Grisar, #emph[Lutherstudien];, VI
+(#emph[Kampfbilder];, Grisar and Heege, Heft IV), pp. 126 sq., and
+especially pp. 137 sqq.]
+
+Besides the extirpation of the episcopate, Luther had at heart
+particularly the emancipation of the nuns. Soon after his Wartburg days,
+he dedicated two tracts to the "pious children" among the nuns, who were
+desirous of hearing the voice of the Gospel. One of these, published in
+April, 1523, bears the title: "Reason and Reply, why Virgins may leave
+Convents with Divine Sanction." The other is entitled: "Story of How God
+Aided a Nun." In contrast with the preceding appeal to agitate, the
+latter reads almost like an idyll. It was intended to inspire other nuns
+to leave their convents.
+
+The occasion of the former publication#footnote[Weimar ed., Vol. XI, pp.
+394 sqq.; Erl ed., Vol. XXIX, pp. 33 sqq.] was furnished by twelve
+Cistercian nuns, who fled from their convent at Nimbschen near Grimma,
+with the assistance of a town-councilor, Leonard Koppe of Torgau. Nine
+of these fugitive nuns came to Wittenberg. Among them were Catherine von
+Bora and a sister of Johann von Staupitz. According to Luther, this
+pamphlet was written expressly to illustrate how all nuns should
+liberate their consciences and save their souls. To the objection that
+such clandestine flight, combined with a denial of the monastic vow,
+gives rise to scandal, he replies: "Away with scandal! Necessity knows
+no law and gives no scandal …I should consult my soul; let the whole
+world be scandalized!" It is interesting to note Luther’s confession
+that he had himself, with the aid of Koppe, planned the escape of the
+twelve nuns, who had been enlightened by his writings. They were mostly
+daughters of the nobility, who had been committed to the convent
+according to custom and hence failed to honor the state of life which
+they had embraced voluntarily. Their lodging with relatives or families
+in Wittenberg was a source of no small anxiety to Luther, since he
+feared that opportunities of marrying them off might not present
+themselves so readily.#footnote[Amsdorf offers his assistance in
+procuring husbands for them; thus he offers the sister of Staupitz to
+Spalatin, adding: "But if you wish for a younger one, you shall have
+your choice of the prettiest." (Grisar, #emph[Luther];, Vol II, p.
+137.)]
+
+After several weeks, three more nuns were abducted from the convent of
+Nimbschen by their families. Simultaneously sixteen escaped from the
+convent at Widerstett in Mansfeld, of whom five found lodging with Count
+Albrecht of Mansfeld, who was very friendly to the Lutheran cause.
+
+The heroine of Luther’s "Story of How God Came to the Aid of a Nun" was
+Florentina of Oberweimar, who had abandoned her convent at Neu-Helfta,
+near Eisleben.#footnote[Weimar ed., Vol. XV, pp. 86 sqq.; Erl. ed., Vol.
+XXIX, pp. 102 sqq. (year 1524.)] She told Luther of alleged bodily
+torments inflicted upon her because of her religious views. Luther
+willingly believed her story and immortalized her in a publication which
+he addressed to Count Albrecht of Mansfeld as a "sign in confirmation of
+the Gospel"–which sign one may not overlook with
+indifference.#footnote[Grisar, #emph[Luther];, Vol. III, pp. 159 sq.] In
+compliance with the rule of her Order, Florentina had completed her year
+of probation and taken the vows. Having imbibed other ideas from the
+writings of the reformers, she was subjected to penalties by her
+superioress and kept in strict custody. But behold, O miracle, one happy
+day in February, 1524, "the person who should have locked her up, left
+her cell open" and she escaped! "God’s word and work," Luther writes in
+all seriousness, "must be acknowledged with fear; nor may His signs and
+wonders be cast to the winds." Ordinarily, he adds, such "miraculous
+signs from God" are not properly heeded!
+
+The birth of a deformed calf at Freiberg (Saxony) towards the close of
+1522 was regarded by Luther as a miracle wrought by God in condemnation
+of the monastic life.#footnote[Relative to the following, cf. Grisar,
+#emph[Luther];, Vol. III, pp. 149 sqq., and #emph[Lutherstudien];, V
+(#emph[Kampfbilder];, n. III), pp. 14 sqq., with two illustrations.] He
+found that this monstrosity really represented a cowled monk in the act
+of preaching–an evident symbol of the divine wrath against the religious
+state. He published his discovery in a treatise entitled,
+"Interpretation etc. of the MonkCalf of Freiberg."#footnote[Printed with
+Melanchthon’s dissertation on the "pope-ass" in the Weimar ed. of
+Luther’s writings, Vol. XI, pp. 369 sqq.; in the Erlangen ed., Vol.
+XXIX, pp. 7 sqq.] The work was composed in a quasi-mystical style. The
+age was very superstitious about monstrosities, but Luther’s pamphlet
+was unprecedented. In view of this literary product, one would like to
+wish, in the name of German literature, that the interpretation had been
+intended to be facetious. In reality an attempt has been made on the
+part of Protestants to explain the pamphlet as a huge joke. But a
+careful perusal of it completely destroys this hypothesis. The work on
+the monstrosity of Freiberg is itself a monstrosity. A terrible
+seriousness breathes from these prophetical, hyper-spiritualistic pages.
+The author quotes Sacred Scripture to show that his interpretation is
+"adequately founded" on the word of God. He intimates that perhaps the
+portent signalizes the day of judgment, "since many portents have
+succeeded one another of late." In exhibiting to his readers a distorted
+illustration of the deformed calf, he hypercritically undertakes to
+apply the details of this miraculous phenomenon to monasticism. The
+supposed cowl represents the worship which the monks render to the calf,
+#emph[i.e.];, "the false idol in their lying hearts." The cowl over the
+hind-quarters is torn, this signifies the impurity of the monks; the
+legs are their "impudent doctors"; the monster is blind because they are
+blind; its ears are grotesque because of the abuse of the confessional;
+the tightening of the cowl around the neck signifies their obstinacy;
+the crippled horns indicate God’s intention of breaking the power of
+monasticism; above all, the attitude of the calf is that of a preacher,
+which means that the preaching of the monks is despicable in the eyes of
+God.
+
+Melanchthon prefaces the story of Luther’s "Monk-Calf" by another
+treatise, namely, his own interpretation of the "Pope-Ass of Rome," a
+semi-legendary freak supposed to have been discovered in the Tiber in
+1496.#footnote[Grisar, #emph[Lutherstudien];, n. V. (#emph[Kampfbilder];,
+n. III), pp. 1 sqq., with two illustrations.] The learned humanist was
+even more absorbed in the mystical world of such portents, than Luther.
+The latter subsequently approved of and praised the first part of their
+joint production, in his "Amen to the Interpretation of the Pope-Ass."
+
+"The sublime divine Wisdom itself," he said, "created this hideous,
+shocking, and horrible image." …"Well may the whole world be affrighted
+and tremble." "God manifests Himself openly in this abomination; great
+indeed is the wrath impending over the papacy."
+
+"The multitude of signs," which Luther beheld and interpreted, presaged
+"something greater than reason can imagine," to quote the words of his
+#emph[Kirchenpostille];.#footnote[Grisar, #emph[Luther];, Vol. II, p.
+150.]
+
+Both works, that on the "Monk-Calf" and that on the "Pope-Ass," enjoyed
+the widest circulation, both jointly and separately, in repeated German
+editions and in translations into foreign languages. The illustrations
+were circulated as leaflets in order to gain adherents to the Lutheran
+cause. The "Pope-Ass" constituted a permanent fixture in Luther’s
+polemical vocabulary. As late as 1545, the picture was selected by him
+for inclusion in his collection of "Illustrations of the Papacy."
+
+The lively conviction with which Luther treated similar portents, in
+which "God openly manifests Himself," constitutes in some measure an
+excuse for his conduct. The manner in which he labored to promote
+opposition to the Church after his return from the Wartburg, reveals a
+misguided combative spirit, inspired by design, acrimony, hatred, and
+other reprehensible motives. At the same time, the great power of his
+own prejudices must always be taken into consideration. His excited
+state of mind did not permit him to measure his steps with sufficient
+clearness. His eschatological notions, as revealed by his writings on
+the monsters just mentioned, limited his intellectual
+outlook.#footnote[#emph[Ibid.];, Vol. III, pp. 153 sqq.; Vol. V, pp. 241
+sqq.; Vol. VI, PP. 141 sqq.]
+
+We must always remember that the historical portrait of Luther is not
+devoid of favorable traits, even at the time of his severest polemical
+strain after his sojourn at the Wartburg. There is, in the first place,
+his external manner of life. He is remarkably unconcerned about his
+dangerous status of one declared an outlaw by the empire and is
+satisfied with the very modest circumstances in his decaying monastery,
+which was hardly able to provide him with food and lodging. He is always
+ready to advise his friends, even though he is overwhelmed with letters.
+He attracts students to himself by his winsome and unassuming ways. In
+his sermons he preaches a sound morality, often with forceful emphasis
+and great ardor, always with marvelous clearness, plastic metaphors, and
+directness of speech. Abandoning the field of controversy for that of
+practical religion, he publishes popular works, such as his prayerbook,
+which, as he says, was intended to "propose a simple Christian form and
+mirror," to help the faithful to "recognize sins and to
+pray."#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. I, p. 574.]
+This is true of many other printed sermons on Biblical subjects, on the
+commandments, on faith, on the Our Father and the Hail
+Mary.#footnote[Kawerau, #emph[Luthers Schriften];, n. 178, 216, 242,
+265, and #emph[Kirchenpostille];, n. 137, 163.] Even more important was
+the continued labor devoted to his translation of the Old Testament, of
+which portions appeared from time to time.
+
+Did he still remain a monk in his exterior appearance? Dantiscus reports
+that Luther, when he visited him in 1523, no longer wore the Augustinian
+habit at home. He wore it when he preached, however, until October,
+1524, when it was quite threadbare, and then exchanged it for a civilian
+coat, the cloth for which was presented to him by the Elector.

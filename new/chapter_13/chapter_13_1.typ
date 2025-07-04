@@ -1,0 +1,256 @@
+== The Diet of Augsburg
+<the-diet-of-augsburg>
+Emperor Charles V was finally able to set out on his journey to Germany,
+for which the German Catholics had ardently longed. The treaty of
+Barcelona with the pope, and the treaty of Cambrai with Francis, king of
+France, had opened the way for him.
+
+On January 21, 1530, shortly before his coronation as emperor, Charles
+published at Bologna the convocation of the imperial diet at Augsburg,
+in which he himself intended to take an active part. It was his wish
+that the diet should remove—peaceably, if possible—the grounds for the
+religious controversy which filled him with anxiety. It was the
+intention of this zealous Catholic ruler, sincerely to adopt the ways of
+kindness and to effect an arrangement by peaceful methods. For this
+reason the convocation adopted a conciliatory tone and assured the
+Protestants that they would be given a hearing.
+
+The Emperor’s brother, Ferdinand, journeyed to the Brenner in Tyrol, to
+meet Charles as the latter was coming from Italy. At Gries, on the
+northern declivity of the mountain, there is a monumental inscription
+marking the spot where the brothers embraced each other. Charles was
+depressed by Ferdinand’s report of the existing conditions.
+Nevertheless, on June 15, the high-minded Emperor hopefully entered the
+city of Augsburg.
+
+This ancient free city on the Lech, a flourishing center of art and
+commerce, still retained its venerable towered walls with moats and
+gates. Inside were the homes of the wealthy and comfortably situated
+patricians, and lofty, antique buildings, conspicuous among them the
+palace of the bishop and the splendid town-hall, where the sessions of
+the diet were to be held. Both have since been either replaced by other
+structures or completely remodeled. The banking house of the Fuggers,
+which had been established ten years before, still exists, a vivid
+reminder of the great commercial firm which once dominated international
+trade. The Fuggers remained loyal to the Catholic Church when the new
+religion established itself in the city.
+
+Bishop Stadion of Augsburg, assisted by the Emperor and the Catholic
+estates who arrived for the diet, presided over the Corpus Christi
+procession which wended its way through the streets of the city, and was
+celebrated with a splendor never before witnessed. The Protestants
+ostentatiously kept aloof. As a consequence, the Emperor prohibited the
+preaching of Protestant sermons.
+
+When the sessions of the diet were opened, on June 20, Luther’s
+partisans succeeded in inducing the estates to deliberate on the
+religious question before devising ways and means of combating the
+Turkish menace, which Charles wished to be considered first of all. It
+was their plan to submit an extensive statement justifying their
+attitude on the religious question. Above all, it was their intention to
+procure protection for themselves and publicly to advance their efforts
+at propaganda. The so-called Augsburg Confession constituted a means to
+this end. The lengthy document had been written by the prudent and
+pliant Melanchthon, who at that time was very timorous, and had the
+approval of Luther, who during the sessions of the diet lived in the
+castle of Coburg, which was situated not far from Augsburg. The
+Confession was so drawn up as to speak not in the name of Luther or the
+theologians, but in that of the rulers who had adopted the new creed and
+by whom it was submitted. Originally, therefore, it was a confession of
+faith by the princes. Afterwards it became a symbolical document, i.e.,
+the official statement of the Lutheran creed. By means of this
+instrument, the princes intended to indicate through Melanchthon, their
+spokesman, the kind of religion they had thus far suffered to be
+preached within their territories. Melanchthon, whilst engaged in the
+composition of this document, had also intended it to serve as a
+refutation of a work of Dr. Eck, who had caused an exhaustive
+theological indictment of the new religious system, consisting of 404
+articles, to be submitted to the Emperor before his arrival in Augsburg.
+
+In order to procure a favorable decision on the part of the diet, the
+author of the "Confession" tried to show that in reality there were no
+great differences between the two camps. He proposes certain essentially
+Lutheran doctrines, but veils them in clever formulas devised to show
+that they coincide with what the Catholic Church had always held. The
+question which, according to him, is of prime importance, is about
+abuses which in the general opinion of men ought to be abolished. In
+fact, the first official edition of the "Confession," printed in 1530,
+contained the deceptive declaration (which was subsequently altered)
+that the impugned doctrines meant no deviation from the Scriptures or
+the teaching of the Roman Catholic Church, in as far as that teaching
+could be ascertained from Catholic authors.
+
+The Emperor reluctantly consented to have the "Confession" publicly read
+in the presence of the estates. It was so read on June 25, not, however,
+during a regular session of the diet in the town-hall, but in a smaller
+Gothic hall of the episcopal palace. The twenty-eight articles were read
+in a stentorian voice by Baier, the Saxon chancellor, who designedly
+read the German version of the text so distinctly that it was audible
+through the open windows by those who lingered in the courtyard without.
+
+On closer inspection, the Catholic theologians were compelled to marvel
+at the ingenuity with which a road to a pseudo-union with the ancient
+Church had been kept open. They noted the absence of any declaration
+relative to the pope, whom the Lutherans had come to regard as
+Antichrist. The declaration was silent about the universal priesthood of
+all the faithful in place of the clergy, the incapacity of the human
+will to do good, and absolute predestination, the very pillars of the
+doctrinal system of Lutheranism. The antitheses between the two
+religions on the subject of indulgences and Purgatory were likewise
+hushed up, and the differences in the veneration of the saints had also
+vanished.#footnote[#emph[Corpus Ref.];, XXVI, p. 290. Luther also
+maintains: "#emph[Audita nostrorum confessione primum communis vox et
+sententia ommnium fuit, nos nihil docere contra ullum fidei articulum
+nec contra scripturam …];" Letter to Joh. Brismann, November 7, 1530;
+#emph[Briefwechsel];, VIII, p. 311.]
+
+Hence, honest candor, the preliminary condition of reunion, was missing.
+
+Luther himself censured the omission of some of his doctrines. However,
+he did not wish to disavow the action of Melanchthon, his indispensable,
+industrious, and respected mediator. He averred that "he could not step
+as softly and quietly as he" (Melanchthon)#footnote[Letter of May 15,
+1530, to the Elector John of Saxony; Erl. ed., Vol. LIV, p. 145
+(#emph[Briefwechsel];, VII, p. 335). In a letter to Jonas, July 21
+(#emph[Briefwechsel];, VIII, p. 133), Luther also says that the
+Confession conceals important doctrines.] and regarded himself as
+incompetent to deliberate in such an assembly.
+
+By order of the Emperor, Catholic theologians at once undertook to
+compose a refutation of the "Confession," in order to expose its errors
+as well as its vagueness and its omissions. In addition to Eck, Faber,
+and Cochlaeus, were some of the other Catholic apologists whom we have
+heretofore mentioned: Usingen, Dietenberger, Wimpina, etc. ‘The
+opposition was officially asked whether they had any other articles they
+wished to defend besides those contained in the "Confession" which they
+had submitted. They replied evasively. The tone of the hastily composed
+Catholic "Confutatio" appeared too offensive to the Emperor and his
+advisers. It was revised and, after it had been cast into the form of an
+answer given by the Emperor, was read aloud on August 3 in the same hall
+in which the Protestants had been permitted to submit their
+"Confession."
+
+The Emperor now ordered the Protestants to return to the pale of the
+Christian communion, which they had deserted, lest he be compelled to
+proceed against them in his capacity of "guardian and protector of the
+Church," which was his bounden duty as emperor. At that time Charles was
+actually inclined to resort to military force, but after October 30, in
+virtue of the representations of the Catholic estates, he became
+somewhat reconciled to the idea of a general council, not, however,
+until the time for waging a successful war had passed.#footnote[Cf. E.
+W. Mayer, #emph[Forschungen zur Politik Karls V. während des Augsburger
+Reichstags (Archiv für Reformationsgeschichte,] 1916, pp. 40 sqq.).] The
+papal legate, Campeggio, was in favor of the strictest possible
+execution of the edict of Worms.
+
+In a state of painful anxiety, Melanchthon approached Campeggio with
+proposals suggested by the delusive hope of coming to a mutually
+satisfactory agreement. While he shuddered at the thought of an open
+break, he did not wish to yield in principle, although many of the
+Catholic leaders hoped for his conversion on account of his conciliatory
+addresses. In the subsequent negotiations he became more and more a
+pitiable figure.#footnote[Grisar, #emph[Melanchtons ritselbafte
+Nachgiebigkeit auf dem Augsburger Reichstag (Histor. Jahrbuch,] XLI
+\[1921\], pp. 257–267; #emph[Luther-Analekten] VI). Cf. Grisar,
+#emph[Luther];, Vol. II, pp. 383 sqq.]
+
+His depressed condition of mind is the only thing that helps him over
+the charge of conscious deception. Many friends of the Lutheran cause
+were opposed to him and to any kind of approach between the two parties.
+Landgrave Philip of Hesse, to signify his protest, left Augsburg
+precipitately.
+
+The negotiations which the Emperor had authorized between seven
+representatives of each faction proved fruitless. In vain did the
+Catholic spokesmen, subject to papal approval, offer to have the
+lay-chalice introduced in the Protestant districts, or to tolerate the
+marriage of priests until the assembly of a general council. Every
+effort to restore peace failed in consequence of the inflexible attitude
+of Luther, who issued frequent letters from the castle of Coburg.
+Melanchthon indicated his willingness to have the jurisdiction of the
+bishops restored, but it was an insidious and ineffectual offer, because
+of the underlying presupposition that the bishops would have to give
+free scope to the new "gospel."#footnote[Wilhelm Walther, #emph[Für
+Luther];, p. 434: "Melanchthon was only too ready to acquiesce in
+equivocal formulas and to make concessions which in truth could not be
+harmonized with the 'reservation that nothing may be conceded which
+contradicts the Gospel'; a reservation which was constantly repeated."
+The Protestant historian A. Berger (#emph[Luther in
+kulturgeschichtlicher Darstellung] (1889), Vol. II, I; pp. 226 sq.)
+notes the weak attitude of Melanchthon and says that, "objectively
+considered," it was "a betrayal of the Protestant conscience."] A
+smaller commission thereupon undertook to effect an understanding. Its
+Catholic members were: Eck, Cochlaeus and Wimpina, but their efforts
+were futile.
+
+In the meantime Melanchthon’s tireless pen produced an "Apologia
+Confessionis Augustanae," which was directed against the Catholic
+"Confutatio." His party, however, did not succeed in having this
+"Apologia" publicly read. Upon his homeward return, the author privately
+published a Latin edition of it. The "Apologia," like the "Confession,"
+was soon regarded by Protestants as a symbol of their faith.
+
+Meantime the number of estates who declared their adherence to the
+Augsburg "Confession" constantly increased. The original signers were:
+Elector John of Saxony, Margrave George of Ansbach, Duke Ernest of
+Braunschweig-Lüneberg, Landgrave Philip of Hesse, and Prince Wolfgang of
+Anhalt. In addition to these names, the Latin copy of the "Augsburg
+Confession" contained those of John Frederick, heir to the throne of
+Electoral Saxony, and Duke Francis of Braunschweig-Lüneberg. Nuremberg
+and Reutlingen were the only cities to subscribe. Four cities which
+professed Zwinglianism, namely, Strasburg, Constance, Memmingen, and
+Lindau, submitted a separate profession of faith, composed by Bucer and
+Capito; it was called "Confessio Tetrapolitana." Other cities of Upper
+Germany, though favoring the Reformation, kept aloof. In the course of
+the deliberations at the diet of Augsburg a better understanding was
+effected between the Lutherans and the Upper Germans with respect to the
+Augsburg Confession, although Article X of the Confession was supposed
+to be directed against Zwingli. Bucer was a smooth politician and knew
+how to surmount the difficulties arising from that document. After
+several of the cities represented in the diet had accepted the
+Confession, Strasburg also declared its adherence at a conference which
+was held towards the end of December, 1530, at Schmalkalden. Thus
+everything conspired towards the creation of the fateful League named
+after that city.
+
+The Protestant leaders at the diet of Augsburg used the new evangel as
+the basis of a political alliance designed to divide Germany. Before his
+departure, the Landgrave of Hesse threateningly declared that if he had
+to die for the faith, certain leaders of the opposition would die with
+him.
+
+After some delay, due partly to the Turkish menace and partly to his own
+scruples, Emperor Charles issued a decree prohibiting all theological
+innovations. The Protestants were ordered to accept the articles upon
+which no agreement had been reached, by the fifteenth of April of the
+next year, at the very latest. They vociferously objected to this and at
+the same time refused to consent to the required intervention against
+the German Zwinglians and the danger to the Empire caused by them and by
+Zwingli at Zurich. Nevertheless, the Emperor, in his
+#emph[Reichstagsabschied] of November 19, renewed the edict of Worms
+with its severe measures, but at the same time referred the litigants to
+the coming ecumenical council, which was expected within a
+year.#footnote[Cf. Janssen-Pastor, III, pp. 251 sqq.; Grisar,
+#emph[Luther];, Vol. II, p. 384.] Both the renewal of the edict of Worms
+as well as the Emperor’s reference to the expected convocation of a
+general council proved ineffectual. The edict could not be enforced
+because of the united front of the opposition, and the council was
+postponed by Pope Clement VII because of the fear that schisms would
+develop among the faithful, because of the expectation of small benefit
+to those who had separated from the Church, and, still more, because of
+the political difficulties in the way of holding a council.
+
+Thus the diet of Augsburg, which had been hailed with such great
+expectations by the Catholics, due principally to the obstinate attitude
+of the Protestants, in a certain measure furthered the unfortunate
+schism. On December 12, Luther gloatingly reminded his elector that the
+schemes of men "always turn out differently than expected, so that one
+must say: I surely did not intend that. Pope and Emperor did not succeed
+at Augsburg as they expected; nor shall they succeed henceforth." He
+imagines that his party is sustained by God and will "remain with
+God."#footnote[Erl. ed., Vol. LIV, p. 201 (#emph[Briefwechsel];, Vol.
+VIII, p. 331).]
+
+Nothing illustrates Luther’s way of thinking and proceeding more
+graphically than a close scrutiny of his behavior during his sojourn in
+the lonely castle of Coburg at the time of the diet of Augsburg.

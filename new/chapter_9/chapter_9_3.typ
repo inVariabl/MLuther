@@ -1,0 +1,120 @@
+== "Pecca Fortiter." The Mass
+<pecca-fortiter.-the-mass>
+The famous expression, "Sin boldly, but believe more boldly
+still,"#footnote[#emph[Briefwechsel];, III, p. 208; Grisar, #emph[op.
+cit.];, Vol. II, pp. 194 sqq.; M. Pribilla, article "#emph[Pecca
+fortiter];" in the #emph[Stimmen der Zeit];, 1924, Vol. CVII, pp. 391
+sqq.] which Luther embodied in a letter written from the Wartburg to his
+friend Melanchthon, under date of August 1, 1521, is to be ascribed to
+his strong prepossession in favor of his theory of salvation by "faith
+alone." This paradoxical aphorism was not, as has frequently been
+assumed, a command to commit sin, against which Luther always wrote and
+preached, but a very offensive hyperbolical expression of the certitude,
+inculcated by him, that faith in a merciful God suffices to obtain
+pardon for all sins, provided that faith in God is "boldly" asserted.
+
+It seems that Melanchthon, who was spiritually weaker than Luther, was
+afflicted by the fear of sin. Luther, in his robust way, wished to rid
+him of this fear and hence reminds him that he is "a preacher of grace"
+who should not occupy his mind with imaginary sins, but rejoice in
+Christ, the conqueror of sin; for sins are inevitable in this life. Sin,
+he says in one of his strongest expressions, will "not tear us away"
+from the pardoning mercy of the Lamb of God, "even if we should have
+committed fornication and murder a thousand times in one day." Then he
+arrives at the notorious expression: "God does not save those who merely
+fancy themselves sinners. Be a sinner, and sin boldly, but believe more
+boldly still" (#emph[Esto peccator et pecca fortiter, sed fortius
+fide];). In the context the phrase "sin boldly" conveys a sinister
+impression, involving as it does, fundamentally, a strong
+self-condemnation of the Lutheran theory of fiduciary faith and
+justification. In lieu of interior contrition, self-humiliation and the
+penitential spirit, justification is made dependent upon the
+presumptuous apprehension of the merits of Christ, and sin loses its
+terrifying character for the believer. Möhler rightly detects in these
+offensive words "an evident mental derangement." It is to be noted,
+however, that Luther used similar language also on other occasions, for
+example, abstracting from other instances at the beginning of his
+reformatory career, in his letter to Spenlein (1518) and, shortly before
+his death in his extraordinary letter of 1544 to Spalatin, who had
+become melancholy. The offensive "#emph[pecca fortiter];" flows
+naturally from his whole system of doctrine.#footnote[Cfr. Grisar,
+#emph[Luther];, Vol. II, pp. 194 sqq.]
+
+After Melanchthon had concluded his lectures on the Epistle to Titus,
+the Gospel of St. Matthew, and the Epistle to the Romans, he was
+transferred to the theological faculty of Wittenberg and there not only
+continued his philological labors, but also undertook a theological
+work, entitled #emph[Loci Communes];, which was destined to be a pillar
+for the support of the Lutheran doctrine. The work was completed in
+December, 1521, and appeared in sixteen editions before 1525. The
+Latinity of the book is classical, but its theology clearly betrays the
+lay-theologian completely enchanted by the new doctrine. The author
+pretends that, following in the path of Luther, he must re-create the
+system of theology, after the greatest minds of the centuries had
+supposedly labored in vain on it. Among other things he teaches that all
+things happen of necessity (#emph[necessario eveniunt];) in accordance
+with divine predestination, and that the human will is not free. He
+gives a decidedly affirmative answer to the question whether God is also
+the author of moral evil.#footnote[Grisar, #emph[Luther];, Vol. II, pp.
+239, 282 sq.] Luther was delighted with the precious work, which
+mirrored forth himself. He termed it an "unconquered work," which, in
+his opinion, deserved not only immortality, but also to be received into
+the canon of the Bible.#footnote[#emph[Op. cit.];, 11, 282.] Only
+gradually did Melanchthon recede from his harsh attitude in subsequent
+editions of his work, and did not conceal his disapproval of Luther’s
+denial of free will. Luther repeatedly invited him from the Wartburg to
+take up preaching at Wittenberg. This the learned layman, however, would
+never consent to do. He preferred the lecture room and the serenity of
+home life. In August, 1520, he had married Catherine Krapp, the daughter
+of the burgomaster of Wittenberg, and thus formed close social
+connections with the inhabitants of that city, which lasted to the end
+of his life.
+
+The same spirit which impelled Luther to launch his attack upon
+monasticism, also led him to attack the Sacrifice of the Mass. The
+monastic state and the Mass he regarded as the most important pillars of
+the papacy. In the letter in which he informs Melanchthon of his
+passionate struggle with his vows, he also announces: "I shall never
+again celebrate a private Mass." Thomas Murner’s defense of the
+sacrificial character of the Mass (1520) did not convince Luther. In
+1521, under the influence of his "spiritual baptism" at the Wartburg,
+Luther composed a Latin booklet #emph[On the Abolition of the Private
+Mass];, of which he published also a German translation under the title,
+#emph[On the Misuse of the Mass];.#footnote[Weimar ed., VIII, pp. 411
+sqq.; German version, pp. 482 sqq.; Erl. ed., #emph[Opp. Lat. Var.];,
+VI, pp. 115 sqq. and (German version) XXVIII, pp. 28 sqq.]
+
+This was the alleged justification of the fight upon the holy sacrifice
+which at that time commenced at Wittenberg.
+
+Luther did not favor any overhasty discontinuation of the traditional
+liturgical celebrations. He knew that any attempt in this direction
+would meet with resistance on the part of the Electoral court.
+Nevertheless, he did whatever he could to realize his designs against
+the Mass in the university town. In the German treatise just quoted he
+appealed to his "dear brethren, the Augustinians of Wittenberg," who had
+already discontinued saying Mass in their church and limited themselves
+to preaching. He tells them that he rejoices in their work and begs them
+to take up their position on the rock of firm conviction and at the same
+time to spare the feelings of the weak. He established his thesis by an
+appeal to the qualms of conscience which he experienced.
+
+"Daily I feel how very difficult it is to lay aside scruples of long
+standing, controlled by human laws. Oh, with what great pains and
+labors, and reliance upon Holy Writ, I have scarcely been able to
+justify my own conscience, that I, one individual, have dared to oppose
+the pope and regard him as Antichrist, the bishops as his apostles, and
+the universities as his brothels! How often has my heart been
+tantalized, how often has it punished me and reproached me with their
+only strongest argument: Are you alone wise? Can it be supposed that all
+others have erred, and erred so long a time? What if you should be
+mistaken and should lead many into error, who would be eternally damned?
+Thus I felt until Christ fortified and confirmed me with His only
+certain Word, so that now my heart is uneasy no longer, but resists this
+argument of the papists, as a stony shore resists the waves, and
+ridicules their threats and fury."#footnote[At the beginning of the
+German text, #emph[Vom Missbrauch der Messe];.]
+
+This strong faith, which the mysterious "only certain Word of Christ"
+supposedly conferred upon him, he wished to impart to his brethren and
+all his readers in the course of his arguments against the Mass.

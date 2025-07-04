@@ -1,0 +1,281 @@
+== The Militant Spirit of Luther in Word and Picture
+<the-militant-spirit-of-luther-in-word-and-picture>
+During the first half of the forties, the thought of death frequently
+engaged the mind of Luther. His apprehension was most strongly expressed
+on November 10, 1545, When he celebrated his sixty-first birthday in the
+circle of his friends, Melanchthon, Bugenhagen, Cruciger, Major, Paul
+Eber, and some others, who surrounded him at the festive board. He said
+then that he would not live to see Easter and spoke sorrowfully of the
+future apostasy of certain brethren, which would inflict a blow upon the
+Gospel greater than any of which the papists were capable, who, for the
+most part, were rude, ignorant Epicureans. He spoke of his impending
+death in a similar vein, though less definitely, in his declining years.
+
+And yet these years furnish an exemplification of the incessant activity
+of this man, who was afflicted with melancholia. His literary
+productions, some of which have already been noted above, must be
+considered first.
+
+With his impetuous pen he commenced a vigorous onslaught on the Jews and
+the Jewish religion. In the first years of his public career he had
+spoken of them in a different tone. At that time, as we have seen above,
+he harbored the seductive idea that they might be converted to the new
+Evangel. His treatise of 1523 was inspired by this visionary
+idea.#footnote[Grisar, #emph[Luther];, Vol. V, pp. 411 sq.] The
+acceptance of his Gospel on the part of the Jews was to be a divine seal
+of approval. But his expectations came to naught. As a result,
+indignation at their infidelity, their blasphemies against Christianity,
+and their oppression of non-Jews in Germany, took hold of him. With the
+sanction of Luther, John Frederick expelled the Jews from electoral
+Saxony in 1536, whilst King Ferdinand granted them an asylum in his
+territories. Luther first proceeded against the infidelity and
+proselytizing zeal of the Jews in his "Epistle against the
+Sabbatarians," published in 1538. The Jews had succeeded in introducing
+the observance of the Sabbath and other rites in some localities, even
+among Christians. Then, commencing with 1542, he launched a violent
+attack, intended to annihilate the hostile Jewry. In the year mentioned
+he published his tract "On the Jews and their Lies."#footnote[Weimar
+ed., Vol. LIII, pp. 412 sqq.; Erl. ed., Vol. XXXII, pp. 99 sqq.; cfr.
+Grisar, #emph[op. cit.];, Vol. V, pp. 402 sqq.] Immediately afterwards
+he completed his tract, "On Shem Hamphoras and the Generation of
+Christ"–a work which exhibits greater forcefulness, but overflows with
+attacks and is saturated with vulgarities.#footnote[Weimar ed., Vol.
+LIII, pp. 573 sqq.; Erl. ed., Vol. XXXII, pp. 275 sqq.; cfr. Grisar,
+#emph[op. cit.];, Vol. V, pp. 404–407.] Shem Hamphoras (or "peculiar
+name"), according to Luther, was a Kabbalistic formula of the Jews,
+supposed to be endowed with great power, by means of which Jesus was
+alleged to have wrought His miracles. In 1543 followed another literary
+attack upon the Jews, which bore the title: "On the Last Words of
+David."#footnote[Erl. ed., Vol. XXXVII, pp. 1 sqq.] An ardent zeal for
+outraged Christianity is reflected in these productions, which bear
+evidence of an agitated frame of mind. Luther’s zeal for truth and
+justice, however, does not improve matters because that work abounds in
+extravagant appeals to inflict violence upon a race struck with
+religious blindness and weighed down by injustice.
+
+Once more he raised his voice against that persecuted race in his last
+sermon at Eisleben, on February 14, 1546:#footnote[Grisar, #emph[op.
+cit.];, Vol. VI, p. 374.] "You rulers," he said, "ought not to tolerate,
+but to expel them." By indirection it was a summons to rise against the
+Jews, who were favored in the neighboring country of Mansfeld, but had
+become notorious by their fraudulent and usurious practices.
+
+Usury was an evil which Luther also attacked in other vigorous
+pamphlets. Having written two sermons against it as early as 1519 and
+1520, and having condemned it anew in his tract, "On Commerce and
+Usury," written in 1524,#footnote[Grisar, #emph[op. cit.];, Vol. VI, pp.
+86 sqq.] he once more returned to this favorite topic in 1540, when he
+wrote his "Appeal to Pastors to Preach against Usury."#footnote[Weimar
+ed., Vol. LI, pp. 331 sqq.; Erl. ed., Vol. XXIII, pp. 282 sqq.;
+Köstlin-Kawerau, #emph[Martin Luther];, Vol. II, p. 432; Grisar,
+#emph[l.c.];] Although he manifested an exaggerated zeal against the
+abuses connected with money loans, he revealed no insight into the
+commercial and trade relations whose development had then practically
+begun, and which appeared to justify a fair rate of interest on loaned
+capital. He condemns interest-taking outright, #footnote[Thus Köstlin,
+#emph[l.c.];] and makes but one exception, by granting that the aged and
+widows and orphans might, if necessary, exact interest on loans in order
+to secure a livelihood.
+
+An "Exhortation to Prayer against the Turks," which he wrote in 1541, is
+superior in tone and contents to Luther’s previous pamphlets against the
+Turks.#footnote[Weimar ed., Vol. LI, pp. 585 sqq.; Erl. ed., Vol. XXXII,
+pp. 74 sqq.; Köstlin-Kawerau, #emph[Martin Luther];, Vol. II, p. 563.
+Cfr. Grisar, #emph[op. cit.];, Vol. V, pp. 167, 417 sqq.] The elector
+had urged the people to pray against the Saracen menace, which
+constantly grew more threatening. It is the will of God, Luther
+declares, that Christians should beseech the Lord for aid in a
+penitential spirit and sincere faith. The Turk and the pope are on the
+decline and Judgment Day will soon console the faithful. We have here a
+repetition of the thoughts on which he delighted to dwell in view of his
+approaching death. His "Computation of the Years of the Word"
+(#emph[Supputatio Annorum Mundi];), which is in line with this tendency
+of his mind, appeared in the same year and was re-edited with
+alterations in 1545.#footnote[Weimar ed., Vol. LIII, pp. 151 sqq.] His
+dreams of Antichrist and the end of the world form the subject-matter of
+his work on "The Twelfth Chapter of Daniel," which was published at the
+same time.#footnote[Erlangen ed., Vol. XLI, pp. 294 sqq.]
+
+This series was followed by a preface to Ezechiel, as well as two works,
+not devoid of merit, which were intended to combat the Koran, and his
+booklet, "Consolation for Wives who have not Fared well in Bearing
+Children," a practical work designed to meet the spiritual wants of the
+nation. In 1543 began the publication of his lectures on Genesis, based
+upon notes made by his hearers under the editorship of Vitus Dietrich.
+Luther himself at this time, was engaged in the interpretation of the
+Messianic prophecies of Isaias, a work which was published only after
+his death.
+
+His "Brief Profession of Faith in the Blessed Sacrament"
+(1544)#footnote[#emph[Ibid.];, Vol. XXII, PP. 396 sqq.] was the fruit of
+the deeply felt need of once more settling accounts with those who
+opposed his teaching of Christ’s real presence in the Eucharist. "I, who
+am about to die," he says, "wish to take with me before the judgment
+seat of my Lord this testimony, that, in compliance with God’s command
+in Tit. 3:10, I have earnestly condemned and avoided the fanatics and
+adversaries of the Sacrament, Karlstadt, Zwingli, Oecolampadius,
+Stenkefeld (#emph[i.e.];, Schwenckfeld), and their disciples at Zurich,
+or wherever they may be." He answers their objections with the question,
+whether, by the same token, they are not compelled to deny belief in the
+humanity and divinity of Christ. "We must," he says, "either believe
+everything, wholly and entirely, or nothing." For God is omnipotent. The
+adversaries, with their "infernal hearts and lying mouths" are not even
+deserving of prayer.
+
+This angry tract was occasioned by the new movement of the Swiss
+reformers against belief in the Real Presence and by the above-mentioned
+so-called "Reformation of Cologne," composed by Melanchthon and Bucer,
+which, to the chagrin of Luther, spoke in Bucer’s sense of a purely
+spiritual communion with the body and blood of Christ in the Last
+Supper.#footnote[Köstlin-Kawerau, #emph[Martin Luther];, Vol. II, p.
+581.]
+
+Melanchthon, who had collaborated in the "Reformation of Cologne," was
+worried about himself and his fate. It was said at Wittenberg that
+Luther was about to propose a formula to which all would be compelled to
+subscribe. When this formula ("Brief Creed") appeared, there was
+rejoicing because it contained no reference to Melanchthon and Bucer.
+Luther had suppressed his chagrin and did not care to cast suspicion
+upon these men in public. All the more ruthlessly, however, did this
+tract sever his relations with the Swiss innovators, which,
+notwithstanding the theological controversies, had gradually become more
+tolerable.
+
+The Swiss reformers soon issued energetic counter-declarations.
+Bullinger, above all, entered the lists against Luther with his "True
+Creed" of the Zurich theologians,#footnote[Cfr, Grisar, #emph[Luther];,
+Vol. IV, pp. 325 sq.; Vol. V, p. 409.] in which he states that the
+abusive language of the Wittenbergers would not be reciprocated by him.
+He severely censured the violent and indecent effusions of an aged and
+otherwise highly respected man, and especially the autocratic manner of
+his decisions. The theological reasons which Bullinger advances for the
+Eucharistic beliefs of Zwingli’s disciples are not very impressive.
+
+Whilst Melanchthon was still engaged in the composition of his cautious
+"Wittenberg Reformation," which was intended to be a programme in
+opposition to the Council of Trent, which was then commencing, Luther
+summoned all his available strength to deliver a new blow against the
+papacy, for his hatred was not yet quenched. This fresh outburst was
+contained in a work, the first part of which bore the title, "Against
+the Papacy at Rome founded by the Devil" (1545).#footnote[Erl. ed., Vol.
+XXVI, ii, pp. 131 sqq.] He attacks the papacy along the entire line and
+frequently in a furious fashion, because it refused to succumb to his
+assaults, nay, even dared to gain new vigor at the Council. Luther held
+that the papacy originated in hell and was sustained by infernal powers.
+This is drastically illustrated by a picture on the title page of this
+pamphlet,#footnote[Grisar and Heege, #emph[Luthers Kampfbilder];, n. 4
+(#emph[Lutherstudien];, V), p 20.] which represents the pope seated on
+his throne in the widely distended and terrible jaws of hell, and borne
+upward by ropes drawn by devils. Whilst adoring the prince of hell, who
+flees before him, he is crowned with a tiara which tapers into a point
+composed of human excrements.
+
+We may be permitted to omit quotations from this horrible pamphlet,
+which contains repetitions of former ideas, but clothed in forms which
+seem to force an irrevocable decision concerning the mental state of its
+author, which, as is known, frequently obtruded itself upon the reader
+of his former writings.#footnote[Passages from this pamphlet quoted in
+Grisar, Luther, Vol. V, pp. 381 sqq., 421 sqq.; Vol. III, p. 151.]
+
+Luther arrived at the unfortunate resolution of publishing this pamphlet
+with illustrations.
+
+He had already increased the number of his previously published
+polemical illustrations by some which were calculated to arouse the
+brutal passions of the masses.#footnote[Cf. Grisar und Heege,
+#emph[Luthers Kampfbilder];, n. 2 and 3.] One pamphlet depicted the pope
+as Satan.#footnote[#emph[Ibid.];, n. 4, plate 2, with text, pp. 67 sqq.]
+A frightful, savage and nude giant, with an immense tail, wears the
+triple crown and is adorned with the ears of an ass. In his right hand
+he holds the trunk of a tree resembling a club; in his left, which is
+extended in a threatening manner, he holds a large, broken key. Amid
+fire and smoke, this "pope-ass" expectorates worms and filth, like the
+dragon in the Apocalypse (c. 17). The wings of a bat, serrated after the
+manner of flames, can be seen on his back. Beneath him, the fires of
+hell burst forth. A devil wearing a cardinal’s hat and seated at the
+right on a papal Bull, devours a bishop, and allows his excrements to
+drop upon the papal seal.
+
+One series of controversial illustrations furnished by Luther is
+entitled, "Illustrations of the Papacy." It was published in 1545 and
+was intended to illustrate, as it were, his "Papacy founded by Satan."
+It contains the following caricatures:#footnote[#emph[Kampfbilder];, n.
+4.] "The Pope-Ass of Rome, a monster found in the Tiber in 1496"; the
+ascent of the pope from hell; the mockery of the ban by two rogues with
+exposed backs and emitting blasts of wind against the pope. Again, there
+are illustrations deriding the papal government by the most crude
+defilement of the papal arms, depicting a wretch discharging his faeces
+into them whilst two others are getting ready to follow his example.
+Another illustration depicts the great keys on the papal arms as
+master-keys in the hands of thieves. The fifth illustration shows the
+manner in which the papacy rewards the emperors—the fictitious
+decapitation of Conradine by the hand of a pope. Sixth, there is "the
+reward of the most Satanic pope and his cardinals," represented by the
+death of the pope on the gallows in the company of two cardinals and a
+priest.
+
+The seventh and eighth cartoons, which appear on one page, represent the
+pope riding a sow and offering to the world steaming human excrements
+with his blessing, which was designed to be an insult to the proposed
+Council; the other illustration (intended to be a mockery of the pope’s
+biblical exegesis) depicts him in the capacity of an ass performing on
+the bag-pipe. The last and ninth cartoon is designed to suggest that the
+pope was born of a nude she-devil, a scene vulgar beyond all
+description.
+
+A woodcut, which depicts Pope Alexander III placing his foot on the neck
+of Emperor Barbarossa, as well as the pope-ass above described, do not
+belong to this series. The two repulsive illustrations of the origin of
+Antichrist, #emph[i.e.];, the papacy, and the origin of the monastic
+life, were free supplements, for which Luther seems to be partially
+responsible. The entire collection has become extremely rare, owing
+probably to the outraged sensibilities of those who were offended by
+them. In recent times, these cartoons have been resubmitted to the
+public in the interests of history, but not by partisans of
+Luther.#footnote[#emph[Ibid.];, plate 3 and text, pp. 92 sqq.]
+
+Luther’s active participation in the "Illustrations of the Papacy" has
+been placed beyond question by recent research. He even assisted the
+"artist" with his crayon, besides contributing the ideas and the crude
+verses that accompanied the cartoons.#footnote[#emph[Ibid.];, pp. 73
+sqq., 86, p. 89, p. 91 and the testimony of Christoph Walther,
+Aurifaber, and Amsdorf. Luther had some proficiency in drawing; cf.
+#emph[Kampfbilder];, n. 3, pp. 59 sqq.] His name is attached to the
+illustrations of the series, as well as to the cartoon of the
+pope-devil. The drawings themselves were without exception the product
+of his confidant, Lucas Cranach, an artist who had previously achieved
+fame by his fine religious paintings.
+
+Hence, it is historically untenable if Protestant authors hold Cranach
+solely responsible for the disgraceful cartoons of the papacy and
+ascribe only the text to Luther. These illustrations are his spiritual
+property in the fullest sense of the word, and Luther himself described
+them as his last will and testament to the German
+nation.#footnote[#emph[Kampfbilder];, n. 4, p. 86.]
+
+He expressed the wish that these cartoons might enter every home and
+workshop, and thus bear effective witness against the papacy. Luther did
+not even shrink from designing a cartoon which represented the death of
+the pope on the gallows, clearly intended to provoke deeds of
+violence.#footnote[#emph[Ibid.];, plate 1 in actual size, and text, p.
+26.]
+
+This cartoon deserves special mention because of its sanguinary and
+inciting character. The pope is distinguishable as the then reigning
+pontiff, Paul III. His tongue has been pulled out of his throat, and an
+executioner is engaged in nailing it to the gallows, as had already been
+done to three others who had been hanged thereon, namely, Cardinal
+Albrecht of Mayence, Cardinal Otto Truchsess of Augsburg (?), and the
+priest Cochlaeus (?). Four devils convey the souls of the executed
+felons to hell. Despite his exhortations to the contrary, there are
+numerous passages in the writings of Luther which incite, or are apt to
+incite, to sanguinary deeds of violence against the clergy and the
+monks.#footnote[#emph[Ibid.];, pp. 137–139, where twelve passages are
+quoted. Cf. the cartoon published by Luther in 1538, which picture Paul
+III as Judas. (#emph[Kampfbilder];, n. 4, p. 4.)] Of course, it cannot
+be inferred from such expressions of passionate rage that Luther was
+actually prepared to endorse the assassination of ecclesiastical
+dignitaries, or personally to take a hand in them. It is quite patent,
+however, that bloody results were apt to follow the dissemination of
+cartoons such as those described, especially the last brutal gallows
+scene, in conjunction with Luther’s sanguinary cries for violence.

@@ -1,0 +1,308 @@
+== Engaging Characteristics
+<engaging-characteristics>
+In reviewing the life of Luther in the former Black Monastery of
+Wittenberg, our attention is first attracted to his relations with
+Catherine. Although there were weighty objections to their marriage from
+the Catholic point of view, and although it was severely censured by the
+jurists who upheld the canon law of the Church, it nevertheless
+presented a favorable exterior appearance. It had to be admitted that
+peace, harmony, and mutual good will governed the union of the ex-monk
+and the former nun. So far as known, neither ever violated the pretended
+marriage. Luther expressed himself in words of gratitude and
+appreciation for the aid and comfort which he derived from his wife,
+even though, on occasion, he scourged her willfulness in partly serious
+and partly facetious language.
+
+Luther’s children were compelled to learn and practice their religion.
+As they grew up, they, on the whole, caused no dishonor to the family.
+They were not endowed with any special talents, nor did they distinguish
+themselves in their positions in life. The home life of the family was
+subject to considerable unrest, caused by the fact that relatives and
+students occupied the former monastic cells and ate at Luther’s table.
+In addition, quite a few strangers visited Wittenberg, who wished to see
+and converse with Luther. Moreover, the agitation caused by Luther’s
+controversies, which so visibly vibrates in his correspondence, quite
+naturally affected his domestic life, as his #emph[Table Talks]
+frequently testify.
+
+On the other hand Luther’s family life displayed many attractive traits.
+Thus, when his daughter Magdalen, a sweet and pious child, died at the
+age of thirteen, Luther was seized with a sorrow so profound as to move
+even the modern reader to tears.#footnote[Cf. Köstlin-Kawerau, #emph[M.
+Luther];, Vol. II, p. 596.] Thanks to his letters, his admirers are
+likewise enabled to participate in the happy hours he spent in his
+family circle. Luther is frequently pictured as a happy father sitting
+with his family under the Christmas tree. But the Christmas tree was not
+introduced till several centuries after his death. Luther’s family life
+at Wittenberg is usually celebrated by Protestant biographers as the
+model and archetype of that of an evangelical pastor. But we must not
+forget–to mention only one point–that the Reformer’s home, being the
+center of a tremendous religious conflict, cannot have been so devout
+and tranquil as we are asked to believe.
+
+Luther desired every father of a family to interpret the Bible to his
+family and to address them on religious matters in accordance with a
+prescribed plan. He himself set the example. When, in 1532, sickness
+prevented him from preaching in church, he preached to his household in
+the Black Monastery. This custom gave rise to his "#emph[Hauspostille];,"
+#emph[i.e.];, book of instructions for home use. It was intended as a
+guide for others and undoubtedly did much good. It was first edited in
+1544 by Vitus Dietrich.#footnote[Weimar ed., Vol. LII; Erl. ed., Vols.
+I–VI.] Of larger scope and wider influence was the
+"#emph[Kirchenpostille];," a collection delivered in public. Of these,
+he published the sermons for the winter semester in 1540. The sermons
+for the summer semester were brought into shape and published by
+Cruciger in 1545.#footnote[Cf. Weimar ed., Vol. VII, p. 463; 10, I, 1;
+17, II, 21; 22. Erl. ed., Vol. VII, 2 ed., p. 134; Vol. VIII, pp. 11,
+173; Vol. IX, p. 1; Vol. X, 2 ed, p. 133; Vol. XI, p. 1913 Vol. XII, p.
+1.] A very large number of Luther’s sermons had been circulating in
+separate editions or in smaller compilations since their delivery.
+
+Luther’s sermons are invariably distinguished by great freshness and
+practicality. They display a forcefulness of diction and a diversity of
+thought, the like of which is scarcely met with elsewhere. He possessed
+sufficient talent to become a second Berthold of Regensburg. It must be
+admitted, however, that the addresses are often monotonous on account of
+frequent repetitions and show lack of preparation and reliance upon the
+author’s innate gift of speech. Sometimes his auditors were bored by his
+noisome and tedious attacks upon the ancient Church and her doctrines.
+Despite these defects, however, Luther’s sermons were so diligently
+copied that a large number of copies, made by various individuals, are
+still extant. The new Weimar edition of Luther’s works reproduces them
+all, thereby occasionally bestowing unmerited honor on addresses which
+were delivered without due preparation and order.
+
+In their originality some of his better sermons, and also some of the
+inferior ones, are reminiscent of Luther’s maxim: "Ascend the pulpit,
+open your mouth, and then stop."#footnote[Thus Kroker
+(#emph[Tischreden];, Weimar ed., Vol. VI, p. 643) translates the saying
+(#emph[ibid.];, Vol. IV, n. 5171a): "#emph[Ascendat suggestum, aperiat
+os et desinat];" (cf. #emph[ibid.];, n. 5171b.)] Luther frequently
+addressed similar maxims to his preachers.
+
+Despite his facility in the use of words, the voluminousness of his
+sermons is a source of amazement. He was anxious to produce moral
+effects no less than to confirm his new doctrine and to eradicate
+popery. Relative to morality, he felt a profound obligation to
+counteract the decline of ethical standards, which was a concomitant of
+the new freedom proclaimed by his gospel. His very desire to preserve
+the good repute of his religious innovation impelled him to issue
+frequent warnings and reproofs. Moreover, as he had abolished the holy
+Sacrifice of the Mass, the office of preaching was advanced to the most
+prominent place in his church. Everything was made dependent upon the
+"Word," which was supposed to be experienced interiorly and to persist
+without the aid of the Catholic means of grace and the weight of
+ecclesiastical authority.
+
+Luther intended to introduce the interdict when to his sorrow he saw how
+weak was the influence exercised by his Wittenberg pulpit and how
+scandals grew apace. He always had felt the need of some kind of
+ecclesiastical discipline, though at the same time he never gave up the
+idea of a "church apart of true believers," who having expressly
+obligated themselves to observe religion and morality, should take their
+stand alongside the partly heathen masses of the national
+Church.#footnote[Cfr. Grisar, #emph[Luther];, Vol. V, pp. 133 sqq.] The
+plan proved impracticable. As the Protestant theologian Drews says,
+Luther himself "was uncertain and wavered in the details of his plan. He
+had but little bent to sketch out organizations even in his head; to
+this he did not feel himself called."#footnote[Grisar, #emph[op. cit.];,
+Vol. V, p. 140,] This was also the reason why his proposal to introduce
+the ban, which he made in 1538, and again in a sermon at Wittenberg on
+February 23, 1539, came to naught. He was compelled to lament: "They
+refuse to hear of excommunication."#footnote[#emph[Ibid.];, p. 186,]
+Which utterance recalls the words of the Elector: "If only people could
+be found who would let themselves be excommunicated!" And yet there was
+question only of the so-called minor excommunication, namely, exclusion
+from divine worship, or at least from the Lord’s Supper, and prohibition
+to act as sponsor at baptism. It was Luther’s intention that not only
+the ecclesiastical authorities, but the entire congregation, should
+inflict the ban, just as was the rule in Hesse, under the "Regulations
+for Church Discipline" drawn up for that country.
+
+Luther, to be sure, was not unwilling to exercise severity. Thus he
+writes to Antony Lauterbach at Pirna: "I am pleased with Hesse’s example
+of the use of excommunication. If you can establish the same thing, well
+and good. But the centaurs and harpies of the court will look at it
+askance. May the Lord be our help! Everywhere license and lawlessness
+continue to spread among the people, but it is the fault of the civil
+authorities."#footnote[On April 2, 1542; #emph[Briefwechsel];, Vol. XV,
+p. 131; cfr. Grisar, #emph[Luther];, Vol. V, p. 188,]
+
+In a sermon of February 23, 1539, wherein he vigorously developed the
+idea of the lesser excommunication, he maintained the duty of the entire
+congregation to cooperate in the enforcement of the ban. After the
+public denunciation of an obdurate member, the congregation was to lift
+its voice in prayer against him, assist in the formal expulsion, and
+participate in the readmission of the excommunicate to public
+worship.#footnote[#emph[Ibid.];] When he saw that his zeal was not
+appreciated, Luther threatened public offenders all the more violently
+with harsh treatment after death: "Let them go to the devil, and if they
+die, let them be buried on the rubbish-heap like dogs." Whoever
+obstinately remains away from the Lord’s Supper lives "in a
+self-inflicted ban" and is to be delivered to the civil
+authority.#footnote[Grisar, V, p. 189, where more passages are given.
+#emph[Tischreden];, Weimar ed., Vol. IV, n. 5174; Vol. V, n. 5438.]
+
+The civil government was obliged by law to lend its aid to support
+ecclesiastical discipline. Luther favored this procedure; for "facts
+have shown"–thus he wrote to Spalatin in 1527–"that men despise the
+evangel and insist on being compelled by the law and the
+sword."#footnote[Grisar, #emph[Luther];, Vol. VI, p. 262.]
+
+In 1529 he demanded that even those who had no religion yet should "be
+driven to attend the sermon" in order that they may know what is right
+or wrong.#footnote[#emph[Ibid.] pp. 743 sq., where the following
+passages may be found.] According to his Small Catechism, the masses
+must be "held and driven to the faith." Particularly should they be held
+to attend catechetical instruction, as he advised Margrave George of
+Brandenburg. At Wittenberg those who persistently neglected to attend
+the sermons were threatened with "banishment and the law." The court
+ordained that there be "universal attendance at church." In 1557 we hear
+of a fine imposed upon violators; in case of poverty they were "to be
+punished by being fastened to the church or a prison by means of an iron
+collar." The oppressive policy of the State Church of Saxony resulted
+from the force of circumstances and the endeavor to achieve some kind of
+union among Protestants. The State transferred its rule to the spiritual
+sphere, which usurpation, even at its inception, provoked loud protests
+from Luther and many preachers. Nevertheless, the process of evolution
+could not be arrested.
+
+History is obliged to chronicle many instances where Luther displayed
+great courage for the sake of preserving religious discipline and
+ecclesiastical customs. A case in point is that of Hans von Metzsch, a
+haughty captain and governor of Wittenberg, who led a dissolute life. In
+1531 Luther notified this powerful man that he was excluded from
+ecclesiastical communion and forbade him–though not publicly–to receive
+the Lord’s Supper. When Metzsch married his mistress in accordance with
+the prescribed regulations, a reconciliation was effected. Nevertheless,
+in 1538, Luther again censured the governor, this time with increased
+vigor, because of his affronts against public worship and the preachers.
+He pronounced invalid the absolution which the deacon Froschel had
+granted to him, and, in a statement served upon him by two deacons,
+demanded that Metzsch reform and become reconciled with the Church and
+with those whom he had offended. At the same time he apprised him that
+he would incur excommunication if he refused to conform with these
+demands. Metzsch was also threatened with major excommunication on the
+part of the prince in case he continued recusant. The subsequent course
+of events is doubtful; it appears, however, that some kind of peace was
+again patched up.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. II,
+pp. 438 sq.] In the following year, Luther inveighed from the pulpit
+against a citizen of Wittenberg who had approached the Lord’s Supper
+though he had committed a murder and was unreconciled with the Church.
+He insisted that this man render strict satisfaction before being
+readmitted to church.
+
+Mention has been made on a previous page of the courage which Luther
+displayed at the time of the pestilence. Unmindful of the danger of
+contagion, he remained at his post, although many proved themselves
+deserters. He resolutely endeavored to be of service to the afflicted
+and to encourage his clerical assistants in persevering by the power of
+his example. As early as 1527, during those critical days when
+Wittenberg and its environs were ravaged by the epidemic, he composed a
+treatise: "Whether One Should Flee from Death," which contained
+beautiful and encouraging thoughts calculated to comfort the
+afflicted.#footnote[Weimar ed., Vol. XXIII, pp. 333 sqq.; Erl. ed.,,
+Vol. XXII, pp. 317 sqq.; Köstlin-Kawerau, #emph[M. Luther];, Vol. II,
+pp. 171 sqq.]
+
+Courageously and lovingly he used his influence on many occasions to
+secure redress for those who were the victims of
+injustice.#footnote[Köstlin-Kawerau, #emph[op. cit.];, p. 420.] Because
+of the esteem in which he was held, and his willingness to minister to
+others, his aid and intercession with the Elector were frequently
+invoked. His petitions, as a rule, were effective. His protestations
+against oppression, even though they assumed most vigorous forms, were
+usually heeded at court. On one occasion he called himself the supporter
+of the poor and defender of their rights. At times it happened that, in
+his shortsightedness, he permitted himself to become interested in cases
+where justice was on the side of the other party. Frequently he
+displayed undue credulity and anger. A case in point–it was on the
+occasion when he assumed the honorary titles quoted above–is furnished
+by his advocacy of the cause of Hans von Schénitz of Halle, who had been
+legally executed by the Elector Albrecht of Mayence for serious crimes
+which he had committed. The brother of the executed man together with
+one Louis Rabe succeeded in convincing Luther that the Archbishop, whom
+Luther cordially hated, was guilty of murder. In 1535, and again in
+1536, Luther published two letters against Albrecht concerning this
+case. In 1538 he composed a treatise on the alleged Schénitz scandal, in
+which he forcibly vented his indignation.#footnote[Grisar,
+#emph[Luther];, Vol. V, pp. 106 sq.; Köstlin-Kawerau, #emph[op. cit.];,
+Vol. II, pp. 419, 422; see also the note in the third German ed. of
+Grisar’s #emph[Luther];, Vol. III, pp. 1009 sqq. (this note is not
+contained in Lamond’s English translation).]
+
+A merchant from Kölln on the Spree, Hans Kohlhase, who had failed to
+obtain a favorable verdict in a lawsuit, became enraged and declared a
+private feud against the entire commonwealth of Electoral Saxony. It was
+a procedure incomprehensible to our age, which finds its explanation
+only in the then prevalent conditions. With the aid of a mercenary mob
+from Brandenburg, Kohlhase began to "rob, burn, capture, and hold to
+ransom," according to his own formal announcement. Conflagrations,
+attributed to his revengeful spirit, broke out in Wittenberg and its
+environs. The Elector was disposed to effect an amicable settlement and
+Kohlhase sought Luther’s advice. He received a trenchant reply, in which
+Luther vigorously espoused the cause of law and order and demanded that
+vengeance be left to God. At the same time he addressed ardent religious
+exhortations to the offender. Kohlhase, however, being dissatisfied with
+the offers of the Elector, continued his depredations. Luther prophesied
+in his Table Talks that Kohlhase would be drowned in his own blood. He
+was executed at Berlin, March 22, 1540, being broken on the wheel on
+account of excesses committed in Brandenburg. Fable has seized upon the
+story of this gruesome adventurer and his relation to Luther. Popular
+biographers of Luther still love to relate how Kohlhase, in disguise,
+knocked at Luther’s door one dark night and, being admitted by the
+latter, explained his quarrel in the presence of Melanchthon, Cruciger,
+and others, became reconciled with God and his fellowmen, and promised
+to abstain from violence in future.#footnote[Grisar, #emph[Luther]
+(Engl. tr.), Vol. V, pp. 117 sqq.; #emph[Tischreden];, Weimar ed., Vol.
+IV, n. 4088, 4315, 4536.]
+
+To some extent this legend (originating with a chronicler who gives no
+authority for his statements) is reminiscent of the conciliatory
+attitude which Luther assumed toward his enemy Karlstadt when the
+latter, plunged in direst need after the Peasants’ War, approached
+Luther in 1525 and asked him to intercede for him with the Elector, so
+that he might be permitted to return to the country. Luther, having
+obtained Karlstadt’s promise that he would change his doctrines,
+magnanimously procured for him the permission he
+craved.#footnote[Köstlin-Kawerau, #emph[M. Luther];, Vol. I, pp. 718
+sq.]
+
+Luther was frequently generous towards the poor, even beyond his humble
+means. His simple way of life made it possible for him to practice
+benevolence. He lived frugally and was satisfied with but little of this
+world’s goods. This fact was generally known and, in view of his meager
+income, the court and the city gladly helped him along with gifts of
+money and food. Poor students were the chief beneficiaries of his
+solicitude; for he was very much concerned that the support of the
+students of the University of Wittenberg should be assured. His amiable
+disposition and sociability strongly attracted the students, who were
+charmed by his fame no less than by his robust physique and
+characteristically flashing eyes.
+
+Luther’s lectures, which began in the early hours of the morning, were
+carefully prepared and embodied practical directions for the usually
+large audiences which attended them. His graphic interpretations of the
+Bible and his meditations, which at times bordered on the mystical, were
+interspersed with frequent sallies (not always phrased in choice
+language) against Catholic dogmas, the papists, and the enemies in his
+own camp, the so-called #emph[Schwärmer] (fanatics). When they disagreed
+with him, he did not spare even the most highly esteemed Fathers of the
+Church. With a self-consciousness that made a profound impression on the
+shortsighted young men to whom he lectured, he exalted his own opinions
+above those of others. Proofs of this are amply supplied by his
+Commentary on St. Paul’s Epistle to the Galatians and his exposition of
+Genesis, which he commenced in 1535, but which was published by someone
+else, and not very accurately.#footnote[Weimar ed., Vols. XLII-XLIV.]
+
+There is extant also a collection of proverbs made by Luther, which did
+not, however, appear in print until 1900.#footnote[Weimar ed., Vol. LI,
+pp. 645 sqq.] It reflects his efforts to preserve and increase the
+treasury of German proverbial sayings of which he was wont to avail
+himself so liberally. Besides these, we have the theological
+disputations held before the faculty under his direction and amid
+constant interruptions on his part. These disputations (1535–1545) were
+edited in a stately volume by Dr. Paul Drews in 1896. They show many
+traces of Luther’s passionate nature and are characterized by rude
+diction and an attempt to go to extremes in expression as well as
+content.

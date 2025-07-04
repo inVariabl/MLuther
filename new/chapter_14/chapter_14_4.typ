@@ -1,0 +1,521 @@
+== Luther’s Translation of the Bible (Completed in 1534)
+<luthers-translation-of-the-bible-completed-in-1534>
+Luther’s perseverance in working on his German translation of the Bible
+enabled him to publish a complete translation in 1534. It was printed by
+Hans Lufft at Wittenberg, and bore the title: Biblia, that is, the
+Entire Sacred Scriptures, Done into German by Martin Luther, Wittenberg.
+
+The New Testament had been edited by him in September, 1522, twelve
+years previously, after the hasty labors begun during his sojourn at the
+Wartburg. It was repeatedly revised in subsequent editions. Meanwhile,
+the several parts of the Old Testament were edited from time to time by
+the translator. When the entire Bible finally appeared, it contained
+Luther’s marginal notes, composed in short sentences which were intended
+to explain the text or to render its religious meaning intelligible to
+the reader. These notes expressed the peculiar views of the editor. The
+different books were accompanied by prefaces which embody remarkable
+explanatory and controversial passages. The entire book was richly
+illustrated with woodcuts.
+
+In his preface to the book of Job, Luther discusses the pains it
+required to make a German version of the Bible. "We all," he says,
+“Master Philip \[Melanchthon\], Aurogallus, and I, labored with such
+care on Job that we were sometimes barely able to get through three
+verses in four days. …The reader "does not perceive what hindrances and
+stumbling-blocks lay in the path he now glides along as easily as down a
+greasy pole. To us, however, it cost much toil and sweat to remove all
+the hindrances and stumbling-blocks."#footnote[#emph[Op. cit.];, Vol. V,
+p. 497.]
+
+The linguistic excellence of this German version, in contrast with
+former translations, which were rather clumsy because too literal, is so
+undisputed, even on the part of Catholic critics, that we need not print
+any words of appreciation of it here. The immense influence which this
+work exercised on the development of the German language is universally
+acknowledged. In his larger work on Luther, the present author has
+treated of these excellent features extensively, and discussed in detail
+the various phases of Luther’s Bible and its relation to the medieval
+translations.#footnote[Grisar, #emph[Luther];, Vol. V, pp. 494–546. See,
+however, J. M. Lenhart, O. M. Cap., "Luther’s Indebtedness to the
+Catholic Bible" in #emph[Fortnightly Review];, St. Louis, May, 1930, pp.
+103 ff.]
+
+The linguistic advance was achieved in a twofold manner. In the first
+place, Luther adopted the style of the Saxon curia, a purified form of
+modern High German, which had developed since the middle of the
+fourteenth century. He did not create this language, but made the
+greatest contributions toward its propagation in virtue of the
+popularity of his literary productions, and particularly his translation
+of the Bible. In the second place, he infused into the language which he
+had inherited, his own animated spirit, and popularized it by listening
+to the genuinely colloquial expressions current among the common people
+and introducing these into the literary language. He himself tells us
+that he found it of the utmost service to "look into the jaw of the man
+in the street," #emph[i.e.];, to observe closely the speech of the
+common people. In rejecting an inadequate expression, he was apt to say:
+"No German speaks thus," or "The German language does not tolerate
+that."#footnote[Grisar, Luther, Vol. V, p. 503. Cfr. Janssen-Pastor,
+#emph[Geschichte des deutschen Volkes];, Vol. VII, 14th ed., 1904, p.
+648. (English tr., Vol. XIV, PP. 401 sqq.)]
+
+Besides these linguistic characteristics, the method he employed had two
+excellent features. He always takes pains to go back to the original
+text of Sacred Scripture, whereas former translators had invariably
+followed the Latin Vulgate. In this respect Luther followed the
+humanistic tendency of his age. Credit is due to Erasmus for having
+furnished the first great impulse to the study of the original text of
+Scripture by his edition of the Greek New Testament. The other
+excellence of Luther’s version consists in the clearness he imparts by
+means of circumlocutions to such expressions as would otherwise be
+difficult of comprehension. Thus he tried to make the meaning clear to
+all. In doing so, however, he proceeded in an altogether too arbitrary
+manner, but he succeeded in making the Bible a readable and popular
+book.
+
+His translation had a remarkable sale, to which the celebrity of the
+author and strong partisan interest naturally contributed no small
+share. The latest bibliographer of Luther’s German Bible, Paul Pietsch,
+notes 34 Wittenberg impressions of the Weimar Edition alone, and 72
+reprints for the rest of Germany during the decade between 1530 and
+1540; and again, from 1541 to 1546, the year of Luther’s death, 18
+additional Wittenberg impressions and 26 reprints. It is believed,
+according to rather reliable investigations, that the press of Lotther
+at Wittenberg published no less than 100,000 complete Bibles from 1534
+to 1584, to which must be added particularly the Bibles published by the
+press of Lufft.#footnote[Grisar, #emph[Luther];, Vol. V, p. 498.] One
+might almost say that Germany at this time was deluged with Bibles. What
+a powerful influence Luther’s German Bible must have exercised in
+enlivening disputations about religion, is obvious; it is equally
+obvious that it served very much to fortify the existing prejudice that
+the ancient Church had withheld the Bible from the people and that it
+was now necessary to purify it by interpreting it in the light of
+Lutheran opinions.
+
+To the end of his life, Luther devoted himself assiduously to the
+improvement of each subsequent edition of his German Bible. After 1539
+special meetings of scholars were held at Wittenberg to assist him with
+their linguistic or theological knowledge in polishing his translation.
+In enumerating the names of the regular or occasional members of this
+"Sanhedrin of the best people," Mathesius#footnote[#emph[Ibid.];, pp.
+499 sq.] mentions Melanchthon, Bugenhagen, Jonas, Cruciger, Matthew
+Aurogallus, teacher of Hebrew at the University of Wittenberg, Bernard
+Ziegler, a learned Hebraist of Leipsic, and Dr. Forstemius of Tübingen.
+Luther’s experienced amanuensis, Rorer, usually kept the minutes of
+these meetings. The Weimar edition of Luther’s works prints what is left
+of the minutes of the sessions of this Bible-revision committee which
+met from 1539 to 1541. As a consequence of its labors, the Wittenberg
+Bibles published by Lufft from 1540 to 1541 show a decided improvement.
+
+The most celebrated edition of Luther’s German Bible was the so-called
+"Normalbibel," which appeared in 1545. It was the last to appear during
+his lifetime. A facsimile of Luther’s handwriting with parts of the Old
+Testament, which is reproduced in the section devoted to the "German
+Bible" in the new Weimar edition, enables one to see with what diligence
+he filed and polished the text, and how he often struggled to find the
+best expression for the thought.
+
+Passing from this more exterior appreciation of his work to its
+intrinsic value as a translation, the so-called revised Lutheran Bible,
+published in 1883, has shown what a large amount of textual corrections
+was necessary before Luther’s version satisfied the requirements of
+modern critical scholarship. This edition not only eliminated many
+errors, but also altered expressions no longer intelligible at the
+present time. The revised editions which have appeared since 1883 were
+an attempt at improving Luther’s work still more.#footnote[A severe
+criticism of the official edition of 1913, by which the edition of 1892
+was to be improved, in the #emph[Christliche Welt];, Marburg, 1913, p.
+1010.] Christian Josias Bunsen (d. 1860), who was the author of a
+Protestant "Bibelwerk," said there were “3,000 passages in Luther’s
+Bible which call for revision.”#footnote[Grisar, #emph[Luther];, Vol. V,
+p. 511.]
+
+Discussing the defects of scholarship which remained even after the
+revision of 1883, the learned Protestant philologist and Bible expert,
+E. Nestle, said: "A comparison with the English or Swiss work of
+revision shows how much farther we might and ought to have
+gone."#footnote[#emph[Ibid.];, pp. 511 sq.] In 1885, the Protestant
+theologian and orientalist, Paul de Lagarde, vigorously criticized the
+Lutheran text as well as its first jejune official revision of 1883. He
+prints a long list of passages which he holds to be manifestly
+mistranslations of the original, some of which are arbitrary and
+evidently made for theological purposes.#footnote[#emph[Ibid.];, p.
+512.]
+
+Undoubtedly these theological variations constitute a serious defect of
+Luther’s Bible, which diminish its value as a religious work. In the
+interests of his new doctrine Luther took the liberty to alter the
+sacred text without warrant. Döllinger’s numerous exposures relative to
+this point met with the approval of Paul de Lagarde. Janssen has once
+more called attention to them in his History of the German
+People.#footnote[Döllinger, #emph[Die Reformation];, Vol. III, pp. 140
+sqq.; Janssen-Pastor, op. cit., Vol. VII, 14 ed., pp. 654 sqq.] The
+Protestant Paulsen in his #emph[Geschichte des Gelehrten Unterrichts]
+criticizes Luther’s arbitrary alterations of the Biblical text.
+Notwithstanding these criticisms, the mistranslations are retained in
+the most recent popular editions of Luther’s Bible.
+
+Thus, in the texts which treat of justification and the significance of
+the law, Luther retouches the wording to suit his own doctrine. The law,
+according to his translation, "worketh #emph[only] wrath"; "by the law
+only cometh the knowledge of sin." In Rom. 4:15 and 3:20 he interpolates
+the word "alone."
+
+Again, Luther’s reproduction of Rom. 3:28 would have it that man is
+justified by faith alone. In this passage, Luther arbitrarily inserted
+the word "alone" and tried to justify this insertion as follows: "The
+text and the meaning of St. Paul demand, nay, compel this
+amplification." This, however, is merely a requisite of his false
+theory, which he imputes to the Apostle in order to square it with his
+own doctrinal system. The word "alone" in the Pauline text is an
+obtrusive recommendation of Luther’s principal heresy and a subjective
+falsification. The context makes it quite evident, however, that,
+objectively speaking, the real thought of St. Paul could have been
+expressed by the word "alone."#footnote[For Luther’s hectoring
+justification of the "alone" see #emph[supra];.]
+
+In Rom. 3:25 sq., Luther again fortifies his doctrine by adding the word
+"alone" and twice inserts the clause: "an offering of justice which
+availeth before God," which is not found in the original text. Luther
+falsely translates Rom. 10:4: "For the end of the law is Christ; he that
+believeth in him is righteous." The same is true of Rom. 8:3, where the
+Greek text is incompatible with the German rendition.
+
+The illustrations above cited are all taken from St. Paul’s Epistle to
+the Romans.
+
+The word "pious" is persistently and designedly substituted for "just."
+Noe, Job, Zacharias, Elizabeth, Simeon, and Joseph, the foster-father of
+Christ, are all pious, but not just, as in the original text. To be
+pious, according to Luther, is to have faith, and, through faith,
+imputed justice. He does not admit real, personal justification. In like
+manner, Luther everywhere uses the word "congregation" instead of
+"church," in conformity with the tendency of his doctrine. In
+reproducing Baruch 6:30, he ridicules the "priests sitting in their
+temples with their voluminous copes, with shaven faces and wearing
+tonsures."#footnote[Grisar, #emph[Luther];, Vol. V, pp. 514 sq.]
+
+In addition there are interspersed glosses and prefaces to the several
+sacred books which give him a fine chance for indulging in polemics. He
+displays a truly marvelous dexterity in interpreting the text in favor
+of his new doctrine. This is particularly true of his preface to the
+Epistle to the Romans.#footnote[#emph[Op. cit.];, Vol. V, p. 526.] In
+his commentary on the passage which records the divine foundation of the
+primacy ("Thou art Peter," etc.; Matt. 16:18), he declares that in this
+passage "Peter" means "all Christians with Peter," and the creed of the
+congregation is the rock upon which the Church is built. The story of
+the anointment of Christ by Mary Magdalen elicits the following comment
+from him: "Thus one sees that faith alone makes the work
+good."#footnote[#emph[Op. cit.];, Vol., V, p. 518.] And so on. After the
+appearance of Luther’s New Testament, the Catholic ducal court of Saxony
+conceived the idea of publishing Luther’s work without its distorted
+reflections on Catholic doctrine. Commissioned by Duke George, Jerome
+Emser undertook this task, in 1527. The conditions then prevalent in the
+publishing trade sanctioned such a measure. Emser did not claim that the
+publication was a new translation. Luther’s grounds of complaint, both
+as a matter of fact and in law, were unfounded, although the procedure
+is contrary to our modern ideas. Moreover, the title merely announced
+that the New Testament was "restored to its original sense" in this
+edition.#footnote[On Emser’s German New Testament, cf. Grisar,
+#emph[Luther];, Vol. V, pp. 518 sqq.]
+
+Later on, after Emser’s death, Augustine Alfeld published a reprint,
+which bore the inaccurate title: "The New Testament, translated into
+German by the late Emser." The Catholics, however, were determined to
+counteract Luther’s great success by means of other translations. In
+1534, John Dietenberger, a Mayence Dominican, published a complete
+translation of the Bible, in which he availed himself to a great extent
+of Luther’s work. Dr. John Eck proceeded more independently in his
+German Bible of 1537, which, however, because of its stilted style,
+found but few readers.
+
+Cochlaeus complained that Luther’s work was highly regarded, even among
+the common people; that cobblers and old women poured over it and
+debated its arbitrary interpretations as if they were the word of
+God.#footnote[Grisar, #emph[op. cit.];, Vol. V, p. 529.]
+
+The liberties which Luther took in his appraisal of entire books of the
+Bible were fundamentally even more reprehensible than the defects which
+have been censured above. It is known that he did not feel bound by the
+"canon" in force since the early days of the Church, which tradition and
+the teaching magisterium had sanctioned, and which decided what books
+constituted the Bible.#footnote[#emph[Ibid.];, p. 521.]
+
+In addition to the illustrations already given, the following examples
+may be adduced. The second book of the Maccabees and the book of Esther
+were rejected the former because it is "too much inclined to Judaize,"
+the latter on account of its "heathen naughtiness." The Epistle to the
+Hebrews was set aside as "a made-up epistle consisting of fragments
+amongst which, there is wood, hay and chaff." The Epistle of St. Jude
+the Apostle is ranked "below the chief books \[of the Bible\]." The
+Apocalypse he regarded as "neither apostolic nor prophetic" and said:
+"Let each one judge of it as he thinks fit."
+
+He asserts that "the Epistle of St. James," which has previously been
+discussed, "justifies \[good\] works," and compared with other books of
+the Bible, which (he maintains) clearly proclaim the doctrine of
+justification by faith alone, is "but an epistle of straw," which has
+"nothing evangelical about it." Of this verdict, one of the most
+celebrated modern Protestant Bible scholars, Theodor von Zahn, says that
+it is "an act of injustice as incomprehensible as it is
+regrettable."#footnote[#emph[Ibid.];, p. 523] It is quite
+comprehensible, however, when one takes into consideration the
+stupendous levity with which Luther regarded his doctrine as an
+infallible criterion.
+
+In rejecting the canon of the Bible, Luther destroyed the basis on which
+the authority of the Sacred Book had been founded. It was tragic that no
+Christian writer ever inflicted so much damage upon the Book of Books as
+the man who boasted of having favored it in so high a degree and
+represented it as the great, nay, the sole source of faith.
+
+It is psychologically interesting to follow the motives and the general
+ideas which guided Luther in the course of his protracted work of
+translating Sacred Scripture, expressed in his own words. He intends to
+show the "papists" that they are not competent to translate the Bible
+properly, because they do not possess the "mind of Christ," and hence
+they ought to leave it "in peace" and undisturbed.#footnote[Thus at the
+head of the edition of 1545.]
+
+"It is not an easy matter," he says, to find "others as sincerely
+devoted to the Bible as we are here at Wittenberg, who have been the
+first to receive the grace to reveal once more the Word of God,
+unadulterated and purified." "None of them knows how to translate
+correctly."#footnote[Grisar, #emph[Luther];, Vol. V, pp. 526 sq.] The
+new Bible, therefore, was to put the papists thoroughly to shame. Above
+all else, it was to show how mistaken they were when they reduced it to
+a "code" for the performance of good works, since it "condemns such
+works and demands faith in Christ."#footnote[#emph[Ibid.];, p. 528.]
+
+Hence, Luther was preeminently swayed by a polemical purpose. He wished
+to see the Bible read by everybody. Rich and poor alike should be
+enabled to judge that his doctrine was the only true doctrine. Hausrath,
+a Protestant biographer of Luther, writing in complete accord with the
+sentiments of his hero, says: "Only now could the burghers feel that
+they had attained to manhood in the matter of religion, and that the
+universal priesthood had become a reality. The head of each household
+now had the wellspring of all religious truth brought to his very door
+…For a while this might lead to strange excesses, as the theology of the
+New Prophets showed." Still, "the advent of the German Bible was the
+dawn of freedom."#footnote[#emph[Luther’s Leben];, I, p. 136; quoted by
+Grisar, #emph[ibid.];, p. 529.]
+
+It is easy to understand the conscious pride which filled Luther upon
+the completion of his work. "St. Jerome and many others have made more
+mistakes in translating than we." "I know that I am more learned than
+all the universities, those sophists by the grace of God." He invited
+those who censured him to "do even the twentieth part" of what he had
+done. "Since the Church has existed, we have never had a Bible like this
+one." Incidentally it is a real pleasure to him that he was able to
+rouse the fury (#emph[furias concitare];) of the papists by means of
+such a great work.#footnote[#emph[Ibid.];, p. 331] He realized withal
+that he had to overcome many temptations whilst occupied with this work;
+thus he tells us that, whilst engaged in translating the story of Jonas,
+he "looked into the belly of the whale, where everything seemed given
+over to despair."
+
+Besides his habitual interior struggles he was oppressed with the idea
+that his laborious task "would not be duly appreciated even by his own
+followers."#footnote[#emph[Ibid.];, p. 532.]
+
+He felt an interior satisfaction, however, when he recalled that his
+text counteracted the Jewish commentators, "who cannot know or
+understand what is said by Moses, the Prophets and the
+Psalms."#footnote[#emph[Ibid.];, p. 533.]
+
+The refutation of Jewish errors embodied in Luther’s Bible is a
+satisfactory feature of his work. Julius Köstlin declares that in his
+translation of the Bible, Luther "bestowed on his German people the
+greatest possible gift" by making of the Book of Books "an heirloom of
+the whole German nation."
+
+The whole German nation? From what has been said above it can be seen
+that Luther’s much-lauded translation was rather a piece of subjective
+propaganda put forth in the interests of his own party. And as regards
+"his German people," it was precisely while he was engaged in this work
+that he applied to the German nation opprobrious epithets which place
+"the greatest gift" in a peculiar light. Thus the reproaches of the
+Prophets inspired him to use the following language: "I have begun the
+translation of the Prophets–a work that is quite in keeping with the
+gratitude I have hitherto met with from this heathenish, nay, utterly
+bestial nation."#footnote[#emph[Ibid.];, p. 534.]
+
+A word in reference to the illustrations which accompanied Luther’s
+German Bible. The Catholics, who at that time still constituted a
+majority of the German nation, were aggrieved to see how their Church
+was ridiculed by the pictures contained in the complete Lutheran Bible
+of 1534, just as had been the case in the previously published New
+Testament. The polemical illustrations contained in the New Testament
+were reproduced in the complete Bible. The Babylonian harlot and the
+dragon once more appear crowned with the papal tiara. On the title-page
+of the Wittenberg edition of Luther’s complete works, issued by himself
+in 1541, there is a picture, presumably drawn by the elder Cranach,
+depicting the ancient Church in the act of driving men into hell;
+whereas the new Gospel leads them to heaven.#footnote[The frontispiece
+of 1541 is reproduced in its original size in Grisar and Heege,
+#emph[Luthers Kampfbilder];, Heft III, plate 9; cfr. the same work, pp.
+19 sqq.] A furious looking devil in the shape of a beast, with a
+cardinal’s hat on its head, and death in the form of a skeleton, are
+depicted as driving a man, clad only in a loin-cloth, into the yawning
+abyss of hell, where the pope, crowned with the tiara, and two other
+forms are burning. The obverse side of the picture glorifies the new
+Church. John the Baptist leads a nude penitent to the Crucified Saviour,
+from whose side a stream of blood gushes over a sinner who has been
+saved by faith. Verily, the Catholics could not regard Luther’s Bible as
+"the greatest gift to his German nation."
+
+When the Catholic spokesmen took into consideration Luther’s principles
+relative to the rank and use of the Bible, they regarded themselves as
+justified in assuming an attitude of severe condemnation.#footnote[Cf.,
+#emph[e.g.];, Johann Fabri, quoted in Grisar, Luther, Vol. V, p. 529.]
+These principles contained within themselves the seeds of religious
+chaos. Luther held that beside, and in addition to, the words of the
+Bible, the "spirit" was to be the true touchstone of orthodoxy. The
+spirit would teach everyone to understand the sacred text. In case of
+doubt, the interior "feeling," which comes from above, must assume the
+direction of reason. Everyone stands "for himself." To the pious,
+according to Luther, the Word of God is perfectly clear; but he
+frequently emphasizes its obscurity. He holds that, owing to the absurd
+interpretations of many obscure passages, the Bible must almost be
+styled "a heretical book." Hence, in order to avoid theological anarchy,
+he makes the self-contradictory demand that the interpretations of the
+Wittenberg school, #emph[i.e.];, his own tribunal, should always be
+followed. The "external Word," upon which he insists in opposition to
+the spirit of arbitrariness, is equivalent to his own word. Yea,
+penalties are to be inflicted upon those who contemn the magisterium
+exercised by himself.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 387
+sqq., 420 sqq.; Vol. VI, pp. 237 sqq., 279 sqq.]
+
+It should not be overlooked, however, that Luther’s interpretation of
+the Bible has the undisputed merit that, in contrast with the older
+allegorical method of exposition, he always tries to establish the
+literal sense, and for this purpose lays under contribution the study of
+languages. Not infrequently he employs to advantage the exegetical works
+produced before his time, for instance, those of the celebrated Nicholas
+of Lyra. A well-known saying of his opponents was: "#emph[Si Lyra non
+lyrasset, Lutherus non saltasset];." If Lyra (the lyre) had not played,
+Luther would not have danced.#footnote[Grisar, #emph[op. cit.];, Vol. V,
+p. 535.] Generally speaking, however, Luther treated the Biblical lore
+of the past with such supreme disregard that his neglect of the older
+commentators redounded to the very great disadvantage of his own work.
+In addition to this scientific defect of Luther’s Bible, the Catholic is
+bound above all else to take into account the fundamental detriment to
+exegesis resulting from Luther’s abandonment of ecclesiastical
+tradition. Catholics believe that the Church has been constituted by God
+the official interpreter of Sacred Scripture. Her voice, resounding down
+the ages, is sufficient guaranty that her children will not go astray in
+their study of the Bible. Luther repudiated her guidance, to his own
+detriment as well as to that of his followers, even of those who were
+sincere in their intentions and inclined to positive religion. He saw
+this fact with his own eyes and bitterly rued it. He speaks with horror
+of the "rubbish in Scripture."
+
+It is easy to refute Luther’s assertion that he "pulled the Bible from
+underneath the bench," where it lay buried, owing to its complete
+misunderstanding under the papacy, and because it had been denied to the
+laity and the clergy.#footnote[#emph[Ibid.];, pp. 536 sq.]
+
+Catholic exegetes are accused of having ignored the fact "that Christ
+forms the true content of Scripture." This accusation has been refuted
+by a mass of quotations from writers like Augustine and Thomas Aquinas,
+and also from Luther’s older contemporaries, such as J. Perez of
+Valencia.#footnote[#emph[Ibid.];, p. 541.] Still more striking is the
+assertion that the Bible was not read during the Middle Ages, nay, that
+its reading was prohibited by the Church.
+
+Frederick Kropatschek, a Protestant, states in his scholarly work, Das
+Schriftprinzip der lutherischen Kirche (1904): "If everything be taken
+into account, it will no longer be possible to say, as the old polemics
+did, that the Bible was a sealed book to both theologians and laity. The
+more we study the Middle Ages, the more this fable tends to dissolve
+into thin air …The Middle Ages concerned themselves with Bible
+translation much more than was formerly
+supposed."#footnote[#emph[Ibid.];, p. 536.] Similar admissions could be
+cited from other Protestant scholars such as Walther Köhler, Ch. Nestle,
+J. Geffcken, W. L. Krafft, E. v. Dobschütz, O. Reichert, G. W. Meyer, A.
+Risch, etc.#footnote[#emph[Ibid.];, pp. 545 sq.] Above all it is now
+agreed that the laity were never prohibited from reading the Bible, as
+has often been alleged. It was only when there was danger that the Bible
+would be abused during menacing heretical movements, that the Church
+authorities from time to time adopted measures forbidding the laity to
+read the Bible. Historical researches show that the Bible was widely
+circulated both in the original languages and in translations, in
+manuscripts and printed editions, in the age that preceded Luther. On
+account of the importance of the subject, a synopsis of these researches
+is hereby offered.
+
+Wilhelm Walther of Rostock and Franz Falk, a scholarly clergyman of
+Mayence, have devoted themselves with distinction to a study of this
+matter. In recent times, a German-American scholar, W. Kurrelmeyer, has
+edited in installments #emph[Die erste deutsche Bibel] (The First German
+Bible), in the Library of the Literary Society of Tübingen; these
+installments are supplied with critical contributions from all German
+translations prior to Luther.#footnote[See Ch. Nestle in the Protestant
+#emph[Enzyklopädie für Theologie];, Ergänzungsband XXIII, p. 317.]
+
+The oldest complete printed German Bible appeared in 1466 and was
+published by Mentel of Strasburg. It was followed by thirteen other
+editions, some of which deviated to some extent from the first, but all
+appeared before the publication of Luther’s Bible. The name of the
+editor of the Bible published by Mentel cannot be established with
+certainty. In consequence of the republication of this version, its text
+had become a kind of German Vulgate.
+
+Dr. Falk has established the fact that no less than 156 different
+editions of the Latin Bible were printed in the period between 1450 and
+1520.#footnote[Grisar, #emph[Luther];, Vol. V, p. 536.]
+
+In addition, there are the many extant manuscripts, which have been
+classified by Walther, as well as numerous prints and manuscripts of
+separate parts of the Bible, such as the Psalter and the Gospels and the
+Epistles of the ecclesiastical year.
+
+The latter, being lessons taken from the Old and the New Testament, had
+been translated and collected in so-called "#emph[plenaria];" or
+postils, which were to be found everywhere in the hands of the faithful.
+In lieu of the complete Bible, which was expensive and only partially
+intelligible to many, these postils supplied the people with reading
+material which was adapted to their needs and was explained to them
+during divine service. In virtue of these "#emph[plenaria];," all
+classes of the people were well grounded in the most essential and
+instructive portions of the Bible.
+
+Relative to the partial and complete translations of the Bible,
+Sebastian Brant could truly say of the pre-Lutheran epoch: "Every
+country is now filled with Sacred Scripture."#footnote[#emph[Ibid.];,
+pp. 536, 540.]
+
+The extant German translations of the Bible, particularly those
+contained in the "#emph[plenaria];," were by no means unknown to Luther.
+It may also be assumed–in fact it has been specifically demonstrated in
+many instances–that he made use of them more or less in his translation,
+as any scholar would have done when engaged in a similar work. His merit
+of having proceeded in an independent manner remains undiminished, even
+if it is to be assumed that his translation was influenced to some
+extent by a fixed German vocabulary expressive of Biblical words and
+phrases.#footnote[#emph[Ibid.];, p. 460. On "Luther’s Indebtedness to
+the Catholic Bible" see J. M. Lenhart in the #emph[Fortnightly Review];,
+St. Louis, Mo., XXXVII, 5 (May, 1930), pp. 103 ff.]
+
+A remark remains to be made on the practical use of the Bible during the
+later Middle Ages. It was an abuse that the Bible was excessively
+allegorized, and that it was not sufficiently used in scholastic
+disputations in comparison with philosophy; but it always retained its
+prestige in the pulpit and religious literature. Popular devotional
+literature furnishes a striking refutation of the claim that the
+Reformation rescued the Bible from oblivion, even if the statistics and
+facts which have been adduced above were unknown. The literature
+composed for the instruction and religious edification of the faithful
+is replete both with Biblical passages and the spirit of the Bible; at
+times, it is even excessive in its application of Holy Writ.
+
+The legend of the chained Bible, which is occasionally encountered even
+at the present time, is little less than grotesque. In Protestant
+popular tracts young Luther’s discovery of the Bible at Erfurt is
+associated with the queer notion that the copy which he happened upon
+while a student was fastened by a chain in the library. Copies of the
+Bible and other books intended for the common use of the public were
+frequently chained, to safeguard them from unjustifiable appropriation
+or removal from the room in which they were intended to be used. This
+very practical custom, still in vogue at present in the parlors of
+Italian convents, has given rise to the false notion that the Bible was
+kept chained in the Middle Ages.

@@ -1,0 +1,476 @@
+== Confusion at Wittenberg. Other Writings Composed by Luther During His Sojourn at the Wartburg
+<confusion-at-wittenberg.-other-writings-composed-by-luther-during-his-sojourn-at-the-wartburg>
+Luther’s attacks on the Mass were attended with greater success at
+Wittenberg than he had desired. Gabriel Zwilling (Didymus), a young
+Augustinian, achieved prominence there as an enthusiast for the purified
+celebration of the Lord’s Supper without the Mass. Some called him the
+new prophet and a second Luther. Melanchthon took his part and missed
+none of Zwilling’s sermons. Karlstadt was no less enthusiastic; he and a
+committee constituted of like-minded zealots petitioned the Elector for
+"the speedy abolition of the abuse of Masses in his principality." It
+was the first application of the principle that ecclesiastical reforms
+were the affair of territorial rulers. But the circumspect Elector on
+October 25 issued an order inhibiting any acts which might result in
+dissension and uprisings.
+
+When discontent nevertheless increased, Luther became alarmed and formed
+a startling resolution. On December 3, he suddenly left the Wartburg for
+a secret visit to Wittenberg, clad in his squire’s costume. He remained
+there from December 3 to 11, in the company of his friends, for the sake
+of obtaining information on the state of affairs, but eight days later
+he was back at the Wartburg. He used the information thus acquired,
+which was partly unsatisfactory, in the composition of a tract, entitled
+#emph[A Sincere Exhortation to all Christians to Guard against
+Rebellion];.#footnote[#emph[Werke];, Weimar ed., VIII, pp. 676 sqq.;
+Erl. ed., XXII, pp. 44 sq.; written at the beginning of 1522.]
+
+It appears, he says, as if an insurrection is threatening, in which
+priests, monks, bishops, and the whole clerical estate might be slain.
+By hearkening to his words, however, such a general attack might yet be
+avoided. Christ had reserved to Himself the punishment of papism, in
+order to slay Antichrist by the breath of His mouth. People should wait
+two years, then it would be accomplished as a result of the gigantic and
+irresistible progress of his Gospel, which was very evidently the work
+of God. "It is not our work …’tis someone else who propels the wheel."
+
+In the sequel, he requests his followers to call themselves Christians,
+not Lutherans. "Who is Luther? The doctrine is not mine; nor have I been
+crucified for anyone."
+
+But above all: The weak and inadequately instructed must not be taken by
+surprise or violence. The authorities only, and not "Herr Omnes"
+(#emph[i.e.];, the masses) have the right and the duty to intervene
+against whatever is contrary to the Gospel. The devil purposes to injure
+the evangelical doctrine by fomenting rebellion.
+
+The extent of his illusion regarding the speedy collapse of the kingdom
+of Antichrist may be inferred from the postil he at that time composed
+for the second Sunday of Advent. According to the astronomers, he says,
+a great constellation of planets was imminent for the year 1524. The
+powers of heaven, according to the Sunday Gospel, would be convulsed.
+God grant that it be the "Day of Judgment to which the signs certainly
+point."#footnote[Köstlin-Kawerau, #emph[Martin Luther];, Vol. I, p.
+478.]
+
+During his sojourn at the Wartburg Luther also completed his remarkable
+interpretation of the Magnificat, which he dedicated to the heir to the
+Saxon throne.#footnote[Weimar ed., VII, pp. 544 sq.; Erl. ed., XLV, pp.
+212 sq.] It is a remarkable production on account of the note of sincere
+piety which the author, in the very midst of a hostile and agitated
+campaign, sounds in these pages; remarkable , too, because of the
+author’s eulogy of the "Blessed Virgin," "the tender Mother of the
+Lord." The commentary is largely pervaded by the traditional devotion
+with which the Augustinian Order revered Mary, though it fails to do
+justice to her exalted virtues or to her position as the advocate of
+Christendom before the throne of God. Luther mainly extolled the faith
+of the Blessed Virgin, as conceived in accordance with his new doctrine
+of justification. He was aware of, and carefully took into
+consideration, the sentiments of the prince to whom the work was
+dedicated, and who had a lively attachment to many practices of the
+ancient religion which were still appreciated by Luther. Later on, when
+the prince warmly supported his person and his work, he learned that the
+successor to the throne regarded him as a profoundly pious man and a
+peaceful religious reformer. Besides its religious note, Luther’s
+treatise on the Magnificat is pacific in so far as the polemical ideas
+which it contains are veiled and not clothed in his customary harsh
+language. Fundamentally, however, it, too, is a controversial treatise,
+as is indicated by such superfluous admonitions as that Mary is "no
+helping goddess," even though Luther does not as yet condemn the
+practice of praying for her intercession.#footnote[Grisar,
+#emph[Luther];, Vol. IV, p. 237.] While the book is not, as has been
+asserted, a monument of the author’s profound piety, nevertheless, one
+must marvel at the ideas in which it abounds, the dexterity with which
+the style is varied, and the adroitness with which the author adapts
+himself to his readers. For the rest, Luther always believed in the
+virginity of Mary, even post partum, as affirmed in the Apostles’ Creed,
+though afterwards he denied her power of intercession, as well as that
+of the saints in general, resorting to many misinterpretations and
+combated, as extreme and pagan, the extraordinary veneration which the
+Catholic Church showed towards Mary. His prayerbook, which appeared in
+1522, retained the Ave Maria side by side with the Pater Noster and the
+Creed. As late as 1527 he even acknowledged the doctrine of the
+Immaculate Conception of Mary, in conformity with the theological
+traditions of the Augustinian Order.#footnote[#emph[Op. cit.];, IV, 238
+and 500 sqq.] At the beginning of 1522, Luther dedicated to the Pope his
+scornful tract #emph[Vom Abendfressen des allerheiligsten Herrn des
+Papstes];.#footnote[#emph[Werke];, Weimar ed., VIII, pp. 601 sqq.; Erl.
+ed., XXIV², pp. 166 sqq. "#emph[Fressen];" is a contemptuous term used
+only of animals.] This crude production is a reference to the Bull
+#emph[In Caena Domini];, which was published annually on Maundy Thursday
+at Rome. This document was a comprehensive condemnation of heresy, and
+it now listed Luther among the condemned heretics. Luther derides the
+pope as a drunkard who in his frenzy curses and swears and uses the
+Latin of a "kitchen scullion." He translates the solemn juridical
+document and accompanies it with coarse annotations. In the introduction
+he declares that "the Rhine is scarcely large enough to drown all the
+scoundrels"–such as the "retailers of bulls, cardinals, legates," etc.,
+besides archbishops, bishops, abbots, etc. Did such language serve his
+previously mentioned purpose to quell violence and sedition?
+
+It is a puzzle how Luther, during his short sojourn at the Wartburg, in
+addition to his other work, was able to translate the New Testament from
+Greek into a German of undeniable excellence. He practically completed
+this important task within the incredibly short space of three months.
+We postpone an appreciation of his New Testament to a later page, where
+we shall deal with his rendition of the Bible as a whole. As a literary
+document, it is truly monumental.#footnote[Grisar, #emph[Luther];, Vol.
+V, pp. 494 sqq.] For the present we will consider only its polemical
+purpose. Luther intended his Bible to be read by the masses, so that it
+might win followers to his new gospel. To accomplish this purpose he did
+not scruple to alter the text in numerous places. The aggressive
+tendency of the translator is emphasized by the woodcuts which
+illustrate the Apocalypse. There the woman of Babylon is repeatedly
+shown crowned with the papal tiara; Catholic dignitaries, and even the
+Emperor, are depicted as rendering homage to the bearer of the cup of
+sin and blasphemy; like Babylon, papal Rome collapses and is consumed by
+fire; the defenders of the papacy are depicted as dragons with seven
+heads, and so forth. These illustrations escaped observation until quite
+recently. They are in complete harmony with the utterly abnormal
+apocalyptical frame of mind in which Luther was at that time. In this
+respect, Luther’s celebrated German version of the New Testament ranks
+with the polemical illustrations of the "Passionale of Christ and
+Antichrist," by which at the beginning of the Wartburg period he
+enlisted the aid of the graphic arts in the campaign against
+religion.#footnote[Grisar-Heege, #emph[Luthers Kampfbilder: I. Das
+Passionale, II. Der Bilderkampf in der deutschen Bibel];, with 14
+plates.]
+
+= The Return. Victory at Wittenberg
+<the-return.-victory-at-wittenberg>
+Whilst Luther was occupied with the translation of the Bible in the
+solitude of the Wartburg, events happened at Wittenberg which induced
+him to move back to the university town, in spite of many and great
+dangers.
+
+On December 3, students and citizens attacked certain priests who
+intended to celebrate Mass in the parish church there. The monastery of
+the Discalced Friars as well as a number of cathedral canons were
+menaced. Worst of all, the tumultuous Karlstadt, who cut such a sorry
+figure at the disputation of Leipsic, set himself up as the leader of
+the new movement with the intention of becoming not a dilatory, but a
+consistent Luther. He announced that matrimony must be obligatory for
+the clergy and that the reception of the Eucharist without the chalice
+was not permissible. On Christmas he for the first time commemorated the
+Lord’s Supper without celebrating Mass, by administering bread and wine
+to all who so desired, without previous confession. On January 19, he,
+as deacon of All Saints, solemnly took unto himself a wife. The
+Augustinians who still remained at Wittenberg removed every altar but
+one from their church and burned the images of the saints as well as the
+holy oils. Karlstadt asserted that images were prohibited by Holy
+Scripture (Ex. 20:4) and denounced them as idols. As a consequence, the
+sacred images and statues were cast out of the various churches. The
+monk Zwilling conducted a similar iconoclastic campaign in the towns and
+villages about Wittenberg. He proscribed ecclesiastical vestments and
+preached his revolutionary innovations clad in the characteristic attire
+of the students of that time. Confessions were discontinued; the law of
+fasting was disregarded; there was a movement to abolish all feast-days
+except Sundays; the religious consolations for the sick, prisoners and
+those about to be executed fell into desuetude. In lieu of these it was
+proposed to devote greater attention to the alleviation of temporal
+needs by the institution of a so-called community chest which was
+enriched by mass stipends and other ecclesiastical funds. Karlstadt
+introduced a thoroughly shallow lay Christianity. It was his intention
+to promote a natural but spiritualistic religiosity in opposition to
+Luther’s massive doctrine of the imputation of the merits of
+Christ.#footnote[H. Barge, #emph[Karlstadt];, Vol. I, p. 404.] Like
+Luther he believed that he was inspired from on high.
+
+A new and dangerous element was injected into this movement when, on
+December 27, the so-called prophets of Zwickau visited Melanchthon at
+Wittenberg. They were: Nicholas Storch and Mark Stübner, two
+cloth-weavers, who claimed to have received a direct call from God to
+preach. They had been inducted by Thomas Münzer into the prophetic life
+and into direct converse with God and maintained that man is obliged to
+learn everything through the Spirit, and to aspire to the most complete
+self-renunciation and apathy. Not only was the Church to be reformed by
+one greater than Luther, but the civil order, too, was to be altered,
+all priests were to be slain, and all godless people extirpated. They
+attacked especially Luther’s doctrine of infant baptism and hence were
+called Anabaptists. If faith alone makes the Sacrament efficacious, they
+contended against Luther, then adults only can be baptized, since
+children are incapable of faith. The inference cannot be denied.
+
+Like many others, Melanchthon, who was deficient in intellectual acumen,
+allowed himself to be taken in by these "prophets." When Luther heard of
+this he was greatly worried and tried to inspire Melanchthon with
+distrust toward these fanatics.#footnote[Briefwechsel III, p. 273, 13th
+of January, 1522: "#emph[Neque enim Deus unquam aliquem misit, nisi vel
+per hominem vocatum vel per signa declaratum …Quaeras, num experti sint
+spirituales angustias et nativitates divinas, mortes infernosque.];" He
+says God Himself speaks in the verse: "#emph[Contrivit omnia ossa mea];"
+(Is. XXXVIII, 13.)] His troubles were increased in virtue of the
+tumultuous innovations which were introduced in Wittenberg and environs.
+Luckily, Karlstadt did not make common cause with the "prophets," but
+the feeble efforts of the Elector were impotent to arrest the
+innovations of Karlstadt. These reforms were favored by a semblance of
+truth–if one took the Lutheran position. Luther himself had set a
+precedent in altering the divine services. The others were simply
+following his example. The enthusiasts of Zwickau were not only
+justified in their opposition to his doctrine concerning baptism, but
+their private revelations and theories of interior experience were
+essentially not far removed from Luther’s contention that the Spirit
+alone must guide man. Nor did they deviate very much from his view of
+supernatural revelation, although he himself was naturally unwilling to
+grant that their strange and arbitrary conduct was the result of
+visions. Strangely enough, he asked Melanchthon to tell the "prophets"
+of Zwickau that even raptures capable of transporting men into the third
+heaven furnished no proof of their claims, but they would have to work
+miracles and also to show that they had been made partakers of the
+spiritual travails and the divine rebirth which penetrated death and
+hell–that terrible regeneration which he believed to have experienced
+and which he maintained to be the standard by which to judge whether one
+were really and truly justified.
+
+Writing of affairs at Wittenberg, the Elector Frederick said:
+"Everything went wrong, everybody became perplexed, and no one knew who
+was cook or cellarer."#footnote[Köstlin-Kawerau, #emph[M. Luther];, I,
+p. 495.] It was then that the imperial government finally issued a
+strict warning (June 20, 1522) to all the bishops and to the
+above-mentioned Elector to ferret out and punish those who disturbed the
+religious peace and violated ecclesiastical discipline. The bishops of
+Meissen and Merseburg indicated their intention to obey and Frederick
+caused representations to be made to Luther.
+
+What was decisive, however, was that Luther himself now resolved to
+terminate the disorderly state of affairs by resuming his residence at
+Wittenberg. Naturally he realized that his territorial lord might be
+seriously embarrassed by the imperial authorities if he openly permitted
+the outlaw to return to the university and sheltered him in his
+territory. However, cognizant of the high esteem in which that prince
+held him, and relying upon Frederick’s favorable attitude towards the
+new religion, Luther ventured upon a course of action which would
+otherwise have been foolhardy. Moreover, at the conclusion of his last
+letter, Frederick had practically put the decision up to Luther by
+saying that he would leave everything to his discretion, since he was
+experienced in such important matters.#footnote[#emph[Briefwechsel];,
+III, p. 295. The importance of these words is enhanced by the fact that
+shortly before, at the end of February, 1522, Luther had announced to
+the Elector his early return to Wittenberg. Erl. ed., LIII, p. 183
+(#emph[Briefwechsel];, III, p. 291).] His return was energetically
+requested by the authorities of the city of Wittenberg as well as by the
+University, which had been induced to take this step at the behest of
+Melanchthon, who was completely bewildered. Thus Luther started on the
+hazardous journey without notifying the Elector.
+
+He left the Wartburg on the morning of March 1, attired in his squire’s
+costume, and rode towards Borna, south of Leipsic, by way of Jena, where
+he met the Wittenberg student Kessler, a native of Switzerland, with
+several companions, in the Inn of the Bear. At Borna he wrote a letter
+to the Elector, which Protestant historians are wont to represent as a
+marvelous product of devout heroism.
+
+Since he had received his Gospel not from man but from Heaven–thus he
+writes in a vein of beguiling confidence–he would now return, in order
+not to yield to the devil, who had caused the consternation at
+Wittenberg. He realized that he had powerful opponents, such as Duke
+George of Saxony (who had issued the most dire threats against Luther in
+a letter to the Elector, his cousin); yet he was not afraid. Even if the
+state of affairs at Leipsic, where George resided, were as bad as at
+Wittenberg, he would, nevertheless, proceed to that place, even if the
+menaces of vain George became nine times more dire and if every
+inhabitant were nine times worse than he. He was going to Wittenberg
+under a far higher protection than that afforded him by his Elector. God
+was with him, and therefore he did not need the protection of the ruler;
+indeed, he intended rather to protect Frederick than be protected by
+him; for the Elector’s faith was still weak, whereas his own was strong.
+He requests the prince, in the event that he be apprehended or murdered,
+not to resist the authorities of the empire, for that would be contrary
+to the will of God who had instituted them. The empire, he hopes, would
+not expect the prince to become his \[Luther’s\] jailer. In conclusion
+he rises to the height of a spiritualistic style: "If your grace would
+have the faith, you would vision the majesty of God; but as you have not
+yet the faith, you have seen nothing."
+
+This is Luther’s so-called "heroic letter" from Borna. It is undoubtedly
+the utterance of an incomparably courageous man; but it is also the
+product of a mind which cannot be comprehended except on the assumption
+that he was impelled by the fixed idea of being divinely inspired. No
+man can write thus unless he pretends to be an ambassador of God and who
+does not realize that his entire future is at stake. The situation in
+which Luther found himself compelled him to impress his territorial lord
+as forcefully as possible in order to assure the success of his move.
+And he succeeded in doing this because Frederick was a diplomat, sickly,
+and a Bible reader who favored the Lutheran innovations. Luther, on the
+other hand, was simply compelled to resume his abode at Wittenberg and
+to sever the chain which bound him to the Wartburg, if he did not wish
+to see his lifework shattered. In no other way was he able to keep
+control of the reins which, as he believed, had been entrusted to him by
+God. Thus considered, his resolution as well as the letter lose somewhat
+of their heroic character and enter into the sphere of tangible and
+practical calculation. At all events, considering the edict of Worms and
+its threats, his enterprise was a venture which might just as well have
+led to the fall of Luther’s work, as it actually did to its progress.
+This remains true, even if two other natural motives are taken into
+consideration. Luther’s long confinement was bound eventually to become
+a stifling burden to a man of his temperament–a burden to be shaken at
+any price, even if its effort involved great danger. The second factor
+is the order issued by the imperial government to off the Elector and
+the bishops. It was bound to move Luther to form a strong resolution to
+settle the disturbances at Wittenberg. If he succeeded in this, he would
+be the man of the hour, and would prove himself useful, if not
+rehabilitated in the eyes of the empire. In the opinion of many,
+therefore, he would no longer be accounted a noxious revolutionist, as
+his opponents represented him to be. This is offered in explanation of
+the "heroic act" of Borna.
+
+"Squire George" made his entry into Wittenberg on March 6, escorted by a
+number of knights who had joined him on the way. Kessler, the Swiss
+student, describes his exterior appearance as "quite corpulent"; his
+bearing was erect, but as he walked, he bent backward rather than
+forward; his head was lifted high. Kessler particularly observes his
+"deep-set black eyes and twinkling like stars, so that it was not
+comfortable to behold them." In the following year, his striking
+eyebrows, blinking and expression of Luther’s eyes is thus described by
+the bishop of Kulm and Ermland, John Dantiscus, who had seen and
+conversed with Luther at Wittenberg: "His eyes are penetrating," he
+says; "they have a certain sinister sparkle, such as one finds from time
+to time in persons who are possessed by the devil." His features, he
+added, reminded one of the character of his books, his conversation was
+excited and replete with risque allusions and ridicule.#footnote[Grisar,
+#emph[Luther];, Vol. IV, p. 357; cfr. Vol. III, p. 429; Vol. I, pp. 86,
+279; Vol. II, pp. 158 sq.]
+
+In addition to the letter which Luther had dispatched from Borna, the
+Elector was pleased to receive another communication from him upon his
+arrival at Wittenberg. In this letter, which had been expressly
+requested by the Elector, Luther spoke of his return to Wittenberg, and
+the Elector intended to exhibit it in public, to enable Luther to
+justify his step himself. The letter was actually read by the Elector’s
+representative at the imperial court and by other important persons.
+
+On the following Sunday Luther, elated at his achievement, confidently
+ascended the pulpit of the town-church, whence for eight successive days
+he delivered the most vehement sermons imaginable against the prevalent
+frenzy. Owing to his powerful action, not to say his hypnotic gifts, he
+was able to repel all opposition and to restore order. His chief thought
+was that the weak, #emph[i.e.];, those who had not as yet attained to a
+full conviction of the value and freedom of the Gospel, should not be
+perturbed by precipitous innovations. The objects of a general
+amelioration had better be sought by gentle and circumspect methods. By
+his prudence and the force of his eloquence, he succeeded in gaining
+control of the situation and forcing Karlstadt with his associates into
+the background. The text of these famous sermons was subsequently
+revised by Aurifaber, who published them. Luther made them the basis of
+his treatise "On the Reception of the Sacrament under Both Forms," which
+appeared soon after.#footnote[Weimar ed., Vol. X, II, pp. 11 sq.;
+Erlangen ed., Vol. XXVIII, pp. 285 sqq.]
+
+In this work he declares that charity was violated towards those who
+were not of his party, "who belong to us and must be made to join us." A
+man is not bound to do what he has a right to do. Then, too, he (Luther)
+should have been consulted, since the town council had conferred the
+office of preaching in Wittenberg upon him. The Mass was to be
+abolished, but not by violence. Marriage of the clergy, the monastic
+life, fasting, images in the churches, etc., were matters left free by
+God. Things would right themselves without ordinances and coercion,
+provided the Word of God entered the hearts of men.
+
+"While I slept and drank beer with my Philippo \[Melanchthon\] and with
+Amsdorf in Wittenberg, the Word did so much to weaken the papacy as no
+prince or emperor ever did before. I have done nothing; the Word has
+done and achieved everything."
+
+Everyone who is convinced he is right should make a determined use of
+his liberty. If he is forbidden to eat meat on fast-days, he should
+straightway eat it; if the pope tries to compel him to remain in the
+monastic state, he should discard the cowl. Then, contradicting himself,
+he states that the use of the chalice by the laity is an ordinance of
+Christ, as it pertains to the essence of the Eucharist, yet it is free
+and must not be made compulsory. The chalice is to be given to those who
+desire it, but it is not to be forced upon the congregation.
+Consequently, here too we have a twofold form of administering the
+Sacrament with the inevitable danger of provoking a cleavage among the
+faithful.
+
+Luther’s attitude respecting the use of images was equally indefinite.
+The images of saints, crucifixes, etc., are not to be abolished on their
+own account, but only to serve God. Because of the harmful abuse to
+which they have been put, they do not deserve to be retained. If people
+once find out that images are worthless, they will disappear.
+
+The old form of confession should be abolished and a voluntary
+confession of sins substituted for it. He says that he himself had
+experienced the consolation and strength to be derived from this latter
+kind of confession, without which the devil would have choked him to
+death long ago. "I am well acquainted with him \[the devil\]; and he
+knows me. If you knew him, you would not thus repudiate confession."
+Luther, therefore, proposes to retain confession on the strength of his
+own experience and by virtue of his own authority, whereas the Catholic
+Church appeals to the authority of Christ. He orders the penitent to
+confess to anyone whom he may select, whereas the Church directs the
+penitent to an ordained priest. He directs the penitent to confess for
+the sake of obtaining consolation, whereas the Church directs him for
+the sake of obtaining remission of his sins through the Sacrament of
+Penance. He does not acknowledge the sacramental seal of confession
+which the Church imposes upon the priest.
+
+But this is not the place to emphasize all the defects and
+contradictions of the ecclesiastical system advocated by Luther as
+contrasted with the laws that prevailed in the ancient Church. They will
+suggest themselves spontaneously to the thoughtful reader.
+
+In one particular Luther openly proclaims the necessity, and at the same
+time the impracticability of a measure proposed by himself. For the
+practice of auricular confession he would substitute a kind of
+ecclesiastical ban as an indispensable disciplinary measure. After
+exhortations have proved unavailing, "adulterers, usurers, robbers, and
+drunkards" should be excommunicated in the name of the congregation.
+"However," he says, "I do not venture to carry this out alone." Owing to
+the internal defects of his religious system, his well-intentioned
+endeavors in this respect were never fully successful, though stricter
+ecclesiastical discipline would have been precisely the most necessary
+requirement after the tumultuous scenes witnessed at Wittenberg.
+
+On the whole, as even the most eminent among the Protestant biographers
+of Luther acknowledges, one is "compelled to question whether the way
+which Luther in these sermons prescribed for ecclesiastical reforms, was
+actually fit to attain the object he had in view, namely, a Christian
+regimen with purified regulations."#footnote[Köstlin-Kawerau,
+#emph[Martin Luther];, 5th ed., Vol. I, p. 507.] Indeed, the unlucky
+star of dissension between his basic demand of a false liberty and the
+need of unity and order hovered visibly over the beginnings of his
+practical attempts at reform.
+
+Karlstadt adapted himself grudgingly to the altered state of affairs,
+but pursued his own course. He declared that learned studies were
+useless and on one occasion, when a young theologian was being promoted
+to the doctorate, publicly attacked the title of "Master" as repugnant
+to the Word of Christ. He said he preferred to live in the country as a
+peasant and to learn from peasants the interpretation of Holy Writ as it
+had been imparted to them from on high. He chose to call himself
+"Neighbor Andrew" and appeared in the grey garb of a peasant. Having a
+propensity for false mysticism, he established relations with the seer
+and reformer, Thomas Münzer.
+
+The "prophets of Zwickau" had abandoned Wittenberg. In the course of an
+interview with Mark Stübner, Luther had challenged him to prove his
+mission by a miraculous sign. It was a suggestion which Stübner could
+have cast back at Luther. Stübner, however, boldly declared that he
+would comply with the demand. Thereupon Luther asserted that his God
+would prevent the gods of such false prophets from performing any
+miracles. This ended the conference, and Luther saw nothing more of the
+"prophets of Zwickau." The restless and fanatical Münzer, on the other
+hand, endeavored to re-approach him and explained to him in a letter
+how, amid inward fears, he had become assured that his was a true divine
+revelation. In spreading his false ideas, therefore, he applied the same
+standard which Luther claimed for himself, namely, the way of interior
+agony. His claim, however, did not impress Luther, whose practical
+sagacity would not permit him to place the least trust in this
+over-excited Communist.
+
+One who entered the parish church of Wittenberg after Luther’s victory,
+discovered that the same vestments were used for divine service as of
+yore, and heard the same old Latin hymns. The Host was elevated and
+exhibited at the Consecration. In the eyes of the people it was the same
+Mass as before, except that Luther omitted all prayers which represented
+the sacred function as a sacrifice. The people were intentionally kept
+in the dark on this point. "We cannot draw the common people away from
+the Sacrament, and it will probably be thus until the gospel is well
+understood."#footnote[#emph[Von beider Gestalt, das ander Teil];.] The
+rite of the celebration of the Mass he explained as "a purely external
+thing" and said that the damnable words referring to the sacrifice could
+be omitted all the more readily, since the ordinary Christian would not
+notice the omission and hence there was no danger of scandal. The words
+in question, especially those of the canon, are pronounced almost
+inaudibly in the popish Church.#footnote[Köstlin-Kawerau, op. cit, Vol.
+I, p. 511.]

@@ -1,0 +1,528 @@
+== Luther’s Death
+<luthers-death>
+Despite his weakened condition, Luther, at the beginning of October,
+1545, undertook a journey to Mansfeld. Count Albert of Mansfeld, a
+protagonist of Lutheranism, had solicited his aid in the adjustment of
+some lawsuits in which he was involved with his brother Gebhard and his
+nephew on account of certain revenues from mines and various legal
+claims. This first journey to Mansfeld was followed by a second, on
+Christmas. Luther requested Melanchthon to accompany him, which the
+latter did grumblingly, as he disliked to listen to the quarrels of
+contentious people. When Melanchthon took sick, Luther returned with him
+to Wittenberg. The litigation at Mansfeld induced him to set out, in
+January, 1546, for his native city of Eisleben, which was also to be the
+city of his death.
+
+Undoubtedly, these frequent journeys were inspired, at least in part, by
+that unrest which so often leads men to change their habitation at the
+approach of death, and also by that discontent with Wittenberg which had
+driven him to visit Zeitz, Merseburg, and Leipsic but a short time
+previously.
+
+On the twenty-third of January, in spite of the rigors of the winter,
+Luther once more left Wittenberg, accompanied by his sons, their tutor
+and his amanuensis, John Aurifaber, the future editor of the #emph[Table
+Talks];. At Halle he was compelled to spend three days with Jonas on
+account of floating ice in the Saale river. The devil, he wrote, dwells
+in the water, but he was resolved not to get drowned to give the pope
+and his myrmidons cause for delight.#footnote[#emph[Ibid.];, p. 372.] In
+a sermon delivered in Halle he poured forth his anger against popery and
+demanded the expulsion of the "lousy monks" who still remained in that
+locality. "You ought to drive the imbecile, sorry creatures out of
+town!" On January 28, he and his escort, which now included Jonas,
+resumed their journey across the swollen Saale. Whilst riding in his
+carriage in the vicinity of Eisleben, the bitter wind caused him to
+experience difficulty in breathing, vertigo, and great debility. "The
+devil always plays me this trick," so he consoled himself, "when I have
+something great on hand." Arrived at his destination, he jocosely wrote
+to Catherine that the Jews who lived at Rissdorf had raised the cold
+wind against him and attempted to turn his brain to ice.
+
+The litigant counts and their counselors were already present in
+Eisleben. They assigned the house of the town-clerk, which still stands,
+to Luther, Jonas, and Aurifaber, and liberally provided for their
+sustenance. Luther extols the Naumburg beer, says that his three sons
+had gone on to Jena; two of them returned to the narrow quarters at
+Eisleben, but spent a great deal of their time in Mansfeld, which lay
+close by. Luther’s friend, Coelius, who was court-preacher in Mansfeld,
+was also in the house. Luther entertained his friends every evening in a
+room on the ground-floor beneath the quarters which he occupied; he
+enjoyed his meals, drank heartily, and exhibited a jovial disposition.
+When Catherine again expressed fears about his health, he replied in a
+jocose vein, giving her an account of all that her anxious thoughts had
+brought upon him: the fire that broke out just in front of his door, had
+almost burnt him up; the plaster that fell down from the ceiling of his
+room had nearly killed him. "I fear, if you don’t put your fears to
+rest, the earth will finally open and swallow us
+up."#footnote[#emph[Ibid.];, pp. 373 sq.]
+
+While he sojourned at Eisleben, Luther preached four sermons, which
+severely taxed his strength. In one of them he attacked the Jews,
+contending that, if they did not become Christians, the rulers were
+obliged to expel them. He upbraided the Jews of Mansfeld not only for
+hating the Christians, but also for cheating them and practicing
+usury–which charge was not without justification. In assailing the Jews
+he was well aware that the Countess of Mansfeld was regarded as their
+protectress. Twice Luther partook of the Lord’s Supper while at
+Eisleben, after having "absolution" administered to him, as is reported.
+On the occasion of his second communion, he ordained two priests, in
+conformity with what he alleged was apostolic practice.
+
+He was annoyed to find that the negotiations designed to effect a
+reconciliation between the counts proceeded in an extremely tedious
+manner. He blamed the devil for the stubborn resistance that was offered
+to the proposals of mediation put forth by the experts and by himself.
+All the devils, he said, had convened at Eisleben to cast mockery upon
+his efforts in this sorry affair. He writes that he was prepared to rush
+in upon the disputants like a "hobgoblin" and "to grease the wagon with
+his anger." In the excess of his excitement he experienced the
+above-mentioned hallucination of the devil seated on a fountain–a scene
+which, as Coelius writes, caused him to shed tears because of the
+malicious indecency which Satan exhibited towards his person. In the end
+a satisfactory settlement was reached. On February 14 he wrote to his
+"dear and amiable wife": "God has shown great favor here; for the rulers
+have practically settled all their differences with the aid of their
+councilors." He announced at the same time: "We expect to return home
+this week, if it so please God."
+
+On February 16, sickness and death were the topics of a very lively
+discussion during supper, according to the notations of Aurifaber.
+During these discourses, Luther said: "When I shall arrive at home in
+Wittenberg, I shall lay me in a coffin and offer the maggots an obese
+doctor to feed on."#footnote[#emph[Tischreden];, Weimar ed., Vol. VI, n.
+6975.] As yet, he did not anticipate that death would overtake him at
+Eisleben.
+
+Worry over the religious situation to some extent diverted Luther’s
+thoughts from the fate which confronted him. He learned how strictly the
+Emperor insisted upon submission to the Council which had already begun;
+how fruitless were the proceedings of the religious conference at
+Ratisbon; how, after the failure of all attempts at reunion, the empire
+was preparing for the oft-threatened war against the Schmalkaldians.
+Other disquieting reports were brought by Prince Wolfgang von Anhalt and
+Count Henry von Schwarzburg, two friends of Luther, who had come to
+Eisleben to act as arbitrators for the counts of Mansfeld. "The Emperor
+is unalterably opposed to us," sighed Luther; "he reveals now what he
+has hitherto concealed." His solicitude for his elector inspired him to
+utter these words: "God save our gracious Lord; he is due for a
+struggle!" On one occasion he absented himself from his fellow-boarders,
+as they were at supper, exhorting them to "pray for the realization of
+the designs of God, that it may go well with the affairs of the Church;
+the Council of Trent displays a great deal of indignation."
+
+At the same time, his spirit was wrapped in gloom because of the violent
+opposition that developed on the part of the Swiss and other
+Sacramentarians to his doctrine of the Last Supper. These renewed
+attacks had been called forth by his recently published "Brief
+Confession." His displeasure with them was undoubtedly heightened
+because of the further fact that he reread those of his works in which
+he had vented his anger during the controversy on the Eucharist, and
+which were included in the volume of his German works just then in
+course of publication. Hence, in his sermons at Eisleben, he paid his
+respects to the Sacramentarians and in forceful words warned his hearers
+against the arbitrary interpretation of Sacred Scripture by "that
+prostitute, human reason." His last notes, written on Feb. 16, 1546,
+appear to be a reference to the misuse of the Bible by the
+Sacramentarians. "No one," he says, "has sufficiently tasted the Sacred
+Scriptures who has not governed churches with the prophets for a hundred
+years." He claims, moreover, that one must have been a shepherd or a
+farmer for five years in order to understand the Buccolics and Georgics
+of Vergil; and, in order to appreciate Cicero’s letters, it was
+necessary for one to have spent twenty-five years in the service of an
+important state.#footnote[#emph[Briefwechsel];, Vol. XVII, p. 60.]
+Shortly before he had inscribed in the postil of a friend the following
+words, based upon John 8:51, which sound like a presentiment of death:
+"If any man keep my word, he shall not see death forever." In this
+connection he also wrote: "Blessed in the Word is he who believes and
+goes to sleep and dies over it."#footnote[Köstlin-Kawerau, #emph[Martin
+Luther];, Vol. II, p. 620,] This was a favorite thought with him.
+Frequently during these days he also quoted the text: "God so loved the
+world," etc., which he undertook to explain in a lengthy address to his
+friends.
+
+The first indication that his heart trouble was growing worse was
+noticed on the 17th of February, when he grew restless and said, among
+other things: "Here at Eisleben I was baptized. What if I were to remain
+here?" In the evening he was seized with oppression on the chest, a pain
+he had experienced in former ailments. He felt relieved when rubbed with
+hot cloths and went down for supper with his companions, with whom he
+ate and drank copiously in his usual jovial mood, recounting anecdotes
+and participating in the serious discussions which were carried on.
+Among other things the mutual recognition of friends in Heaven was
+debated. In Heaven, he said, we shall recognize each other in virtue of
+the illuminating spirit of God, who caused Adam immediately to recognize
+Eve as flesh of his flesh, whom He had built from a rib taken from his
+own body whilst he was asleep. He also discussed his own death and the
+devil. He said he had lived to be sixty-three years of age in order that
+he might witness all the malice, faithlessness, and misery which was
+caused by the devil in the world. The human race is like sheep being led
+to slaughter.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 376 sq.]
+
+Shortly afterwards he repaired to his room. It was still early in the
+evening; he recited his prayers at the open window, as was his custom,
+and then retired for the night.
+
+While at prayer, a new severe attack of heart oppression came on. His
+friends again hurried to his aid, tried to give him relief by rubbing
+him with hot cloths. He got an hour’s sleep on a sofa in his room, after
+Count Albrecht, who had been summoned, and his relatives offered him
+various remedies. He refused to have the doctors called, as he did not
+think there was any danger. Having told his friends, who in the meantime
+had come to see him, to retire, he withdrew to his chamber. Jonas and a
+servant, Rudfeld by name, had a couch in the same room, which was small
+and lacking in ventilation. The couch which Luther occupied may still be
+found in the self-same crowded room. He slept in his bed only from ten
+or eleven o’clock until about one in the morning, when he got up and
+awakened Jonas, saying to him: "Oh, my God, how ill I feel!" Aided by
+Jonas and the servant he dragged himself into the sitting-room, saying
+he would probably die at Eisleben after all, and repeating the prayer:
+"Into thy hands I commend my spirit!" As he lay outstretched on the
+couch, the constriction of his heart became unbearable.
+
+The inmates of the house, the counts and the princes, who appeared at
+intervals to express their solicitude and sympathy, were kept informed
+of the condition of the patient. Two physicians, one a doctor and the
+other a master of medicine, were hurriedly summoned. Before they
+appeared, however, the malady had completely overcome the patient. They
+found him lying on the couch unconscious and with no perceptible pulse.
+After a brief interval, however, Luther recovered consciousness, and,
+bathed in the cold sweat of death, was heard to exclaim: "My God, I am
+so ill and anxious; I am going." He also recited some prayers, in which
+he expressed his thanks to God for having revealed to him His Son Jesus
+Christ, in whom he believed, whilst the hateful pope had blasphemed
+Him.#footnote[#emph[Ibid.];, p. 378.] Thrice he repeated the familiar
+verse: "God so loved the world," etc. In vain Count Albrecht and his
+relatives offered strengthening or refreshing draughts to the patient.
+As he again lay practically unconscious, Jonas and Coelius, in order to
+obtain a confession from him in the presence of the attendants, shouted
+into his ear the question whether he remained steadfast in the faith in
+Christ and His doctrine which he had preached; to which they caught the
+reply: "Yes." That was his last word. He did not recall his life’s
+partner at Wittenberg, nor did he mention his children. It seems the
+stroke had stupefied him and blotted out the memory of those dear to
+him.
+
+About three o’clock in the morning Luther drew a deep breath and
+departed this life to return his soul into the hands of the eternal
+Judge. It was a frosty morning (February 18, 1546), and the earth was
+still veiled in darkness.
+
+During this last crisis, or soon after, John Landau, an apothecary of
+Eisleben, was sent for with the request to attempt to restore animation
+by the application of a clyster. Landau was a convert to the Catholic
+Church and a nephew of the famous controversialist Wicel. He came at
+once, but, after examining Luther, who had already departed this life,
+declared: "He is dead; of what use can an injection be?" The physicians,
+however, insisted upon a try with the instrument, so that the patient
+might again come to himself if there still was life in him. When the
+apothecary inserted the nozzle he noticed some flatulency given off into
+the ball of the syringe. The two physicians disputed together as to the
+cause of death. The doctor said it was a fit of apoplexy, for the mouth
+was drawn down and the whole of the right side discolored. The master,
+on the other hand, maintained that so holy a man could not have been
+stricken down by the hand of God and that it was rather the result of a
+suffocating catarrh and that death was due to choking. Neither knew
+anything of Luther’s chronic disease affecting the arteries of the
+heart.#footnote[Cf. the opinion of Dr. Guido Jochner in the Innsbruck
+#emph[Zeitschrift für kathol. Theologie];, Vol. 45 (1921), pp. 486 sqq.,
+and also that of Dr. Tscharnak in Janssen-Pastor, Vol. IIT (18 ed.), p.
+601. Of material importance is Jonas’s letter in Kawerau’s edition of
+his correspondence, Vol. II, pp. 182 sq., where he says Luther suffered
+from heart disease in the year before his death. In Ioh. Manlii Libellus
+Medicus (Bisle, 1563), pp. 24 sq., it is stated that καρδιακή
+#emph[i.e.];, heart disease, was the cause of Luther’s death. Manlius
+also says: "#emph[Paulo ante mortem mibi scripsit, se eo morbo rursum
+tentatum esse];." Melanchthon wrote to V. Theodorus (Corp. Ref., VI, p.
+68): "#emph[Non apoplexia, non asthmate extinctus est];." But the real
+cause of Luther’s death he did not know either.] The true cause of his
+death was neither apoplexy nor catarrh. After Luther’s death, all the
+distinguished guests assembled in his chamber. Jonas, who sat at the
+head of the bed, wrung his hands and wept aloud. He assured the others
+that Luther had been more cheerful on the previous evening than for many
+a day. "Oh, God Almighty, God Almighty!" he exclaimed. The apothecary
+was bidden to administer a thorough rubbing to the nose, mouth,
+forehead, and left side of the corpse with a costly scented fluid which
+the counts had brought. The guests still expected to see signs of life
+and remarked that on several former occasions Luther had lain for a long
+time motionless and was thought to be dead, for instance, at
+Schmalkalden, in 1537, when he was tormented with gallstone. The
+apothecary soon ascertained that rigor mortis had set in. Jonas then
+suggested that a detailed report be at once dispatched by courier to the
+Elector of Saxony. About four o’clock in the morning, he composed a
+comprehensive account of the event, assisted by Coelius and Aurifaber.
+
+In the meantime the corpse, still lying on the couch, was re-arranged so
+as to enable the expected visitors to obtain a better view of it. After
+sunrise Luther’s friends sent for a painter to draw the features of the
+departed. The picture, which represents Luther lying on the couch, was
+unsatisfactory and a second picture, based in part on the first, was
+made the following day. The painter of the second picture was Lucas
+Fortenagel of Halle; when he went to work, Luther already lay in his
+coffin. This portrait is preserved in the university library of Leipsic,
+which also preserves a less perfect representation depicting Luther’s
+head as resting on a pillow. It is probable that this latter picture is
+the one drawn immediately after his demise.
+
+If a Catholic opponent of Luther, familiar with his life and deeds, a
+man noble-minded and sympathetic of heart, had entered that room in the
+morning after the reformer’s death, what would have been his thoughts?
+Above all else he would have implored God to be merciful to the soul of
+the departed man, thus complying with the teaching of Him who commands
+men to love even their worst enemies. Then, there would have flashed
+before his mind’s eye the monstrous and embittered attacks launched by
+Luther upon that sacred institution, the indestructible Church
+established by Jesus Christ at the price of His blood and founded upon
+Peter and his successors. In spirit, he would have beheld the deep
+wounds inflicted upon that Church by this man, so remarkably endowed
+with eloquence, willpower, and energy. How many thousands of souls
+redeemed by Christ, he would have said to himself, have been torn from
+the Saviour’s living body by this man, without any fault of their own,
+and frequently without their knowledge, bequeathing their misfortune to
+posterity. But yielding to mercy, he would also have recalled the
+fateful enthusiasm of the dead reformer for his own cause, and that
+profound and serious self-delusion which domineered his ardent
+temperament with ever increasing force since the inception of his
+contest with Rome. Did not Luther, thus the spectator might have
+soliloquized, eventually find himself in a state of true mental
+obsession, though, of course, of his own volition and which, at least in
+its inception, had been caused by himself? Was it an obsession which
+allowed him to see naught else but his supposed vocation as the
+promulgator of a new and true Gospel, directed against Antichrist and
+the demoniac forces, just as he imagined the imminent dissolution of the
+world and the advent of the Great Judge? Did this delusion, in the
+evening of his life, incapacitate him for receiving even one ray of
+light?
+
+If our hypothetical friend, thus absorbed in reflection at the bier of
+Luther, had been granted an insight into the mental evolution of the
+deceased, #emph[i.e.];, into his psychological condition since he left
+the parental roof, his frightening experiences at entering the
+monastery, as well as the state of despondency and the constant
+struggles caused by his disease, he would have felt all the more
+inclined to pronounce a charitable judgment on the dead reformer. Was
+Luther a great man? he might have asked himself, as he left the chamber
+of death impressed by these reflections. There could be no other answer
+than this: If he is to be called great, his greatness is negative. As
+our observer later in life recalled the stirring scene in Luther’s death
+chamber, he might have entertained the hope that the misguided reformer
+would be saved. Janssen, the great Catholic historian who penetrated so
+deeply into the inwardness of the Reformation period, used to recommend
+to converts who sought his guidance to pray for the repose of Luther’s
+soul.#footnote[Cited by Pastor toward the close of his biography of
+Janssen.] God alone searches the hearts and reins of men. Human
+understanding is too limited.
+
+The account we have given of the circumstances of Luther’s demise is
+based, first, on the report made the same day by Jonas to the Elector;
+secondly, on letters written by other eye-witnesses either on the day of
+Luther’s death or immediately afterwards; thirdly, on the account of the
+Catholic apothecary Landau, on the funeral orations, and especially on
+the "Historia" of Luther’s death composed at Wittenberg by Jonas,
+Coelius, and Aurifaber and apparently published about the middle of
+March.#footnote[The "Historia" in Walch’s edition of Luther’s Works,
+Vol. XXI, pp. 280 sqq. Landau’s account first appeared in Cochlaeus,
+#emph[Ex Compendio Actorum M. Lutheri] (Moguntiae, 1548; cf. Grisar,
+Luther, Vol. VI, p. 379, n. 2). All the accounts of Luther’s death were
+more recently collected by Jak. Strieder, Bericht diber Luthers letzte
+Lebensstunden (1912; cfr. the same writer’s article, #emph[Luthers
+letzte Stunden];, in the Histor. Vierteljahsschrift, 1912, No. 3), and
+Christoph Schubart, #emph[Die Berichte];, etc., (1917), which contains a
+more detailed account based on all the letters. The best exposition
+according to the sources is supplied by N. Paulus, #emph[Luthers
+Lebensende] (1898), whose conclusions have not been affected by the less
+important sources which have since come to light.] While it cannot be
+denied that the letter of Jonas and the "Historia" contain palpable
+exaggerations concerning the pious aphorisms and prayers of
+Luther–expressions of devotion of which he was hardly capable in
+consequence of his repeated lapses into unconsciousness,#footnote[In the
+#emph[Lutherkalender] for 1911, p. 93, A. Spaeth concedes that the first
+letter of Jonas and the "Historia," may have been inspired by a desire
+to represent Luther’s death in as favorable and edifying a manner as
+possible.] there is, however, no adequate warrant for impugning the
+substantial credibility of this and other accounts, as has been done in
+recent times. In view of certain accounts that originated in foreign
+countries and were written for polemical purposes, it has been asserted
+that Luther was found dead in bed at daybreak, and that, accordingly,
+all the occurrences reported of the night of his death are fictions
+invented for the purpose of concealing the disagreeable facts in the
+case. But such a colossal deception was an impossibility because of the
+large number and the rank of those who knew the facts at first hand,
+including several women. The calm and detailed account which Landau, the
+Catholic apothecary, published in 1548, absolutely forbids the
+acceptance of the above-noted arbitrary theory of deception. Moreover, a
+falsification of facts, such as is here supposed, would most assuredly
+have assumed a different form. It would not have failed to mention that
+Luther spoke affectionately of his Catherine, and to describe a touching
+scene in which the dying father bade farewell to his children.
+
+The fable of Luther’s alleged suicide, which some writers (notably P.
+Majunke) have exploited in recent years, is based on an apocryphal
+letter, attributed to an alleged servant of Luther, whose name is not
+mentioned. It was circulated about twenty years after Luther’s death
+among his opponents, particularly in foreign countries. The story of the
+unknown servant was mentioned for the first time in a book which the
+Italian Oratorian, Thomas Bozius, published at Rome in 1591. The
+Franciscan, Henry Sedulius, was the first to print the text of the
+letter in a book published at Antwerp in 1606. In this letter, the
+servant is quoted as stating that he discovered "our Master Martin
+suspended from his bed, wretchedly strangulated."#footnote[In the
+#emph[Allg. Deutsche Biographie];, Vol. LII (1900), pp. 156 sq., we read
+that the fable of Luther’s suicide is no longer defended by any serious
+Catholic, nay, that Catholics have been among its foremost opponents.]
+
+The fable belongs to a category of inventions, quite common at the time,
+devised for the purpose of imputing a disgraceful death to an opponent,
+especially if he happened to be an ecclesiastic. Many prominent men were
+made to die in despair and impenitent, or to terminate their lives by
+suicide.#footnote[Cf. Grisar, #emph[Luther];, I, 303 sq.] Luther himself
+was notorious for this form of fabrication, and readily placed credence
+in reports of this kind.
+
+Strange, too, are the amplifications made by certain authors regarding
+the legends of Luther’s decease. It is claimed that he had "his nun"
+with him on the fatal night of his death; yea, that Catherine Bora
+strangled him during a quarrel. Others allege that the devil either
+carried him off alive or murdered him.
+
+The above-noted accounts of Luther’s death are not surprising in view of
+the mass of false statements made about the reformer in succeeding ages
+by shortsighted and uncritical Catholic authors, who were horrified at
+the way in which he ravished the Church. Thus it was alleged that he
+inwardly abandoned all his doctrines in his old age; that he
+contemplated a return to the papacy, without, however, being converted;
+that he said to Catherine on one occasion, as she admired the starry
+firmament, that heaven was not for them. It was asserted that he had
+three children apart from those born of his marriage; that he indulged
+in "orgies" with escaped nuns; that he began his fight upon the Church
+in order that he might be able to marry while yet a monk; that at a
+later date he advised people in writing to pray for many wives and few
+children; that he was the author of the saying: "Who loves not woman,
+wine, and song, remains a fool his whole life long."#footnote[These
+slanders are incidentally repudiated in our text; see also our larger
+work, #emph[Luther];, Vol. III, pp. 280 sqq.; Vol. V, p. 372. On the
+charge of inebriety, cfr. Vol. III, pp. 294 sqq.]
+
+Rumors were circulated especially about his inebriety and habitual
+excesses at table, which have already been mentioned, in connection with
+which certain misconstrued jokes were reproduced. It is claimed that he
+indulged excessively in eating and drinking on the eve of his death. He
+was described as extremely corpulent, a characteristic supposed to be
+verified by his own previously adduced phrase of the "obese doctor." He
+was rather stoutish, as the portraits of his corpse reveal; but this was
+only after he had reached middle age. Such exaggerations as that
+contained in the celebrated verse of Gothe’s "Faust" are to be rejected.
+
+His inveterate opposition to the pope, which he reaffirmed shortly
+before his death at Eisleben, was embellished by a very questionable
+flourish of his friend Ratzeberger, who was not even in Eisleben at the
+time. He informs us that Luther, ag he partook of his last meal, wrote
+the following celebrated verse on the wall with a piece of chalk:
+"#emph[Pestis eram vivus, moriens ero mors tua, papa];" (In life, O
+Pope, I was thy plague, in dying I shall be thy death). The silence of
+other sources, particularly that of the panegyrics, where Luther’s
+previous use of this verse is mentioned, renders Ratzeberger’s account
+rather incredible.#footnote[Grisar, #emph[op. cit.];, Vol. V, p. 1025
+Vol. VI, pp. 377–394.] The so-called death-mask of Luther, preserved at
+Halle, is also the product of an erroneous Protestant tradition.
+According to the investigations of Frederick Loofs, professor of
+theology at Halle, it originated in the eighteenth
+century.#footnote[Loofs in #emph[Religiose Kunst] (1918), No. 1, pp,
+2–15.] There was a natural desire to have authentic memorials of the
+famous man. Likewise most of the objects exhibited at the present time
+as having supposedly been left behind by the deceased, are
+insufficiently attested.
+
+Catholic controversialists distorted his obsequies.#footnote[Grisar,
+#emph[op. cit.];, Vol. VI, pp. 394 sqq.] They alleged that when the
+funeral procession arrived at Wittenberg, the coffin was found empty.
+According to others, the hearse had to be abandoned on the road to
+Wittenberg because of the horrible stench emanating from the corpse. A
+number of rooks circling in the air about the corpse at Halle were later
+made out to have been devils, "who came to attend the burial of their
+prophet." Persons who were possessed by the devil remained unmolested at
+that time, since all the devils were taking part in the funeral, and so
+forth. These tales merely prove how greatly the Catholics had been
+horrified at Luther’s conduct.
+
+Having waded through the legends occasioned by the death of Luther, we
+must now attend to his obsequies. The body was enclosed in a tin coffin
+at Eisleben. After Jonas and Coelius had delivered memorial addresses
+there, the remains were conveyed to Halle, on February 20, thence to
+Wittenberg, on the morning of February 22. At the Elster Gate–the scene
+of the famous burning of the Bull of Excommunication –the coffin was
+received by the university, the towncouncil, and the burghers, and
+escorted to the Schlosskirche, where, by order of the Elector, Luther’s
+mortal remains were to find their last resting-place. On Feb. 22, they
+were interred in front of the pulpit, where they still rest at the
+present day.#footnote[An investigation made February 14, 1892, revealed
+the presence of Luther’s remains in the Schlosskirche at Wittenberg.
+Hence, they were not removed, as was charged, after the entry of the
+victorious imperial troops in the Schmalkaldic War.] It is worthy of
+note that the day of Luther’s interment was the Feast of the Chair of
+St. Peter, or, as formerly known in the Catholic Church, the Feast of
+the Institution of the Papal Primacy.
+
+When the procession that escorted the corpse arrived at the
+castlechurch, Bugenhagen delivered a funeral oration. This was followed
+by a eulogy pronounced by Melanchthon. All the addresses delivered on
+this occasion, including those of Jonas and Coelius, previously referred
+to, have been preserved in print.#footnote[Cf. Grisar, #emph[Luther];,
+Vol. VI, pp. 387 sqq., where excerpts are given.] In the mind of
+Bugenhagen, Luther was "without doubt the angel of which the Apocalypse
+speaks in Chapter 14: 'And I saw an angel flying through the midst of
+heaven, who had an eternal gospel to preach!' " God the Father,
+according to Bugenhagen, "revealed" the #emph[evangelium aeternum];, the
+great mystery, through Luther, "the divinely appointed reformer of the
+Church." Melanchthon, in his funeral oration, similarly extolled the
+deceased as one of a long line of divine tools starting in Old Testament
+times, as a man taught by God and exercised in severe spiritual combats
+of a friendly nature, not at all passionate or quarrelsome, and only
+inclined to be violent when such medicine was required by the ailments
+of the age. He said Luther was endowed with all the gifts of God
+enumerated by the Apostle Paul in his Epistle to the Philippians (4:8),
+where he says: "Whatsoever things are true, whatsoever modest,
+whatsoever just, whatsoever lovely, whatsoever of good fame." Now, he
+concluded, he has gone to join the company of the prophets in Heaven.
+
+No more impressive contrast to these eulogies can be conceived than the
+hymns of praise chanted by the Church on this very day in honor of
+Blessed Peter, and of his successor in the Apostolic See: "#emph[Tu es
+Petrus];"–thou art Peter, the holder of the see, against whom the gates
+of hell shall not prevail.
+
+In a bulletin in which he announced the death of Luther to the students
+of Wittenberg University, Melanchthon said: "Alas, the chariot of Israel
+and the driver thereof have departed (4 Kings 2:12), who has ruled the
+Church in this old age of the world. Human wisdom has not discovered the
+doctrine of the remission of sins and fiduciary trust in the Son of God,
+but God has revealed it through this man."
+
+In Coelius’ address at Eisleben, Luther was represented as appearing a
+"true Elias and Jeremias," a "John the Baptist or an apostle before the
+great day of the Lord." Jonas in his sermon prophesied that now all
+papists and monks would "turn to dust and perish," as Luther himself had
+frequently predicted as a consequence of his death; thus the death of
+the prophet would exercise a peculiar influence on the godless and
+impenitent; yea, within two years the deluded papists would be overtaken
+by a "dreadful punishment."
+
+In harmony with these effusions medals were struck bearing Luther’s
+celebrated verse, "#emph[Moriens ero mors tua, papa];." Epitaphs
+appeared both in verse and in prose, particularly at Wittenberg, replete
+with the most exaggerated praise. A noteworthy leaflet of this
+character, appearing anonymously, was probably the product of Paul
+Eber.#footnote[O. Clemen, #emph[Gedichte auf Luthers Tod];, in the
+#emph[Jahrbuch der Luthergesellschaft] (1919), pp. 59 sqq.; the same,
+#emph[Flugschrifien aus den ersten Jahren der Reformation];, Leipsic,
+1907; cfr. #emph[Zeitschrift für katholische Theologie] (1922), pp. 137
+sqq.]
+
+The shop of Cranach flooded Protestant Germany with portraits of Luther,
+which were of questionable worth. The defiant, coarse-grained nature of
+the man is strongly emphasized in these representations, which, though
+they by no means completely corresponded with each other, form the basis
+of the typical portrait of Luther which came into use later on. A cloud
+of spoken and written encomiums, uttered in the style of funeral
+sermons, overcast the memory of Luther, fascinated the impressionable
+masses and prevented thousands from obtaining a true insight into the
+facts of the case and the real character of the man.

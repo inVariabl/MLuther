@@ -1,0 +1,576 @@
+== In the Midst of Ruins
+<in-the-midst-of-ruins>
+Many contemporary writings contain doleful lamentations, not only on the
+part of Protestants, but also on that of Catholics, concerning the decay
+of the internal life of the Church brought about by the Protestant
+Reformation. Thus when, in 1549, John Cochlaeus printed the preface to
+his great work, "On the Work and Writings of Luther," he deplored the
+wounds of the Church in melancholy terms.#footnote[#emph[Commentaria de
+Actis];, etc., part I, Cfr. Grisar, #emph[Luther];, Vol. IV, pp. 365
+sq.] He was grieved, above all, by the unhappy lot of the souls that had
+been severed from the Church, the fountain of salvation. "The bond of
+charity and concord which unites Christian people," he says, "has been
+loosened, discipline undermined, reverence for God destroyed, wholesome
+fear extinguished, and obedience cast aside. In lieu of these prevail
+sinfulness and a freedom that is alien to God." This courageous defender
+of the Church died at Breslau in the year 1552.
+
+John Wild, who died two years later, was a distinguished cathedral
+preacher of Mayence and a Franciscan Observantine. He paints an
+impressive picture of the moral decadence which had set in and proved so
+detrimental to Catholic religious life.#footnote[Cf. N. Paulus,
+#emph[Johann Wild (Dritte Vercinsschrift der Görresgesellschaft];,
+1893), p. 15; Grisar, #emph[Luther];, Vol. IV, pp. 366 sq.] "Alas," he
+exclaims, "all fear of God is driven out of the hearts of men by dint of
+sermons lacking all sense of modesty and urging faith alone …The other,
+namely, good works, has been trodden in the mire. The result is that we
+are now for the most part Christians merely in name, but so far as works
+are concerned, more depraved and wicked than even Jews or Turks. The
+cause of the very grievous sufferings of the Church," he says, is "that
+her children have been and are so lamentably led astray that they refuse
+any longer to acknowledge their own mother." With depressed feelings
+Wild views his German fatherland torn by factions and become a byword to
+its neighbors. "Everybody wants a bit of us." People say: "Ha, these are
+the haughty Germans who …have a finger in every war; now they are going
+to set to on each other."
+
+Duke William of Bavaria, another opponent of the Reformation, presented
+the diet of Ratisbon (1541) with a memorial in which he bitterly
+complained of the "great injury and corruption" into which his
+fellow-Catholics were being led by the Protestantizers. "Contrary to the
+commandment of God, in defiance of law and Christian usages …churches
+and monasteries are seized by force …religious foundations and property
+are torn from them mercilessly."
+
+And yet "the Catholics have no dearer wish than order and
+justice."#footnote[For these and the following two passages see Grisar,
+#emph[op. cit.];, Vol. IV, pp. 367 sq.]
+
+Once more the religious and judicial grievances of the Catholics were
+prominently brought forward at the diet of Worms (1545). It was
+maintained that the opponents of the faith were suppressing everything;
+yet they complained about being suppressed themselves. "What the
+Protestants call proclaiming the Word of God, is for the most part, as
+they themselves complain, mere slander and abuse of the pope." "Nothing
+constant any more," says the Cologne Doctor Carl von der Plassen,
+"discipline, loyalty, and respectability have vanished." He is pained to
+observe the evil reaction of the religious innovation on the lives of
+Catholics. "What misery results from want of clergy and schools even in
+the lands which have remained Catholic!"
+
+Besides the alarming increase in the number of violations of sacerdotal
+celibacy, already mentioned above, the decrease in the reception of the
+sacraments and attendance at divine worship in the Catholic parts of
+Germany was especially lamentable. Thus Peter Canisius complains in his
+letters about Ingolstadt that communions in that Catholic city had
+practically ceased. He writes in 1550 that, although two bells are rung
+to summon the people to Mass, which is said in a church located in the
+center of the city, "still, we cannot induce two persons to attend Mass,
+even if we would pay them for coming." The law of fasting had become
+practically obsolete in the academy known as the
+Georgianum.#footnote[Braunsberger, #emph[Canisius];, 2nd and 3rd ed.,
+1921, pp. 44–47.] In Austria the state of Catholicism was scarcely less
+disheartening. Esteem for the clergy had profoundly declined. Almost in
+no wise did the shepherds measure up to the tasks of their vocation.
+Monastic discipline had deserted most of the cloisters. Ignorance and
+barbarity prevailed among the masses. The University of Vienna had
+deteriorated very appreciably. In the course of twenty years this
+institution, which had formerly yielded such abundant fruits for the
+Church, scarcely produced one student a year for the
+priesthood.#footnote[#emph[Ibid.];, pp. 51 sq.]
+
+Luther always tried hard to propagate his doctrines in Austria. Among
+others, he endeavored to attract the Moravian Brethren to his cause.
+Notwithstanding important variations of doctrine, he treated the senior
+of the Brethren, who came to Wittenberg in 1540 and again in 1542, with
+great distinction. He exhorted the Brethren in writing to persevere with
+him to the end in unity of doctrine and spirit, since he expected soon
+to depart this life.#footnote[Köstlin-Kawerau, #emph[Martin Luther];,
+Vol. II, p. 579.] Wittenberg did not adopt any part of the
+ecclesiastical discipline which the Moravian Brethren maintained. Nor
+was there ever any spiritual connection between them. Later on, in 1772,
+the congregation of Moravian Brethren (Herrnhuter) in Saxony resulted
+from a rapprochement between Lutheranism and the Brethren.
+
+In Transylvania, also, efforts were made, towards the end of Luther’s
+life, to effect a closer union with Wittenberg and an increased
+separation from Rome. In 1542, the preacher William Farel dispatched a
+letter from Metz requesting a union of the followers of the new religion
+with the Schmalkaldic League. About this time overtures were begun in
+Vienna for the sake of obtaining Luther’s advice and direction. They
+were, however, devoid of notable results. Italy was preserved from
+religious subversion by the watchfulness of the Inquisition. For the
+rest, the weakness of the new religion was too little known abroad.
+
+The extent to which authority, spiritual as well as temporal, was shaken
+in consequence of Luther’s rebellion against the ancient faith, became
+clearly manifest in Germany. Preachers who were highly esteemed by
+Luther were treated with contempt and derision by their own followers.
+Wenceslaus Link, once the honored successor of Staupitz as vicar of the
+Augustinians, was derisively hailed in Nuremberg as "Pfaff" by the
+magistrates whilst carrying on his Protestant activities in that town.
+Luther consoled him by writing: "The civil authorities have ever been,
+and always will be, enemies of the Church." "Our respected domestic
+opponents," he continues, “are dangerous to us, according to the
+prophecy: ‘After the revelation of Antichrist, there will come men who
+say, there is no God!”#footnote[Grisar, #emph[Luther];, Vol. V, p. 325.]
+"Each will desire to be his own rabbi," he says on another occasion,
+"whence the greatest devastation will
+ensue."#footnote[#emph[Tischreden];, Weimar ed., Vol. III, n. 3900.]
+
+Under Link as vicar-general, the Augustinian congregation began to
+decline. The three succeeding vicars witnessed its complete ruin. The
+Saxon province of the Order also fell a victim to the religious
+innovation. Its own members promoted subversion and
+confusion.#footnote[Cfr. Kolde, #emph[Die deutsche
+Augustinerkongregation];, Gotha, 1879, last chapter.] Melanchthon, and
+still more Bucer, continued to cherish the fervent hope that, during the
+prevalence of this state of confusion, "our princes and estates will
+bring about a council or some kind of harmony in doctrine and worship,
+lest everybody proceed on his own responsibility" (Melanchthon). That a
+council would only be productive of greater disunion, Luther perceived
+more clearly than the others. The reason was because there was no
+sanction, and this was the permanent cause of the ruination.
+
+"In God’s kingdom, in which He rules through the Gospel," Luther taught
+as a fundamental truth of his theology, "there is no going to law, nor
+have we anything to do with law, but everything is summed up in
+forgiveness, remission and bestowing, and there is no anger or
+punishment, nothing but benevolence and service of our
+neighbor."#footnote[Grisar, #emph[op. cit.];, Vol. V, p. 565.] As a
+consequence, doctrines and ethical precepts were invalidated, as there
+was no authority to enforce them. Luther’s system is altogether devoid
+of an authoritative foundation, such as the Catholic Church possesses in
+her constitution; everything is "opinion and advice," as he himself
+avers.#footnote[#emph[Ibid.];, p. 566.] He is neither able nor does he
+desire to lay down precepts. Since, however, he cannot afford to do
+without some force that binds men, he appeals to civil authority, to the
+State, which must be Lutheran, and to which he even ascribes the right
+of deciding doctrinal controversies, provided only that the decision is
+"in conformity with Scripture." In this manner–as the Protestant
+theologian, Christopher Ernest Luthardt, is compelled to acknowledge in
+his #emph[Ethik Luthers];–Luther arrived at propositions which are "at
+variance with his fundamental views," and at suppositions concerning the
+secular authority "which he decisively denies where he lays down
+principles."#footnote[#emph[Ibid.];, p. 567.]
+
+Nor did Luther have an authoritative argument by which he might have
+convinced those of his opponents who denounced the Blessed Trinity, as
+happened first in Protestant Nuremberg, if the civil government did not
+proceed against them. He and Melanchthon refused to reply to Campanus,
+who denied the Trinity, lest they advertise his opinions.
+
+Antinomianism, for which Luther had persecuted Agricola, continued its
+course beneath the ruins, being promoted by the eloquent and active
+Jacob Schenck, who was for a time court-preacher at Weimar. In a sermon
+which he delivered at Eisenach in 1540, Luther discovered a confirmation
+of his suspicion that Schenk’s "opposition to the law" furnished the
+common people with an occasion of moral laxity. Schenk was called to the
+electoral court of Joachim of Brandenburg, as assistant to the
+antinomian Agricola, and it is claimed that he starved himself to death
+in a spell of melancholia.#footnote[Köstlin-Kawerau, #emph[Martin
+Luther];, Vol. II, p. 467.] When Agricola again visited Wittenberg, in
+company with his wife and daughter, in 1545, the old differences
+manifested themselves anew; despite the fact that he brought with him a
+letter of recommendation from his elector. Luther refused to see the
+"arrogant and impious fellow," as he had branded him on a former
+occasion, though he received his wife and daughter. After Luther’s
+death, Agricola, bowing to the situation that existed at the Brandenburg
+court, posed as a defender of genuine Lutheranism against the
+"Philippists," #emph[i.e.];, the adherents of Melanchthon. The solemn
+religious services which he conducted in honor of the Reformation in the
+court-chapel at Berlin, in 1563, were a sort of triumphal assertion of
+what pretended to be orthodox Lutheranism. "Thus the man whom Luther had
+proscribed, contributed to the triumph of rigorous
+Lutheranism."#footnote[Kawerau in the #emph[Realenzyklopädie für
+Theologie];, etc., Vol. 1, 3rd ed., p. 253.] Agricola died during an
+epidemic in 1566.
+
+Another characteristic feature of the spreading theological ruin was
+Agricola’s impassioned opposition to Melanchthon’s revision of the
+Augsburg Confession, the so-called #emph[Confessio Variata] of 1540.
+Melanchthon, as is well known, underwent a process of theological
+development which took him farther and farther away from Luther. He
+interpreted essential portions of the Augsburg Confession, which he
+himself had composed in 1530, so that Agricola spoke of the "Variata" as
+a "falsified" Confession and availed himself of Melanchthon’s arbitrary
+changes as an argument in his indictment of "Philippism." Melanchthon,
+on his part, stated at the religious conference of Augsburg that the
+only changes he had made were certain modifications of language with a
+view to greater clearness of doctrine.#footnote[Grisar, #emph[Luther];,
+#emph[l.c.];] The doctrines of justification, good works, and penance,
+however, had actually been altered in accordance with the ideas which
+Melanchthon had proposed in 1535 in his #emph[Loci Theologici];, and
+which approximated the Catholic teaching. The propositions on the Last
+Supper reveal concessions to the Swiss reformers, who denied the real
+presence of Christ in the Eucharist. "That there was question of actual
+changes, ought never to have been denied," writes Theodore Kolde, a
+Protestant authority on Luther.#footnote[#emph[Symbolische Bücher];, ed.
+by H. T. Müller, 10th ed., Introduction, p. XXV.] Luther himself never
+publicly rejected the "Confessio Variata." He did not wish to provoke an
+open breach with his learned and indispensable ally. But after his death
+Melanchthon experienced the ill-will of the theologians of the New
+Gospel. How bitterly he felt it may be gathered from the fact that,
+shortly before his demise (April 19, 1560), he wrote with his own hand
+that among the reasons why he did not fear death so much was this: "You
+will be delivered from all trouble and the fury of the
+theologians."#footnote[Cfr. Grisar, #emph[op. cit.];, Vol. V, p. 263.]
+
+A compliant attitude towards dogma, similar to that of Luther towards
+Melanchthon’s "Confessio Variata," is discovered in the position taken
+by both these men toward the Articles of Agreement elaborated by the
+English Protestants in 1536, proposing a union between Anglicanism and
+Lutheranism. At that time it was a question of winning over an important
+country.#footnote[G. Mentz; cfr. Grisar, #emph[op. cit.];, Vol. V, p.
+260.] After the attempt had failed, the German reformers were rewarded
+by hostility on the part of the new Anglican Church toward Lutheranism.
+Luther himself declared that he was glad to be rid of the "blasphemer"
+(Henry VIII).#footnote[Köstlin-Kawerau, #emph[Martin Luther];, Vol. II,
+p. 400.] He was very much depressed, however, when the King (in 1540)
+executed Luther’s friend Barnes, who had played the role of mediator for
+years between Wittenberg and Henry VIII. Barnes was put to death as a
+heretic because he promulgated Luther’s doctrine of justification.
+
+A strong rival of Luther’s ecclesiastical polity appeared during the
+declining years of his life in Calvinism, which deviated widely from the
+Wittenberg school. John Calvin, who had established his
+politico-religious rule at Geneva, in 1541, began by opposing Luther’s
+assertion of the real presence of Christ in the Eucharist. The Genevan
+innovator flatly denied this doctrine and described the intentionally
+vague formulas of Melanchthon and Bucer as "mere vaporing," intended to
+deceive their opponents. Also with regard to predestination, Calvin
+discarded the hypocrisies of the Lutheran position by asserting that it
+is not free will which governs men’s efforts to save their souls, but
+the irresistible providence of God in a deterministic sense. Calvin was
+a most pronounced and consistent champion of unconditional
+predestination. From the practical standpoint, it was important that he
+rejected Luther’s fundamental principle of the separation of the
+spiritual and temporal kingdoms and in its place set up a theocracy at
+Geneva, where his theology permeated every fibre of public life and he
+himself governed with a reckless absolutism. Subsequently, this type of
+political religion was adopted to a greater or less degree by the
+Calvinistic churches in other countries. Notwithstanding the differences
+between their respective doctrines, however, Luther and Calvin mutually
+eulogized each other. Calvin was treated with consideration by Luther
+and, in his turn, acknowledged the influence which Luther had exercised
+upon him. Had Luther lived longer, the two reformers would no doubt have
+become embroiled in violent altercations.#footnote[On the relations
+between Calvin and Luther see Grisar, #emph[Luther];, Vol. V, pp. 399
+sqq.]
+
+In view of Zwinglianism and Calvinism, Protestants often speak of a
+complete and free evolution of Protestantism. It would be more proper to
+speak of a multiplication of ruins, which the spirit of innovation
+wrought within the domain of dogma.
+
+Continuing the discussion of German Lutheranism—when we turn from the
+sphere of dogma to that of practical affairs, we discover that the
+greatest damage during Luther’s declining years was done to
+ecclesiastical property. Luther was fully aware of the fact that the
+confiscation of the temporal possessions of the Church would constitute
+a powerful stimulus for the civil governments to open their territories
+to the new ecclesiastical régime. With sentiments of self-satisfaction
+he refers his elector to the "considerable wealth, which increases
+daily."#footnote[#emph[Ibid.];, Vol. III, p. 35.] Whatever the
+territorial ruler did not appropriate, was confiscated by the
+magistrates of the different municipalities. These seized pre-eminently
+the minor benefices which, as a rule, depended either upon them or upon
+prominent families. The emoluments, so Luther and the rulers frequently
+asserted, were intended for the maintenance of schools, preachers, and
+parishes. Still, there are numerous complaints made by Luther and his
+followers that such was not the case, or that the "harpies" among the
+nobility interfered, in order to enrich themselves. Who, in surveying
+that age, can calculate the immense sums derived from the confiscation
+of bishoprics, clerical benefices, and monasteries, which were forever
+alienated from the spiritual or educational purposes for which they had
+been given, including the foundations of Christian charity which
+dispensed help with a lavish hand? Even if the former use of these
+properties was not always in conformity with the pious intentions of
+their founders; even if the revenues from these ancient endowments were
+allowed to accumulate excessively, when contrasted with the possessions
+of the bourgeoisie, a fact which gave rise to many complaints and
+altercations—yet the spoliation, perpetrated by ineffable acts of
+violence, was assuredly not the proper solution of the existing problem.
+It merely caused ruin and destruction.#footnote[On the fate of the
+Church property, cfr. Grisar, #emph[Luther, passim] (see index).]
+
+As these ruins accumulated, the theologians of Wittenberg gave up the
+idea of regulative intervention. When, in 1544, the magistrate of a
+certain city requested Luther to advise him, according to Sacred
+Scripture, on the question of the confiscation of ecclesiastical
+property, he replied: "This matter does not concern us theologians. Such
+things must be decided by the lawyers." It was a formal evasion of
+questions which the theologians themselves had raised.#footnote[Grisar,
+#emph[op. cit.];, Vol. V, pp. 206 sq.] They saw with their own eyes and
+acknowledged the curse which always follows the spoliation of the
+Church. Thus Paul Eber, Luther’s Wittenberg friend, speaks of the penury
+which was visited upon the devotees of the Lutheran Church in
+consequence of the spoliation, and predicts that the future will reveal
+even more clearly how the confiscated Church property will react upon
+its beneficiaries, who "so greatly warmed and fattened themselves by
+means of these spiritual possessions."#footnote[#emph[Ibid.];, Vol. IV,
+pp. 59 sqq.]
+
+A particularly sad chapter in the history of the dissipation of the
+property of the Church is furnished by the destruction of numerous works
+of ecclesiastical art that adorned the churches. In Lutheran Germany
+this destruction was not as great as in the Zwinglian parts of
+Switzerland and of southern and western Germany, where a veritable mania
+developed against images, altars, and other objects of sacred art. Thus
+the city of Nuremberg, for instance, owed the preservation of many
+precious art treasures to the indulgent attitude of the populace and its
+civic spirit. Still, Lutheran communities also became the scene of much
+destruction. There is extant a catalogue of Blasius Kneusel, which lists
+the objects of ecclesiastical art destroyed at Meissen. He enumerates
+fifty-one objects of great value which had been robbed by
+spoliators—amongst them a golden cross "of the weight of 1,300 gulden,
+heavy with precious stones," a diamond cross worth 16,000 gulden,
+several golden crosses adorned with precious stones and pearls, a gold
+plate appraised at a thousand gulden, a large bust of St. Benno, made of
+precious metals, weighing more than 36 pounds, which had been purchased
+with the charitable gifts of the members of the parish of Meissen. From
+time to time, even now, treasures of religious art are discovered in
+hiding places which were purloined at that time. In its avarice, this
+barbaric age did not hesitate to consign to the melting-pot the most
+precious monstrances, chalices, and patens, excusing itself on the
+strength of the commonplace Lutheran charge of "idolatry." Luther’s
+hostility to pictorial representations became fatal to art, even though
+he moderated his expressions on this subject as time went on. His
+unchanging attitude was that the religious images would gradually
+disappear if his doctrine prevailed. The creation of a religious image
+or statue was no longer counted as a good work.#footnote[On Meissen,
+#emph[op. cit.];, Vol. V, pp. 203, 169; on destructive activities in
+Erfurt, #emph[ibid.];, pp. 213 sqq.; on Luther’s attitude toward the
+veneration of images in general, cfr. #emph[ibid.];, pp. 207 sqq.]
+
+The decline of artistic development in Germany, which had justified the
+highest expectations at the close of the Middle Ages, was brought on by
+Luther’s work.
+
+Moreover, a perceptible retrogression in the care of the poor resulted
+from the destruction of ecclesiastical revenues. The practice of
+Christian charity sustained a severe blow. The assertion that good works
+were of no value was bound to weaken the spirit of charity, so
+splendidly manifested towards the close of the Middle Ages by the
+foundation of hospitals and other charitable institutions under
+ecclesiastical auspices. Luther intended to substitute for them the
+so-called community poor-boxes and a more intensive care of the poor on
+the part of the civil authorities. But these boxes were successfully
+operated only in a few places. Luther’s failure at Leisnig and elsewhere
+produced a deterrent effect. Luther, moreover, wished to see begging
+completely prohibited. His movement was directed against the mendicant
+Orders of the Catholic Church, but it produced no far-reaching social
+results.#footnote[#emph[Op. cit.];, Vol. VI, pp. 50 sqq.]
+
+Complaints that the moral sense, which in the last analysis must sustain
+all charitable endeavors, was becoming extinguished, were multiplied by
+Luther and his partisans. Under the papacy, he says, people had been
+eager to make sacrifices for the poor, but now they had grown
+cold.#footnote[#emph[Ibid.];, pp. 54 sq.] In his opinion the society of
+true Christians, planned by him, was bound to cultivate the spirit of
+sacrifice in the era of the new Gospel; but, he says, "would that we had
+nations and individuals who sincerely desired to be Christians!" In one
+of his sermons he exclaims: "Woe unto you peasants, burghers, and
+members of the nobility, who appropriate all things unto yourselves, who
+scrape and hoard, and yet desire to be good evangelicals!" It was a
+proof that he was "unsophisticated," as a modern sociologist mildly puts
+it, that Luther ascribed to the "faith" which he preached the sole power
+of overcoming the obstacles to charity by means of the community
+poor-box.#footnote[Feuchtwanger, quoted #emph[ibid.];, pp. 56 sq.]
+
+Adolph Harnack concedes that, "where Lutheranism was in the ascendant,
+social care of the poor was soon reduced to a worse plight than ever
+before."#footnote[#emph[Reden und Aufsitze];, Vol. II (1904), p. 52.]
+The lack of resourcefulness of the Protestant system of poor-relief
+continued for a long time.
+
+Protestant authors, by way of contrast, have referred to the excellent
+systems of poor-relief that flourished in the cities of South Germany at
+the time of the religious schism. But these institutions were a heritage
+of the fifteenth century, that is, of the Catholic Middle Ages. They
+owed as little to Lutheranism as the excellent institutions and
+arrangements for the poor which existed in the Catholic Netherlands,
+such as, for instance, at Ypres, in 1525. It was Catholic idealism,
+humanism, and the rising civic spirit of the municipalities as they
+attained to independence, which created those praiseworthy institutions.
+Protestantism, on the other hand, even after Bugenhagen had improved the
+parish treasuries in virtue of his superior genius for organization, as
+a rule attained only to inadequate governmental regulations of the
+system of poor-relief with a tinge of religious influence. These
+"poor-chests" were occasionally described by envious parties as
+"clerical and usury funds," which does not, however, prove that in
+certain localities, such as Hesse and Strasburg, they did not really
+benefit the poor, especially when administered by men of truly Christian
+charity.
+
+William Liese, the most recent Catholic writer on the history of
+charity, correctly observes that "in practice the olden Catholic ideals
+and motives continued to operate," but "it can scarcely be affirmed"
+that there was a Protestant impetus in the interest of poor-relief, or a
+growth of charity in early Protestantism, whilst, on the other hand,
+"new principles are wont to make their influence felt most clearly in
+the beginning," and in the history of Christianity it was "precisely the
+primitive age" that "produced the noblest fruits of
+charity."#footnote[#emph[Geschichte der Caritas];, Vol. T (1922), pp.
+255 sq. Liese reports the findings of Feuchtwanger, Püschel, Otto
+Winckelmann (1922), and others, and concludes: "If we review the recent
+vivid discussion of the subject, we find substantial agreement on the
+following points: (1) The Reformation has not promoted, but rather
+injured charity; (2) it has given a powerful impetus to governmental
+poor-relief, as is revealed by the multitude of municipal ordinances
+passed from 1520 to 1530."]
+
+Relative to the schools, also, the aging Luther failed to see about him
+that revival for which he had appealed in various writings; on the
+contrary, here, too, he observed increasing dissolution and decline.
+"Now that it is a question of founding true schools," he laments, "every
+purse is closed with iron chains, and no one is able to give." This
+deplorable state of affairs made him beg of God a happy death, so that
+he might not live to witness Germany’s punishment.#footnote[Grisar,
+#emph[Luther];, Vol. VI, p. 53. On the decline of schools, #emph[ibid.];,
+pp. 22 sqq., and Janssen-Pastor, Vol. VII, 14th ed. (1904), pp. 5 sqq.,
+81 sqq.] Even more frequent and persistent are the complaints of
+Melanchthon, who was a professional educator, on the failure of his
+endeavors in this sphere. In consequence of the decadence of Christian
+schools, he once wrote, we shall yet become pagans.#footnote[Grisar,
+#emph[ibid.];] In Catholic districts a similar deplorable retrogression
+of the school system ensued in consequence of the religious
+controversies. At first, indeed, Protestantism was able to retrieve
+itself in virtue of the support given it by those princes who were
+intent upon procuring recruits for their bureaucratic system and favored
+the general education of the people.#footnote[Grisar, #emph[ibid.];]
+That Luther is the founder of the "#emph[Volksschule];" is as unfounded
+a claim as that he is to be regarded as the author of poor-relief and a
+promoter of charity on a grand scale. These claims are but the extreme
+expressions of a Luther cult which has no basis in history. His claims
+as a champion of culture are equally baseless. Beginning with the
+Peasants’ War he spoke and wrote rabidly against the peasants and the
+mob and continued to do this to the end of his life. He had adopted the
+maxim: "It does not do to pipe too much to the mob, or it will too
+readily lose its head."#footnote[#emph[Op. cit.];, Vol. V, p. 577, n.
+1.] In his speeches he frequently works himself into a veritable rage
+against the mob, calling it "Master Omnes," the "many-headed monster,"
+etc. As a Protestant author, Feuchtwanger, says, Luther is not far
+removed from the politico-social ideas of Machiavelli, who counsels
+rulers to keep a tight rein on the masses.#footnote[#emph[Op. cit.];,
+Vol. VI, p. 57.]
+
+Gradually he began to claim absolute authority. "If compulsion and the
+law of the strong arm still ruled," he says, "as in the past, so that if
+a man dared to grumble, he got a box on the ear–things would fare
+better; otherwise it is all of no use."#footnote[#emph[Op. cit.];, Vol.
+VI, p. 74.] "Christ does not wish to abolish serfdom," he says in
+another passage on the oppressed condition of the peasants, whose lot
+was constantly growing worse. "What cares He how the lords or princes
+rule \[in temporal matters\]?" In his sermons on the first book of
+Moses, he actually represents serfdom as a relatively desirable state.
+"If society is to endure, …it will be necessary to re-establish
+it."#footnote[#emph[Ibid.];] Possibly these declarations were but the
+outbursts of a transient mood; yet they betray sufficiently the
+sentiments which he harbored toward the lower classes.
+
+One truly interested in the advancement of civilization should be intent
+upon the preservation of ancient popular usages, especially those whose
+cultural worth resides in the maintenance of the spiritual and
+particularly the religious life. In many respects Luther proved himself
+an enemy of the popular customs of the Middle Ages, because he suspected
+hidden idolatry in those quite indifferent customs of which the people
+had become fond and which were rooted in primitive ages. He passionately
+declaimed not only against the abuses which were connected with them;
+but, although he was himself descended from the common people, he
+blindly combated popular usages which were characteristic and
+educational.
+
+A proof of this, among others, is contained in the memorandum which he
+presented to the Elector of Saxony during the diet of Augsburg, in 1530.
+This memorandum was connected with his object of promoting a scheme
+which he had devised for the purification of the
+Church.#footnote[#emph[Briefwechsel];, Vol, VII, pp. 256 sqq. (March,
+1530.)] The lengthy list of "abuses" was intended, according to his own
+words, to make known "the great, nay, atrocious injuries which were
+inflicted upon souls and consciences." It impresses one as strange that
+he includes the custom of St. John’s fire, which has remained popular
+even to the present day. The people build a bonfire in midsummer, on
+June 24. It was taken over from paganism, but divested of its heathen
+accompaniments. Similarly he condemns the use of St. John’s wine, which
+was taken on December 27, the feast of the Apostle John. He does not
+spare either the innocent celebration of St. Martin’s eve, with its old
+custom of children bearing lights, or the ancient German funeral
+banquets, which were primarily arranged for the benefit of mourners who
+had come from afar.
+
+Luther condemned the very popular semi-dramatic plays, inherited from
+the devout and childlike Middle Ages. They were presented on the high
+feast-days of the Church with a view to elevate the minds of the
+faithful, and required only a little refurbishing here and there to be
+entirely acceptable. Such were the cherished Christmas plays enacted at
+the manger of the Christ Child; the Palm Sunday procession with the
+figure of Christ riding on an ass; the solemn processional veneration of
+the Holy Cross during the last days of Holy Week; the customary touching
+celebration of the Resurrection, symbolized by the elevation of the
+Cross above the tomb; the dramatic representation of the Ascension by
+means of a statue rising on high; and the coming of the Holy Ghost by
+means of an ornamented dove. These were all extremely ancient popular
+usages, which had taken deep root and imparted ardor to the religious
+life of the people. It goes without saying that a general war of
+extermination was declared on all specifically Catholic customs.
+
+How profoundly the religious life of the people was affected by these
+changes may be seen from the fact that the above-mentioned memorial
+proposed to abolish all confraternities with their religious
+demonstrations, which were so frequently inspiring, all pilgrimages and
+processions, the customary blessing of the fields by devout processions
+with the Cross, and the elevating public solemnities in commemoration of
+the departed on All Souls’. Furthermore the use of bells, candles,
+candlesticks, banners and the vestments worn at divine service.
+
+It was also proposed to discontinue the custom of carrying biers into
+church. The offering of the pence during divine services was to be
+proscribed. The veiling of images during the season of Lent, as well as
+the hanging up of the so-called black cloth that covered the altar
+during Lent, were to be discontinued. All these practices were dear to
+the people. Fasting, the recitation of the Divine Office, the solemn
+rites of consecration, the ceremony of the washing of the feet on Maundy
+Thursday, the use of Holy Water, and the celebration of the Roman
+Jubilee were to be inhibited. Further study of Luther’s writings shows
+that an endless number of other deep-seated religious customs, which
+reflected the active participation of the people in the life of the
+Church, were condemned to extinction.
+
+Divine worship and the religious life of the people necessarily
+languished after the forcible abolition of these popular customs. The
+radical innovations of Lutheranism, so foreign to human feeling,
+produced ruins where formerly the seeds of civilization had been strewn
+in abundance, even though they were frequently in need of better care in
+order to blossom forth vigorously. The aging Luther did not sense this
+very noticeable decline of cultural life, but imagined that he had
+taught the people to worship God in the spirit, whilst even among his
+own followers complaints were rife that he failed to do adequate justice
+to human nature, which, in the final analysis, is a composite of body
+and soul.
+
+On the other hand, he admitted the existence of other and, in some
+respects, even greater ruins. They are touched upon here only in
+passing, since most of them have been treated of in a previous part of
+this work.
+
+He saw domestic life undermined as a consequence of his arbitrary
+loosening of the conjugal tie. His parsons importuned him on this point
+with endless letters. Poignantly and frequently he sensed the decline of
+the liberty of the Church resulting from the intervention of civil
+authority. The position of his jurists, who partly endeavored to observe
+the old canon law and partly favored the religious innovations, became
+impossible. Ecclesiastical regulations and consistories but too
+frequently proved inadequate aids, until they assumed the character of
+administrative governmental measures. Luther witnessed a certain decline
+in the power of the Schmalkaldic League after the Landgrave of Hesse had
+drawn closer to the Emperor. He heard the coming uproar of the religious
+war and trembled for its issue, knowing scarcely any consolation but the
+day of judgment. The empire itself, its unity and power, and especially
+the authority of the Emperor, were weakened to their very foundation.
+That his work was one of the causes of the unhappy condition of the
+empire was a thought which he had to bear to his grave.
+
+The ruins which Luther saw round about him, did not, however, prevent
+him from asserting his claims. He did not live to see the decisive
+defeat of the Schmalkaldians at Mühlberg.

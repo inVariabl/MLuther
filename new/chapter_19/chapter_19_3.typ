@@ -1,0 +1,141 @@
+== Attacks Upon the Archbishopric of Cologne and the Duchy of Brunswick
+<attacks-upon-the-archbishopric-of-cologne-and-the-duchy-of-brunswick>
+In 1543 Luther joyfully boasted to Duke Albrecht of Prussia that the
+archbishopric of Cologne had embraced his Evangel in earnest, despite
+the strenuous opposition of the canons of the cathedral, and that
+matters were progressing famously in the duchy of
+Brunswick.#footnote[Grisar, #emph[Luther];, Vol. V, p. 166.]
+
+Herman von Wied, archbishop and elector of Cologne, was a worldly-minded
+man, uninstructed in ecclesiastical matters, of whom Charles V once said
+to Philip of Hesse: "Why does he start novelties? He knows no Latin,
+and, in his whole life, has only said three Masses, two of which I
+attended myself. He does not even understand the Confiteor. To reform
+does not mean to bring in another belief or another
+religion."#footnote[#emph[Ibid.];, V, p. 166.]
+
+After 1539 Bishop Herman was persuaded by the preacher Peter Medmann,
+and still more by Martin Bucer, to effect a change in religion in the
+archdiocese of Cologne. The powerful resistance which he encountered in
+his cathedral chapter as well as in the city council led Luther to speak
+of "seven devils, who sit in the highest temple, whom God will
+overthrow, who breaks down the cedars of
+Lebanon."#footnote[#emph[Ibid.];, p. 233.]
+
+In the courageous defense of the Catholic cause at Cologne, three men
+distinguished themselves: John Gropper, a member of the secular clergy,
+a true guiding spirit of the archbishopric in its hour of danger;
+Eberhard Billick, the learned and indefatigable provincial of the
+Carmelites, and Peter Canisius, a member of the newly-founded Society of
+Jesus.
+
+The situation became critical when Melanchthon, in 1543, settled at Bonn
+and, in conjunction with Bucer, devoted his energies to promoting the
+plans of the misguided archbishop. Melanchthon wrote a pamphlet against
+Billick, in which he accuses the Rhinelanders of "idolatry." In order to
+draw the people away from the Church, he, aided by Bucer, published the
+so-called "Cologne Reformation," whereby he gained over many Catholics.
+The Catholic leaders on their part addressed urgent representations
+against Herman von Wied to the Holy See, and also endeavored to procure
+the intervention of the Emperor. Herman von Wied, however, issued a
+summons for a provincial diet to be held at Bonn on January 6, 1546, for
+the purpose of definitely introducing a new form of religion, which, to
+the great chagrin of Luther, but conformably with the designs of Bucer
+and Melanchthon, was a compound of Lutheranism and Zwinglianism.
+
+The youthful Canisius at that time rendered excellent services to the
+Church of Cologne, a prelude of his future activity as "Apostle of
+Germany." He sojourned at Cologne with several brethren of his Order,
+for the sake of study. When Emperor Charles visited Cologne, in August,
+1545, Canisius, then a deacon, eloquent of speech, well informed, and
+courageous, appeared before that monarch at the urgent importunities of
+Gropper, and warmly requested him to protect the religion of his Rhenish
+subjects. The ensuing exhortations and admonitions of the Emperor had no
+influence upon the archbishop. Before the assembly of the dreaded diet
+of Bonn, Canisius, already highly esteemed by the citizens of Cologne,
+was asked to make a hurried trip to the Netherlands, to plead with the
+Emperor for assistance. He succeeded in obtaining an order which
+inhibited the archbishop from making any decision in religious questions
+prior to the next diet. Because of the persistent danger, Canisius, in
+February, 1546, undertook another journey, and visited the Emperor at
+Nymwegen, the birthplace of Canisius. In the name of Cologne, he
+requested the removal from the city of certain clamorous adherents of
+Archbishop Wied, and an imperial letter to the magistrates, encouraging
+them in their opposition to the religious innovation.#footnote[The
+visits of P. Canisius to the Emperor are mentioned by O. Braunsberger,
+#emph[Petrus Canisius];, 2nd and 3rd ed., 1921, p. 32. Relative to the
+last journey, Braunsberger remarks, without indicating his source:
+"first revealed through the latest researches."] The efforts of the
+Catholic leaders of Cologne resulted in the deposition and
+excommunication of the Archbishop on April 16, 1546. After this Herman
+von Wied disappears from history. He was succeeded by a zealous
+Catholic, Adolf von Schaumburg. Cologne was saved to the faith and
+continued to be a citadel of the Catholic religion and the heart of the
+Catholic Rhineland. In the same year, 1546, the year of Luther’s death,
+Canisius, who was afterwards canonized by the Church, was ordained to
+the priesthood and published a Latin edition of the works of St. Cyril
+of Alexandria and a revised text of the writings of Pope St. Leo the
+Great, in order to demonstrate the traditional teaching of the Church.
+
+In Northern Germany, Duke Henry of Brunswick-Wolfenbüttel was the
+militant leader of the Catholic league against the Schmalkaldians. This
+position made him highly obnoxious to Luther and his friends, but their
+hatred was augmented by his defense of the Catholic cause in writing.
+His forceful attacks upon the bigamous marriage of Philip of Hesse
+provoked Luther to write his pamphlet "Wider Hans Worst," which was
+directed against Duke Henry. Luther followed this up with a bitter
+incitement against the "bloodhound and incendiary Heinz," as he styled
+the militant Duke.
+
+For the rest, his criticism of the private life of Duke Henry was not
+unfounded. Not only his controversial methods, but also his moral
+character were quite objectionable. But the charge of arson in the
+territories of the new religion, which Luther made against him, was the
+product of a morbid imagination.#footnote[Grisar, #emph[Luther];, Vol.
+IV, pp. 293 sq.] It is rumored, he says, that "Heinz" has dispatched
+"many hundreds of incendiaries against the Evangelical estates." He
+maintained in all seriousness "that the Pope is said to have given
+80,000 ducats towards it." History is ignorant of any such transaction.
+Certain alleged confessions extorted on the rack have no significance.
+
+In 1542, when Duke Henry attempted to enforce the ban which the Imperial
+Supreme Court had declared against the city of Goslar, the war which the
+Elector of Saxony and the Landgrave of Hesse had long prepared against
+him, finally broke out. Luther was aware at that time of prophecies
+which foretold the end of the "son of perdition," –a "warning example,
+instituted by God, for the tyrants of our time."#footnote[#emph[Op.
+cit.];, Vol. V, p. 236.] The two allied Protestant princes took
+possession of the Duke’s territory and committed many atrocities. They
+introduced Protestantism there with the aid of Luther and especially
+Bugenhagen. Due to Henry’s determination to regain his principality, a
+new war broke out in 1545, which ended in even more striking success for
+his enemies, who took the Duke captive.
+
+When, in deference to the Emperor, Philip of Hesse and others favored
+the release of Duke Henry, Luther published an open letter to Philip and
+the elector,#footnote[Erl. ed,, Vol. XXVI, ii, pp. 251 sqq.; De Wette,
+#emph[Briefe];, VI, pp. 385 sqq. Cfr. Grisar, #emph[Luther];, Vol. V,
+pp. 394 sq.] in which he characterizes the idea of setting free that
+"mischievous, wild tool of the Roman idol," as an open attack not merely
+on the Evangel, but even on the manifest will of God, as clearly
+displayed in the recent war, which had been waged "by His angels." In
+this remarkable document Luther rose to the pinnacle of his morbidly
+mystical conception of life: God Himself has kindled this conflagration
+against his adversaries, God, who calls Himself a consuming fire. His
+friends, as well as he, had always prayed and clamored for peace, but
+"the pope and the papists would gladly see us all dead, body and soul,
+whereas we for our part would have them all to be body and soul happy,
+together with us."#footnote[#emph[Ibid.];, p. 395.]
+
+Luther represents this document as his own exclusive and personal
+affair. "Nevertheless," says Köstlin-Kawerau, "it is not to be doubted"
+that Luther "performed a task that had been ordered with the intention
+of influencing the Landgrave."#footnote[Köstlin-Kawerau, #emph[Martin
+Luther];, Vol. II, p. 612.] Chancellor Brück had inspired him with the
+ideas set forth in that document, for it was extremely important to the
+elector to prevent the release of Duke Henry.
+
+The last armed champion of the Catholic cause in Northern Germany
+succumbed with Henry of Brunswick. Not until the Schmalkaldic War of
+1547, after Luther’s death, did a favorable change come, at least
+temporarily.

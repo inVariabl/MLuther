@@ -1,0 +1,115 @@
+== The Journey to Rome
+<the-journey-to-rome>
+After having spent a considerable part of his life in the narrow
+confines of the monastery and in academic halls, the journey to Rome was
+bound to bring the active mind of young Luther in contact for the first
+time with the great ecclesiastical world. He was to receive an abundance
+of new ideas. He was destined also to become aware of the religious and
+moral abuses which had been accumulating on all sides, but particularly
+in the Rome of the Renaissance. In the late autumn of 1510 he commenced
+his journey on foot, in accordance with a custom of his Order,
+accompanied by a fellow member. They traveled through Bavaria and over
+the mountains to Tyrol, thence, from Innsbruck over the Brenner Pass to
+Lombardy and beyond. Following the usual road of the pilgrims, they
+crossed Central Italy and proceeded via Viterbo and Lake Bolsena to the
+Eternal City. Whenever practicable, he called upon the numerous
+monasteries along the road and enjoyed their hospitality. The hardships
+of the winter season, just previous to the close of the year, were
+probably not small. With reinvigorated energy he ascended the heights of
+Mario, whence he obtained his first sight of Rome. Near a chapel he
+knelt down and recited the customary prayers of pilgrims, in greeting
+the sacred walls and plains, the home of innumerable saints and martyrs.
+In Rome he took up his abode with his fellow-monks.
+
+To his great disappointment, his mission in behalf of the Observantine
+faction proved futile. He was advised that he would have to obtain a
+letter from the legitimate superior of his order in Germany
+(#emph[i.e.];, Staupitz) in order to gain admission to the papal curia.
+He had no such a letter, and the General of the Augustinians as well as
+his procurator, who were not in favor of his mission, refused to
+intervene in his behalf. The efforts of the seven monasteries were
+unwelcome to them. Again, he must have poignantly felt another failure,
+namely, the refusal of the papal authorities to grant a petition which
+his passionate fondness for study had inspired. In some cases, religious
+had been given permission to devote certain years to study at the
+universities, outside of their monasteries and without appearing in the
+habit of their order. Luther’s request to have this extraordinary
+privilege extended to the German Augustinians was declined because he
+had no recommendation of his superiors. The report of his pupil Oldecop
+on this subject is trustworthy, since during his stay at Rome, some time
+after this incident, Oldecop made inquiries concerning this matter.
+Luther compensated himself by studying Hebrew with a German Jew at Rome.
+He also made it his business to visit all the sacred places in Rome, and
+to become acquainted with the religious monuments of the city. He hunted
+up, he says, all the churches and crypts. The traditions of the various
+places edified him; he did not balk even at the false ones. Only at the
+so-called Stairs of Pilate, in the vicinity of the Lateran palace, which
+he climbed on his knees in accordance with custom, the question arose in
+his mind whether the tremendous indulgences connected with these steps
+were indeed genuine.#footnote[Grisar, #emph[Luther];, VI, 496.] This
+doubt, however, was not the germ of his subsequent doctrine of
+justification without good works, as has been asserted, but was
+occasioned by the uncritical #emph[Mirabilia Vrbis Romae];–a guidebook
+for pilgrims which was in circulation at that time. No trace of
+so-called reformatory ideas can be detected in Luther either at the time
+of his pilgrimage to Rome or for some considerable time thereafter.
+
+He was, however, deeply depressed by what he saw of the decline of
+morality in Rome, including the higher and the lower clergy. Especially
+what he heard concerning the person and court of the recently deceased
+Borgia Pope, Alexander VI, his relatives, certain cardinals, the pomp
+and worldliness of Julius II (Giuliano della Rovere), the then reigning
+warrior-like successor of Alexander VI, sank deep into the soul of the
+receptive northerner. These recollections were violently revived during
+his subsequent contest with Rome and furnished him with weapons against
+the Roman Anti-Christ, whose true character he fancied to have
+discovered in another manner. He appears, while at Rome, to have come in
+contact with German and Italian residents who collected reproaches
+against the morals of the curia in an odious and at times frivolously
+exaggerated form and apparently took less note of the prevailing good
+traits in the life of the city and the supreme government of the Church.
+The same holds good in regard to his entire journey through Italy. An
+honorable exception were the great hospitals he visited, with their
+ample equipment and the charity which they dispensed. The exemplary care
+of the sick and of poor pilgrims exhibited at Florence elicited
+favorable comments from him later on.
+
+It appears that the splendid edifices and the grand works of this
+period, inspired by the joyousness of creative art, at Rome as well as
+along the whole way of his journey, failed to attract his attention.
+Even in his advanced years he relished no taste for the creations of
+art. As a pilgrim to Rome, he lacked the proper enlightenment to
+appreciate these matters.
+
+When Luther, after his apostasy, described himself as having been the
+most pious monk at Rome, who said Mass so solemnly and slowly that
+several other priests finished saying Mass at the same time, and when he
+maintains that, inspired by the great Roman indulgences applicable to
+the souls of the departed, he in his pious zeal wished that his parents
+had already departed this life, so that he might gain these indulgences
+in their behalf–we have a series of grotesque exaggerations, suggested
+partly by his native humor, partly by exaggerated criticism of Roman
+conditions. We know that he did not say Mass regularly while in Rome.
+According to a later declaration of his, he desired to make a general
+confession extending over his whole life, but found the clergy in Rome
+insufficiently instructed for this purpose. Whatever he says about
+conditions or his own monastic virtues must be received with a large
+grain of salt.
+
+At all events, it is certain that his visit in the center of Catholic
+Christianity did not shake his devotion to the Church, nor his
+submission to the papal authority, nor his loyalty to the monastic
+state, though the subsequent crisis was accelerated thereby.
+
+His stay in the city on the Tiber lasted about four weeks. Luther did
+not get to see Pope Julius, who, on account of threatening war, had
+betaken himself to Upper Italy. Luther did not return to Germany by way
+of Lombardy and across the Tyrolean Alps, but, due to the danger of war,
+made a detour over Nice and the Avignon country, up the valley of the
+Rhone towards Switzerland and thence to Bavaria. Some traces of this
+journey have been preserved.#footnote[H, Grisar, #emph[Lutheranalekten];,
+I ("Zu Luthers Romfahrt; Neues über den Reiseweg") in the #emph[Histor.
+Jahrbuch der Görresgesellschaft];, Vol. XXXIX (1919–1920), pp. 487 sqq.]
+Nor did the pilgrim return to Erfurt, but, in compliance with the orders
+of his superiors, went to Wittenberg to teach, a choice which probably
+conformed with his own desire.

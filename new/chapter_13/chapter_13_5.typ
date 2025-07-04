@@ -1,0 +1,200 @@
+== A Strong Saxon Philippic Against Luther
+<a-strong-saxon-philippic-against-luther>
+"You have entitled your work against the diet, 'Warning to my dear
+Germans.' It would have been more correct if you had entitled it,
+Seduction and Incitement to Rebellion and Insurrection. For you are
+plainly bent upon inciting the people to revolt against the Emperor and
+all in authority. You proceed with artful snares, with lies and
+outcries, with a veritable specter of assertions. The devil is called
+upon to assist you on every page. May those pass judgment on this
+pamphlet who call you a living saint and say you are possessed of the
+spirit of God." Thus far Cochlaeus’ quotation from Duke George.
+
+The following quotations are excerpted from the other works mentioned
+above:
+
+Your "Glosses" contain as many lies as words. You are an infamous
+apostate and pervert the truth when you say that the married state is
+prohibited in the Catholic Church. You lie when you maintain that
+capital punishment is contemplated for those who do not use consecrated
+salt. You lie when you assert that Duke George of Saxony and the Elector
+of Brandenburg promised to supply the Emperor with 5000 horses against
+the Lutherans. You lie when you aver that the Emperor is resolved to
+make war upon you Lutherans for the purpose of suppressing the gospel.
+You lie like a conscious, faithless, and perjured scoundrel, when you
+state that the Catholic princes have formed a league at Dessau for the
+purpose of attacking you. Thus you heap lie upon lie. Our princes formed
+a league for the sake of preserving the peace, only to further the
+welfare of their people, and to the disadvantage of nobody, as events
+have shown. You inveigh against all papists, including the Emperor,
+traducing them as traitors, miscreants, sacrilegious bloodhounds. At the
+same time you falsely pretend not to have spoken against the Emperor or
+any other ruler; it is as if one said that he intended to produce white,
+but in reality produced black.
+
+The noble-minded Emperor’s sole intention, formed after due
+deliberation, is to make order prevail in the Church. He will not allow
+priests to consort with dissolute women. You, evil-minded apostate,
+interpret this intention in a way which the devil in hell could not
+surpass in malice.
+
+Everyone knows that your proper sphere is vituperation. Your scolding
+against me I regard as the vaporings of an old shrew. Your thunderous
+blows do not intimidate me, but I dare tell you the truth. If you bark
+at me, I will make you spit fire like a hell-hound. A perjured renegade
+ought to be answered so that the whole world may know his name. For it
+is an old saying that a wolf-roast demands canine sauces.
+
+Hear me, Doctor Luther. I wish to propose for your consideration two
+words which you apply to the princes who are opposed to you, namely,
+#emph[sacrileger] and #emph[fool];. You, dishonorable and carnal wretch,
+fly at your opponents as if they were sacrilegious despoilers of
+churches. But who was it that sacrilegiously robbed the property of
+Christ, which emperors, kings, princes, noblemen, citizens, and
+peasants, inspired by ardent Christian charity and cherishing His sacred
+Passion, donated of old to the monasteries, parish-churches, and altars?
+Verily, tell me truly, Squire Martin, Doctor Luther, who despoiled the
+poor village parsons of their wretched income? Tell me, Doctor
+Swinetrough (#emph[Säutrog];) Luther, who despoiled God of so many
+thousands of souls during the last twelve years and sent them to Lucifer
+in hell? Alas, that arch-murderer of souls, Luther! Who robbed Christ of
+His spouses, the consecrated virgins, many of whom had served God for
+years in the religious life, and forced them into a miserable, wretched,
+and erroneous life, so that they now run about in great want and in
+disgrace? Fie on you, Martin Luther, you perjured, sacrilegious
+whore-master of runaway monks and nuns, apostate priests and all
+apostates! Who robbed and despoiled the Roman Emperor, that beloved,
+innocent flower of Christianity, Charles V, and the kings, princes, and
+lords, of honor and obedience on the part of their subjects, by
+spreading false, seditious, and damnable writings and doctrines? It was
+you, you execrable wretch! Who is responsible for the many thieves and
+rogues that now infest almost every nook and corner of the land? It is
+you, Doctor Luther!
+
+Do you not know from Holy Writ what reward is in store for robbers?
+Luther, your end and reward are known only to God.
+
+The fruits and splendors of the new gospel are to be measured by other
+standards. Who among you is able to check the growing drunkenness and
+marital infidelity, the insubordination towards parents and masters? How
+many violations of property, what crimes of highwaymen and prowling
+thieves! This is the liberty which you have given to them: these are the
+noble fruits of your teaching! You owe your success to the false liberty
+which you have proclaimed.
+
+You can well afford to preach as you do, for you enjoy the support of
+your government. If you had not been favored by the Elector, much
+bloodshed, revolt, and dissension, and the resurgence of all the
+old-time heresies would have been avoided. Your place is the expected
+church council. There you would meet men who are competent to dispute
+with you. But you prefer to hurl your invectives from a safe place.
+
+You say you are obliged to speak out because you are a doctor. Now, I
+well know the oath which the doctors of Sacred Scripture are obliged to
+take. It binds them to teach in conformity with the Church. You have
+violated this oath. I fear you will be promoted in a school of which the
+devil is rector; for, like you, he is all bluster and tumult.
+
+You boast of your proficiency in German. If the German style of your
+speeches is so subtle, then I know doctors in the country who are quite
+superior to you in the vehemence of their German rhetoric, especially
+when they are under the influence of strong drink. Ofttimes they beat
+with their fists. If you were among them, you would not be taken for a
+doctor, but for a swine-herd. You try by the raving fire of your words
+to start a conflagration; but when the fire meets a solid rock, it
+merely covers it with black soot, but cannot damage it.
+
+You boast in your addresses that St. John Hus predicted your coming. Hus
+is holy in the same manner in which he is holy who calls him a saint or
+canonizes him, or has him prophesy about himself. Both he and you are
+arch-heretics. It would have been better had you disputed with the
+learned Master Erasmus of Rotterdam after he told you the truth in his
+"Hyperaspistes." He has so attuned his chords that you could not reply.
+When you cease barking, you become silent, but you keep on sneaking
+about treacherously like a mad dog.
+
+Whilst the Peasants’ War was on, you delivered powerful speeches. How
+many have lost their property and their lives, their bodies and their
+souls, as a result of your false, seductive writings and your Satanic
+doctrines and sermons! All the rebellious peasants who have been slain
+in that war will rise up against you on Judgment Day and exclaim: "Woe
+to you!" You are an arch-assassin of souls and bodies. You are guilty of
+their death, even as Pilate is guilty of Christ’s. It is you who are a
+desperate, perjured bloodhound, not they whom you call by this name
+today.
+
+The whole world knows that your conscience upbraids you day and night,
+and that you can nevermore be glad and enjoy peace of mind, even though
+exteriorly you display a joyful disposition towards your Catherine von
+Bora.
+
+In ten years you have been unable to settle in your own mind what you
+will or ought to believe. You do not know year from now–your own
+writings today what you will believe a prove it. You cannot come to an
+agreement even with your own followers as to whether you intend to abide
+by your present doctrines or invent others. As a consequence, the poor
+have become to obfuscated that they scarcely know what to believe, and
+almost every village has seen the rise of a new and distinct sect. What
+prudent man, therefore, would adhere to you and desert the Catholic
+Church to join your ranks? You have written that everybody ought to
+preach the Gospel as he understands it. Now Karlstadt, Zwingli, Bucer,
+Capito, Oecolampadius, the Anabaptists, Hubmaier, Hut, Müntzer, and many
+others have followed your advice and preached according to their own
+judgment, thus extending the misery which you have set afoot. You ought
+to restore order instead of continuously heaping maledictions upon the
+papists.
+
+Hear me, you arch-blasphemer; you admit before all the world that, when
+in your daily prayer you say: "Hallowed be Thy Name!" you are perforce
+compelled to exclaim: "Accursed, damned, reviled be the name of the
+papists and all blasphemers." Who blasphemes more outrageously than you?
+You boast that you are a Christian doctor and preacher. Do you not know
+that Holy Scripture teaches you not to curse your enemies, but to love
+them for God’s sake? You should pray for them, as Christ did when He
+hung upon the cross. You curse the papacy when you utter the words: "Thy
+kingdom come!", but do not forget that no one on earth is so much
+opposed to the kingdom of Christ as you are. You would dethrone Him if
+it were possible. Your followers have already cast His images out of the
+churches and demolished them.
+
+Your writings display the temerity and folly of a poor apostate who has
+gone astray. If you want to see an arrogant fellow, behold, here is the
+most arrogant of all. If you wish to see a destroyer of other people’s
+property, behold, here is one from whom even the property of beggars is
+not safe. If you want to see an unchaste man, behold, here is one who
+violates the chastity of a nun. If you want to see an agitator and a
+rebel, behold, here is one guilty of a hundred thousand murders and
+homicides, one who despises all spiritual and secular authority and
+stands convicted as a falsifier of Holy Writ.
+
+In you we find the source of every malice, evil, sin, and infamy; an
+unadulterated rogue.
+
+Had not St. Paul written of Antichrist as he did, I should believe that
+you were he; but undoubtedly you are his precursor. They are right who
+maintain that Luther is certainly possessed by the devil. I believe that
+the whole legion of devils which Christ drove out of the possessed and
+permitted to enter into a herd of swine, is in you. As the devils made
+the swine so mad that they drowned themselves in the sea: so the legion
+of devils has made your monkish cranium so mad and giddy that you are
+unable to enjoy any peace by day or night, until the Christians of all
+parties and places are become confused and perplexed and finally plunged
+into the abyss of hell.
+
+May you and your erring followers by the grace of God be brought back to
+the way of truth! Would that you had a sincere desire to return! May God
+Grant you repentance for your sins here below, and eternal happiness to
+us all!
+
+These are freely rendered extracts from the terrible excoriation
+delivered against Luther from Dresden, especially by the sturdy pastor,
+Arnoldi, in the course of the recriminations that followed the diet of
+Augsburg. The language exceeds the bounds of propriety– which is
+pardonable because of the heat of controversy–and illustrates the fact
+that those who had become indignant at Luther freely imitated the
+rhetorical tricks of their antagonist. At all events this denunciation
+is a historical monument of an age when fierce contrasts reached their
+climax. Although not by any means exempt from passion, it reveals, by
+its very ardor, as no description could, the abhorrence with which
+Catholic spokesmen viewed Luther, as he appeared to them in his actions
+and writings, and the schism produced by him in peaceful Germany.

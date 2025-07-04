@@ -1,0 +1,157 @@
+== Novitiate, Profession, First Mass
+<novitiate-profession-first-mass>
+The completion of a year’s novitiate was the first obligation incumbent
+on the new monk. During this probationary period he was not permitted to
+study. Prayer, pious reading, labor and penances, service in the choir,
+and mastering the rules and life of the Order occupied his time. For
+this purpose the novices were assigned to the direction of an elder
+monk. Luther was placed under an experienced novice-master whom he
+praised in later years as a wise and sympathetic religious. The master
+of novices explained to him the statutes of the Order, which John
+Staupitz, at that time superior of the entire congregation, had composed
+in 1504 on the basis of the old constitutions, adapted with wise
+discretion to the needs of the age. They were detailed and precise, but
+tolerated many dispensations in the monastic observance. The master of
+novices also saw to it that young novice entrusted to his care
+diligently read the Bible.
+
+The statutes enjoined upon all the duty of "reading the Bible with
+fervor, to hear it read with devotion, and to learn it with assiduity."
+To hold that the Sacred Scriptures were not in the hands of the
+faithful, even of the pious, in the days when Luther was a youth, is a
+widespread error. In the case of Luther himself, who afterwards rendered
+this statement current, there was not a day "on which the Word of the
+Scriptures was not perceived abundantly by ear and intellect. It came to
+be a permanent companion, a monitor and comforter, a judge and a
+benefactor."#footnote[Scheel, #emph[M. Luther];, 11, 2 ed., p. 2.] From
+that day a pronounced inclination towards the Bible began to take hold
+of him.
+
+Besides the Bible, the young novice joyfully saturated his mind with the
+writings of St. Bernard and St. Bonaventure, those profound and
+sympathetic teachers of the Middle Ages. His spiritual director
+understood how to comfort and guide the novice, who at times showed a
+lack of courage. Long afterwards Luther remembered how the good man
+spoke to him of the remission of sins and occasionally called his
+attention to the fact that the article of faith on the #emph[remissio
+peccatorum] must be set up against all scruples.
+
+Brother Martin willingly adapted himself to the discipline of the
+well-regulated monastery. He learned to love his new abode, was
+determined to become a good monk, and resolved to devote his energies to
+the salvation of souls.
+
+At the commencement of his novitiate, he received sad reports from
+Mansfeld, where his family resided. The pestilence invaded the little
+town and carried off two of his brothers. His heart, on the other hand,
+was gladdened at the news of his father’s belated consent to his
+entrance upon a monastic career. It was difficult for the father to
+relinquish the hopes he had placed in a secular career for his highly
+promising son. Perhaps the affliction with which his home had been
+visited moderated his attitude.
+
+When the probationary year had terminated and the hour for the taking of
+the solemn vows had arrived, Brother Martin, advancing to the altar of
+the Augustinian church at Erfurt, unperturbed by misgivings and with joy
+in his heart, made profession of the vows that bind forever. The vows
+were couched in the usual form: "I, Brother Martin, make profession and
+vow obedience before Almighty God and the ever Blessed Virgin Mary, and
+before you, Brother Winand, local prior, in the name and place of the
+prior general of the Order of Hermits of the holy Bishop Augustine, and
+his lawful successors, to live without property and in chastity
+according to the rule of the same Blessed Augustine to the end of my
+life." No act of his life, no promise ever made by him, took place after
+such mature deliberation and with such a complete knowledge of the
+circumstances and obligations, as this oblation of himself to the divine
+Majesty in the bosom of the universal Church by means of the triple vow
+of poverty, chastity, and obedience. The act was witnessed by the
+community of those who were to be henceforth more closely united to him.
+
+Luther was now a full-fledged member of the German Congregation of the
+Hermits of St. Augustine, who, as a Congregation of Observantines, were
+subordinated to John Staupitz, the vicar or representative of the
+general of the Order who resided in Rome. Besides the monasteries of the
+congregation of the Observantines, there existed in Germany numerous
+other Augustinian monasteries which had not introduced the Observance.
+They constituted the so-called Provincia Saxoniae, and extended over
+central and upper Germany. According to the general administration of
+the Order, they were under the jurisdiction of a provincial. Both,
+Observantines and non-Observantines, were classified under the common
+canonical character of mendicant friars, with this sole exception that
+the Observantines had their own peculiar exercises which were conducted
+in the spirit of the enthusiastic founder and father of their Order,
+Andrew Proles, the predecessor of Staupitz (died in 1503 at Kulmbach).
+
+Luther was not exempt from the task of begging alms. Despite the fact
+that he possessed the master’s degree, he was obliged to assume this
+task like other humiliating exercises of the Order. Some years
+afterwards, however, in view of his academic degree and of the studies
+he was destined to pursue, he was absolved from the obligation of the
+"#emph[saccum per naccum];," as begging with a sack about the neck was
+humorously termed in the monastery.
+
+As the day of his ordination to the priesthood was approaching, Luther
+read the thoughtful and edifying treatise on the holy sacrifice of the
+Mass by Gabriel Biel–but as he assures us after his defection from the
+ancient Church, he did so with a bleeding heart. His disposition
+inclined him to view with terror the thought of the sublimity of the
+sacred function no less than the idea of intimate union with God through
+the sacrifice of the body and blood of Christ. In the second semester of
+1506, the preliminary orders of the subdiaconate and diaconate were
+conferred upon him. These events were followed by his ordination to the
+priesthood, probably on April 3, 1507. He received holy orders in the
+magnificent dome of Erfurt, at the hands of the suffragan bishop, John
+Bonemilch von Lasphe. His soul now highly stimulated, he prepared
+himself for the celebration of his first holy Mass. The extant letters
+in which he extended an invitation to his various acquaintances to be
+present on the greatest day of his life–for it was celebrated with great
+solemnity–reveal his profound earnestness and lively realization of his
+own unworthiness. The style of these letters is invested with a certain
+pathos, be it in consequence of the humanism he formerly cultivation of
+his natural disposition.
+
+While he said his first Mass at the altar of the Augustinian church, the
+thought of the proximity and magnitude of almighty God caused him to be
+seized with such fright that he would fain have interrupted the holy
+Sacrifice and hastened away from the altar, had not the assistant priest
+held him back. The reports which have come to us from his own lips, as
+well as those contained in the copy of his lectures on Genesis, are too
+definite as to permit the possibility of a doubt concerning the abnormal
+event.#footnote[See the citations from the sources in Scheel II, pp. 345
+sq. I am unable to regard as sound the objections variously raised
+against Luther’s account in the #emph[Table Talks] and the statements
+contained in his commentary on Genesis. Cf. Grisar, #emph[Luther];, I,
+p. 15; VI, pp. 99 sqq., 195 sqq.] Afterwards he said that he always said
+Mass with a shudder, aye, "with great horror."#footnote[3 Cf. Grisar,
+#emph[op cit.];, VI, 197.] His father, accompanied by no less than
+twenty riders, arrived for the celebration on horseback, defraying his
+own expenses. At the festive banquet, Martin desired to persuade his
+father to give a new and open approval to his entrance into the
+monastery, since his previous consent had not been whole-hearted.
+Therefore, Martin praised the "pleasant and quiet" life of the monastery
+and the "divine nature" of his chosen state of life. But when he
+mentioned the heavenly call on the occasion of the storm at
+Stotternheim, his father became angry and exclaimed: "Would to God that
+it was not a hallucination of the devil!" He was a choleric man and his
+patience was exhausted. The select company which surrounded him did not
+restrain him from giving vent to his displeasure. He even remarked,
+though without justification, whether the son had forgotten that
+children owe complete obedience to their parents as regards entrance
+into the cloister, that the fourth commandment was above the notion
+which induced him to select the monastic state, etc. It must have been
+an unpleasant scene when the monks, who were seated next to them, tried
+to defend the monastic life and their promising confrère. Thereat the
+father expressed himself in these acrid words: "I would prefer to be
+somewhere else rather than to be here, eating and drinking." To such an
+extent his irascible temperament led him to forget the requirements of
+the festive occasion. In course of time, however, the old man became
+reconciled. When Luther, fourteen years later, was in open conflict with
+his monastic order as a result of the publication of his treatise
+against the monastic vow, he justified the conduct of his father in the
+preface of the dedicatory letter which he addressed to him by citing the
+latter’s statement relative to the obedience due to
+parents.#footnote[#emph[Werke];, Weimar ed., VIII, pp. 573 sq.] It seems
+never to have disturbed him previously. But in the aforementioned
+treatise (1521) he assured his readers that the words which his father
+uttered on the occasion of his first Mass made a deep impression on him,
+"as if God Himself had spoken them."

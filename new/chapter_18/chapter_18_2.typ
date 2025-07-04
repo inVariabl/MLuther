@@ -1,0 +1,269 @@
+== Matrimony and Sacerdotal Celibacy
+<matrimony-and-sacerdotal-celibacy>
+We shall not revert here to the examples which have been previously
+adduced to show how Luther availed himself of the lure of the married
+state in order to gain adherents among priests and religious. Nor shall
+we refer to his aforementioned writings on his favorite theme of
+matrimony, such as his treatises "On the Matrimonial Life," "On Things
+Matrimonial," and his interpretation of the seventh chapter of the First
+Epistle to the Corinthians. We will consider only a few of the general
+principles and viewpoints prominent in these works.
+
+Luther’s doctrine on matrimony cannot be treated as a complete system
+because of the author’s numerous contradictions and vacillations. It is
+manifest from many ardent expressions that Luther regarded Christian
+matrimony as an exalted state of life. His own marriage, which had been
+contracted in defiance of the Church laws, afforded him frequent
+opportunities of eulogizing matrimony as an institution ordained by God.
+He waxes enthusiastic in emphasizing its chief purpose, namely, the
+procreation of children for the welfare of State and Church, even though
+at the same time he continually exaggerates the danger of incontinence
+as its most urgent motive. In a hundred passages he describes how
+married life operates as a stimulus to good works, how it protects the
+faith of husband and wife, awakens love, and fosters discipline and
+domesticity. He delineates family life in such captivating terms that
+the single life appears quite unattractive. The moral features which he
+delights in mentioning in the course of these descriptions have led
+Protestant writers to say that Luther’s views on matrimony spell the
+very apex of morality. Why disregard the sensual and dangerous aspects
+of his teaching and example?
+
+It was fatal to Luther’s teaching on matrimony that it was the product
+of a twofold struggle–that against the state of virginity and that
+against the authority of the Church.
+
+The sexual and sensual admixture of his doctrine derives from his
+antagonism to the state of virginity. His hostility to the sacerdotal
+and monastic states leads him to degrade celibacy beyond all
+measure.#footnote[Cfr, Grisar, #emph[Luther];, Vol. III, pp. 241 sqq.,
+and the excellent work of S. Baranowsk #emph[Luthers Lehre von der Ehe]
+(1913), pp. 34 sqq.] In order to assail the Catholic position more
+effectively he asserts, as the starting-point of his own doctrine, that
+the sexual instinct in man operates as an irresistible law of nature and
+tolerates no restriction in the form of vows, which can result in
+unchastity. In his invectives against the vow of chastity human dignity
+and decency are set aside. The means of grace offered by the Church for
+the successful conquest of the sexual instinct and for leading a higher
+life, are ignored. Nature, in his opinion, compels practically all men
+to embrace the matrimonial state. It is a "miracle" if anyone is able to
+live continently.#footnote[Cfr. Grisar, Luther, Vol. III, pp. 246 sqq.]
+For the rest, he goes much farther than the Catholic Church by declaring
+the sexual instinct sinful in itself. He refuses to acknowledge that the
+involuntary movements of the sexual instinct are no sin, and that it is
+virtuous to resist them for the sake of God or to keep a deliberate vow.
+
+His position was influenced not only by his antagonism to sacerdotal
+celibacy and the religious vow of chastity, but likewise by his fight on
+the authority of the Church. Her venerable and salutary traditions for
+the protection of the matrimonial state and family life, which she ever
+esteemed most highly, counted for nothing in his eyes. He rejects
+without investigation the teaching of the Church on matrimonial
+impediments and divorce. An artificial Biblical or a merely natural
+argument is sufficient for him to open a wide road to what he calls
+Christian liberty. The efforts made at the present time to abolish
+marriage as a social institution were unconsciously inaugurated by
+Luther when he denied the time-honored authority of the Church in
+matrimonial matters.
+
+In his system, which did not recognize matrimony as a sacrament, the
+Church, which regulates and administers the sacraments, was replaced by
+the secular authority. His original endeavor to regulate matrimonial
+matters with the aid of his preachers and pastors, was defeated by a
+multiplicity of problems and controversial cases. The State usurped
+authority in this sphere and Luther favored this tendency. He could not
+consistently have done otherwise after he had declared matrimony to be a
+purely secular affair. But in doing so he nevertheless created a
+contradiction which cannot be spanned; for, on the one hand, he praises
+the matrimonial state as "most holy," and on the other, he divorces it
+from the Church, to whom holy things are subject.#footnote[Baranowski,
+#emph[op. cit.];, p. 177.]
+
+In vain one seeks to find in Luther a true concordance between the
+service of the world and the service of God in matrimony. There is
+discord and antithesis everywhere. At times he extols sexual intercourse
+in matrimony as a lofty divine service; then again he characterizes it
+as religiously indifferent, nay, even as stained with sin. He exhorts
+parents to be one in their prayers and in the Christian education of
+their offspring, yet asserts the validity of marriage between Christians
+and pagans, because this does not affect the faith. He arbitrarily
+relaxes the ties of matrimony, and at the same time unduly contracts the
+duties of the domestic sphere; for the subjection of the wife to the
+authority of the husband, and that of the children to the will of the
+parents, as advocated by him, appears to exceed the bounds of what is
+lawful to personal conduct and individual
+self-determination.#footnote[#emph[Ibid.];, p. 209. Similarly an
+examination of Luther’s utterances on vocation would show how confused
+were his views of marriage and celibacy, and also of the secular and the
+spiritual vocation. On "vocation" in the Middle Ages and Luther’s idea
+of it see N. Paulus in Histor. #emph[Jahrbuch];, Vol. 32, pp. 725 sqq.,
+and Vol. 45, pp. 308 sqq.] His attitude on the latter subject provoked
+the celebrated, lengthy and violent controversy on the validity of
+marriage contracted without parental consent, which consent he
+designated as necessary for a valid union of the children.
+
+Even more subversive were his principles concerning
+divorce.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 3–79; Baranowski,
+#emph[Luthers Lehre von der Ehe];, pp. 115 sqq.]
+
+As early as 1520 Luther refused to assert the indissolubility of the
+marriage tie. As time went on, the complaint raised against him became
+ever more justified, that (to quote his own words) "he arbitrarily
+trifled with the dissolution and the confirmation of
+matrimony."#footnote[#emph[Briefwechsel] VIII, p. 398.]
+
+Though he regards divorce as a serious matter, injurious to the
+Christian polity and the State, he finds that adultery is an immediate
+ground for divorce, with liberty to remarry. After breaking with the
+Biblical doctrine and with tradition in this critical matter, he
+subsequently proposed a second ground for divorce, namely, willful
+desertion. He did this in order to come to the aid of those unfortunates
+who had been forced to adopt celibacy. Other grounds for divorce
+recognized by him are persistent irascibility and violent
+incompatibility of temper. If either one of the parties concerned cannot
+restrain himself, he says, "let him (or her) woo another in the name of
+God."#footnote[Baranowski, #emph[op. cit.];, p. 124.] This was the
+extent to which the idea of the irresistibility of the sexual urge had
+led him. As a matter of course, Luther permits divorce
+(#emph[divortium];) where the life of one conjugal partner is
+jeopardized by the other; but the passage in question does not clearly
+indicate whether or not he means a complete dissolution of the
+matrimonial bond. It frequently appears that he is little concerned with
+the important distinction between a complete dissolution of the marriage
+bond and a mere separation from bed and board. He extends the so-called
+Pauline Privilege to Christian couples and to cases where one party
+urges the other to "unchristian conduct," to "theft, adultery or any
+unrighteousness towards God." But, as regards these matters, he also
+repudiates the civil authority, which ought to devise remedial measures.
+He holds that physical impotence not only dissolves matrimony where it
+previously existed, but also when subsequently contracted, even in the
+case of marriages blessed with offspring.
+
+There are two other grounds for divorce which he admits. In the case of
+obstinate refusal to render the #emph[debitum];, the injured party may
+enter upon a new marriage. "If you are unwilling," to quote the easily
+misconstruable and insidious assertion of Luther, "then another shall;
+if the wife is unwilling, then the maid shall come." At all events,
+Luther holds that, in case of refusal, the secular authorities ought to
+intervene. Finally, he also regarded serious illness, especially
+leprosy, as an adequate ground for divorce, at least in the internal
+forum of conscience, thereby proposing a principle which, according to a
+recent Protestant critic, "is apt by its consequences to shake the
+institution of matrimony to its very foundations."#footnote[#emph[Theol.
+Studien und Kritiken];, 1881, p. 445.] If this be true of this one
+ground, what must be said of the collective effect of all the grounds
+that have been mentioned?
+
+In the practical application of these ideas Luther mingled the strangest
+contradictions. He requires the verdict of the civil authorities for the
+validation of divorce, yet regards marriage as already dissolved and to
+be treated as dissolved in secret. He grants the right of remarriage to
+one party and at the same time denies it to the other. In the forum of
+conscience he concede grounds for divorce which he refuses to defend in
+public, and so forth.#footnote[Baranowski, #emph[op. cit.];, p. 131.]
+
+In his narrow purview he discovers ecclesiastical domination and
+pretensions, if not avarice, in the traditional diriment impediments
+upheld by the Church. He particularly rejects the dilatory
+impediments.#footnote[Weimar ed., Vol. X, ii, p. 287.]
+
+"Freedom," he says, "may not be abolished by the superstition and
+stupidity of others."#footnote[#emph[Ibid.];, VI, p. 558.] Suffice it to
+mention that, on the basis of the Old Testament, he regards only the
+second degree of consanguinity and the first degree of affinity as
+impediments arising from relationship, and that on other occasions he
+indirectly exempts even the first degree of affinity. The precedent of
+an Old Testament patriarch counts for more with him than "100,000
+popes."#footnote[#emph[Ibid.];, XVI, p. 405.]
+
+The precedent of the patriarchs also confused his views of the unity of
+marriage. While he would not tolerate the introduction of bigamy, he
+nevertheless, as indicated elsewhere, allowed a certain scope to
+it.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 13 sqq.; Baranowski,
+#emph[op. cit.];, p. 162 sqq.; Rockwell, #emph[Die Doppelebe Philipps
+von Hessen] (1904), pp. 247 sqq.]
+
+As early as 1520 he gave expression to this sentimental inclination of
+his, preferring bigamy to divorce in case of necessity.#footnote[Weimar
+ed., Vol. VI, p. 559.]
+
+In 1524 he expressed himself more decisively toward Chancellor Brück: "I
+admit that I am unable to prohibit a man from marrying several wives; it
+does not contradict Holy Writ." But scandal and sound ethics, he adds,
+establish objections to the practice.#footnote[#emph[Briefwechsel];, IV,
+pp. 282 sq.; January 27, 1524,] He repeats these statements frequently.
+In the subsequent account of the bigamous marriage of Landgrave Philip
+of Hesse, the consequences of Luther’s and Melanchthon’s attitude will
+be seen. This one case clearly reveals the fact that the so-called
+reformers "lacked a comprehensive insight into the true ethical nature
+of matrimony."#footnote[This pertinent observation is by Baranowski,
+#emph[op. cit.];, p. 168.]
+
+How different in this respect are the Middle Ages, particularly the time
+which preceded Luther, with its numerous popular treatises on matrimony
+as a sacrament–writings which abounded in attractive profundity and
+solid theological content. In the tender delineations of domestic life
+found in these "marriage booklets" justice is accorded the human side of
+the marital relationship and protection is afforded the sublimity and
+purity of this institution by the faithful reproduction of the precepts
+of the Church.#footnote[Grisar, #emph[Luther];, Vol. IV, pp. 135 sqq.]
+
+The Protestant claim that the esteem of womanhood originated with Luther
+is entirely unfounded. The dignity of woman, her social mission, the
+esteem and veneration which her position demands, could not be more
+thoroughly effective than in a society firmly founded on a religion
+which appreciated and extolled virginity equally with motherhood, and
+honored the supreme type of motherhood in Mary, Virgin and Mother, the
+protectress of Christendom.#footnote[#emph[Ibid.];, pp. 131 sqq.]
+
+It is impossible to follow the utterances of Luther on marriage and
+sexual matters without ever and anon being repelled by the vulgarity of
+his language and his sensuality.#footnote[#emph[Op. cit.];, Vol. III,
+pp. 264 sqq.]
+
+For example, here is a sentence which surely does not honor womanhood:
+"The word and work of God is quite clear, #emph[viz.];, that women were
+made to be either wives or prostitutes."#footnote[#emph[Ibid.];, p.
+243.] We add a few others: "Had we opportunity, time, and occasion," he
+says in his bombastic manner, "we should all commit adultery"; he thus
+intends to indicate the power of concupiscence, and then continues: "We
+are so mad, when once our passions are aroused, that we forget
+everything."#footnote[#emph[Ibid.];, p. 245.] Marriage ought to be
+contracted by "a boy not later than the age of twenty, and a girl when
+she is from fifteen to eighteen years of age. Then they are still
+healthy and sound, and they can leave it to God to see that their
+children are provided for."#footnote[#emph[Ibid.];, p. 246.] "Even
+though one may have the gift to be able to live chastely without a wife,
+yet he ought to marry in defiance of the pope, who insists so much on
+celibacy."#footnote[#emph[Tischreden];, Weimar ed., II, n. 2129b; cf, a;
+see also Grisar, #emph[Luther];, Vol. III, p, 246.] –"Were all those
+living under the papacy kneaded together, not one would be found who had
+remained chaste up to his fortieth year."#footnote[#emph[Ibid.];, p.
+251.] –I am satisfied that the saints stick in the mud just like we
+do.”#footnote[#emph[Ibid.];]
+
+Certain indecorous German utterances of Luther are reproduced in Latin
+in the present writer’s more exhaustive work.#footnote[#emph[Luther];,
+Vol. III, pp. 251 sq., n. 3.] In a letter of December 6, 1525, Luther
+speaks of his marriage and that of Spalatin in a manner that is not fit
+for reproduction. The older editors (Aurifaber, De Wette, Walch) omitted
+the passage in question.#footnote[#emph[Ibid.];, p. 269, n. 2.]
+
+It is a notorious fact that the undignified vulgarity of Luther’s
+language, spiced with sexual allusions, attains its height in the
+objurgations which he metes out to the papacy and the Roman
+Church.#footnote[#emph[Ibid.];, pp. 265 sqq.] Thus the pope is compared
+with the detestable pagan god, Priapus. In giving vent to such
+utterances, Luther, as his excuses demonstrate, was quite conscious that
+he had transcended even the freedom which his coarse age was wont to
+grant. In 1541 he writes against the loyal Catholics:#footnote[Grisar,
+#emph[Luther];, Vol. VI, p. 331.] "You are the runaway apostate,
+strumpet Church as the prophets term it"; "you whoremongers preach in
+your own brothels and devil’s churches"; "your conduct is such as if the
+bride of a beloved bridegroom were to allow every man to abuse her at
+his will." Unable to satiate himself with this image, he continues:
+"This whore, once a pure virgin and beloved bride, is now an apostate, a
+vagrant, a whore, a house-whore," etc. "You old whores bear in your turn
+young whores, and so increase and multiply the pope’s Church, which is
+the devil’s own." "You reduce many true virgins of Christ, who have been
+regenerated by baptism, to arch-harlots."#footnote[#emph[Ibid.];, p.
+332; cfr. III, pp. 270 sqq.]
