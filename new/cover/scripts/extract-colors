@@ -1,0 +1,19 @@
+#!/bin/sh
+# Usage: ./extract-colors.sh input.svg
+
+if [ -z "$1" ]; then
+  echo "Usage: $0 input.svg"
+  exit 1
+fi
+
+INPUT="$1"
+OUTPUT="palettes/colors.txt"
+
+# Match: hex colors, rgb(), rgba(), and named colors (basic)
+grep -oE 'fill="[^"]+"|stroke="[^"]+"' "$INPUT" | \
+    sed -E 's/.*="([^"]+)"/\1/' | \
+    grep -Ei '^#?[0-9a-f]{3,6}$|^rgb\(.*\)$|^rgba\(.*\)$|^[a-z]+$' | \
+    sort -u > "$OUTPUT"
+
+echo "Colors extracted to $OUTPUT:"
+cat "$OUTPUT"

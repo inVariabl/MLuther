@@ -1,0 +1,212 @@
+#!/bin/bash
+
+# Pastel Color Converter
+# Converts hex colors to more pastel versions by adjusting HSL values
+
+# Function to convert hex to RGB
+hex_to_rgb() {
+    local hex=$1
+    # Remove # if present
+    hex=${hex#\#}
+    
+    # Convert hex to decimal RGB
+    r=$((16#${hex:0:2}))
+    g=$((16#${hex:2:2}))
+    b=$((16#${hex:4:2}))
+    
+    echo "$r $g $b"
+}
+
+# Function to convert RGB to HSL
+rgb_to_hsl() {
+    local r=$1 g=$2 b=$3
+    
+    # Normalize RGB values to 0-1 range
+    r=$(echo "scale=6; $r / 255" | bc -l)
+    g=$(echo "scale=6; $g / 255" | bc -l)
+    b=$(echo "scale=6; $b / 255" | bc -l)
+    
+    # Find max and min values
+    max=$(echo "$r $g $b" | tr ' ' '\n' | sort -n | tail -1)
+    min=$(echo "$r $g $b" | tr ' ' '\n' | sort -n | head -1)
+    
+    # Calculate lightness
+    l=$(echo "scale=6; ($max + $min) / 2" | bc -l)
+    
+    # Calculate saturation and hue
+    if [ "$(echo "$max == $min" | bc -l)" -eq 1 ]; then
+        h=0
+        s=0
+    else
+        delta=$(echo "scale=6; $max - $min" | bc -l)
+        
+        # Calculate saturation
+        if [ "$(echo "$l < 0.5" | bc -l)" -eq 1 ]; then
+            s=$(echo "scale=6; $delta / ($max + $min)" | bc -l)
+        else
+            s=$(echo "scale=6; $delta / (2 - $max - $min)" | bc -l)
+        fi
+        
+        # Calculate hue
+        if [ "$(echo "$max == $r" | bc -l)" -eq 1 ]; then
+            h=$(echo "scale=6; (($g - $b) / $delta) * 60" | bc -l)
+        elif [ "$(echo "$max == $g" | bc -l)" -eq 1 ]; then
+            h=$(echo "scale=6; ((($b - $r) / $delta) + 2) * 60" | bc -l)
+        else
+            h=$(echo "scale=6; ((($r - $g) / $delta) + 4) * 60" | bc -l)
+        fi
+        
+        # Normalize hue to 0-360 range
+        if [ "$(echo "$h < 0" | bc -l)" -eq 1 ]; then
+            h=$(echo "scale=6; $h + 360" | bc -l)
+        fi
+    fi
+    
+    echo "$h $s $l"
+}
+
+# Function to convert HSL to RGB
+hsl_to_rgb() {
+    local h=$1 s=$2 l=$3
+    
+    # Normalize hue to 0-1 range
+    h=$(echo "scale=6; $h / 360" | bc -l)
+    
+    if [ "$(echo "$s == 0" | bc -l)" -eq 1 ]; then
+        # Achromatic (grey)
+        r=$l
+        g=$l
+        b=$l
+    else
+        # Helper function for hue to RGB conversion
+        hue_to_rgb() {
+            local p=$1 q=$2 t=$3
+            
+            if [ "$(echo "$t < 0" | bc -l)" -eq 1 ]; then
+                t=$(echo "scale=6; $t + 1" | bc -l)
+            fi
+            if [ "$(echo "$t > 1" | bc -l)" -eq 1 ]; then
+                t=$(echo "scale=6; $t - 1" | bc -l)
+            fi
+            
+            if [ "$(echo "$t < 0.166667" | bc -l)" -eq 1 ]; then
+                echo "scale=6; $p + ($q - $p) * 6 * $t" | bc -l
+            elif [ "$(echo "$t < 0.5" | bc -l)" -eq 1 ]; then
+                echo "$q"
+            elif [ "$(echo "$t < 0.666667" | bc -l)" -eq 1 ]; then
+                echo "scale=6; $p + ($q - $p) * (0.666667 - $t) * 6" | bc -l
+            else
+                echo "$p"
+            fi
+        }
+        
+        if [ "$(echo "$l < 0.5" | bc -l)" -eq 1 ]; then
+            q=$(echo "scale=6; $l * (1 + $s)" | bc -l)
+        else
+            q=$(echo "scale=6; $l + $s - $l * $s" | bc -l)
+        fi
+        
+        p=$(echo "scale=6; 2 * $l - $q" | bc -l)
+        
+        r=$(hue_to_rgb "$p" "$q" "$(echo "scale=6; $h + 0.333333" | bc -l)")
+        g=$(hue_to_rgb "$p" "$q" "$h")
+        b=$(hue_to_rgb "$p" "$q" "$(echo "scale=6; $h - 0.333333" | bc -l)")
+    fi
+    
+    # Convert back to 0-255 range and round
+    r=$(printf "%.0f" "$(echo "scale=6; $r * 255" | bc -l)")
+    g=$(printf "%.0f" "$(echo "scale=6; $g * 255" | bc -l)")
+    b=$(printf "%.0f" "$(echo "scale=6; $b * 255" | bc -l)")
+    
+    echo "$r $g $b"
+}
+
+# Function to convert RGB to hex
+rgb_to_hex() {
+    local r=$1 g=$2 b=$3
+    printf "#%02x%02x%02x" "$r" "$g" "$b"
+}
+
+# Function to make a color more pastel
+make_pastel() {
+    local hex_color=$1
+    
+    # Skip "none" values
+    if [ "$hex_color" = "none" ]; then
+        echo "none"
+        return
+    fi
+    
+    # Convert hex to RGB
+    rgb=($(hex_to_rgb "$hex_color"))
+    r=${rgb[0]} g=${rgb[1]} b=${rgb[2]}
+    
+    # Convert RGB to HSL
+    hsl=($(rgb_to_hsl "$r" "$g" "$b"))
+    h=${hsl[0]} s=${hsl[1]} l=${hsl[2]}
+    
+    # Make it more pastel by:
+    # 1. Reducing saturation (multiply by 0.6)
+    # 2. Increasing lightness (blend with white)
+    new_s=$(echo "scale=6; $s * 0.6" | bc -l)
+    new_l=$(echo "scale=6; $l * 0.7 + 0.3" | bc -l)  # Blend 70% original + 30% white
+    
+    # Ensure lightness doesn't exceed 1
+    if [ "$(echo "$new_l > 1" | bc -l)" -eq 1 ]; then
+        new_l=1
+    fi
+    
+    # Convert back to RGB
+    new_rgb=($(hsl_to_rgb "$h" "$new_s" "$new_l"))
+    new_r=${new_rgb[0]} new_g=${new_rgb[1]} new_b=${new_rgb[2]}
+    
+    # Convert back to hex
+    rgb_to_hex "$new_r" "$new_g" "$new_b"
+}
+
+# Check if bc is installed
+if ! command -v bc &> /dev/null; then
+    echo "Error: bc (calculator) is required but not installed."
+    echo "Please install it with: sudo apt-get install bc (Ubuntu/Debian) or brew install bc (macOS)"
+    exit 1
+fi
+
+# Main script
+input_file="colors.txt"
+output_file="pastel_colors.txt"
+
+# Check if input file exists
+if [ ! -f "$input_file" ]; then
+    echo "Error: $input_file not found!"
+    echo "Please make sure colors.txt is in the current directory."
+    exit 1
+fi
+
+echo "Converting colors to pastel versions..."
+echo "Input file: $input_file"
+echo "Output file: $output_file"
+
+# Process each color
+while IFS= read -r color || [[ -n "$color" ]]; do
+    # Skip empty lines
+    if [ -z "$color" ]; then
+        echo "" >> "$output_file"
+        continue
+    fi
+    
+    pastel_color=$(make_pastel "$color")
+    echo "$pastel_color" >> "$output_file"
+    
+    # Show progress for non-"none" colors
+    if [ "$color" != "none" ]; then
+        echo "$color -> $pastel_color"
+    fi
+done < "$input_file"
+
+echo ""
+echo "Conversion complete! Pastel colors saved to $output_file"
+echo ""
+echo "Summary of changes:"
+echo "- Saturation reduced to 60% of original"
+echo "- Lightness increased (blended 70% original + 30% white)"
+echo "- Dark colors become softer, bright colors become more muted"

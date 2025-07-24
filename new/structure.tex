@@ -30,6 +30,9 @@
 \usepackage{titlesec}
 \usepackage{amssymb}              % For a wide equal sign on literally one page
 \usepackage{mathtools}
+\usepackage{graphicx}
+\usepackage{transparent}
+\usepackage{pdfpages}
 
 % Define custom colors (for cover)
 \definecolor{background}{HTML}{e7e2d9}
@@ -62,14 +65,10 @@
 % Barnes & Noble (standard 8.5" x 5.25")
 \setstocksize{8.00in}{5.25in}    % Correct US Trade Size
 \settrimmedsize{\stockheight}{\stockwidth}{*}
-% \setlrmarginsandblock{0.75}{0.75}{*}   % left-right margins
-% \setulmarginsandblock{1.00in}{1.00in}{*}  % top-bottom margins
-\setlrmarginsandblock{0.75in}{0.5in}{*} % Inner, Outer margins
-\setulmarginsandblock{0.75in}{0.75in}{*} % Top, Bottom margins
+\setlrmarginsandblock{0.75in}{0.625in}{*} % Inner, Outer margins
+\setulmarginsandblock{0.625in}{0.625in}{*} % Top, Bottom margins
 \setheadfoot{14pt}{14pt}
-\setheaderspaces{*}{10pt}{*}
-
-% Optional but recommended:
+\setheaderspaces{*}{0pt}{*}  % Smallest gap between header/footer and body
 \checkandfixthelayout
 \fixpdflayout
 

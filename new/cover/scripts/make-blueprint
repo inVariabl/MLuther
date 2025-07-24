@@ -1,0 +1,39 @@
+#!/bin/bash
+
+# Check if palettes/inverted.txt exists
+if [ ! -f "palettes/inverted.txt" ]; then
+    echo "Error: palettes/inverted.txt not found."
+    exit 1
+fi
+
+# Create or clear the palettes/blueprint.txt file
+> palettes/blueprint.txt
+
+# Read each line from palettes/inverted.txt
+while IFS= read -r hex_color; do
+    # Ignore empty lines or lines that do not start with #
+    if [[ ! "$hex_color" =~ ^# ]]; then
+        echo "$hex_color" >> palettes/blueprint.txt
+        continue
+    fi
+
+    # Remove the # prefix
+    hex_code=${hex_color:1}
+
+    # Extract the grayscale component (R=G=B in grayscale)
+    gray_hex=${hex_code:0:2}
+    gray_dec=$((16#$gray_hex))
+
+    # Map grayscale to blue with a cyan tint
+    # Blue component scales with grayscale (0-255), green adds fixed cyan, red is minimal
+    b_dec=$gray_dec
+    g_dec=$((gray_dec * 6 / 10))  # ~60% of grayscale for cyan tint
+    r_dec=$((gray_dec / 10))      # Minimal red to avoid purple
+
+    # Convert to hex
+    r_hex=$(printf "%02x" "$r_dec")
+    g_hex=$(printf "%02x" "$g_dec")
+    b_hex=$(printf "%02x" "$b_dec")
+
+    echo "#${r_hex}${g_hex}${b_hex}" >> palettes/blueprint.txt
+done < "palettes/inverted.txt"

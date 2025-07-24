@@ -1,0 +1,113 @@
+#!/bin/sh
+
+# Apply Pastel Colors to SVG
+# Takes original colors and pastel colors and applies them to an SVG file
+
+# Configuration
+ORIG_SVG="../table.svg"  # Change this to your SVG filename
+NEW_SVG="../output.svg"
+ORIG_COLORS="palettes/colors.txt"
+NEW_COLORS="palettes/new.txt"
+
+# Function to show usage
+usage() {
+    echo "Usage: $0 [options]"
+    echo "Options:"
+    echo "  -i FILE    Input SVG file (default: input.svg)"
+    echo "  -o FILE    Output SVG file (default: pastel_output.svg)"
+    echo "  -c FILE    Original colors file (default: colors.txt)"
+    echo "  -p FILE    Pastel colors file (default: pastel_colors.txt)"
+    echo "  -h         Show this help"
+    echo ""
+    echo "Example:"
+    echo "  $0 -i myimage.svg -o myimage_pastel.svg"
+}
+
+# Parse command line options
+while getopts "i:o:c:p:h" opt; do
+    case $opt in
+        i) ORIG_SVG="$OPTARG" ;;
+        o) NEW_SVG="$OPTARG" ;;
+        c) ORIG_COLORS="$OPTARG" ;;
+        p) NEW_COLORS="$OPTARG" ;;
+        h) usage; exit 0 ;;
+        *) usage; exit 1 ;;
+    esac
+done
+
+# Check if required files exist
+missing_files=()
+[ ! -f "$ORIG_SVG" ] && missing_files+=("$ORIG_SVG")
+[ ! -f "$ORIG_COLORS" ] && missing_files+=("$ORIG_COLORS")
+[ ! -f "$NEW_COLORS" ] && missing_files+=("$NEW_COLORS")
+
+if [ ${#missing_files[@]} -gt 0 ]; then
+    echo "Error: Missing required files:"
+    printf "  %s\n" "${missing_files[@]}"
+    echo ""
+    echo "Make sure you have:"
+    echo "1. Your original SVG file"
+    echo "2. colors.txt (from extract-svg-colors.sh)"
+    echo "3. pastel_colors.txt (from make_pastel.sh)"
+    exit 1
+fi
+
+# Check if files have the same number of lines
+orig_count=$(wc -l < "$ORIG_COLORS")
+new_count=$(wc -l < "$NEW_COLORS")
+
+if [ "$orig_count" -ne "$new_count" ]; then
+    echo "Error: Color files have different number of lines"
+    echo "$ORIG_COLORS has $orig_count lines"
+    echo "$NEW_COLORS has $new_count lines"
+    exit 1
+fi
+
+echo "Applying pastel colors to SVG..."
+echo "Input SVG: $ORIG_SVG"
+echo "Output SVG: $NEW_SVG"
+echo "Processing $orig_count color replacements..."
+
+# Create a working copy
+cp "$ORIG_SVG" "$NEW_SVG"
+
+# Create temporary file for sed script
+temp_sed_script=$(mktemp)
+
+# Build sed script for all replacements
+line_num=0
+while IFS= read -u3 -r orig_color && IFS= read -u4 -r new_color; do
+    line_num=$((line_num + 1))
+
+    # Skip empty lines and "none" values
+    if [ -z "$orig_color" ] || [ "$orig_color" = "none" ]; then
+        continue
+    fi
+
+    # Escape special characters for sed
+    orig_escaped=$(echo "$orig_color" | sed 's/[[\.*^$()+?{|]/\\&/g')
+    new_escaped=$(echo "$new_color" | sed 's/[[\.*^$()+?{|]/\\&/g')
+
+    # Add case-insensitive replacement to sed script
+    echo "s/${orig_escaped}/${new_escaped}/gI" >> "$temp_sed_script"
+
+    echo "  $orig_color -> $new_color"
+done 3< "$ORIG_COLORS" 4< "$NEW_COLORS"
+
+# Apply all replacements at once
+sed -f "$temp_sed_script" "$ORIG_SVG" > "$NEW_SVG"
+
+# Clean up
+rm "$temp_sed_script"
+
+echo ""
+echo "✅ Pastel SVG created successfully!"
+echo "Original: $ORIG_SVG"
+echo "Pastel version: $NEW_SVG"
+echo ""
+echo "You can now open $NEW_SVG to see your pastel-colored image."
+
+# Optional: Show file sizes for comparison
+orig_size=$(du -h "$ORIG_SVG" | cut -f1)
+new_size=$(du -h "$NEW_SVG" | cut -f1)
+echo "File sizes: Original ($orig_size) -> Pastel ($new_size)"

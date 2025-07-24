@@ -31,7 +31,7 @@ Boilerplate for the ebook is from [Luis Cobo's template](https://www.latextempla
 - [x] modernize spelling (to-day, co-operation, afore-mentioned, pseudo-mystical, blood-hound, etc.)
 - [x] fix spacing
 - [x] fix accidental returns, new paragraphs
-- [x] increase margins to 1 inch? 0.75 inch?
+- [x] increase margins to 1 inch? 0.75 inch? (no)
 - [x] " 2 " -> " a " (manual edit)
 - [x] Grisar, _Grisar_ -> Grisar, _Luther_
 - [x] double newline -> single newline

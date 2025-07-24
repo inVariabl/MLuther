@@ -1,0 +1,35 @@
+#!/bin/bash
+
+# Check if grayscale.txt exists
+if [ ! -f "palettes/grayscale.txt" ]; then
+    echo "Error: palettes/grayscale.txt not found."
+    exit 1
+fi
+
+# Read each line from grayscale.txt
+while IFS= read -r hex_color; do
+    # Ignore empty lines or lines that do not start with #
+    if [[ ! "$hex_color" =~ ^# ]]; then
+        continue
+    fi
+
+    # Remove the # prefix
+    hex_code=${hex_color:1}
+
+    # Invert each color component (R, G, B)
+    # Grayscale colors have R=G=B, so we only need to calculate one component
+    # and repeat it three times.
+    r_hex=${hex_code:0:2}
+
+    # Convert hex to decimal
+    r_dec=$((16#$r_hex))
+
+    # Invert the decimal value
+    inv_r_dec=$((255 - r_dec))
+
+    # Convert back to hex
+    inv_r_hex=$(printf "%02x" "$inv_r_dec")
+
+    # Print the inverted hex code
+    echo "#$inv_r_hex$inv_r_hex$inv_r_hex"
+done < "palettes/grayscale.txt" > palettes/inverted.txt
