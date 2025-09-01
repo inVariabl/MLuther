@@ -62,8 +62,18 @@
 %\setheadfoot{14pt}{12pt} % Header/footer height
 %\setheaderspaces{*}{8pt}{*} % Extra header space
 
-% Barnes & Noble (standard 8.5" x 5.25")
-\setstocksize{8.00in}{5.25in}    % Correct US Trade Size
+% % Barnes & Noble Paperback (standard 8.5" x 5.25")
+% \setstocksize{8.00in}{5.25in}    % Correct US Trade Size
+% \settrimmedsize{\stockheight}{\stockwidth}{*}
+% \setlrmarginsandblock{0.75in}{0.625in}{*} % Inner, Outer margins
+% \setulmarginsandblock{0.625in}{0.625in}{*} % Top, Bottom margins
+% \setheadfoot{14pt}{14pt}
+% \setheaderspaces{*}{0pt}{*}  % Smallest gap between header/footer and body
+% \checkandfixthelayout
+% \fixpdflayout
+
+% Barnes & Noble Hardcover (9" x 6") (Hardcover)
+\setstocksize{9.00in}{6.00in}    % Correct US Trade Size
 \settrimmedsize{\stockheight}{\stockwidth}{*}
 \setlrmarginsandblock{0.75in}{0.625in}{*} % Inner, Outer margins
 \setulmarginsandblock{0.625in}{0.625in}{*} % Top, Bottom margins
